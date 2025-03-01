@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_steamshot": {
+    "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
+    "author": "inori-3333",
+    "repo": "https://github.com/inori-3333/astrbot_plugin_steamshot",
+    "social_link":"https://steamcommunity.com/id/inori_333/",
+    "tag": ["功能", "游戏", "数据查询", "图片"]
+  },
   "astrbot_plugin_github_cards": {
     "desc": "根据聊天中 GitHub 相关链接自动发送 GitHub 仓库简介/issue/pr卡片",
     "author": "Soulter",
@@ -498,12 +505,5 @@
     "desc": "为本地模型提供的视频/图片理解补充，使用Qwen2.5_3B_VL模型",
     "author": "xiewoc",
     "repo": "https://github.com/xiewoc/astrbot_plugin_image_video_understanding_Qwen2_5_VL"
-  },
-  "astrbot_plugin_steamshot": {
-    "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
-    "author": "inori-3333",
-    "repo": "https://github.com/inori-3333/astrbot_plugin_steamshot",
-    "social_link":"https://steamcommunity.com/id/inori_333/",
-    "tag": ["功能", "游戏", "数据查询", "图片"]
   }
 }
