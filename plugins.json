@@ -500,7 +500,7 @@
     "repo": "https://github.com/xiewoc/astrbot_plugin_image_video_understanding_Qwen2_5_VL"
   },
   "astrbot_plugin_steamshot": {
-    "desc": "自动检测对话中出现的steam商店页链接，并返回对应页面的网页截图和摘要信息。",
+    "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
     "author": "inori-3333",
     "repo": "https://github.com/inori-3333/astrbot_plugin_steamshot",
     "social_link":"https://steamcommunity.com/id/inori_333/",
