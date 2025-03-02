@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_steamshot": {
+    "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
+    "author": "inori-3333",
+    "repo": "https://github.com/inori-3333/astrbot_plugin_steamshot",
+    "social_link":"https://steamcommunity.com/id/inori_333/",
+    "tag": ["功能", "游戏", "数据查询", "图片"]
+  },
   "astrbot_plugin_GGAC_Messenger": {
     "desc": "anka - GGAC 作品更新推送插件 - 自动监控并推送 GGAC 平台精选作品的更新! 附赠一套 GGAC 网站完整 api! 还有随机抽取 GGAC 内容功能, 详情见github页面!",
     "author": "anka",
