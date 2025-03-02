@@ -1,4 +1,8 @@
-{
+{  "astrbot_plugin_comp_entertainment": {
+    "desc": "达莉娅综合群娱插件，包含50+实用/娱乐/游戏功能，[/菜单]查看菜单内容",
+    "author": "达莉娅",
+    "repo": "https://github.com/zhenli12138/astrbot_plugin_comp_entertainment"
+  },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
     "author": "inori-3333",
@@ -50,11 +54,6 @@
     "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
     "author": "anka",
     "repo": "https://github.com/anka-afk/astrbot_plugin_blue_archive"
-  },
-  "astrbot_plugin_comp_entertainment": {
-    "desc": "达莉娅综合群娱插件，包含50+实用/娱乐/游戏功能，[/菜单]查看菜单内容",
-    "author": "达莉娅",
-    "repo": "https://github.com/zhenli12138/astrbot_plugin_moreapi"
   },
   "astrbot_plugin_meme_manager": {
     "desc": "Astrbot表情包管理器3.0版本已发布! 提供便捷的 WebUI 管理界面(/表情管理 开启管理后台) , 所有 prompt 会根据修改的表情包文件夹目录自动维护，无需手动添加！可以控制每次发送的表情数量和频率(进入设置配置一次发送最大数量与发送概率) 更多信息与功能预览请前往仓库页面, 使用/plugin meme_manager查看所有指令",
