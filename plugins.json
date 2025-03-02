@@ -6,6 +6,12 @@
     "social_link":"https://steamcommunity.com/id/inori_333/",
     "tag": ["功能", "游戏", "数据查询", "图片"]
   },
+  "astrbot_plugin_GGAC_Messenger": {
+    "desc": "anka - GGAC 作品更新推送插件 - 自动监控并推送 GGAC 平台精选作品的更新! 附赠一套 GGAC 网站完整 api! 还有随机抽取 GGAC 内容功能, 详情见github页面!",
+    "author": "anka",
+    "repo": "https://github.com/anka-afk/astrbot_plugin_ggac",
+    "tag": ["功能"]
+  },
   "astrbot_plugin_github_cards": {
     "desc": "根据聊天中 GitHub 相关链接自动发送 GitHub 仓库简介/issue/pr卡片",
     "author": "Soulter",
@@ -22,7 +28,7 @@
     "desc": "每天定时推送摸鱼人日历",
     "author": "quirrel-zh",
     "repo": "https://github.com/Quirrel-zh/astrbot_plugin_moyuren",
-    "tag": ["功能","定时任务"]
+    "tag": ["功能", "定时任务"]
   },
   "astrbot_sowing_discord": {
     "desc": "[仅限 aiocqhttp 适配器] anka - 自动搬史插件, 1.加入喜欢发史的群聊 2.设置搬史来源 3.设置搬史目标 4.开始全自动搬史!",
