@@ -500,5 +500,10 @@
     "desc": "为本地模型提供的视频/图片理解补充，使用Qwen2.5_3B_VL模型",
     "author": "xiewoc",
     "repo": "https://github.com/xiewoc/astrbot_plugin_image_video_understanding_Qwen2_5_VL"
+  },
+  "astrbot_plugin_txsc": {
+    "desc": "基于阿里云百炼通义万相-文生图的插件",
+    "author": "zhuiye",
+    "repo": "https://github.com/zhuiye8/astrbot_plugin_txsc"
   }
 }
