@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_guaguale": {
+    "desc": "刮刮乐小游戏插件，使用[/刮刮乐帮助]查看指令",
+    "author": "waterfeet",
+    "repo": "https://github.com/waterfeet/astrbot_plugin_guaguale"
+  },
   "TRPGdice": {
     "desc": "为跑团玩家设计的仿Dice!骰子插件",
     "author": "shiroling",
