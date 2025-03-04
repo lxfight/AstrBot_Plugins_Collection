@@ -4,21 +4,5 @@ AstrBot Plugin 插件集合站，用于在 AstrBot 仪表盘-插件页中作为�
 
 ## 提交插件
 
-1. Fork 本仓库
-2. 修改 `plugins.json` 文件，添加你的插件信息
-   1. key 为你的插件名
-   2. value 为插件信息，必须包括 `repo`, `desc`, `author` 等字段。
-   3. 例子：
-      ```json
-      "astrbot_plugin_essential": {
-        "desc": "随机动漫图片、以图搜番、Minecraft服务器、一言、今天吃什么、群早晚安记录、EPIC喜加一。帮助：https://github.com/Soulter/astrbot_plugin_essential",
-        "author": "Soulter",
-        "repo": "https://github.com/Soulter/astrbot_plugin_essential"
-      }
-      ```
-
-   可选属性：
-   - `social_link`: 将会在作者名上作为可点击的链接
-   - `tags`: 列表。插件的标签。如`tags: ["bilibili"]`
-
-   
+> [!NOTE]
+> 请点击链接前往 AstrBot 主仓库提交插件：[🥳 发布插件](https://github.com/Soulter/AstrBot/issues/new?template=PLUGIN_PUBLISH.yml)
