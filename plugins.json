@@ -18,7 +18,7 @@
     "desc": "使大模型更好的主动回复群聊中的消息，带来生动和沉浸的群聊对话体验",
     "author": "23q3",
     "social_link": "https://space.bilibili.com/396943350",
-    "tag": [
+    "tags": [
       "伪人",
       "主动回复"
     ],
@@ -34,7 +34,7 @@
     "author": "inori-3333",
     "repo": "https://github.com/inori-3333/astrbot_plugin_steamshot",
     "social_link": "https://steamcommunity.com/id/inori_333/",
-    "tag": [
+    "tags": [
       "功能",
       "游戏",
       "数据查询",
@@ -45,7 +45,7 @@
     "desc": "anka - GGAC 作品更新推送插件 - 自动监控并推送 GGAC 平台精选作品的更新! 附赠一套 GGAC 网站完整 api! 还有随机抽取 GGAC 内容功能, 详情见github页面!",
     "author": "anka",
     "repo": "https://github.com/anka-afk/astrbot_plugin_ggac",
-    "tag": [
+    "tags": [
       "功能"
     ]
   },
@@ -53,7 +53,7 @@
     "desc": "根据聊天中 GitHub 相关链接自动发送 GitHub 仓库简介/issue/pr卡片",
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_github_cards",
-    "tag": [
+    "tags": [
       "功能"
     ]
   },
@@ -61,7 +61,7 @@
     "desc": "这是基于 HLTV 网站数据的 CS 赛事查询插件",
     "author": "Jason",
     "repo": "https://github.com/advent259141/astrbot_plugin_hltv",
-    "tag": [
+    "tags": [
       "功能",
       "游戏",
       "数据查询"
@@ -71,7 +71,7 @@
     "desc": "每天定时推送摸鱼人日历",
     "author": "quirrel-zh",
     "repo": "https://github.com/Quirrel-zh/astrbot_plugin_moyuren",
-    "tag": [
+    "tags": [
       "功能",
       "定时任务"
     ]
