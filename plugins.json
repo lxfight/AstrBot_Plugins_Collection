@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_random_vtb": {
+    "desc": "随机推送正在直播的管人直播间",
+    "author": "Sasaki",
+    "repo": "https://github.com/Wave233Lee/astrbot_plugin_random_vtb",
+    "tag": ["娱乐"],
+    "social_link": "https://space.bilibili.com/11874232"
+  },
   "astrbot_plugin_guaguale": {
     "desc": "刮刮乐小游戏插件，使用[/刮刮乐帮助]查看指令",
     "author": "waterfeet",
