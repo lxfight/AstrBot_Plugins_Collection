@@ -23,6 +23,11 @@
     "tag": ["娱乐"],
     "social_link": "https://space.bilibili.com/11874232"
   },
+  "astrbot_plugin_server_status": {
+    "desc": "实时监控服务器资源使用情况，支持多平台运行，提供清晰的系统状态报告。",
+    "author": "腾讯元宝 & Meguminlove",
+    "repo": "https://github.com/Meguminlove/astrbot_plugin_server_status"
+  },
   "astrbot_plugin_guaguale": {
     "desc": "刮刮乐小游戏插件，使用[/刮刮乐帮助]查看指令",
     "author": "waterfeet",
