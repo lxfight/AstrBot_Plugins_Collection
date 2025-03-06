@@ -386,7 +386,7 @@
     "repo": "https://github.com/FateTrial/astrbot_plugin_lolicon_image-master"
   },
   "astrbot_plugin_niuniu": {
-    "desc": "牛牛插件，一个污污的小游戏插件，安装后自动启用，发送牛牛菜单获取帮助",
+    "desc": "牛牛插件，一个污污的小游戏插件，默认关闭，发送牛牛菜单获取帮助",
     "author": "长安某",
     "repo": "https://github.com/zgojin/astrbot_plugin_niuniu"
   },
@@ -599,5 +599,10 @@
     "author": "Kimi & Meguminlove",
     "desc": "简单文字签到插件",
     "repo": "https://github.com/Meguminlove/astrbot_checkin_plugin"
+  },
+  "astrbot_plugin_sign": {
+    "author": "长安某",
+    "desc": "二次元图片签到以及好友买卖，对接牛牛商城，仅支持qq且仅支持非官方bot(其他平台请自行测试）",
+    "repo": "https://github.com/zgojin/astrbot_plugin_sign"
   }
 }
