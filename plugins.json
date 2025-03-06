@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_mp_sub": {
+    "desc": "配合 MoviePilot 订阅影片",
+    "author": "NEST",
+    "repo": "https://github.com/4Nest/astrbot_plugin_mp_sub"
+  },
   "astrbot_plugin_wordle": {
     "desc": "AstrBot Wordle 猜单词游戏，支持指定位数",
     "author": "Raven95676",
