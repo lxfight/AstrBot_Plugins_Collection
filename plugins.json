@@ -5,6 +5,12 @@
     "repo": "https://github.com/Raven95676/astrbot_plugin_wordle",
     "tags": ["娱乐", "游戏"]
   },
+  "astrbot_plugin_nofap": {
+    "desc": "一个用于戒 🦌 记录打卡和查看群内戒 🦌 榜的插件",
+    "author": "aoz",
+    "tags": ["功能"],
+    "repo": "https://github.com/Aozaky/astrbot_plugin_nofap"
+  },
   "astrbot_plugin_niuniuplus": {
     "desc": "原牛牛插件的升级版，卸载原插件并安装即可，数据通用",
     "author": "Jason.Joestar",
