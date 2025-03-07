@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_CS_5E": {
+    "desc": "基于5E赛事数据中心的CS赛事数据查询插件，菜单为 /5e_help。",
+    "author": "Jason.Joestar",
+    "repo": "https://github.com/advent259141/astrbot_plugin_CS_5E"
+  },
   "astrbot_plugin_mp_sub": {
     "desc": "配合 MoviePilot 订阅影片",
     "author": "NEST",
