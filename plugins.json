@@ -89,6 +89,7 @@
     ]
   },
   "astrbot_plugin_github_cards": {
+    "logo": "https://blog.soulter.top/assets/avatar.webp",
     "desc": "根据聊天中 GitHub 相关链接自动发送 GitHub 仓库简介/issue/pr卡片",
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_github_cards",
