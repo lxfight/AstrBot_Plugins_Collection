@@ -164,7 +164,8 @@
   "astrbot_plugin_wake_enhance": {
     "desc": "【唤醒增强】让 AstrBot 支持通过正则匹配唤醒机器人、唤醒后持续与机器人对话交互。",
     "author": "Soulter",
-    "repo": "https://github.com/Soulter/astrbot_plugin_wake_enhance"
+    "repo": "https://github.com/Soulter/astrbot_plugin_wake_enhance",
+    "pinned": true
   },
   "astrbot_plugin_safebooru": {
     "desc": "/safebooru + tag = 好看的图，",
