@@ -542,10 +542,10 @@
     "author": "Raven95676",
     "repo": "https://github.com/Raven95676/astrbot_plugin_aliyun_censor"
   },
-  "astrbot_plugin_opds": {
-    "desc": "基于 OPDS 协议实现电子书搜索下载的插件",
+  "astrbot_plugin_ebooks": {
+    "desc": "一个功能强大的电子书插件，支持多平台电子书搜索和下载。",
     "author": "buding",
-    "repo": "https://github.com/zouyonghe/astrbot_plugin_opds"
+    "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks"
   },
   "astrbot_plugin_AIQTalk": {
     "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
