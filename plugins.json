@@ -20,6 +20,11 @@
     "repo": "https://github.com/Raven95676/astrbot_plugin_wordle",
     "tags": ["娱乐", "游戏"]
   },
+  "astr_plugin_bilibili_plus": {
+    "repo": "https://github.com/rikkasaiko/astr_plugin_bilibili_plus",
+    "author": "rikka",
+    "desc": "解析 QQ 上发送的 Bilibili 视频分享小程序卡片以获取视频等信息。"
+  },
   "astrbot_plugin_nofap": {
     "desc": "一个用于戒 🦌 记录打卡和查看群内戒 🦌 榜的插件",
     "author": "aoz",
