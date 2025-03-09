@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_image_understanding_Janus-Pro": {
+    "desc": "为本地模型提供的图片理解补充，使用deepseek-ai/Janus-Pro系列模型",
+    "author": "xiewoc",
+    "repo": "https://github.com/xiewoc/astrbot_plugin_image_understanding_Janus-Pro"
+  },
   "astrbot_plugin_CS_5E": {
     "desc": "基于5E赛事数据中心的CS赛事数据查询插件，菜单为 /5e_help。",
     "author": "Jason.Joestar",
