@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_wechat_manager": {
+    "desc": "[仅 gewechat] 微信关键字好友自动审核、关键字邀请进群",
+    "author": "diudiu62",
+    "repo": "https://github.com/diudiu62/astrbot_plugin_wechat_manager"
+  },
   "astrbot_plugin_moyurenpro": {
     "desc": "摸鱼人日历，支持自定义时间时区，自定义api，支持立即发送，工作日定时发送。",
     "author": "quirrel-zh/DuBwTf",
