@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_moyurenpro": {
+    "desc": "摸鱼人日历，支持自定义时间时区，自定义api，支持立即发送，工作日定时发送。",
+    "author": "quirrel-zh/DuBwTf",
+    "repo": "https://github.com/DuBwTf/astrbot_plugin_moyurenpro",
+    "tags": ["功能", "定时任务"]
+  },
   "astrbot_plugin_image_understanding_Janus-Pro": {
     "desc": "为本地模型提供的图片理解补充，使用deepseek-ai/Janus-Pro系列模型",
     "author": "xiewoc",
