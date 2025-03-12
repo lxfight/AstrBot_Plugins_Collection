@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_horse_race": {
+    "desc": "[仅限非官Q] 赛马比赛。快来和群友一起来一场紧张刺激的赛马比赛，用道具搞对手心态，大赚特赚吧",
+    "author": "达莉娅",
+    "tags": ["娱乐", "游戏"]
+  },
   "astrbot_plugin_wechat_manager": {
     "desc": "[仅 gewechat] 微信关键字好友自动审核、关键字邀请进群",
     "author": "diudiu62",
