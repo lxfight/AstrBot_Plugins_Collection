@@ -1,9 +1,4 @@
 {
-  "astrBot_PGR_Dialogue": {
-    "desc": "检测到部分战双角色的名称(或别称)时，有概率发送一条语音文本",
-    "author": "KurisuRee7",
-    "repo": "https://github.com/KurisuRee7/astrBot_PGR_Dialogue"
-  },
   "astrbot_plugin_qwq_filter": {
     "desc": "QwQ 模型思考内容过滤工具",
     "author": "beat4ocean",
@@ -22,6 +17,17 @@
     "tags": ["消息总结", "LLM"],
     "social_link": "https://space.bilibili.com/447591776",
     "repo": "https://github.com/laopanmemz/astrbot_plugin_chatsummary"
+  },
+  "astrbot_plugin_bv": {
+    "desc": "解析群内 https://www.bilibili.com/video/BV号/ 的链接并获取视频数据与视频文件，以合并转发方式发送",
+    "author": "haliludaxuanfeng",
+    "repo": "https://github.com/haliludaxuanfeng/astrbot_plugin_bv",
+    "tags": ["bilibili"]
+  },
+  "astrBot_PGR_Dialogue": {
+    "desc": "检测到部分战双角色的名称(或别称)时，有概率发送一条语音文本",
+    "author": "KurisuRee7",
+    "repo": "https://github.com/KurisuRee7/astrBot_PGR_Dialogue"
   },
   "astrbot_plugin_wechat_manager": {
     "desc": "[仅 gewechat] 微信关键字好友自动审核、关键字邀请进群",
