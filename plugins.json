@@ -1,4 +1,9 @@
 {
+  "astrBot_PGR_Dialogue": {
+    "desc": "检测到部分战双角色的名称(或别称)时，有概率发送一条语音文本",
+    "author": "KurisuRee7",
+    "repo": "https://github.com/KurisuRee7/astrBot_PGR_Dialogue"
+  },
   "astrbot_plugin_qwq_filter": {
     "desc": "QwQ 模型思考内容过滤工具",
     "author": "beat4ocean",
