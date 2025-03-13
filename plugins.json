@@ -641,9 +641,9 @@
     "desc": "简单文字签到插件",
     "repo": "https://github.com/Meguminlove/astrbot_checkin_plugin"
   },
-  "astrbot_plugin_sign": {
+  "astrbot_plugin_Qsign": {
     "author": "长安某",
     "desc": "二次元图片签到以及好友买卖，对接牛牛商城，仅支持qq且仅支持非官方bot(其他平台请自行测试）",
-    "repo": "https://github.com/zgojin/astrbot_plugin_sign"
+    "repo": "https://github.com/zgojin/astrbot_plugin_Qsign"
   }
 }
