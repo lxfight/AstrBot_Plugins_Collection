@@ -11,6 +11,13 @@
     "tags": ["娱乐", "游戏"],
     "repo": "https://github.com/zhenli12138/astrbot_plugin_horse_race"
   },
+  "astrbot_plugin_chatsummary": {
+    "desc": "[仅 aiocqhttp] 一个通过拉取历史聊天记录，调用 LLM 大模型接口实现消息总结功能。",
+    "author": "laopanmemz",
+    "tags": ["消息总结", "LLM"],
+    "social_link": "https://space.bilibili.com/447591776",
+    "repo": "https://github.com/laopanmemz/astrbot_plugin_chatsummary"
+  },
   "astrbot_plugin_wechat_manager": {
     "desc": "[仅 gewechat] 微信关键字好友自动审核、关键字邀请进群",
     "author": "diudiu62",
