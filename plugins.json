@@ -1,4 +1,15 @@
 {
+  "astrbot_plugin_gemini_exp"： {
+    "desc": "让你在 AstrBot 调用 Gemini2.0-flash-exp 来生成图片或者 P 图。Gemini2.0-flash-exp为原生多模态模型，其既是语言模型，也是生图模型，因此能够对图像使用简单的自然语言命令进行处理。",
+    "author": "Elen123bot",
+    "repo": "https://github.com/Elen123bot/astrbot_plugin_gemini_exp",
+    "social_link": "https://x.com/Alens454635"
+  },
+  "astrbot_plugin_nopoke": {
+    "desc": "[仅 aiocqhttp]不同次数戳一戳的小彩蛋",
+    "author": "Aligajane",
+    "repo": "https://github.com/Aligajane/astrbot_plugin_nopoke"
+  },
   "astrbot_plugin_qwq_filter": {
     "desc": "QwQ 模型思考内容过滤工具",
     "author": "beat4ocean",
