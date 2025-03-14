@@ -200,8 +200,7 @@
       "meme",
       "webui",
       "图床"
-    ],
-    "pinned": true
+    ]
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -371,8 +370,7 @@
   "astrbot_plugin_SDGen": {
     "desc": "Stable Diffusion WebUI图片生成插件，/sd help 查看帮助",
     "author": "buding",
-    "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
-    "pinned": true
+    "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen"
   },
   "astrbot_plugin_sysinfo": {
     "desc": "获取当前系统状态",
@@ -557,7 +555,8 @@
   "astrbot_plugin_mnemosyne": {
     "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
     "author": "lxfight",
-    "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne"
+    "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
+    "pinned": true
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
