@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_daily_news": {
+    "desc": "[仅 aiocqhttp] anka - 每日60s新闻推送插件, 请先设置推送目标和时间, 详情见github页面!",
+    "author": "anka",
+    "repo": "https://github.com/anka-afk/astrbot_plugin_daily_news",
+    "tags": ["功能", "推送"]
+  },
   "astrbot_plugin_gemini_exp": {
     "desc": "让你在 AstrBot 调用 Gemini2.0-flash-exp 来生成图片或者 P 图。Gemini2.0-flash-exp为原生多模态模型，其既是语言模型，也是生图模型，因此能够对图像使用简单的自然语言命令进行处理。",
     "author": "Elen123bot",
@@ -119,10 +125,7 @@
     "desc": "使大模型更好的主动回复群聊中的消息，带来生动和沉浸的群聊对话体验",
     "author": "23q3",
     "social_link": "https://space.bilibili.com/396943350",
-    "tags": [
-      "伪人",
-      "主动回复"
-    ],
+    "tags": ["伪人", "主动回复"],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore"
   },
   "astrbot_plugin_comp_entertainment": {
@@ -135,57 +138,38 @@
     "author": "inori-3333",
     "repo": "https://github.com/inori-3333/astrbot_plugin_steamshot",
     "social_link": "https://steamcommunity.com/id/inori_333/",
-    "tags": [
-      "功能",
-      "游戏",
-      "数据查询",
-      "图片"
-    ]
+    "tags": ["功能", "游戏", "数据查询", "图片"]
   },
   "astrbot_plugin_GGAC_Messenger": {
     "desc": "anka - GGAC 作品更新推送插件 - 自动监控并推送 GGAC 平台精选作品的更新! 附赠一套 GGAC 网站完整 api! 还有随机抽取 GGAC 内容功能, 详情见github页面!",
     "author": "anka",
     "repo": "https://github.com/anka-afk/astrbot_plugin_ggac",
-    "tags": [
-      "功能"
-    ]
+    "tags": ["功能", "推送"]
   },
   "astrbot_plugin_github_cards": {
     "logo": "https://blog.soulter.top/assets/avatar.webp",
     "desc": "根据聊天中 GitHub 相关链接自动发送 GitHub 仓库简介/issue/pr卡片",
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_github_cards",
-    "tags": [
-      "功能"
-    ]
+    "tags": ["功能"]
   },
   "astrbot_plugin_hltv": {
     "desc": "这是基于 HLTV 网站数据的 CS 赛事查询插件",
     "author": "Jason",
     "repo": "https://github.com/advent259141/astrbot_plugin_hltv",
-    "tags": [
-      "功能",
-      "游戏",
-      "数据查询"
-    ]
+    "tags": ["功能", "游戏", "数据查询"]
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
     "author": "quirrel-zh",
     "repo": "https://github.com/Quirrel-zh/astrbot_plugin_moyuren",
-    "tags": [
-      "功能",
-      "定时任务"
-    ]
+    "tags": ["功能", "定时任务"]
   },
   "astrbot_sowing_discord": {
     "desc": "[仅限 aiocqhttp 适配器] anka - 自动搬史插件, 1.加入喜欢发史的群聊 2.设置搬史来源 3.设置搬史目标 4.开始全自动搬史!",
     "author": "anka",
     "repo": "https://github.com/anka-afk/astrbot_sowing_discord",
-    "tags": [
-      "功能",
-      "搬史"
-    ]
+    "tags": ["功能", "搬史"]
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -206,12 +190,7 @@
     "desc": "Astrbot表情包管理器3.0版本已发布! 提供便捷的 WebUI 管理界面(/表情管理 开启管理后台) , 所有 prompt 会根据修改的表情包文件夹目录自动维护，无需手动添加！可以控制每次发送的表情数量和频率(进入设置配置一次发送最大数量与发送概率) 更多信息与功能预览请前往仓库页面, 使用/plugin meme_manager查看所有指令",
     "author": "anka",
     "repo": "https://github.com/anka-afk/astrbot_plugin_meme_manager",
-    "tags": [
-      "功能",
-      "meme",
-      "webui",
-      "图床"
-    ]
+    "tags": ["功能", "meme", "webui", "图床"]
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
