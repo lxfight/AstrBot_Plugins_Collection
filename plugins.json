@@ -16,12 +16,6 @@
     "tags": ["qwq", "思考过滤"],
     "repo": "https://github.com/beat4ocean/astrbot_plugin_qwq_filter"
   },
-  "astrbot_plugin_horse_race": {
-    "desc": "[仅限非官Q] 赛马比赛。快来和群友一起来一场紧张刺激的赛马比赛，用道具搞对手心态，大赚特赚吧",
-    "author": "达莉娅",
-    "tags": ["娱乐", "游戏"],
-    "repo": "https://github.com/zhenli12138/astrbot_plugin_horse_race"
-  },
   "astrbot_plugin_chatsummary": {
     "desc": "[仅 aiocqhttp] 一个通过拉取历史聊天记录，调用 LLM 大模型接口实现消息总结功能。",
     "author": "laopanmemz",
@@ -124,11 +118,6 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore"
-  },
-  "astrbot_plugin_comp_entertainment": {
-    "desc": "达莉娅综合群娱插件，包含50+实用/娱乐/游戏功能，[/菜单]查看菜单内容",
-    "author": "达莉娅",
-    "repo": "https://github.com/zhenli12138/astrbot_plugin_comp_entertainment"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -242,11 +231,6 @@
     "desc": "硅基流动文生图-支持OpenAI标准的格式接入，支持Flux.1-dev模型",
     "author": "七七七七",
     "repo": "https://github.com/18005575/astrbot_plugin_flux"
-  },
-  "astrbot_plugin_moreVITS ": {
-    "desc": "硅基流动利用用户的参考音频进行文本转语音的功能，测试中音频文件（测试用的.mp3）可用，内置了一个测试用的三月七（填写api就可用）",
-    "author": "达莉娅",
-    "repo": "https://github.com/zhenli12138/astrbot_plugin_moreVITS"
   },
   "mccloud_meme_sender": {
     "desc": "这是一个表情包发送插件，可以识别AI回复中的表情符号并发送对应的表情包。记得看帮助需要配置人格 地址：https://github.com/MCYUNIDC/mccloud_meme_sender",
@@ -673,5 +657,16 @@
     "author": "长安某",
     "desc": "二次元图片签到以及好友买卖，对接牛牛商城，仅支持qq且仅支持非官方bot(其他平台请自行测试）",
     "repo": "https://github.com/zgojin/astrbot_plugin_Qsign"
-  }
+  },
+  "astrbot_plugin_moreVITS ": {
+    "desc": "硅基流动利用用户的参考音频进行文本转语音的功能，测试中音频文件（测试用的.mp3）可用，内置了一个测试用的三月七（填写api就可用）",
+    "author": "达莉娅",
+    "repo": "https://github.com/zhenli12138/astrbot_plugin_moreVITS"
+  },
+  "astrbot_plugin_horse_race": {
+    "desc": "[仅限非官Q] 赛马比赛。快来和群友一起来一场紧张刺激的赛马比赛，用道具搞对手心态，大赚特赚吧",
+    "author": "达莉娅",
+    "tags": ["娱乐", "游戏"],
+    "repo": "https://github.com/zhenli12138/astrbot_plugin_horse_race"
+  },
 }
