@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_sensoji": {
+    "desc": "这是一个模拟日本浅草寺抽签功能的插件。用户可以通过发送 /抽签 命令随机抽取一个签文，获取运势提示。签文包含吉凶结果（如“大吉”、“凶”等）以及对应的运势描述。",
+    "author": "Shouugou",
+    "repo": "https://github.com/Shouugou/astrbot_plugin_sensoji",
+    "tags": ["抽签", "运势", "浅草寺", "趣味"]
+  },
   "astrbot_plugin_daily_news": {
     "desc": "[仅 aiocqhttp] anka - 每日60s新闻推送插件, 请先设置推送目标和时间, 详情见github页面!",
     "author": "anka",
