@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_InitiativeDialogue": {
+    "desc": "使bot在用户长时间未发送消息时主动与用户对话的插件",
+    "author": "Jason",
+    "repo": "https://github.com/advent259141/astrbot_plugin_InitiativeDialogue",
+    "tags": ["主动对话"]
+  },
   "astrbot_plugin_sensoji": {
     "desc": "这是一个模拟日本浅草寺抽签功能的插件。用户可以通过发送 /抽签 命令随机抽取一个签文，获取运势提示。签文包含吉凶结果（如“大吉”、“凶”等）以及对应的运势描述。",
     "author": "Shouugou",
