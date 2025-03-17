@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_videos_analysis": {
+    "desc": "聚合视频分享链接解析（仅测试过napcat）",
+    "author": "喵喵",
+    "repo": "https://github.com/miaoxutao123/astrbot_plugin_videos_analysis",
+    "tags": ["抖音", "bilibili"],
+    "social_link": "https://github.com/miaoxutao123/"
+  },
+  "astrbot_plugin_sjzb": {
+    "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
+    "author": "灵煞",
+    "tags": ["游戏", "绝地潜兵2"],
+    "repo": "https://github.com/tenno1174/astrbot_plugin_sjzb"
+  },
   "astrbot_plugin_emoji": {
     "desc": "基于达莉娅综合群娱插件的表情包制作插件，仅保留了@其他群员制作表情包的部分。由桑帛云API提供表情包制作。",
     "author": "KurisuRee7",
