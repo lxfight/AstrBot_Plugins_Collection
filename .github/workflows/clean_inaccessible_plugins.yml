@@ -7,7 +7,7 @@ jobs:
   clean-unreachable-plugins:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout the repository
         uses: actions/checkout@v2
 
       - name: Set up jq and curl
@@ -19,33 +19,26 @@ jobs:
         run: |
           echo "Cleaning unreachable plugins from plugins.json..."
 
-          # 初始化临时文件
-          temp_file=$(mktemp)
-
           # 初始化无效插件列表
           invalid_plugins=()
 
-          # 创建临时文件，用于保存有效插件
-          echo "{}" > $temp_file
-
           # 遍历 plugins.json 的每个键
-          for plugin in $(jq -r 'keys[]' plugins.json); do
+          jq -r 'keys[]' plugins.json | while read -r plugin; do
             # 获取 repo 地址
             repo=$(jq -r ".[\"$plugin\"].repo" plugins.json)
 
-            # 检查 repo 地址可访问性
-            if curl --head --silent --fail "$repo" > /dev/null; then
+            # 检查 repo 地址的可访问性
+            if curl --head --silent --fail --max-time 5 "$repo" > /dev/null; then
               echo "Plugin $plugin repository is accessible."
-              # 如果 repo 可访问，将插件数据追加到临时文件
-              jq ".[\"$plugin\"] = .[\"$plugin\"]" $temp_file > temp.json && mv temp.json $temp_file
             else
               echo "Plugin $plugin repository is NOT accessible."
-              # 如果 repo 不可访问，将插件名添加到无效插件列表
-              invalid_plugins+=("$plugin")
+              invalid_plugins+=("$plugin") # 将无效插件名添加到列表
+              # 通过 jq 删除插件
+              jq "del(.\"$plugin\")" plugins.json > temp.json && mv temp.json plugins.json
             fi
           done
 
-          # 输出所有无效插件名
+          # 打印输出所有无效插件名
           if [ ${#invalid_plugins[@]} -ne 0 ]; then
             echo "Removed the following unreachable plugins:"
             for plugin in "${invalid_plugins[@]}"; do
@@ -55,16 +48,12 @@ jobs:
             echo "No unreachable plugins found."
           fi
 
-          # 用清理后的内容覆盖写回 plugins.json
-          mv $temp_file plugins.json
-
       - name: Output the cleaned plugins.json
         run: |
           echo "Cleaned plugins.json:"
           cat plugins.json
 
       - name: Commit and push changes
-        if: github.event_name == 'push'
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
