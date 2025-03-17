@@ -2,9 +2,6 @@ name: Clean Unreachable Plugins
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'plugins.json'
 
 jobs:
   clean-unreachable-plugins:
