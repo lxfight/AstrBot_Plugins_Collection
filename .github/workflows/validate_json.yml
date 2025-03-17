@@ -20,3 +20,16 @@ jobs:
         run: |
           sudo apt-get install jq
           jq . plugin.json
+
+      - name: Check repository URLs
+        run: |
+          # 提取 plugin.json 中的 repo 字段并检查可访问性
+          repos=$(jq -r '.. | objects | .repo? // empty' plugin.json)
+          for repo in $repos; do
+            if curl --output /dev/null --silent --head --fail "$repo"; then
+              echo "Repository $repo is accessible."
+            else
+              echo "Repository $repo is NOT accessible." && exit 1
+            fi
+          done
+
