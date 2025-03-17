@@ -17,10 +17,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Validate plugin.json format
+      - name: Validate plugins.json format
         run: |
           sudo apt-get install jq
-          jq . plugin.json
+          jq . plugins.json
 
       - name: Check repository URLs
         run: |
