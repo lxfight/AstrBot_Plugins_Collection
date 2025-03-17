@@ -3,19 +3,29 @@
     "desc": "使bot在用户长时间未发送消息时主动与用户对话的插件",
     "author": "Jason",
     "repo": "https://github.com/advent259141/astrbot_plugin_InitiativeDialogue",
-    "tags": ["主动对话"]
+    "tags": [
+      "主动对话"
+    ]
   },
   "astrbot_plugin_sensoji": {
     "desc": "这是一个模拟日本浅草寺抽签功能的插件。用户可以通过发送 /抽签 命令随机抽取一个签文，获取运势提示。签文包含吉凶结果（如“大吉”、“凶”等）以及对应的运势描述。",
     "author": "Shouugou",
     "repo": "https://github.com/Shouugou/astrbot_plugin_sensoji",
-    "tags": ["抽签", "运势", "浅草寺", "趣味"]
+    "tags": [
+      "抽签",
+      "运势",
+      "浅草寺",
+      "趣味"
+    ]
   },
   "astrbot_plugin_daily_news": {
     "desc": "[仅 aiocqhttp] anka - 每日60s新闻推送插件, 请先设置推送目标和时间, 详情见github页面!",
     "author": "anka",
     "repo": "https://github.com/anka-afk/astrbot_plugin_daily_news",
-    "tags": ["功能", "推送"]
+    "tags": [
+      "功能",
+      "推送"
+    ]
   },
   "astrbot_plugin_gemini_exp": {
     "desc": "让你在 AstrBot 调用 Gemini2.0-flash-exp 来生成图片或者 P 图。Gemini2.0-flash-exp为原生多模态模型，其既是语言模型，也是生图模型，因此能够对图像使用简单的自然语言命令进行处理。",
@@ -23,21 +33,22 @@
     "repo": "https://github.com/Elen123bot/astrbot_plugin_gemini_exp",
     "social_link": "https://x.com/Alens454635"
   },
-  "astrbot_plugin_nopoke": {
-    "desc": "[仅 aiocqhttp]不同次数戳一戳的小彩蛋",
-    "author": "Aligajane",
-    "repo": "https://github.com/Aligajane/astrbot_plugin_nopoke"
-  },
   "astrbot_plugin_qwq_filter": {
     "desc": "QwQ 模型思考内容过滤工具",
     "author": "beat4ocean",
-    "tags": ["qwq", "思考过滤"],
+    "tags": [
+      "qwq",
+      "思考过滤"
+    ],
     "repo": "https://github.com/beat4ocean/astrbot_plugin_qwq_filter"
   },
   "astrbot_plugin_chatsummary": {
     "desc": "[仅 aiocqhttp] 一个通过拉取历史聊天记录，调用 LLM 大模型接口实现消息总结功能。",
     "author": "laopanmemz",
-    "tags": ["消息总结", "LLM"],
+    "tags": [
+      "消息总结",
+      "LLM"
+    ],
     "social_link": "https://space.bilibili.com/447591776",
     "repo": "https://github.com/laopanmemz/astrbot_plugin_chatsummary"
   },
@@ -45,7 +56,9 @@
     "desc": "解析群内 https://www.bilibili.com/video/BV号/ 的链接并获取视频数据与视频文件，以合并转发方式发送",
     "author": "haliludaxuanfeng",
     "repo": "https://github.com/haliludaxuanfeng/astrbot_plugin_bv",
-    "tags": ["bilibili"]
+    "tags": [
+      "bilibili"
+    ]
   },
   "astrBot_PGR_Dialogue": {
     "desc": "检测到部分战双角色的名称(或别称)时，有概率发送一条语音文本",
@@ -61,7 +74,10 @@
     "desc": "摸鱼人日历，支持自定义时间时区，自定义api，支持立即发送，工作日定时发送。",
     "author": "quirrel-zh/DuBwTf",
     "repo": "https://github.com/DuBwTf/astrbot_plugin_moyurenpro",
-    "tags": ["功能", "定时任务"]
+    "tags": [
+      "功能",
+      "定时任务"
+    ]
   },
   "astrbot_plugin_image_understanding_Janus-Pro": {
     "desc": "为本地模型提供的图片理解补充，使用deepseek-ai/Janus-Pro系列模型",
@@ -82,7 +98,10 @@
     "desc": "AstrBot Wordle 猜单词游戏，支持指定位数",
     "author": "Raven95676",
     "repo": "https://github.com/Raven95676/astrbot_plugin_wordle",
-    "tags": ["娱乐", "游戏"]
+    "tags": [
+      "娱乐",
+      "游戏"
+    ]
   },
   "astr_plugin_bilibili_plus": {
     "repo": "https://github.com/rikkasaiko/astr_plugin_bilibili_plus",
@@ -92,7 +111,9 @@
   "astrbot_plugin_nofap": {
     "desc": "一个用于戒 🦌 记录打卡和查看群内戒 🦌 榜的插件",
     "author": "aoz",
-    "tags": ["功能"],
+    "tags": [
+      "功能"
+    ],
     "repo": "https://github.com/Aozaky/astrbot_plugin_nofap"
   },
   "astrbot_plugin_niuniuplus": {
@@ -104,7 +125,9 @@
     "desc": "随机推送正在直播的管人直播间",
     "author": "Sasaki",
     "repo": "https://github.com/Wave233Lee/astrbot_plugin_random_vtb",
-    "tag": ["娱乐"],
+    "tag": [
+      "娱乐"
+    ],
     "social_link": "https://space.bilibili.com/11874232"
   },
   "astrbot_plugin_server_status": {
@@ -131,7 +154,10 @@
     "desc": "使大模型更好的主动回复群聊中的消息，带来生动和沉浸的群聊对话体验",
     "author": "23q3",
     "social_link": "https://space.bilibili.com/396943350",
-    "tags": ["伪人", "主动回复"],
+    "tags": [
+      "伪人",
+      "主动回复"
+    ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore"
   },
   "astrbot_plugin_steamshot": {
@@ -139,38 +165,58 @@
     "author": "inori-3333",
     "repo": "https://github.com/inori-3333/astrbot_plugin_steamshot",
     "social_link": "https://steamcommunity.com/id/inori_333/",
-    "tags": ["功能", "游戏", "数据查询", "图片"]
+    "tags": [
+      "功能",
+      "游戏",
+      "数据查询",
+      "图片"
+    ]
   },
   "astrbot_plugin_GGAC_Messenger": {
     "desc": "anka - GGAC 作品更新推送插件 - 自动监控并推送 GGAC 平台精选作品的更新! 附赠一套 GGAC 网站完整 api! 还有随机抽取 GGAC 内容功能, 详情见github页面!",
     "author": "anka",
     "repo": "https://github.com/anka-afk/astrbot_plugin_ggac",
-    "tags": ["功能", "推送"]
+    "tags": [
+      "功能",
+      "推送"
+    ]
   },
   "astrbot_plugin_github_cards": {
     "logo": "https://blog.soulter.top/assets/avatar.webp",
     "desc": "根据聊天中 GitHub 相关链接自动发送 GitHub 仓库简介/issue/pr卡片",
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_github_cards",
-    "tags": ["功能"]
+    "tags": [
+      "功能"
+    ]
   },
   "astrbot_plugin_hltv": {
     "desc": "这是基于 HLTV 网站数据的 CS 赛事查询插件",
     "author": "Jason",
     "repo": "https://github.com/advent259141/astrbot_plugin_hltv",
-    "tags": ["功能", "游戏", "数据查询"]
+    "tags": [
+      "功能",
+      "游戏",
+      "数据查询"
+    ]
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
     "author": "quirrel-zh",
     "repo": "https://github.com/Quirrel-zh/astrbot_plugin_moyuren",
-    "tags": ["功能", "定时任务"]
+    "tags": [
+      "功能",
+      "定时任务"
+    ]
   },
   "astrbot_sowing_discord": {
     "desc": "[仅限 aiocqhttp 适配器] anka - 自动搬史插件, 1.加入喜欢发史的群聊 2.设置搬史来源 3.设置搬史目标 4.开始全自动搬史!",
     "author": "anka",
     "repo": "https://github.com/anka-afk/astrbot_sowing_discord",
-    "tags": ["功能", "搬史"]
+    "tags": [
+      "功能",
+      "搬史"
+    ]
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -191,7 +237,12 @@
     "desc": "Astrbot表情包管理器3.0版本已发布! 提供便捷的 WebUI 管理界面(/表情管理 开启管理后台) , 所有 prompt 会根据修改的表情包文件夹目录自动维护，无需手动添加！可以控制每次发送的表情数量和频率(进入设置配置一次发送最大数量与发送概率) 更多信息与功能预览请前往仓库页面, 使用/plugin meme_manager查看所有指令",
     "author": "anka",
     "repo": "https://github.com/anka-afk/astrbot_plugin_meme_manager",
-    "tags": ["功能", "meme", "webui", "图床"]
+    "tags": [
+      "功能",
+      "meme",
+      "webui",
+      "图床"
+    ]
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -648,16 +699,5 @@
     "author": "长安某",
     "desc": "二次元图片签到以及好友买卖，对接牛牛商城，仅支持qq且仅支持非官方bot(其他平台请自行测试）",
     "repo": "https://github.com/zgojin/astrbot_plugin_Qsign"
-  },
-  "astrbot_plugin_moreVITS ": {
-    "desc": "硅基流动利用用户的参考音频进行文本转语音的功能，测试中音频文件（测试用的.mp3）可用，内置了一个测试用的三月七（填写api就可用）",
-    "author": "达莉娅",
-    "repo": "https://github.com/zhenli12138/astrbot_plugin_moreVITS"
-  },
-  "astrbot_plugin_horse_race": {
-    "desc": "[仅限非官Q] 赛马比赛。快来和群友一起来一场紧张刺激的赛马比赛，用道具搞对手心态，大赚特赚吧",
-    "author": "达莉娅",
-    "tags": ["娱乐", "游戏"],
-    "repo": "https://github.com/zhenli12138/astrbot_plugin_horse_race"
-  },
+  }
 }

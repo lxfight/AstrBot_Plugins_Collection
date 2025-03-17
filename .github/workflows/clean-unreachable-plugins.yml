@@ -1,0 +1,69 @@
+name: Clean Unreachable Plugins
+
+on:
+  workflow_dispatch:
+
+jobs:
+  clean-unreachable-plugins:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Set up jq and curl
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl
+
+      - name: Clean unreachable plugins
+        run: |
+          echo "Cleaning unreachable plugins from plugins.json..."
+
+          # 初始化无效插件列表
+          invalid_plugins=()
+
+          # 遍历 plugins.json 的每个键
+          jq -r 'keys[]' plugins.json | while read -r plugin; do
+            # 获取 repo 地址
+            repo=$(jq -r ".[\"$plugin\"].repo" plugins.json)
+
+            # 检查 repo 地址的可访问性
+            if curl --head --silent --fail --max-time 5 "$repo" > /dev/null; then
+              echo "Plugin $plugin repository is accessible."
+            else
+              echo "Plugin $plugin repository is NOT accessible."
+              invalid_plugins+=("$plugin") # 将无效插件名添加到列表
+              # 通过 jq 删除插件
+              jq "del(.\"$plugin\")" plugins.json > temp.json && mv temp.json plugins.json
+            fi
+          done
+
+          # 打印输出所有无效插件名
+          if [ ${#invalid_plugins[@]} -ne 0 ]; then
+            echo "Removed the following unreachable plugins:"
+            for plugin in "${invalid_plugins[@]}"; do
+              echo "$plugin"
+            done
+          else
+            echo "No unreachable plugins found."
+          fi
+
+      - name: Output the cleaned plugins.json
+        run: |
+          echo "Cleaned plugins.json:"
+          cat plugins.json
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 检查是否有需要提交的更改
+          if [[ $(git status --porcelain) ]]; then
+            echo "Changes detected. Proceeding to commit and push."
+            git add plugins.json
+            git commit -m "Clean unreachable plugins from plugins.json"
+            git push origin HEAD
+          else
+            echo "No changes detected. Skipping commit and push."
+          fi

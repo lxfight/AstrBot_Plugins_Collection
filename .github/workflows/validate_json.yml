@@ -3,10 +3,11 @@ name: Validate plugin.json
 on:
   push:
     paths:
-      - 'plugin.json'
+      - 'plugins.json'
   pull_request:
     paths:
-      - 'plugin.json'
+      - 'plugins.json'
+  workflow_dispatch: # 支持手动触发
 
 jobs:
   validate-json:
@@ -16,7 +17,34 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Validate plugin.json format
+      - name: Validate plugins.json format
         run: |
           sudo apt-get install jq
-          jq . plugin.json
+          jq . plugins.json > /dev/null
+
+      - name: Check repository URLs
+        run: |
+          # 提取 plugins.json 中的 repo 字段并检查可访问性
+          repos=$(jq -r '.. | objects | .repo? // empty' plugins.json)
+          unreachable_urls=() # 初始化一个数组用于记录不可访问的 URL
+      
+          for repo in $repos; do
+            if curl --output /dev/null --silent --head --fail "$repo"; then
+              echo "Repository $repo is accessible."
+            else
+              echo "Repository $repo is NOT accessible."
+              unreachable_urls+=("$repo") # 将不可访问的 URL 添加到数组
+            fi
+          done
+      
+          # 检查是否有不可访问的 URL
+          if [ ${#unreachable_urls[@]} -ne 0 ]; then
+            echo "The following repositories are NOT accessible:"
+            for url in "${unreachable_urls[@]}"; do
+              echo "$url" # 输出每个不可访问的 URL
+            done
+            exit 1 # 结束运行并标记失败状态
+          else
+            echo "All repositories are accessible."
+          fi
+
