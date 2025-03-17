@@ -3,10 +3,11 @@ name: Validate plugin.json
 on:
   push:
     paths:
-      - 'plugin.json'
+      - 'plugins.json'
   pull_request:
     paths:
-      - 'plugin.json'
+      - 'plugins.json'
+  workflow_dispatch: # 支持手动触发
 
 jobs:
   validate-json:
