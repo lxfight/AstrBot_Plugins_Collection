@@ -1,0 +1,76 @@
+name: Clean Unreachable Plugins
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'plugins.json'
+
+jobs:
+  clean-unreachable-plugins:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up jq and curl
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl
+
+      - name: Clean unreachable plugins
+        run: |
+          echo "Cleaning unreachable plugins from plugins.json..."
+
+          # 初始化临时文件
+          temp_file=$(mktemp)
+
+          # 初始化无效插件列表
+          invalid_plugins=()
+
+          # 创建临时文件，用于保存有效插件
+          echo "{}" > $temp_file
+
+          # 遍历 plugins.json 的每个键
+          for plugin in $(jq -r 'keys[]' plugins.json); do
+            # 获取 repo 地址
+            repo=$(jq -r ".[\"$plugin\"].repo" plugins.json)
+
+            # 检查 repo 地址可访问性
+            if curl --head --silent --fail "$repo" > /dev/null; then
+              echo "Plugin $plugin repository is accessible."
+              # 如果 repo 可访问，将插件数据追加到临时文件
+              jq ".[\"$plugin\"] = .[\"$plugin\"]" $temp_file > temp.json && mv temp.json $temp_file
+            else
+              echo "Plugin $plugin repository is NOT accessible."
+              # 如果 repo 不可访问，将插件名添加到无效插件列表
+              invalid_plugins+=("$plugin")
+            fi
+          done
+
+          # 输出所有无效插件名
+          if [ ${#invalid_plugins[@]} -ne 0 ]; then
+            echo "Removed the following unreachable plugins:"
+            for plugin in "${invalid_plugins[@]}"; do
+              echo "$plugin"
+            done
+          else
+            echo "No unreachable plugins found."
+          fi
+
+          # 用清理后的内容覆盖写回 plugins.json
+          mv $temp_file plugins.json
+
+      - name: Output the cleaned plugins.json
+        run: |
+          echo "Cleaned plugins.json:"
+          cat plugins.json
+
+      - name: Commit and push changes
+        if: github.event_name == 'push'
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add plugins.json
+          git commit -m "Clean unreachable plugins from plugins.json"
+          git push origin HEAD
