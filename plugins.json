@@ -1,4 +1,24 @@
 {
+  "astrbot_plugin_emoji": {
+    "desc": "基于达莉娅综合群娱插件的表情包制作插件，仅保留了@其他群员制作表情包的部分。由桑帛云API提供表情包制作。",
+    "author": "KurisuRee7",
+    "repo": "https://github.com/KurisuRee7/astrbot_plugin_emoji"
+  },
+  "astrbot_plugin_videosummary": {
+    "desc": "使用 bibigpt 实现视频总结",
+    "author": "kterna",
+    "repo": "https://github.com/kterna/astrbot_plugin_videosummary"
+  },
+  "astrbot_plugin_bilibiliParse": {
+    "desc": "用于解析哔哩哔哩视频，并以图片的形式发送给用户",
+    "author": "功德无量",
+    "repo": "https://github.com/7Hello12/astrbot_plugin_bilibiliParse"
+  },
+  "astrbot_plugin_picture_manager": {
+    "desc": "图片管理插件，允许用户通过自定义触发指令从API或直接URL获取图片。",
+    "author": "大沙北",
+    "repo": "https://github.com/bigshabei/astrbot_plugin_picture_manager"
+  },
   "astrbot_plugin_InitiativeDialogue": {
     "desc": "使bot在用户长时间未发送消息时主动与用户对话的插件",
     "author": "Jason",
