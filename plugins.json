@@ -719,5 +719,10 @@
     "author": "长安某",
     "desc": "二次元图片签到以及好友买卖，对接牛牛商城，仅支持qq且仅支持非官方bot(其他平台请自行测试）",
     "repo": "https://github.com/zgojin/astrbot_plugin_Qsign"
+  },
+  "astrbot_plugin_thinkTags": {
+    "author": "长安某",
+    "desc": "过滤消息段中的think",
+    "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags"
   }
 }
