@@ -20,7 +20,7 @@ jobs:
       - name: Validate plugins.json format
         run: |
           sudo apt-get install jq
-          jq . plugins.json
+          jq . plugins.json > /dev/null
 
       - name: Check repository URLs
         run: |
