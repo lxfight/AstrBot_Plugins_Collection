@@ -700,7 +700,7 @@
     "desc": "二次元图片签到以及好友买卖，对接牛牛商城，仅支持qq且仅支持非官方bot(其他平台请自行测试）",
     "repo": "https://github.com/zgojin/astrbot_plugin_Qsign"
   },
-  "astrbot_plugin_moreVITS ": {
+  "astrbot_plugin_moreVITS": {
     "desc": "硅基流动利用用户的参考音频进行文本转语音的功能，测试中音频文件（测试用的.mp3）可用，内置了一个测试用的三月七（填写api就可用）",
     "author": "达莉娅",
     "repo": "https://github.com/zhenli12138/astrbot_plugin_moreVITS"
