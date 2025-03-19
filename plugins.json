@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_majsoul-master": {
+    "desc": "一个雀魂多功能插件",
+    "author": "kterna",
+    "repo": "https://github.com/kterna/astrbot_plugin_majsoul-master",
+    "tags": ["雀魂", "游戏"]
+  },
+  "astrbot_plugin_wordle_2": {
+    "desc": "Wordle 猜单词游戏。基于 Raven95676 的版本加入了一些新功能。但有一些奇怪特性，如发送的图片更大（见简介）。唤醒方式为普通聊天而不是指令。",
+    "author": "Raven95676, whzc",
+    "repo": "https://github.com/whzcc/astrbot_plugin_wordle_2",
+    "tags": ["wordle", "游戏", "猜单词"]
+  },
+  "astrbot_plugin_server": {
+    "desc": "可视化服务器状态卡片。 /status 或 /状态查询 查看。",
+    "author": "YANFD&Meguminlove",
+    "social_link": "https://github.com/yanfd",
+    "repo": "https://github.com/yanfd/astrbot_plugin_server"
+  },
   "astrbot_plugin_videos_analysis": {
     "desc": "聚合视频分享链接解析（仅测试过napcat）",
     "author": "喵喵",
