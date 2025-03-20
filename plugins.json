@@ -154,11 +154,6 @@
       "游戏"
     ]
   },
-  "astr_plugin_bilibili_plus": {
-    "repo": "https://github.com/rikkasaiko/astr_plugin_bilibili_plus",
-    "author": "rikka",
-    "desc": "解析 QQ 上发送的 Bilibili 视频分享小程序卡片以获取视频等信息。"
-  },
   "astrbot_plugin_nofap": {
     "desc": "一个用于戒 🦌 记录打卡和查看群内戒 🦌 榜的插件",
     "author": "aoz",
@@ -710,16 +705,6 @@
     "desc": "基于VOICEVOX Engine的日语文本转语音插件",
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_voicevox"
-  },
-  "astrbot_plugin_anime_trace": {
-    "desc": "基于animedb api的动漫角色识别插件",
-    "author": "rikka",
-    "repo": "https://github.com/rikkasaiko/astrbot_plugin_anime_trace"
-  },
-  "astrbot_plugin_img_lolicon": {
-    "desc": "基于lolicon api的涩图插件",
-    "author": "rikka",
-    "repo": "https://github.com/rikkasaiko/astrbot_plugin_img_lolicon"
   },
   "astrbot_plugin_miaomiao": {
     "desc": "这是一个为 AstrBot 开发的插件，仍然在开发中，提供了一些有趣的功能，如随机推荐食物、扔骰子、生成语音等",
