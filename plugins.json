@@ -1,4 +1,14 @@
 {
+  "astrbot_plugin_pokecheck": {
+    "desc": "[仅QQ可用]一个检测“戳”关键词的插件",
+    "author": "huanyan434",
+    "repo": "https://github.com/huanyan434/astrbot_plugin_pokecheck"
+  },
+  "astrbot_plugin_MultiAI_PollPad": {
+    "desc": "轮询调用配置的大语言模型输出多个结果。同时将结果拷贝至在线文本编辑器，以便用户复制。需额外安装依赖，见帮助",
+    "repo": "https://github.com/Ynkcc/astrbot_plugin_MultiAI_PollPad",
+    "author": "Ynkcc"
+  },
   "astrbot_plugin_push_lite": {
     "author": "Raven95676",
     "desc": "基于 Webhook 的轻量级推送插件(通过 RESTful 接口)。理论支持除 QQ官方API 外的所有平台，已测试 Telegram、QQ、微信、飞书。",
