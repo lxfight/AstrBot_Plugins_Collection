@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_anti_withdrawal": {
+    "desc": "[仅支持微信] 防撤回插件，目前只支持微信私聊群聊的文本消息，将撤回的消息记录并发送给设定的人",
+    "author": "NiceAir",
+    "tags": ["工具", "防撤回"],
+    "repo": "https://github.com/NiceAir/astrbot_plugin_anti_withdrawal"
+  },
+  "astrbot_plugin_Getcwm": {
+    "desc": "一个刺猬猫小说数据获取与画图插件，/Getcwm help 查看帮助。",
+    "author": "lishining",
+    "repo": "https://github.com/Li-shi-ling/astrbot_plugin_Getcwm",
+    "tags": ["刺猬猫"]
+  },
   "astrbot_plugin_majsoul-master": {
     "desc": "一个雀魂多功能插件",
     "author": "kterna",
@@ -152,7 +164,8 @@
     "tags": [
       "娱乐",
       "游戏"
-    ]
+    ],
+    "pinned": true
   },
   "astrbot_plugin_nofap": {
     "desc": "一个用于戒 🦌 记录打卡和查看群内戒 🦌 榜的插件",
