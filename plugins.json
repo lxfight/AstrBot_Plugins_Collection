@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_push_lite": {
+    "author": "Raven95676",
+    "desc": "基于 Webhook 的轻量级推送插件(通过 RESTful 接口)。理论支持除 QQ官方API 外的所有平台，已测试 Telegram、QQ、微信、飞书。",
+    "repo": "https://github.com/Raven95676/astrbot_plugin_push_lite",
+    "tags": ["消息推送"]
+  },
   "astrbot_plugin_hello77": {
     "author": "hello七七",
     "desc": "支持10+热门游戏的关键词触发回复，当用户消息中包含指定游戏名称时，机器人将随机回复对应游戏的鬼畜语录",
