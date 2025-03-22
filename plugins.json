@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_hello77": {
+    "author": "hello七七",
+    "desc": "支持10+热门游戏的关键词触发回复，当用户消息中包含指定游戏名称时，机器人将随机回复对应游戏的鬼畜语录",
+    "tags": ["梗"],
+    "repo": "https://github.com/ttq7/astrbot_plugin_hello77"
+  },
   "astrbot_plugin_anti_withdrawal": {
     "desc": "[仅支持微信] 防撤回插件，目前只支持微信私聊群聊的文本消息，将撤回的消息记录并发送给设定的人",
     "author": "NiceAir",
