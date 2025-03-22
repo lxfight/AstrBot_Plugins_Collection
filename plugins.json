@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_box": {
+    "desc": "拉取用户 QQ 主页信息并以图片形式展示",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_box",
+    "tags": ["功能"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_box"
+  },
   "astrbot_plugin_pokecheck": {
     "desc": "[仅QQ可用]一个检测“戳”关键词的插件",
     "author": "huanyan434",
