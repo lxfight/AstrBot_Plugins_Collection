@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_Translation": {
+    "desc": "通过调用百度翻译 API 接口实现翻译文本",
+    "author": "zengwei",
+    "social_link": "https://qm.qq.com/q/VNG3bOcGYM",
+    "tags": ["翻译"],
+    "repo": "https://github.com/zengweis/astrbot_plugin_Translation"
+  },
   "astrbot_plugin_box": {
     "desc": "拉取用户 QQ 主页信息并以图片形式展示",
     "author": "Zhalslar",
@@ -46,10 +53,10 @@
     "repo": "https://github.com/kterna/astrbot_plugin_majsoul-master",
     "tags": ["雀魂", "游戏"]
   },
-  "astrbot_plugin_wordle_2": {
-    "desc": "Wordle 猜单词游戏。基于 Raven95676 的版本加入了一些新功能。但有一些奇怪特性，如发送的图片更大（见简介）。唤醒方式为普通聊天而不是指令。",
+  "astrbot_plugin_wordle_2_msg": {
+    "desc": "Wordle 猜单词游戏。基于 Raven95676 的版本加入了一些新功能。",
     "author": "Raven95676, whzc",
-    "repo": "https://github.com/whzcc/astrbot_plugin_wordle_2",
+    "repo": "https://github.com/whzcc/astrbot_plugin_wordle_2_msg",
     "tags": ["wordle", "游戏", "猜单词"]
   },
   "astrbot_plugin_server": {
