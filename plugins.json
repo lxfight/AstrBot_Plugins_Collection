@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_custom_menu": {
+    "desc": "自定义菜单图片，图片放置在 menu 目录下，支持格式jpg,jpeg,png,gif,bmp。",
+    "author": "Futureppo",
+    "repo": "https://github.com/Futureppo/astrbot_plugin_custom_menu"
+  },
+  "astrbot_plugin_liferestart": {
+    "desc": "人生重启模拟器。输入「重开」来重开你的沟槽人生吧！",
+    "author": "kterna",
+    "tags": ["游戏"],
+    "social_link": "https://github.com/kterna/astrbot_plugin_liferestart",
+    "repo": "https://github.com/kterna/astrbot_plugin_liferestart"
+  },
   "astrbot_plugin_Translation": {
     "desc": "通过调用百度翻译 API 接口实现翻译文本",
     "author": "zengwei",
@@ -12,6 +24,27 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_box",
     "tags": ["功能"],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box"
+  },
+  "astrbot-plugin-today-in-history": {
+    "desc": "查看 历史上的今天 都发生了什么大事",
+    "author": "Zhalslar",
+    "tags": ["历史"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_yuafeng_today_in_history",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_yuafeng_today_in_history"
+  },
+  "astrbot_plugin_yuafeng": {
+    "desc": "对接枫林API提供的接口，为astrbot提供丰富多彩的功能，如随机发短视频、图片、音频、文案，翻译文本、查ip等等",
+    "author": "Zhalslar",
+    "tags": ["枫林API"],
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_yuafeng",
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_yuafeng"
+  },
+  "astrbot_plugin_relationship": {
+    "desc": "[仅 aiocqhttp]查看 QQ 加的所有好友、群聊的信息",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_relationship",
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_relationship",
+    "tags": ["实用工具"]
   },
   "astrbot_plugin_pokecheck": {
     "desc": "[仅QQ可用]一个检测“戳”关键词的插件",
