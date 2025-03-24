@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_mai_sgin": {
+    "author": "Rinyin",
+    "desc": "简单的舞萌出勤与退勤签到插件",
+    "tags": ["舞萌", "签到"],
+    "repo": "https://github.com/Rinyin/astrbot_plugin_mai_sgin"
+  },
   "astrbot_plugin_aiocensor": {
     "desc": "AstrBot 综合内容安全+群管插件。文本、图片审核支持所有平台，撤回和禁言仅支持 aiocqhttp",
     "author": "Raven95676",
