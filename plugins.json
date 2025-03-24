@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_aiocensor": {
+    "desc": "AstrBot 综合内容安全+群管插件。文本、图片审核支持所有平台，撤回和禁言仅支持 aiocqhttp",
+    "author": "Raven95676",
+    "repo": "https://github.com/Raven95676/astrbot_plugin_aiocensor",
+    "tags": ["审查", "撤回", "禁言"]
+  },
   "astrbot_plugin_custom_menu": {
     "desc": "自定义菜单图片，图片放置在 menu 目录下，支持格式jpg,jpeg,png,gif,bmp。",
     "author": "Futureppo",
@@ -91,6 +97,22 @@
     "author": "Raven95676, whzc",
     "repo": "https://github.com/whzcc/astrbot_plugin_wordle_2_msg",
     "tags": ["wordle", "游戏", "猜单词"]
+  },
+  "astrbot_plugin_wordle_2_cmd": {
+    "desc": "Astrbot Wordle 游戏插件（响应指令内容版），优化和加入了许多新功能",
+    "repo": "https://github.com/whzcc/astrbot_plugin_wordle_2_cmd",
+    "author": "Raven95676, whzc",
+    "tags": ["wordle", "游戏", "猜单词"]
+  },
+  "astrbot_plugin_wordle": {
+    "desc": "AstrBot Wordle 猜单词游戏，支持指定位数",
+    "author": "Raven95676",
+    "repo": "https://github.com/Raven95676/astrbot_plugin_wordle",
+    "tags": [
+      "游戏",
+      "wordle"
+    ],
+    "pinned": true
   },
   "astrbot_plugin_server": {
     "desc": "可视化服务器状态卡片。 /status 或 /状态查询 查看。",
@@ -225,16 +247,6 @@
     "desc": "配合 MoviePilot 订阅影片",
     "author": "NEST",
     "repo": "https://github.com/4Nest/astrbot_plugin_mp_sub"
-  },
-  "astrbot_plugin_wordle": {
-    "desc": "AstrBot Wordle 猜单词游戏，支持指定位数",
-    "author": "Raven95676",
-    "repo": "https://github.com/Raven95676/astrbot_plugin_wordle",
-    "tags": [
-      "娱乐",
-      "游戏"
-    ],
-    "pinned": true
   },
   "astrbot_plugin_nofap": {
     "desc": "一个用于戒 🦌 记录打卡和查看群内戒 🦌 榜的插件",
