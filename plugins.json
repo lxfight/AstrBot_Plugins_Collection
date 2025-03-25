@@ -334,8 +334,7 @@
     ]
   },
   "astrbot_plugin_github_cards": {
-    "logo": "https://blog.soulter.top/assets/avatar.webp",
-    "desc": "根据聊天中 GitHub 相关链接自动发送 GitHub 仓库简介/issue/pr卡片",
+    "desc": "自动识别 GitHub 仓库链接并发送卡片图片，支持订阅仓库的 Issue 和 PR 更新，查询 Issue 和 PR 详情",
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_github_cards",
     "tags": [
