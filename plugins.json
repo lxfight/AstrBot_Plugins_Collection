@@ -23,6 +23,12 @@
     "social_link": "https://github.com/kterna/astrbot_plugin_liferestart",
     "repo": "https://github.com/kterna/astrbot_plugin_liferestart"
   },
+  "astrbot_plugin_Lolicon": {
+    "author": "hello七七",
+    "repo": "https://github.com/ttq7/astrbot_plugin_Lolicon",
+    "desc": "Lolicon API的随机动漫图片插件",
+    "tags": ["nsfw"]
+  },
   "astrbot_plugin_Translation": {
     "desc": "通过调用百度翻译 API 接口实现翻译文本",
     "author": "zengwei",
