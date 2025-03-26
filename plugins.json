@@ -1,4 +1,49 @@
 {
+  "astrbot_plugin_anime_gacha": {
+    "desc": "每天获取随机番剧，查看今日更新的新番",
+    "author": "xco2",
+    "tags": ["新番", "番剧"],
+    "repo": "https://github.com/xco2/astrbot_plugin_anime_gacha"
+  },
+  "astrbot_plugin_nachoneko": {
+    "desc": "一款获取甘城猫猫图片的插件",
+    "author": "Rinyin",
+    "tags": ["甘城なつき"],
+    "repo": "https://github.com/Rinyin/astrbot_plugin_nachoneko"
+  },
+  "astrbot_plugin_jmcomicsget": {
+    "desc": "发送 JM 漫画编号，机器人发送漫画 PDF",
+    "author": "ayachi",
+    "repo": "https://github.com/Ayachi2225/astrbot_plugin_jmcomicsget",
+    "tags": ["JM"],
+    "social_link": "https://github.com/Ayachi2225"
+  },
+  "astrbot_plugin_history_day": {
+    "desc": "查看历史上的某天发生的大事(历史上的今天的增强版)",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_history_day",
+    "tags": ["历史"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_history_day"
+  },
+  "astrbot_plugin_PockAttack": {
+    "desc": "[仅 aiocqhttp] 在群聊中发送 攻击+@用户 或者其他关键词，机器人会戳一戳该用户",
+    "author": "LouieKH359",
+    "repo": "https://github.com/LouieKH359/astrbot_plugin_PockAttack"
+  },
+  "astrbot_plugin_memelite": {
+    "desc": "表情包生成器，制作各种沙雕表情(本地部署，但轻量化)",
+    "author": "Zhalslar",
+    "tags": ["表情包"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite"
+  },
+  "headline": {
+    "author": "egg",
+    "desc": "60秒国内新闻",
+    "tags": ["工具"],
+    "social_link": "https://github.com/bbpn-cn/headline",
+    "repo": "https://github.com/bbpn-cn/headline"
+  },
   "astrbot_plugin_mai_sgin": {
     "author": "Rinyin",
     "desc": "简单的舞萌出勤与退勤签到插件",
