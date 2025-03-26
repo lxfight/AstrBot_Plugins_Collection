@@ -37,6 +37,18 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite"
   },
+  "astrbot_plugin_saris_economic": {
+    "author": "城城",
+    "repo": "https://github.com/chengcheng0325/astrbot_plugin_saris_economic",
+    "desc": "群签到插件(可自定义图片)。‼️ 需要安装前置插件 astrbot_plugin_saris_db 👇",
+    "tags": ["签到", "经济"]
+  },
+  "astrbot_plugin_saris_db": {
+    "author": "城城",
+    "desc": "astrbot_plugin_saris_economic 插件的前置插件，用于数据持久化。",
+    "repo": "https://github.com/chengcheng0325/astrbot_plugin_saris_db",
+    "tags": ["前置"]
+  },
   "headline": {
     "author": "egg",
     "desc": "60秒国内新闻",
