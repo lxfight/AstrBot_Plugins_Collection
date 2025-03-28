@@ -1,4 +1,26 @@
 {
+  "astrbot_plugin_saris_fish": {
+    "desc": "赛博钓鱼。需要前置插件: astrbot_plugin_saris_db",
+    "author": "城城",
+    "tags": ["游戏", "钓鱼"],
+    "repo": "https://github.com/chengcheng0325/astrbot_plugin_saris_fish"
+  },
+  "astr_plugin_random_image": {
+    "desc": "从 wenturc 获取随机图片的插件（无 HTML 解析）",
+    "author": "IGCrystal",
+    "repo": "https://github.com/IGCrystal/astr_plugin_random_image"
+  },
+  "astrbot_plugin_gewe_chatsummary": {
+    "desc": "[仅 gewechat] 用来对最近消息调用 LLM 进行总结的插件",
+    "author": "NiceAir",
+    "repo": "https://github.com/NiceAir/astrbot_plugin_gewe_chatsummary",
+    "tags": ["工具", "总结"]
+  },
+  "astrbot_plugin_idiom": {
+    "desc": "成语接龙",
+    "author": "zhx",
+    "repo": "https://github.com/zhx8702/astrbot_plugin_idiom"
+  },
   "astrbot_plugin_anime_gacha": {
     "desc": "每天获取随机番剧，查看今日更新的新番",
     "author": "xco2",
@@ -10,6 +32,20 @@
     "author": "Rinyin",
     "tags": ["甘城なつき"],
     "repo": "https://github.com/Rinyin/astrbot_plugin_nachoneko"
+  },
+  "astrbot_plugin_jm_sender": {
+    "desc": "发送 JM 漫画编号，机器人发送群聊转发消息",
+    "author": "EnderPPT",
+    "tags": ["JM"],
+    "repo": "https://github.com/EnderPPT/astrbot_plugin_jm_sender",
+    "social_link": "https://github.com/EnderPPT"
+  },
+  "jmcomic_downloader": {
+    "desc": "一个下载 JM 的插件, 添加了一些新功能，原项目名 FateTrial_JMdownloader",
+    "author": "QiChenSn",
+    "repo": "https://github.com/QiChenSn/jmcomic_downloader",
+    "social_link": "https://github.com/QiChenSn",
+    "tags": ["JM"]
   },
   "astrbot_plugin_jmcomicsget": {
     "desc": "发送 JM 漫画编号，机器人发送漫画 PDF",
