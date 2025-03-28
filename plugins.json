@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_mermaid": {
+    "desc": "使用 LLM 将用户所输入的主题自动生成 Mermaid 模板并生成图片输出",
+    "author": "kterna",
+    "repo": "https://github.com/kterna/astrbot_plugin_mermaid",
+    "tags": ["思维导图", "流程图"]
+  },
   "astrbot_plugin_saris_fish": {
     "desc": "赛博钓鱼。需要前置插件: astrbot_plugin_saris_db",
     "author": "城城",
