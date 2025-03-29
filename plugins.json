@@ -29,7 +29,7 @@
     "author": "laopanmemz",
     "repo": "https://github.com/laopanmemz/astrbot_plugin_membercontrast",
     "social_link": "https://space.bilibili.com/447591776"
-  }
+  },
   "astrbot_plugin_mermaid": {
     "desc": "使用 LLM 将用户所输入的主题自动生成 Mermaid 模板并生成图片输出",
     "author": "kterna",
