@@ -1,4 +1,10 @@
 {
+	"astrbot_plugin_qqpock": {
+		"desc": "QQ 代戳",
+		"repo": "https://github.com/791819/astrbot_plugin_qqpock",
+		"author": "长安某",
+		"social_link": "https://space.bilibili.com/1032860513"
+	},
 	"astrbot_plugin_vv_pic": {
 		"desc": "发送最符合关键词的 vv 表情包",
 		"author": "Lonelysky",
