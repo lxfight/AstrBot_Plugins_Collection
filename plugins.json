@@ -1,4 +1,35 @@
 {
+  "emoji_merge": {
+    "desc": "Emoji 融合。例子: 发送 /合成 😰 😨（Emoji 间需加空格）",
+    "author": "hello七七",
+    "social_link": "https://github.com/ttq7/emoji-",
+    "repo": "https://github.com/ttq7/emoji-",
+  },
+  "encrypt-and-decrypt": {
+    "desc": "将明文加密为我要吃饭四个字组成的密文",
+    "author": "Yuki Soffd",
+    "repo": "https://github.com/Soffd/encrypt-and-decrypt",
+    "tags": ["工具"]
+  },
+  "astrbot_plugin_CounterStrikle": {
+    "desc": "Blast-TV 上的 Counter-Strikle 小游戏，图片卡片渲染。",
+    "author": "w33d",
+    "tags": ["娱乐"],
+    "social_link": "https://github.com/Last-emo-boy",
+    "repo": "https://github.com/Last-emo-boy/astrbot_plugin_CounterStrikle"
+  },
+  "astrbot_plugin_gomoku": {
+    "desc": "五子棋双人对战",
+    "author": "zhx",
+    "repo": "https://github.com/zhx8702/astrbot_plugin_gomoku",
+    "tags": ["游戏"]
+  },
+  "astrbot_plugin_membercontrast": {
+    "desc": " [仅 Gewechat] 实现微信历史群组群员与当前群员对比的功能",
+    "author": "laopanmemz",
+    "repo": "https://github.com/laopanmemz/astrbot_plugin_membercontrast",
+    "social_link": "https://space.bilibili.com/447591776"
+  }
   "astrbot_plugin_mermaid": {
     "desc": "使用 LLM 将用户所输入的主题自动生成 Mermaid 模板并生成图片输出",
     "author": "kterna",
@@ -38,6 +69,12 @@
     "author": "Rinyin",
     "tags": ["甘城なつき"],
     "repo": "https://github.com/Rinyin/astrbot_plugin_nachoneko"
+  },
+  "astrbot_plugin_jm_search": {
+    "desc": "JM 漫画 PDF 下载。支持 Linux 和 Win",
+    "author": "Ryonnoski",
+    "repo": "https://github.com/Ryonnoski0/astrbot_plugin_jm_search",
+    "tags": ["JM", "PDF"]
   },
   "astrbot_plugin_jm_sender": {
     "desc": "发送 JM 漫画编号，机器人发送群聊转发消息",
