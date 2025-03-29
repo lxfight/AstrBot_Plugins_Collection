@@ -1,4 +1,15 @@
 {
+	"astrbot_plugin_vv_pic": {
+		"desc": "发送最符合关键词的 vv 表情包",
+		"author": "Lonelysky",
+		"repo": "https://github.com/LonelySky7490/astrbot_plugin_vv_pic"
+	},
+	"astrbot_plugin_file_reader": {
+		"desc": "一个识别文件内容的插件",
+		"author": "xiewoc",
+		"repo": "https://github.com/xiewoc/astrbot_plugin_file_reader",
+		"social_link": "https://github.com/xiewoc"
+	},
 	"emoji_merge": {
 		"desc": "Emoji 融合。例子: 发送 /合成 😰 😨（Emoji 间需加空格）",
 		"author": "hello七七",
