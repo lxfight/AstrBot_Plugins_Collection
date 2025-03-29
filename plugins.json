@@ -384,6 +384,11 @@
 		"author": "KurisuRee7",
 		"repo": "https://github.com/KurisuRee7/astrBot_PGR_Dialogue"
 	},
+	"astrbot_plugin_beautiful_giri": {
+		"desc": "合集",
+		"author": "四郎",
+		"repo": "https://github.com/XuYingJie-cmd/astrbot_plugin_beautiful_giri"
+	},
 	"astrbot_plugin_wechat_manager": {
 		"desc": "[仅 gewechat] 微信关键字好友自动审核、关键字邀请进群",
 		"author": "diudiu62",
