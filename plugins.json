@@ -1,4 +1,24 @@
 {
+	"astrbot_plugin_litematic": {
+		"desc": "用于管理 Minecraft 投影文件，快速查看投影内容等",
+		"author": "kterna",
+		"repo": "https://github.com/kterna/astrbot_plugin_litematic",
+		"tags": ["Minecraft", "游戏"]
+	},
+	"AstrBot_plugin_Ewords": {
+		"desc": "一起来记单词吧喵~",
+		"author": "IGCrystal",
+		"repo": "https://github.com/IGCrystal/AstrBot_plugin_Ewords",
+		"social_link": "https://github.com/IGCrystal/AstrBot_plugin_Ewords",
+		"tags": ["CET-4", "英语"]
+	},
+	"astrbot_plugin_weather_wttr_in": {
+		"desc": "使用 wttr.in 查询天气（llm工具）",
+		"author": "xiewoc",
+		"repo": "https://github.com/xiewoc/astrbot_plugin_weather_wttr_in",
+		"tags": ["天气", "函数调用"],
+		"social_link": "https://github.com/xiewoc"
+	},
 	"astrbot_plugin_kahunabot": {
 		"desc": "一款基于 EVEonline API 侧重工业制造支援的综合性 QQ 插件",
 		"author": "AraragiEro",
