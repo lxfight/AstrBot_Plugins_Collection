@@ -1,4 +1,9 @@
 {
+	"astrbot_plugin_kahunabot": {
+		"desc": "一款基于 EVEonline API 侧重工业制造支援的综合性 QQ 插件",
+		"author": "AraragiEro",
+		"repo": "https://github.com/AraragiEro/astrbot_plugin_kahunabot"
+	},
 	"astrbot_plugin_qqpock": {
 		"desc": "QQ 代戳",
 		"repo": "https://github.com/791819/astrbot_plugin_qqpock",
