@@ -3,10 +3,10 @@ name: Validate plugin.json
 on:
   push:
     paths:
-      - 'plugins.json'
+      - "plugins.json"
   pull_request:
     paths:
-      - 'plugins.json'
+      - "plugins.json"
   workflow_dispatch: # 支持手动触发
 
 jobs:
@@ -16,19 +16,50 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # 获取完整历史记录以便比较文件
 
       - name: Validate plugins.json format
         run: |
           sudo apt-get install jq
           jq . plugins.json > /dev/null
 
-      - name: Check repository URLs
+      - name: Check only changed repository URLs
         run: |
-          # 提取 plugins.json 中的 repo 字段并检查可访问性
-          repos=$(jq -r '.. | objects | .repo? // empty' plugins.json)
+          # 获取前一个版本的 plugins.json 文件
+          if [ "${{ github.event_name }}" == "pull_request" ]; then
+            # 对于 PR，比较目标分支与当前分支
+            git show "origin/${{ github.base_ref }}:plugins.json" > previous_plugins.json || echo "[]" > previous_plugins.json
+          else
+            # 对于推送，比较前一个提交
+            git show HEAD~1:plugins.json > previous_plugins.json || echo "[]" > previous_plugins.json
+          fi
+
+          # 提取当前版本的所有 repo
+          current_repos=$(jq -r '.. | objects | .repo? // empty' plugins.json)
+          # 提取前一个版本的所有 repo
+          previous_repos=$(jq -r '.. | objects | .repo? // empty' previous_plugins.json)
+
+          # 找出新增或修改的 repo
+          changed_repos=()
+          for repo in $current_repos; do
+            if ! echo "$previous_repos" | grep -q "^$repo$"; then
+              changed_repos+=("$repo")
+            fi
+          done
+
+          # 如果没有变化的 repo，输出消息并退出
+          if [ ${#changed_repos[@]} -eq 0 ]; then
+            echo "No repository URLs were added or modified. Skipping checks."
+            exit 0
+          fi
+
+          echo "Checking ${#changed_repos[@]} changed or new repositories..."
+
+          # 检查变化的 repo 的可访问性
           unreachable_urls=() # 初始化一个数组用于记录不可访问的 URL
-      
-          for repo in $repos; do
+
+          for repo in "${changed_repos[@]}"; do
             sleep 1
             if curl --output /dev/null --silent --head --fail --retry 3 "$repo"; then
               echo "Repository $repo is accessible."
@@ -37,7 +68,7 @@ jobs:
               unreachable_urls+=("$repo") # 将不可访问的 URL 添加到数组
             fi
           done
-      
+
           # 检查是否有不可访问的 URL
           if [ ${#unreachable_urls[@]} -ne 0 ]; then
             echo "The following repositories are NOT accessible:"
@@ -46,6 +77,5 @@ jobs:
             done
             exit 1 # 结束运行并标记失败状态
           else
-            echo "All repositories are accessible."
+            echo "All changed repositories are accessible."
           fi
-
