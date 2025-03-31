@@ -1,4 +1,10 @@
 {
+	"astrbot_plugin_answerbook": {
+		"desc": "一个简单的答案之书插件,发送 答案之书+问题 即可使用",
+		"author": "浅夏旧入梦",
+		"repo": "https://github.com/litsum/astrbot_plugin_answerbook",
+		"social_link": "https://m.bilibili.com/space/172230783"
+	},
 	"astrbot_plugin_timedtask": {
 		"desc": "一个简单易用的群聊定时任务提醒插件，可以设置每日定时提醒.初次使用请查看readme。",
 		"author": "Jason.Joestar",
