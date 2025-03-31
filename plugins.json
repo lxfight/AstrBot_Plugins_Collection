@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_timtip": {
+    "desc": "设置定时任务，有（间隔时间）（固定时间）（一次时间），适用于不同群聊，一个群聊可创建多个任务。",
+    "author": "IGCrystal",
+    "repo": "https://github.com/IGCrystal/astrbot_plugin_timtip",
+    "tags": ["工具"]
+  },
   "astrbot_plugin_encipherer": {
     "desc": "集合包括Base64、URLencode、Punycode编码加解密工具的astrbot插件",
     "author": "Yuki Soffd",
