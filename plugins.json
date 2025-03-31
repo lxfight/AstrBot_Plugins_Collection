@@ -1,4 +1,10 @@
 {
+	"astrbot_plugin_timedtask": {
+		"desc": "一个简单易用的群聊定时任务提醒插件，可以设置每日定时提醒.初次使用请查看readme。",
+		"author": "Jason.Joestar",
+		"repo": "https://github.com/advent259141/astrbot_plugin_timedtask",
+		"tags": ["定时", "通知"]
+	},
 	"astrbot_plugin_doro_today": {
 		"desc": "[仅测试QQ]一个AstrBot插件，从Doro结局图片中随机抽取一张并发送给用户，同时@发送者。",
 		"author": "Futureppo",
