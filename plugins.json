@@ -1,4 +1,10 @@
 {
+  "meme_storage": {
+    "desc": "存储并发送表情包/图片",
+    "author": "backupenable",
+    "repo": "https://github.com/backupenable/astrbot_plugin_meme_storage",
+    "tags": ["'偷'表情包","发表情包"]
+  },
   "astrbot_plugin_encipherer": {
     "desc": "集合包括Base64、URLencode、Punycode编码加解密工具的astrbot插件",
     "author": "Yuki Soffd",
