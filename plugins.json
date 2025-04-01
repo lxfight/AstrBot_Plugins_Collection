@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_GPT_SoVITS": {
+    "desc": "对接本地部署的GPT_SoVITS,为astrbot提供文本转语音(TTS)服务",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
+    "tags": ["TTS"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS"
+  },
   "astrbot_plugin_search_pic": {
     "desc": "从 https://saucenao.com/ 搜索图片，功能是以图搜图",
     "auther": "lyjlyjlyjly",
