@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_search_pic": {
+    "desc": "从 https://saucenao.com/ 搜索图片，功能是以图搜图",
+    "auther": "lyjlyjlyjly",
+    "repo": "https://github.com/lyjlyjlyjly/astrbot_plugin_search_pic",
+    "tags": ["搜图"]
+  },
   "astrbot_plugin_timtip": {
     "desc": "设置定时任务，有（间隔时间）（固定时间）（一次时间），适用于不同群聊，一个群聊可创建多个任务。",
     "author": "IGCrystal",
