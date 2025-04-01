@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_quote_collocter": {
+    "desc": "可以自己截图并投稿群友语录，机器人被戳戳时随机爆典",
+    "author": "浅夏旧入梦",
+    "repo": "https://github.com/litsum/astrbot_plugin_quote_collocter",
+    "tags": ["黑历史", "群u爆典"],
+    "social_link": "https://m.bilibili.com/space/172230783"
+  },
   "astrbot_plugin_GPT_SoVITS": {
     "desc": "对接本地部署的GPT_SoVITS,为astrbot提供文本转语音(TTS)服务",
     "author": "Zhalslar",
