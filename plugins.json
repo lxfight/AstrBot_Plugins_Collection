@@ -1,4 +1,10 @@
 {
+  "daily_limit": {
+    "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
+    "author": "left666",
+    "repo": "https://github.com/left666/astrbot_plugin_daily_limit",
+    "tags": ["工具", "安全"]
+  },
   "JmCli": {
     "desc": "JM命令行工具，提供下载和带封面的查询搜索功能，输入jm_help查看用法",
     "author": "Gaxiic",
