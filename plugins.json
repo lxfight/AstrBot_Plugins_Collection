@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_lorebook_lite": {
+    "desc": "AstrBot 的 lorebook 插件，支持自定义触发器、变量、逻辑、占位符等。",
+    "author": "Raven95676",
+    "repo": "https://github.com/Raven95676/astrbot_plugin_lorebook_lite",
+    "tags": ["lorebook", "世界书"]
+  },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
     "author": "left666",
@@ -27,7 +33,7 @@
   },
   "astrbot_plugin_search_pic": {
     "desc": "从 https://saucenao.com/ 搜索图片，功能是以图搜图",
-    "auther": "lyjlyjlyjly",
+    "author": "lyjlyjlyjly",
     "repo": "https://github.com/lyjlyjlyjly/astrbot_plugin_search_pic",
     "tags": ["搜图"]
   },
