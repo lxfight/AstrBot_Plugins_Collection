@@ -1,4 +1,10 @@
 {
+  "JmCli": {
+    "desc": "JM命令行工具，提供下载和带封面的查询搜索功能，输入jm_help查看用法",
+    "author": "Gaxiic",
+    "repo": "https://github.com/gaxiic/JmCli",
+    "tags": ["JM", "禁漫"]
+  },
   "astrbot_plugin_quote_collocter": {
     "desc": "可以自己截图并投稿群友语录，机器人被戳戳时随机爆典",
     "author": "浅夏旧入梦",
