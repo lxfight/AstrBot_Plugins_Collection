@@ -1,4 +1,40 @@
 {
+  "astrbot_plugin_quarksave": {
+    "desc": "调用quark-auto-save实现自动转存资源到自己的夸克网盘",
+    "author": "lm379",
+    "repo": "https://github.com/lm379/astrbot_plugin_quarksave"
+  },
+  "astrbot_plugins_ConvetPicture": {
+    "desc": "[仅aiocqhttp]把QQ里面不可保存的表情转化为可以保存的图片，包括GIF",
+    "author": "orchidsziyou",
+    "repo": "https://github.com/orchidsziyou/astrbot_plugins_ConvetPicture",
+    "tags": ["日常使用"]
+  },
+  "astrbot_plugin_Merge_WeMSG": {
+    "desc": "[仅gewechat]支持微信个人号(gewechat)的合并消息处理和转发",
+    "author": "zj591227045",
+    "repo": "https://github.com/zj591227045/astrbot_plugin_Merge_WeMSG"
+  },
+  "astrbot_plugin_wsde": {
+    "desc": "一个发出随机维什戴尔游戏日语语音的AstrBot插件",
+    "author": "bushikq",
+    "repo": "https://github.com/zhewang448/astrbot_plugin_wsde",
+    "tags": ["游戏"]
+  },
+  "astrbot_plugin_QQProfile": {
+    "desc": "[仅aiocqhttp]配置QQ机器人的头像、昵称、签名、状态，查看点赞列表、清除未读等等",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
+    "tags": ["QQ资料"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQProfile"
+  },
+  "astrbot_plugin_mcping": {
+    "desc": "获取 Minecraft JE/BE 服务器 Motd 图片信息",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_mcping",
+    "tags": ["Minecraft"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_mcping"
+  },
   "astrbot_plugin_lorebook_lite": {
     "desc": "AstrBot 的 lorebook 插件，支持自定义触发器、变量、逻辑、占位符等。",
     "author": "Raven95676",
