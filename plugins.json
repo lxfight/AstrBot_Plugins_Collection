@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_liars_bar": {
+    "desc": "本插件是为 AstrBot 框架开发的游戏插件，实现了一个骗子酒馆",
+    "author": "xunxi",
+    "repo": "https://github.com/xunxiing/astrbot_plugin_liars_bar",
+    "tags": ["游戏"]
+  },
   "astrbot_plugin_SessionFaker": {
     "desc": "一个用于AstrBot的QQ消息伪造插件，可以创建包含多个用户发言的伪造转发消息，支持自动获取QQ昵称",
     "author": "Jason.Joestar",
