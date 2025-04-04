@@ -1,4 +1,25 @@
 {
+  "astrbot_plugin_archlinux_package_search": {
+    "desc": "按名称搜索 Arch Linux 官方仓库和 AUR 中的软件包。",
+    "author": "xmengnet",
+    "repo": "https://github.com/xmengnet/astrbot_plugin_archlinux_package_search",
+    "tags": ["arch", "linux"],
+    "social_link": "https://github.com/xmengnet"
+  },
+  "astrbot_plugin_browser": {
+    "desc": "通过操控bot与浏览器交互（搜索、点击、滑动、滚动、缩放、输入、切换标签页、收藏等等）",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_browser",
+    "tags": ["浏览器"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser"
+  },
+  "astrbot_plugin_QQAdmin": {
+    "desc": "[仅aiocqhttp]QQ群管插件，功能包括：禁言、全体禁言、踢人、拉黑、改群昵称、改头衔、设管理员、设精华、撤回消息等等",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
+    "tags": ["QQ群管"]
+  },
   "astrbot_plugin_liars_bar": {
     "desc": "本插件是为 AstrBot 框架开发的游戏插件，实现了一个骗子酒馆",
     "author": "xunxi",
