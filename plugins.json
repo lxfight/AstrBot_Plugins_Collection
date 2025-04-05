@@ -1,4 +1,11 @@
 {
+    "astrbot_plugin_appreview": {
+    "desc": "这是一个可以通过关键词来同意或拒绝进入群聊的插件。",
+    "author": "qiqi",
+    "repo": "https://github.com/13686664257cz/astrbot_plugin_appreview",
+    "tags": ["工具"],
+    "social_link": "https://qkingwlfw.icu"
+  },
   "astrbot_plugin_archlinux_package_search": {
     "desc": "按名称搜索 Arch Linux 官方仓库和 AUR 中的软件包。",
     "author": "xmengnet",
