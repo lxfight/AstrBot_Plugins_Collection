@@ -5,12 +5,6 @@
       "repo": "https://github.com/Rail1bc/astrbot_plugin_composting_bucket",
       "tags": ["DeepSeek"]
    },
-   "astrbot_plugin_aishit": {
-    "desc": "【QQ】ai全自动造屎插件",
-    "author": "Jason.Joestar",
-    "tags": ["造屎"],
-    "repo": "https://github.com/advent259141/astrbot_plugin_aishit"
-  },
   "astrbot_plugin_doro_ending": {
     "desc": "[QQ]doro互动故事",
     "author": "hello七七",
@@ -56,6 +50,19 @@
     "author": "Jason.Joestar",
     "repo": "https://github.com/advent259141/astrbot_plugin_SessionFaker",
     "tags": ["消息伪造"]
+  },
+  "astrbot_plugin_aishit": {
+    "desc": "【QQ】AI 全自动造史插件",
+    "author": "Jason.Joestar",
+    "tags": ["造史"],
+    "repo": "https://github.com/advent259141/astrbot_plugin_aishit"
+  },
+  "astrbot_plugin_douniuniu": {
+     "desc": "QQ 群小游戏，培养你的牛牛，然后塔塔开！",
+     "author": "laozhu",
+     "repo": "https://github.com/LaoZhuJackson/astrbot_plugin_douniuniu",
+     "tags": ["游戏"],
+     "social_link": "https://qm.qq.com/q/F7JTfmpsys"
   },
   "astrbot_plugin_no_dragon_lord": {
     "desc": "anka - 禁止机器人抢龙王! 龙王一定要是人类 ✍️✍️✍️✍️✍️✍️✍️✍️ 😭😭😭😭😭😭😭😭 - 请前往设置白名单(默认全部群启用) - 提供分段回复容错设置",
