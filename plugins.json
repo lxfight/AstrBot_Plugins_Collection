@@ -1,4 +1,10 @@
 {
+   "astrbot_plugin_aishit": {
+    "desc": "【QQ】ai全自动造屎插件",
+    "author": "Jason.Joestar",
+    "tags": ["造屎"],
+    "repo": "https://github.com/advent259141/astrbot_plugin_aishit"
+  },
   "astrbot_plugin_doro_ending": {
     "desc": "[QQ]doro互动故事",
     "author": "hello七七",
