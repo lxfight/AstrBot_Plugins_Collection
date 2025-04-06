@@ -1,5 +1,11 @@
 {
-    "astrbot_plugin_appreview": {
+  "astrbot_plugin_doro_ending": {
+    "desc": "[QQ]doro互动故事",
+    "author": "hello七七",
+    "repo": "https://github.com/ttq7/doro_ending",
+    "social_link": "https://github.com/ttq7/doro_ending"
+  },
+  "astrbot_plugin_appreview": {
     "desc": "这是一个可以通过关键词来同意或拒绝进入群聊的插件。",
     "author": "qiqi",
     "repo": "https://github.com/13686664257cz/astrbot_plugin_appreview",
