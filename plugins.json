@@ -1,4 +1,10 @@
 {
+   "astrbot_plugin_composting_bucket": {
+      "desc": "一个用于降低 DeepSeek API 调用费用的 AstrBot 插件",
+      "author": "Rail1bc",
+      "repo": "https://github.com/Rail1bc/astrbot_plugin_composting_bucket",
+      "tags": ["DeepSeek"]
+   },
    "astrbot_plugin_aishit": {
     "desc": "【QQ】ai全自动造屎插件",
     "author": "Jason.Joestar",
