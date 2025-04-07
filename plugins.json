@@ -1,4 +1,10 @@
 {
+   "astrbot_plugin_csbaoyan": {
+      "desc": "计算机保研院校信息查询、通知订阅插件。数据来源于 GitHub CS-BAOYAN (绿群官方)组织。",
+      "author": "Soulter",
+      "repo": "https://github.com/Soulter/astrbot_plugin_csbaoyan",
+      "tags": ["计算机", "保研"]
+   },
    "astrbot_plugin_composting_bucket": {
       "desc": "一个用于降低 DeepSeek API 调用费用的 AstrBot 插件",
       "author": "Rail1bc",
