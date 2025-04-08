@@ -1,16 +1,23 @@
 {
-   "astrbot_plugin_csbaoyan": {
-      "desc": "计算机保研院校信息查询、通知订阅插件。数据来源于 GitHub CS-BAOYAN (绿群官方)组织。",
-      "author": "Soulter",
-      "repo": "https://github.com/Soulter/astrbot_plugin_csbaoyan",
-      "tags": ["计算机", "保研"]
-   },
-   "astrbot_plugin_composting_bucket": {
-      "desc": "一个用于降低 DeepSeek API 调用费用的 AstrBot 插件",
-      "author": "Rail1bc",
-      "repo": "https://github.com/Rail1bc/astrbot_plugin_composting_bucket",
-      "tags": ["DeepSeek"]
-   },
+  "astrbot_plugin_reread": {
+    "desc": "不依赖任何数据库的群聊复读姬，可单独设置文本、图片、表情、At消息的复读阈值，可设置复读概率，可要求消息要来自不同人，可设置违禁词",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_reread",
+    "tags": ["复读"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread"
+  },
+  "astrbot_plugin_csbaoyan": {
+    "desc": "计算机保研院校信息查询、通知订阅插件。数据来源于 GitHub CS-BAOYAN (绿群官方)组织。",
+    "author": "Soulter",
+    "repo": "https://github.com/Soulter/astrbot_plugin_csbaoyan",
+    "tags": ["计算机", "保研"]
+  },
+  "astrbot_plugin_composting_bucket": {
+    "desc": "一个用于降低 DeepSeek API 调用费用的 AstrBot 插件",
+    "author": "Rail1bc",
+    "repo": "https://github.com/Rail1bc/astrbot_plugin_composting_bucket",
+    "tags": ["DeepSeek"]
+  },
   "astrbot_plugin_doro_ending": {
     "desc": "[QQ]doro互动故事",
     "author": "hello七七",
@@ -64,11 +71,11 @@
     "repo": "https://github.com/advent259141/astrbot_plugin_aishit"
   },
   "astrbot_plugin_douniuniu": {
-     "desc": "QQ 群小游戏，培养你的牛牛，然后塔塔开！",
-     "author": "laozhu",
-     "repo": "https://github.com/LaoZhuJackson/astrbot_plugin_douniuniu",
-     "tags": ["游戏"],
-     "social_link": "https://qm.qq.com/q/F7JTfmpsys"
+    "desc": "QQ 群小游戏，培养你的牛牛，然后塔塔开！",
+    "author": "laozhu",
+    "repo": "https://github.com/LaoZhuJackson/astrbot_plugin_douniuniu",
+    "tags": ["游戏"],
+    "social_link": "https://qm.qq.com/q/F7JTfmpsys"
   },
   "astrbot_plugin_no_dragon_lord": {
     "desc": "anka - 禁止机器人抢龙王! 龙王一定要是人类 ✍️✍️✍️✍️✍️✍️✍️✍️ 😭😭😭😭😭😭😭😭 - 请前往设置白名单(默认全部群启用) - 提供分段回复容错设置",
