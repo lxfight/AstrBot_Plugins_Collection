@@ -10,6 +10,18 @@
     "repo": "https://github.com/Qoo-330ml/astrbot_plugin_media302-save",
     "desc": "media302 软件的 115 转存插件，可以提交 115 链接给机器人，机器人自动转存到 115 网盘"
   },
+  "astrbot_plugin_jrrp": {
+    "author": "exusiaiwei",
+    "repo": "https://github.com/exusiaiwei/astrbot_plugin_jrrp",
+    "desc": "一个简单的今日人品插件, 可以查询用户的每日人品值和运势。"
+  },
+  "astrbot_plugin_zanwo": {
+    "author": "Futureppo",
+    "tags": ["名片赞"],
+    "desc": "[仅QQ] 赞我！（一个名片点赞插件）需要配置！！仔细阅读 README.md"
+    "social_link": "https://github.com/Futureppo",
+    "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo"
+  },
   "astrbot_plugin_ehentai_bot": {
     "desc": "适配 AstrBot 的 E-Hentai 画廊转 PDF 插件",
     "author": "drdon1234",
@@ -40,6 +52,20 @@
     "author": "hello七七",
     "repo": "https://github.com/ttq7/doro_ending",
     "social_link": "https://github.com/ttq7/doro_ending"
+  },
+  "astrbot_plugin_get_weather_msg": {
+    "author": "whzc",
+    "repo": "https://github.com/whzcc/astrbot_plugin_get_weather_msg",
+    "desc": "集成了 AI 功能。通过和风天气 API 和阿里云百炼，在检测到聊天消息中出现特定文本时生成一张某地的12小时天气预报图",
+    "tags": ["天气"],
+    "social_link": "https://github.com/whzcc"
+  },
+  "astrbot_plugin_get_weather_cmd": {
+    "author": "whzc",
+    "repo": "https://github.com/whzcc/astrbot_plugin_get_weather_cmd",
+    "desc": "通过简单的指令查询天气：获取12小时的天气并生成一张图片",
+    "tags": ["天气"],
+    "social_link": "https://github.com/whzcc"
   },
   "astrbot_plugin_appreview": {
     "desc": "这是一个可以通过关键词来同意或拒绝进入群聊的插件。",
