@@ -211,7 +211,8 @@
     "author": "IGCrystal",
     "repo": "https://github.com/IGCrystal/AstrBot_plugin_Ewords",
     "social_link": "https://github.com/IGCrystal/AstrBot_plugin_Ewords",
-    "tags": ["CET-4", "英语"]
+    "tags": ["CET-4", "英语"],
+    "pinned": true
   },
   "astrbot_plugin_weather_wttr_in": {
     "desc": "使用 wttr.in 查询天气（llm工具）",
@@ -457,7 +458,8 @@
     "author": "Raven95676",
     "desc": "基于 Webhook 的轻量级推送插件(通过 RESTful 接口)。理论支持除 QQ官方API 外的所有平台，已测试 Telegram、QQ、微信、飞书。",
     "repo": "https://github.com/Raven95676/astrbot_plugin_push_lite",
-    "tags": ["消息推送"]
+    "tags": ["消息推送"],
+    "pinned": true
   },
   "astrbot_plugin_hello77": {
     "author": "hello七七",
@@ -890,8 +892,7 @@
   "astrbot_plugin_cr4zyThursday": {
     "desc": "疯狂星期四！",
     "author": "w33d",
-    "repo": "https://github.com/Last-emo-boy/astrbot_plugin_cr4zyThursday",
-    "pinned": true
+    "repo": "https://github.com/Last-emo-boy/astrbot_plugin_cr4zyThursday"
   },
   "astrbot_plugin_buckshot_roulette": {
     "desc": "一个好玩的简单恶魔轮盘",
@@ -1041,8 +1042,7 @@
   "astrbot_plugin_web_searcher_pro": {
     "desc": "基于SearXNG的Web搜索插件",
     "author": "buding",
-    "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro",
-    "pinned": true
+    "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro"
   },
   "astrbot_plugin_memeify": {
     "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
