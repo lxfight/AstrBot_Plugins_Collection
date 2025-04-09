@@ -1,4 +1,15 @@
 {
+  "astrbot_plugin_anime_search": {
+    "author": "xiamuceer-j",
+    "repo": "https://github.com/xiamuceer-j/astrbot_plugin_anime_search",
+    "desc": "次世代动漫检索工具，打破次元壁的追番体验！",
+    "tags": ["AGE"]
+  },
+  "astrbot_plugin_media302-save": {
+    "author": "Qoo",
+    "repo": "https://github.com/Qoo-330ml/astrbot_plugin_media302-save",
+    "desc": "media302 软件的 115 转存插件，可以提交 115 链接给机器人，机器人自动转存到 115 网盘"
+  },
   "astrbot_plugin_ehentai_bot": {
     "desc": "适配 AstrBot 的 E-Hentai 画廊转 PDF 插件",
     "author": "drdon1234",
