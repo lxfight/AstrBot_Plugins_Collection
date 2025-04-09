@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_ehentai_bot": {
+    "desc": "适配 AstrBot 的 E-Hentai 画廊转 PDF 插件",
+    "author": "drdon1234",
+    "repo": "https://github.com/drdon1234/astrbot_plugin_ehentai_bot",
+    "tags": ["ehentai"]
+  },
   "astrbot_plugin_reread": {
     "desc": "不依赖任何数据库的群聊复读姬，可单独设置文本、图片、表情、At消息的复读阈值，可设置复读概率，可要求消息要来自不同人，可设置违禁词",
     "author": "Zhalslar",
