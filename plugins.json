@@ -1,4 +1,51 @@
 {
+  "astrbot_plugin_dajiao": {
+    "author": "灵煞",
+    "repo": "https://github.com/tenno1174/astrbot_plugin_dajiao",
+    "desc": "给你生成一次随机打胶结果",
+    "tags": ["娱乐", "恶搞"]
+  },
+  "astrbot_plugin_ccb": {
+    "author": "灵煞",
+    "repo": "https://github.com/tenno1174/astrbot_plugin_ccb",
+    "desc": "[仅aiocqhttp] 和QQ群友CCB",
+    "tags": ["娱乐", "恶搞"]
+  },
+  "astrbot_plugin_showmejm": {
+    "author": "exneverbur, drdon1234",
+    "repo": "https://github.com/drdon1234/astrbot_plugin_showmejm",
+    "desc": "[仅aiocqhttp] 适配 AstrBot 的 JM本子 转 PDF 插件，搜漫画，下漫画，看随机漫画！本人仅做平台移植，原作者：exneverbur，原项目：exneverbur/ShowMeJM",
+    "tags": ["jm"]
+  },
+  "astrbot_plugin_gscore_adapter": {
+    "author": "KimigaiiWuyi",
+    "repo": "https://github.com/KimigaiiWuyi/astrbot_plugin_gscore_adapter",
+    "desc": "用于链接SayuCore（早柚核心）的适配器！适用于多种游戏功能, 原神、星铁、绝区零、鸣朝、雀魂等游戏的最佳工具箱！",
+    "tags": ["早柚核心", "原神", "鸣潮", "雀魂", "绝区零"],
+    "social_link": "https://docs.sayu-bot.com/"
+  },
+  "astrbot_plugin_xyzw": {
+    "author": "四郎",
+    "repo": "https://github.com/XuYingJie-cmd/astrbot_plugin_xyzw",
+    "desc": "[仅gewechat]主要用于咸鱼之王OCR识别算鱼罐子宝箱功能"
+  },
+  "astrbot_plugin_alist": {
+    "author": "arikacips",
+    "repo": "https://github.com/yukikazechan/astrbot_plugin_alist",
+    "desc": "一个用于与 Alist 交互的 AstrBot 插件，提供文件搜索、存储管理等功能。",
+    "tags": ["alist"]
+  },
+  "astrbot_plugin_showme_xjj": {
+    "author": "drdon1234",
+    "repo": "https://github.com/drdon1234/astrbot_plugin_showme_xjj",
+    "desc": "[仅aiocqhttp] 随机小姐姐美图短视频",
+    "tags": ["短视频", "美图"]
+  },
+  "astrbot_plugin_60s_news": {
+    "author": "Flyinsz",
+    "repo": "https://github.com/flyinsz/astrbot_plugin_60s_news",
+    "desc": "[仅gewechat] 60s国内新闻"
+  },
   "astrbot_plugin_anime_search": {
     "author": "xiamuceer-j",
     "repo": "https://github.com/xiamuceer-j/astrbot_plugin_anime_search",
