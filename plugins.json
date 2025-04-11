@@ -1,4 +1,17 @@
 {
+  "astrbot_portainer_plugin": {
+    "author": "RC-CHN",
+    "repo": "https://github.com/RC-CHN/astrbot_portainer_plugin",
+    "desc": "使用astrbot连接portainer实例进行简单的容器管理功能",
+    "tags": ["容器", "工具"]
+  },
+  "astrbot_plugin_goldprice": {
+    "author": "waterfeet",
+    "repo": "https://github.com/waterfeet/astrbot_plugin_goldprice",
+    "desc": "获取实时国内黄金价格",
+    "tags": ["爬虫"],
+    "social_link": "https://github.com/waterfeet"
+  },
   "astrbot_plugin_dajiao": {
     "author": "灵煞",
     "repo": "https://github.com/tenno1174/astrbot_plugin_dajiao",
