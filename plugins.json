@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_sensoji_pro": {
+    "author": "xiamuceer-j",
+    "repo": "https://github.com/xiamuceer-j/astrbot_plugin_sensoji_pro",
+    "desc": "这是一个基于 AstrBot 框架的浅草寺抽签-PRO插件，模拟日本浅草寺的抽签功能。用户可以通过发送命令随机抽取签文，获得运势提示。",
+    "tags": ["抽签"]
+  },
   "astrbot_portainer_plugin": {
     "author": "RC-CHN",
     "repo": "https://github.com/RC-CHN/astrbot_portainer_plugin",
