@@ -1,4 +1,41 @@
 {
+  "FavorSystem": {
+    "author": "wuyan1003",
+    "repo": "https://github.com/wuyan1003/likability-level",
+    "desc": "给聊天增加了一个好感度值，靠检测 LLM 输出特殊的值来实现，让 LLM 来判断好感度的上升或下降，并且过低的好感度值会被机器人自动拉黑，有管理员身份来自定义好感度值以及拉黑或移除用户（轻微防止被群U玩坏）"
+  },
+  "astrbot_plugin_password": {
+    "author": "Zhalslar",
+    "desc": "忘记密码了？可用本插件强制修改 AstrBot 面板的用户名、密码（仅管理员可用）",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_password",
+    "tags": ["工具", "密码"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_password"
+  },
+  "astrbot_plugin_douyin_bot": {
+    "author": "drdon1234",
+    "desc": "[仅QQ] 自动识别抖音视频链接并转换为直链发送",
+    "repo": "https://github.com/drdon1234/astrbot_plugin_douyin_bot",
+    "tags": ["抖音", "视频解析"]
+  },
+  "meanig": {
+    "author": "hello七七",
+    "repo": "https://github.com/ttq7/meanig",
+    "social_link": "https://github.com/ttq7/meanig",
+    "desc": "大锅里炖（小游戏等等超 25 个功能！）"
+  },
+  "astrbot_plugin_openweaponscase": {
+    "author": "luooka",
+    "repo": "https://github.com/luooka/astrbot_plugin_openweaponscase",
+    "tags": ["CS", "开箱"],
+    "desc": "CS 武器箱开箱模拟支持大量目前已有的武器箱，可以展示开启物品的图案和对应的磨损"
+  },
+  "astrbot_plugin_gallery": {
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_gallery",
+    "desc": "【本地图库管理器】-帮助用户组建、管理、调用本地图库，可用于表情包收集管理、图床管理、为其他插件提供动态图库等等",
+    "tags": ["图库"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery"
+  },
   "astrbot_plugin_sensoji_pro": {
     "author": "xiamuceer-j",
     "repo": "https://github.com/xiamuceer-j/astrbot_plugin_sensoji_pro",
