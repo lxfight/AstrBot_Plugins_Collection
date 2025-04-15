@@ -1,4 +1,27 @@
 {
+  "astrbot_plugin_gotify": {
+    "repo": "https://github.com/BetaCatX/astrbot_plugin_gotify",
+    "author": "BetaCat",
+    "desc": "监听 Gotify 服务器的消息，并推送给消息平台",
+    "tags": ["通知", "主动消息"]
+  },
+  "astrbot_plugin_hello-bye": {
+    "author": "tinker",
+    "desc": "[仅aiocqhttp] 为用户进群退群发送信息提示",
+    "repo": "https://github.com/1113-yangfanou/astrbot_plugin_hello-bye",
+  },
+  "astrbot_plugin_pexels": {
+    "author": "xiamuceer-j",
+    "desc": "Pexels 精选图片插件，用于从 Pexels.com 获取高质量的免费精选图片。",
+    "repo": "https://github.com/xiamuceer-j/astrbot_plugin_pexels",
+    "tags": ["Pexels"]
+  },
+  "astrbot_plugin_ExchangeRateQuery": {
+    "author": "MoonShadow1976",
+    "desc": "基于 ExchangeRate 的实时货币汇率查询插件",
+    "tags": ["ExchangeRate"],
+    "repo": "https://github.com/MoonShadow1976/astrbot_plugin_ExchangeRateQuery"
+  },
   "astrbot_plugin_grok_filter": {
     "author": "Cheng-MaoMao",
     "repo": "https://github.com/Cheng-MaoMao/astrbot_plugin_grok_filter",
