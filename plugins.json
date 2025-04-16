@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_pixiv_search": {
+    "repo": "https://github.com/vmoranv/astrbot_plugin_pixiv_search",
+    "author": "vmoranv",
+    "desc": "通过 Pixiv API 搜索插画、小说、用户、排行榜等。支持不适宜内容过滤、代理和随机结果。"
+    "tags": ["pixiv"]
+  },
   "astrbot_plugin_gotify": {
     "repo": "https://github.com/BetaCatX/astrbot_plugin_gotify",
     "author": "BetaCat",
