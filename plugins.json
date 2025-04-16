@@ -149,7 +149,7 @@
   "astrbot_plugin_zanwo": {
     "author": "Futureppo",
     "tags": ["名片赞"],
-    "desc": "[仅QQ] 赞我！（一个名片点赞插件）需要配置！！仔细阅读 README.md",
+    "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo"
   },
