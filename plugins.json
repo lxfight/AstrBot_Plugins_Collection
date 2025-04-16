@@ -8,7 +8,7 @@
   "astrbot_plugin_hello-bye": {
     "author": "tinker",
     "desc": "[仅aiocqhttp] 为用户进群退群发送信息提示",
-    "repo": "https://github.com/1113-yangfanou/astrbot_plugin_hello-bye",
+    "repo": "https://github.com/1113-yangfanou/astrbot_plugin_hello-bye"
   },
   "astrbot_plugin_pexels": {
     "author": "xiamuceer-j",
