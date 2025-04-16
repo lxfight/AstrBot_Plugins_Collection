@@ -24,42 +24,14 @@ jobs:
           sudo apt-get install jq
           jq . plugins.json > /dev/null
 
-      - name: Check only changed repository URLs
+      - name: Check repository URLs
         run: |
-          # 获取前一个版本的 plugins.json 文件
-          if [ "${{ github.event_name }}" == "pull_request" ]; then
-            # 对于 PR，比较目标分支与当前分支
-            git show "origin/${{ github.base_ref }}:plugins.json" > previous_plugins.json || echo "[]" > previous_plugins.json
-          else
-            # 对于推送，比较前一个提交
-            git show HEAD~1:plugins.json > previous_plugins.json || echo "[]" > previous_plugins.json
-          fi
-
-          # 提取当前版本的所有 repo
-          current_repos=$(jq -r '.. | objects | .repo? // empty' plugins.json)
-          # 提取前一个版本的所有 repo
-          previous_repos=$(jq -r '.. | objects | .repo? // empty' previous_plugins.json)
-
-          # 找出新增或修改的 repo
-          changed_repos=()
-          for repo in $current_repos; do
-            if ! echo "$previous_repos" | grep -q "^$repo$"; then
-              changed_repos+=("$repo")
-            fi
-          done
-
-          # 如果没有变化的 repo，输出消息并退出
-          if [ ${#changed_repos[@]} -eq 0 ]; then
-            echo "No repository URLs were added or modified. Skipping checks."
-            exit 0
-          fi
-
-          echo "Checking ${#changed_repos[@]} changed or new repositories..."
-
-          # 检查变化的 repo 的可访问性
+          # 提取 plugins.json 中的 repo 字段并检查可访问性
+          repos=$(jq -r '.. | objects | .repo? // empty' plugins.json)
           unreachable_urls=() # 初始化一个数组用于记录不可访问的 URL
-
-          for repo in "${changed_repos[@]}"; do
+      
+          for repo in $repos; do
+            if curl --output /dev/null --silent --head --fail "$repo"; then
             sleep 1
             if curl --output /dev/null --silent --head --fail --retry 3 "$repo"; then
               echo "Repository $repo is accessible."
@@ -68,7 +40,7 @@ jobs:
               unreachable_urls+=("$repo") # 将不可访问的 URL 添加到数组
             fi
           done
-
+      
           # 检查是否有不可访问的 URL
           if [ ${#unreachable_urls[@]} -ne 0 ]; then
             echo "The following repositories are NOT accessible:"
@@ -77,5 +49,5 @@ jobs:
             done
             exit 1 # 结束运行并标记失败状态
           else
-            echo "All changed repositories are accessible."
+            echo "All repositories are accessible."
           fi
