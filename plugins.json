@@ -1,9 +1,80 @@
 {
-  "astrbot_plugin_ccb_plus": {
-    "author": "Koikokokokoro",
-    "repo": "https://github.com/Koikokokokoro/astrbot_plugin_ccb_plus",
-    "desc": "[仅 aiocqhttp]基于 灵煞 / ccb 的 和QQ群群友发生赛博sex的插件的改进版。",
-    "tags": ["ccb"]
+  "astrbot-gold-plugin": {
+    "repo": "https://github.com/RC-CHN/astrbot-gold-plugin",
+    "author": "RC-CHN",
+    "desc": "从招商银行 API 接口获取实时金价",
+    "tags": ["黄金", "理财"]
+  },
+  "astrbot_plugin_pixiv_search": {
+    "repo": "https://github.com/vmoranv/astrbot_plugin_pixiv_search",
+    "author": "vmoranv",
+    "desc": "通过 Pixiv API 搜索插画、小说、用户、排行榜等。支持不适宜内容过滤、代理和随机结果。",
+    "tags": ["pixiv"]
+  },
+  "astrbot_plugin_gotify": {
+    "repo": "https://github.com/BetaCatX/astrbot_plugin_gotify",
+    "author": "BetaCat",
+    "desc": "监听 Gotify 服务器的消息，并推送给消息平台",
+    "tags": ["通知", "主动消息"]
+  },
+  "astrbot_plugin_hello-bye": {
+    "author": "tinker",
+    "desc": "[仅aiocqhttp] 为用户进群退群发送信息提示",
+    "repo": "https://github.com/1113-yangfanou/astrbot_plugin_hello-bye"
+  },
+  "astrbot_plugin_pexels": {
+    "author": "xiamuceer-j",
+    "desc": "Pexels 精选图片插件，用于从 Pexels.com 获取高质量的免费精选图片。",
+    "repo": "https://github.com/xiamuceer-j/astrbot_plugin_pexels",
+    "tags": ["Pexels"]
+  },
+  "astrbot_plugin_ExchangeRateQuery": {
+    "author": "MoonShadow1976",
+    "desc": "基于 ExchangeRate 的实时货币汇率查询插件",
+    "tags": ["ExchangeRate"],
+    "repo": "https://github.com/MoonShadow1976/astrbot_plugin_ExchangeRateQuery"
+  },
+  "astrbot_plugin_grok_filter": {
+    "author": "Cheng-MaoMao",
+    "repo": "https://github.com/Cheng-MaoMao/astrbot_plugin_grok_filter",
+    "desc": "过滤 grok-3-reasoner 推理模型的思维链内容"
+  },
+  "FavorSystem": {
+    "author": "wuyan1003",
+    "repo": "https://github.com/wuyan1003/likability-level",
+    "desc": "给聊天增加了一个好感度值，靠检测 LLM 输出特殊的值来实现，让 LLM 来判断好感度的上升或下降，并且过低的好感度值会被机器人自动拉黑，有管理员身份来自定义好感度值以及拉黑或移除用户（轻微防止被群U玩坏）"
+  },
+  "astrbot_plugin_password": {
+    "author": "Zhalslar",
+    "desc": "忘记密码了？可用本插件强制修改 AstrBot 面板的用户名、密码（仅管理员可用）",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_password",
+    "tags": ["工具", "密码"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_password"
+  },
+  "astrbot_plugin_douyin_bot": {
+    "author": "drdon1234",
+    "desc": "[仅QQ] 自动识别抖音视频链接并转换为直链发送",
+    "repo": "https://github.com/drdon1234/astrbot_plugin_douyin_bot",
+    "tags": ["抖音", "视频解析"]
+  },
+  "meanig": {
+    "author": "hello七七",
+    "repo": "https://github.com/ttq7/meanig",
+    "social_link": "https://github.com/ttq7/meanig",
+    "desc": "大锅里炖（小游戏等等超 25 个功能！）"
+  },
+  "astrbot_plugin_openweaponscase": {
+    "author": "luooka",
+    "repo": "https://github.com/luooka/astrbot_plugin_openweaponscase",
+    "tags": ["CS", "开箱"],
+    "desc": "CS 武器箱开箱模拟支持大量目前已有的武器箱，可以展示开启物品的图案和对应的磨损"
+  },
+  "astrbot_plugin_gallery": {
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_gallery",
+    "desc": "【本地图库管理器】-帮助用户组建、管理、调用本地图库，可用于表情包收集管理、图床管理、为其他插件提供动态图库等等",
+    "tags": ["图库"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery"
   },
   "astrbot_plugin_sensoji_pro": {
     "author": "xiamuceer-j",
@@ -90,7 +161,7 @@
   "astrbot_plugin_zanwo": {
     "author": "Futureppo",
     "tags": ["名片赞"],
-    "desc": "[仅QQ] 赞我！（一个名片点赞插件）需要配置！！仔细阅读 README.md",
+    "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo"
   },
@@ -233,14 +304,14 @@
     "tags": ["游戏"]
   },
   "astrbot_plugin_QQProfile": {
-    "desc": "[仅aiocqhttp]配置QQ机器人的头像、昵称、签名、状态，查看点赞列表、清除未读等等",
+    "desc": "[仅aiocqhttp]配置bot的头像、昵称、签名、状态、机型等QQ资料",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
     "tags": ["QQ资料"],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQProfile"
   },
   "astrbot_plugin_mcping": {
-    "desc": "获取 Minecraft JE/BE 服务器 Motd 图片信息",
+    "desc": "获取 Minecraft 服务器的状态（图片展示版）",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_mcping",
     "tags": ["Minecraft"],
@@ -457,7 +528,7 @@
     "social_link": "https://github.com/Ayachi2225"
   },
   "astrbot_plugin_history_day": {
-    "desc": "查看历史上的某天发生的大事(历史上的今天的增强版)",
+    "desc": "查看 历史上的某天 发生的大事 (历史上的今天的增强版)",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_history_day",
     "tags": ["历史"],
@@ -532,28 +603,21 @@
     "repo": "https://github.com/zengweis/astrbot_plugin_Translation"
   },
   "astrbot_plugin_box": {
-    "desc": "拉取用户 QQ 主页信息并以图片形式展示",
+    "desc": "开盒插件！拉取QQ用户信息并展示信息卡片",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_box",
     "tags": ["功能"],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box"
   },
-  "astrbot-plugin-today-in-history": {
-    "desc": "查看 历史上的今天 都发生了什么大事",
-    "author": "Zhalslar",
-    "tags": ["历史"],
-    "social_link": "https://github.com/Zhalslar/astrbot_plugin_yuafeng_today_in_history",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_yuafeng_today_in_history"
-  },
   "astrbot_plugin_yuafeng": {
-    "desc": "对接枫林API提供的接口，为astrbot提供丰富多彩的功能，如随机发短视频、图片、音频、文案，翻译文本、查ip等等",
+    "desc": "对接枫林API提供的接口，随机发 美女视频、帅哥视频、精美图片、逆天音频、伤感文案等等",
     "author": "Zhalslar",
     "tags": ["枫林API"],
     "repo": "https://github.com/Zhalslar/astrbot_plugin_yuafeng",
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_yuafeng"
   },
   "astrbot_plugin_relationship": {
-    "desc": "[仅 aiocqhttp]查看 QQ 加的所有好友、群聊的信息",
+    "desc": "[仅aiocqhttp] bot人际关系管理器！包括查看好友列表、查看群列表、审批好友申请、审批群邀请、删好友、退群",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_relationship",
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_relationship",
