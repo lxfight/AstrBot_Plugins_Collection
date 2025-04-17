@@ -1,4 +1,10 @@
 {
+  "astrbot-gold-plugin": {
+    "repo": "https://github.com/RC-CHN/astrbot-gold-plugin",
+    "author": "RC-CHN",
+    "desc": "从招商银行 API 接口获取实时金价",
+    "tags": ["黄金", "理财"]
+  },
   "astrbot_plugin_pixiv_search": {
     "repo": "https://github.com/vmoranv/astrbot_plugin_pixiv_search",
     "author": "vmoranv",
