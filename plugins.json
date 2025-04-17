@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_ccb_plus": {
+    "author": "Koikokokokoro",
+    "repo": "https://github.com/Koikokokokoro/astrbot_plugin_ccb_plus",
+    "desc": "[仅 aiocqhttp]基于 灵煞 / ccb 的 和QQ群群友发生赛博sex的插件的改进版。",
+    "tags": ["ccb"]
+  },
   "astrbot-gold-plugin": {
     "repo": "https://github.com/RC-CHN/astrbot-gold-plugin",
     "author": "RC-CHN",
