@@ -40,14 +40,14 @@
     "tags": ["游戏"]
   },
   "astrbot_plugin_QQProfile": {
-    "desc": "[仅aiocqhttp]配置QQ机器人的头像、昵称、签名、状态，查看点赞列表、清除未读等等",
+    "desc": "[仅aiocqhttp]配置bot的头像、昵称、签名、状态、机型等QQ资料",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
     "tags": ["QQ资料"],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQProfile"
   },
   "astrbot_plugin_mcping": {
-    "desc": "获取 Minecraft JE/BE 服务器 Motd 图片信息",
+    "desc": "获取 Minecraft 服务器的状态（图片展示版）",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_mcping",
     "tags": ["Minecraft"],
@@ -263,7 +263,7 @@
     "social_link": "https://github.com/Ayachi2225"
   },
   "astrbot_plugin_history_day": {
-    "desc": "查看历史上的某天发生的大事(历史上的今天的增强版)",
+    "desc": "查看 历史上的某天 发生的大事 (历史上的今天的增强版)",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_history_day",
     "tags": ["历史"],
@@ -338,28 +338,21 @@
     "repo": "https://github.com/zengweis/astrbot_plugin_Translation"
   },
   "astrbot_plugin_box": {
-    "desc": "拉取用户 QQ 主页信息并以图片形式展示",
+    "desc": "开盒插件！拉取QQ用户信息并展示信息卡片",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_box",
     "tags": ["功能"],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box"
   },
-  "astrbot-plugin-today-in-history": {
-    "desc": "查看 历史上的今天 都发生了什么大事",
-    "author": "Zhalslar",
-    "tags": ["历史"],
-    "social_link": "https://github.com/Zhalslar/astrbot_plugin_yuafeng_today_in_history",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_yuafeng_today_in_history"
-  },
   "astrbot_plugin_yuafeng": {
-    "desc": "对接枫林API提供的接口，为astrbot提供丰富多彩的功能，如随机发短视频、图片、音频、文案，翻译文本、查ip等等",
+    "desc": "对接枫林API提供的接口，随机发 美女视频、帅哥视频、精美图片、逆天音频、伤感文案等等",
     "author": "Zhalslar",
     "tags": ["枫林API"],
     "repo": "https://github.com/Zhalslar/astrbot_plugin_yuafeng",
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_yuafeng"
   },
   "astrbot_plugin_relationship": {
-    "desc": "[仅 aiocqhttp]查看 QQ 加的所有好友、群聊的信息",
+    "desc": "[仅aiocqhttp] bot人际关系管理器！包括查看好友列表、查看群列表、审批好友申请、审批群邀请、删好友、退群",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_relationship",
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_relationship",
