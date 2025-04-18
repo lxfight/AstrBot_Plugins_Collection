@@ -1,4 +1,37 @@
 {
+  "astrbot_plugin_turnrig": {
+    "author": "WentUrc",
+    "desc": "[仅 aiocqhttp]监听不同会话，并转发至另一个会话，你也可以当作反撤回使用。更多请阅读仓库文档。",
+    "repo": "https://github.com/WentUrc/astrbot_plugin_turnrig",
+    "tags": ["工具"],
+    "social_link": "https://wenturc.com/"
+  },
+  "astrbot_plugin_status-pro": {
+    "author": "tiker",
+    "desc": "[需要安装前置]稍微好看一点的系统信息展示",
+    "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_status-pro"
+  },
+  "astrbot_plugin_group_sum_ai": {
+    "author": "Ayu-u",
+    "desc": "[仅 gewechat]可以配置指定群聊或对话人，配置自动总结数量，间隔等等，实现自动根据配置总结群友发言，省的海量无用信息浪费时间",
+    "repo": "https://github.com/Ayu-u/astrbot_plugin_group_sum_ai"
+  },
+  "astrbot_plugin_video": {
+    "author": "大白致远",
+    "desc": "小姐姐视频随机获取",
+    "repo": "https://github.com/guowenye/astrbot_plugin_video",
+    "tags": ["小姐姐"]
+  },
+  "astrbot_plugin_repeat_after_me": {
+    "author": "和泉智宏",
+    "desc": "一个简单的跟读插件，当用户@机器人并发送'跟我说xxx'时，机器人会复读'xxx'中的内容。只支持文字的消息。本插件仅在群聊中生效。参考astrbot_plugin_astrbot_plugin_repetition。",
+    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_repeat_after_me"
+  },
+  "astrbot_plugin_mirage": {
+    "author": "大沙北",
+    "desc": "[仅 qq] 幻影坦克制作",
+    "repo": "https://github.com/bigshabei/astrbot_plugin_mirage"
+  },
   "astrbot_plugin_ccb_plus": {
     "author": "Koikokokokoro",
     "repo": "https://github.com/Koikokokokoro/astrbot_plugin_ccb_plus",
