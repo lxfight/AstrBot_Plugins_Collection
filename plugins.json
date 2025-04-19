@@ -21,7 +21,7 @@
     "author": "大沙北",
     "desc": "简单的五子棋对战游戏",
     "repo": "https://github.com/bigshabei/astrbot_plugin_wuziqi"
-=======
+  },
   "astrbot_plugin_dogdiary": {
     "repo": "https://github.com/bigshabei/astrbot_plugin_dogdiary",
     "author": "大沙北",
@@ -32,7 +32,6 @@
     "author": "wayzinx",
     "desc": "食物推荐插件，可以根据时间、天气和季节智能推荐食物，并使用 AI 生成食物图片和描述",
     "social_link": "https://github.com/Wayzinx"
->>>>>>> origin/HEAD
   },
   "astrbot_plugin_turnrig": {
     "author": "WentUrc",
