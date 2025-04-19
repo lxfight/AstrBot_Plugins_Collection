@@ -1,4 +1,27 @@
 {
+  "astrbot_plugin_a2s": {
+    "author": "ZvZPvz",
+    "desc": "这是 AstrBot 的A2S查询插件。",
+    "repo": "https://github.com/ZvZPvz/astrbot_plugin_a2s",
+    "tags": ["工具"]
+  },
+  "astrbot_plugin_llmgo": {
+    "author": "Jason.Joestar",
+    "desc": "这是一个围棋插件，允许用户与 LLM 进行围棋对弈",
+    "repo": "https://github.com/advent259141/astrbot_plugin_llmgo",
+    "tags": ["围棋"],
+    "social_link": "https://github.com/advent259141"
+  },
+  "astrbot_plugin_fuck": {
+    "author": "vmoranv",
+    "desc": "一个为 AstrBot 设计的命令纠错插件，灵感来源于著名的命令行工具 thefuck。当你不小心输错了一个命令时（例如 /pixic 而不是 /pixiv），只需紧接着发送 /fuck，此插件就会尝试找出你可能想输入的正确命令，并给出建议。",
+    "repo": "https://github.com/vmoranv/astrbot_plugin_fuck"
+  },
+  "astrbot_plugin_wuziqi": {
+    "author": "大沙北",
+    "desc": "简单的五子棋对战游戏",
+    "repo": "https://github.com/bigshabei/astrbot_plugin_wuziqi"
+  },
   "astrbot_plugin_turnrig": {
     "author": "WentUrc",
     "desc": "[仅 aiocqhttp]监听不同会话，并转发至另一个会话，你也可以当作反撤回使用。更多请阅读仓库文档。",
