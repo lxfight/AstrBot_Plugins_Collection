@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_dogdiary": {
+    "repo": "https://github.com/bigshabei/astrbot_plugin_dogdiary",
+    "author": "大沙北",
+    "desc": "连续性舔狗日记，每日一记（可以生成临时日记）"
+  },
   "astrbot-food-recommender": {
     "repo": "https://github.com/Wayzinx/astrbot-food-recommender",
     "author": "wayzinx",
