@@ -1,4 +1,10 @@
 {
+  "astrbot-food-recommender": {
+    "repo": "https://github.com/Wayzinx/astrbot-food-recommender",
+    "author": "wayzinx",
+    "desc": "食物推荐插件，可以根据时间、天气和季节智能推荐食物，并使用 AI 生成食物图片和描述",
+    "social_link": "https://github.com/Wayzinx"
+  },
   "astrbot_plugin_turnrig": {
     "author": "WentUrc",
     "desc": "[仅 aiocqhttp]监听不同会话，并转发至另一个会话，你也可以当作反撤回使用。更多请阅读仓库文档。",
