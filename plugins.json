@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_tarot": {
+    "author": "XziXmn",
+    "desc": "一个基于 AstrBot 框架的塔罗牌占卜插件，支持多牌阵和单张牌占卜，并通过 AI 生成详细解析。",
+    "repo": "https://github.com/XziXmn/astrbot_plugin_tarot"
+  },
   "astrbot_plugin_a2s": {
     "author": "ZvZPvz",
     "desc": "这是 AstrBot 的A2S查询插件。",
