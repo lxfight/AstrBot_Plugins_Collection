@@ -1,4 +1,24 @@
 {
+  "astrbot_plugin_OriginiumSeal": {
+    "author": "FengYing",
+    "desc": "[仅 aiocqhttp] 将用户的头像添加源石封印效果。(ps:明日方舟)",
+    "repo": "https://github.com/FengYing1314/astrbot_plugin_OriginiumSeal",
+    "tags": ["娱乐"],
+    "social_link": "https://github.com/FengYing1314/"
+  },
+  "astrbot_plugin_Minesweeper": {
+    "author": "Jason.Joestar",
+    "desc": "简单的扫雷小游戏",
+    "repo": "https://github.com/advent259141/astrbot_plugin_Minesweeper",
+    "tags": ["扫雷", "娱乐"],
+    "social_link": "https://github.com/advent259141"
+  },
+  "astrbot_plugin_uptime_kuma_puller": {
+    "author": "Henry_Du / bananaxiao2333",
+    "desc": "拉取UptimeKuma监控面板中的服务器状态",
+    "repo": "https://github.com/HenryDu8133/astrbot_plugin_uptime_kuma_puller",
+    "tags": ["信息", "监控面板"]
+  },
   "astrbot_plugin_tarot": {
     "author": "XziXmn",
     "desc": "一个基于 AstrBot 框架的塔罗牌占卜插件，支持多牌阵和单张牌占卜，并通过 AI 生成详细解析。",
