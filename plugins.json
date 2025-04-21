@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_group_information": {
+    "author": "Futureppo",
+    "desc": "[仅 aiocqhttp] 导出QQ群成员信息为Excel表格",
+    "repo": "https://github.com/Futureppo/astrbot_plugin_group_information",
+    "tags": ["群消息"],
+    "social_link": "https://github.com/Futureppo"
+  },
   "astrbot_plugin_OriginiumSeal": {
     "author": "FengYing",
     "desc": "[仅 aiocqhttp] 将用户的头像添加源石封印效果。(ps:明日方舟)",
