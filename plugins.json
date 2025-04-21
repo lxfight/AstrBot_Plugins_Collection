@@ -527,12 +527,6 @@
     "repo": "https://github.com/xiewoc/astrbot_plugin_file_reader",
     "social_link": "https://github.com/xiewoc"
   },
-  "emoji_merge": {
-    "desc": "Emoji 融合。例子: 发送 /合成 😰 😨（Emoji 间需加空格）",
-    "author": "hello七七",
-    "social_link": "https://github.com/ttq7/emoji-",
-    "repo": "https://github.com/ttq7/emoji-"
-  },
   "encrypt-and-decrypt": {
     "desc": "将明文加密为我要吃饭四个字组成的密文",
     "author": "Yuki Soffd",
