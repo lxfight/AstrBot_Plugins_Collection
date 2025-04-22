@@ -1,4 +1,11 @@
 {
+  "AstrBot_chishenme": {
+    "author": "明日香奈",
+    "desc": "当用户发送的消息中包含关键词“吃什么”时，机器人会自动回复一段预设的文本。",
+    "repo": "https://github.com/mingrixiangnai/chishenme",
+    "tags": ["聊天","娱乐","信息"],
+    "social_link": "https://github.com/mingrixiangnai/chishenme"
+  },
   "astrbot_plugin_osutrack": {
     "author": "gameswu",
     "desc": "基于osu!track与osu!官方api实现的包含osu!成绩上传，谱面查询等功能的插件",
