@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_osutrack": {
+    "author": "gameswu",
+    "desc": "基于osu!track与osu!官方api实现的包含osu!成绩上传，谱面查询等功能的插件",
+    "repo": "https://github.com/gameswu/astrbot_plugin_osutrack",
+    "tags": ["osu!", "osu!track"],
+    "social_link": "https://github.com/gameswu"
+  },
   "astrbot_plugin_group_information": {
     "author": "Futureppo",
     "desc": "[仅 aiocqhttp] 导出QQ群成员信息为Excel表格",
