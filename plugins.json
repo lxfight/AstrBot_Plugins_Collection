@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_llm_draw_plus": {
+    "author": "喵喵",
+    "desc": "让llm自主使用硅基流动的sd3.5及flux.1绘图",
+    "repo": "https://github.com/miaoxutao123/astrbot_plugin_llm_draw_plus",
+    "tags": ["ai绘图","llm tool"]
+  },
   "astrbot_plugin_mcqq": {
     "author": "kterna",
     "desc": "[仅 aiocqhttp]使用鹊桥连接minecraft服务器和群聊",
