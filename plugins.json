@@ -1,9 +1,29 @@
 {
-  "AstrBot_chishenme": {
+  "astrbot_plugin_mcqq": {
+    "author": "kterna",
+    "desc": "[仅 aiocqhttp]使用鹊桥连接minecraft服务器和群聊",
+    "repo": "https://github.com/kterna/astrbot_plugin_mcqq",
+    "tags": ["minecraft", "游戏"]
+  },
+  "astrbot_plugin_Group-Verification": {
+    "author": "huotuo146",
+    "desc": "[仅 aiocqhttp]一个简单高效的QQ群成员入群审核验证工具，保护您的群聊免受广告机器人和不良用户的侵扰",
+    "repo": "https://github.com/huntuo146/astrbot_plugin_Group-Verification",
+    "tags": ["管理", "关键词", "成员审核"],
+    "social_link": "https://github.com/huntuo146"
+  },
+  "astrbot_plugin_Volcengine-Text-to-image": {
+    "author": "wayzinx",
+    "desc": "通过http的方式请求火山豆包接口返回生图结果，不采用sdk方式，避免库包安装失败的问题",
+    "repo": "https://github.com/Wayzinx/Volcengine-Text-to-image",
+    "tags": ["Text-to-Image", "文生图"],
+    "social_link": "https://github.com/Wayzinx"
+  },
+  "astrbot_plugin_chishenme": {
     "author": "明日香奈",
     "desc": "当用户发送的消息中包含关键词“吃什么”时，机器人会自动回复一段预设的文本。",
     "repo": "https://github.com/mingrixiangnai/chishenme",
-    "tags": ["聊天","娱乐","信息"],
+    "tags": ["聊天", "娱乐", "信息"],
     "social_link": "https://github.com/mingrixiangnai/chishenme"
   },
   "astrbot_plugin_osutrack": {
