@@ -1,4 +1,23 @@
 {
+  "astrbot_plugin_MsgDistributor": {
+    "author": "Dinggg",
+    "desc": "根据消息平台-群id/好友名/好友id动态选择服务提供商",
+    "repo": "https://github.com/AAlexDing/astrbot_plugin_msgdistributor",
+    "tags": ["前置", "信息"]
+  },
+  "astrbot_plugin_apis": {
+    "author": "Zhalslar",
+    "desc": "API聚合插件，上百个免费API动态添加，热门API：看看腿、看看腹肌...",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_apis",
+    "tags": ["api"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis"
+  },
+  "astrbot_plugin_help": {
+    "author": "tinker",
+    "desc": "一键输出所有插件的命令帮助！",
+    "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_help",
+    "social_link": "https://github.com/tinkerbellqwq"
+  },
   "astrbot_qqemotionreply": {
     "author": "QiChen",
     "social_link": "https://github.com/QiChenSn",
@@ -10,7 +29,7 @@
     "author": "喵喵",
     "desc": "让llm自主使用硅基流动的 SD3.5 及 flux.1 绘图",
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_llm_draw_plus",
-    "tags": ["ai绘图","llm tool"]
+    "tags": ["ai绘图", "llm tool"]
   },
   "astrbot_plugin_mcqq": {
     "author": "kterna",
