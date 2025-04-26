@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_nvda": {
+    "author": "LHaiC",
+    "desc": "查询NVDA股票实时行情",
+    "repo": "https://github.com/LHaiC/astrbot_plugin_nvda",
+    "tags": ["理财", "科技", "股票"]
+  },
+  "astrbot_plugin_at_responder": {
+    "author": "和泉智宏",
+    "desc": "多样化@回复插件，配置时请先设置群聊进行@回复，本插件默认不进行@回复支持指定人的全局@、特定群的指定人的@、全群@以及黑名单功能。",
+    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_at_responder"
+  },
+  "astrbot_plugin_regex_filter": {
+    "author": "LKarxa",
+    "desc": " 一个使用正则表达式处理LLM消息的AstrBot插件，可以对LLM回复进行替换、删除、增添等操作。",
+    "repo": "https://github.com/LKarxa/astrbot_plugin_regex_filter"
+  },
   "prompt_tools": {
     "author": "LKarxa",
     "desc": "兼容酒馆预设",
