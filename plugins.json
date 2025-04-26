@@ -1,4 +1,10 @@
 {
+  "prompt_tools": {
+    "author": "LKarxa",
+    "desc": "兼容酒馆预设",
+    "repo": "https://github.com/LKarxa/prompt_tools",
+    "tags": ["tools", "prompt"]
+  },
   "astrbot_plugin_MsgDistributor": {
     "author": "Dinggg",
     "desc": "根据消息平台-群id/好友名/好友id动态选择服务提供商",
