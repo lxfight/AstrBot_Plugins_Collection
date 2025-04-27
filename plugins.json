@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_OriginiumSeal-pro": {
+    "author": "bushikq",
+    "desc": "[仅 aiocqhttp] 源石封印插件(将原本的戳一戳条件改成了在用户发送制作源石头像时执行)",
+    "repo": "https://github.com/zhewang448/astrbot_plugin_OriginiumSeal-pro",
+    "tags": ["明日方舟", "游戏"],
+    "social_link": "https://github.com/zhewang448"
+  },
+  "astrBot_plugin_0721anime": {
+    "author": "明日香奈",
+    "desc": "在群里输入【/查番 动漫名称】即可查询内置动漫网站相对应的动漫名和链接",
+    "repo": "https://github.com/mingrixiangnai/0721anime",
+    "tags": ["动漫"],
+    "social_link": "https://github.com/mingrixiangnai/0721anime"
+  },
+  "astrbot_plugin_buttons": {
+    "author": "Zhalslar",
+    "desc": "[仅 napcat] 让QQ的野生bot也能发送按钮！",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_buttons",
+    "tags": ["按钮"],
+    "social_link": "https://github.com/Zhalslar"
+  },
+  "astrbot_plugin_SillyTavern_card": {
+    "author": "LKarxa",
+    "desc": "一个将 SillyTavern 角色卡（PNG 格式）转换为 Lorebook YAML 与角色信息的插件。",
+    "repo": "https://github.com/LKarxa/astrbot_plugin_SillyTavern_card"
+  },
+  "astrbot_plugin_reply": {
+    "author": "yahayao",
+    "desc": "自定义关键词回复",
+    "repo": "https://github.com/yahayao/astrbot_plugin_reply"
+  },
   "astrbot_plugin_nvda": {
     "author": "LHaiC",
     "desc": "查询NVDA股票实时行情",
