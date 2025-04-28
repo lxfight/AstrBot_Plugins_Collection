@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_emojimix": {
+    "author": "Flartiny",
+    "desc": "一个用于 AstrBot 的插件，实现类似Google Emoji Kitchen(合成emoji)的效果。",
+    "repo": "https://github.com/Flartiny/astrbot_plugin_emojimix"
+  },
   "astrBot_plugin_0721galgame": {
     "author": "明日香奈",
     "desc": "在群里输入【/查gal 游戏名称】即可查询内置galgame网站相对应的资源名称和链接",
