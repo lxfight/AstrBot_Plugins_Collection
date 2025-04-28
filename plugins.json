@@ -384,6 +384,11 @@
     "repo": "https://github.com/flyinsz/astrbot_plugin_60s_news",
     "desc": "[仅gewechat] 60s国内新闻"
   },
+  "astrbot_plugin_hotlist": {
+    "author": "Tsgof",
+    "repo": "https://github.com/tsgof/astrbot_plugin_hotlist",
+    "desc": "获取 B 站热门视频榜单、百度热搜、EPIC 热门榜单"
+  },
   "astrbot_plugin_anime_search": {
     "author": "xiamuceer-j",
     "repo": "https://github.com/xiamuceer-j/astrbot_plugin_anime_search",
