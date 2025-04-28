@@ -2,7 +2,7 @@
   "astrBot_plugin_0721galgame": {
     "author": "明日香奈",
     "desc": "在群里输入【/查gal 游戏名称】即可查询内置galgame网站相对应的资源名称和链接",
-    "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
+    "repo": "https://github.com/mingrixiangnai/0721galgame",
     "tags": ["Galgame"],
     "social_link": "https://github.com/mingrixiangnai/0721galgame"
   },
