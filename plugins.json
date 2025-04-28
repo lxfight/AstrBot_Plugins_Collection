@@ -1,4 +1,17 @@
 {
+  "astrBot_plugin_0721galgame": {
+    "author": "明日香奈",
+    "desc": "在群里输入【/查gal 游戏名称】即可查询内置galgame网站相对应的资源名称和链接",
+    "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
+    "tags": ["Galgame"],
+    "social_link": "https://github.com/mingrixiangnai/0721galgame"
+  },
+  "astrbot_plugin_terminal": {
+    "author": "LHaiC",
+    "desc": "通过和AstrBot对话调用服务器终端",
+    "repo": "https://github.com/LHaiC/astrbot_plugin_terminal",
+    "tags": ["服务器", "命令行", "终端"]
+  },
   "astrbot_plugin_OriginiumSeal-pro": {
     "author": "bushikq",
     "desc": "[仅 aiocqhttp] 源石封印插件(将原本的戳一戳条件改成了在用户发送制作源石头像时执行)",
