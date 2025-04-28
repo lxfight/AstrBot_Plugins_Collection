@@ -31,6 +31,11 @@
     "tags": ["动漫"],
     "social_link": "https://github.com/mingrixiangnai/0721anime"
   },
+  "astrbot_plugin_fishing": {
+    "author": "baa131",
+    "repo": "https://github.com/baa131/astrbot_plugin_fishing",
+    "desc": "电子钓鱼的小游戏"
+  },
   "astrbot_plugin_buttons": {
     "author": "Zhalslar",
     "desc": "[仅 napcat] 让QQ的野生bot也能发送按钮！",
