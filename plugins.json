@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_napdog_cleaner": {
+    "author": "anka",
+    "desc": "[仅 NapCat] napdog, 把napcat拉的史全部吃光光, 自动监控并清理 NapCat 产生的缓存文件, 注意docker需要额外配置!",
+    "repo": "https://github.com/anka-afk/astrbot_plugin_napdog",
+    "tags": ["napcat", "工具"],
+    "social_link": "https://space.bilibili.com/26584382"
+  }
+  "astrbot_plugin_supervisor": {
+    "author": "Zhalslar",
+    "desc": "赛博监工，检测到某人水群，就提醒他滚去干活",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_supervisor",
+    "tags": ["监工", "工作"],
+    "social_link": "https://github.com/Zhalslar"
+  },
   "astrbot_plugin_primermath": {
     "author": "灵煞",
     "desc": "让你的AI能正确进行简单四则运算和比大小",
