@@ -48,6 +48,11 @@
     "tags": ["动漫"],
     "social_link": "https://github.com/mingrixiangnai/0721anime"
   },
+  "astrbot_plugin_fishing": {
+    "author": "baa131",
+    "repo": "https://github.com/baa131/astrbot_plugin_fishing",
+    "desc": "电子钓鱼的小游戏"
+  },
   "astrbot_plugin_buttons": {
     "author": "Zhalslar",
     "desc": "[仅 napcat] 让QQ的野生bot也能发送按钮！",
@@ -400,6 +405,11 @@
     "author": "Flyinsz",
     "repo": "https://github.com/flyinsz/astrbot_plugin_60s_news",
     "desc": "[仅gewechat] 60s国内新闻"
+  },
+  "astrbot_plugin_hotlist": {
+    "author": "Tsgof",
+    "repo": "https://github.com/tsgof/astrbot_plugin_hotlist",
+    "desc": "获取 B 站热门视频榜单、百度热搜、EPIC 热门榜单"
   },
   "astrbot_plugin_anime_search": {
     "author": "xiamuceer-j",
