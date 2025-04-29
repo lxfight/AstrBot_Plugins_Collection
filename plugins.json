@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_primermath": {
+    "author": "灵煞",
+    "desc": "让你的AI能正确进行简单四则运算和比大小",
+    "repo": "https://github.com/tenno1174/astrbot_plugin_primermath",
+    "tags": ["函数工具", "数学"]
+  },
+  "astrbot_plugin_qyws": {
+    "author": "明日香奈",
+    "desc": "随机播放文件夹里千原万神小丛雨的语音插件",
+    "repo": "https://github.com/mingrixiangnai/qyws",
+    "social_link": "https://github.com/mingrixiangnai/qyws"
+  },
+  "astrbot_plugin_animewifex": {
+    "author": "monbed",
+    "desc": "[仅 aiocqhttp] 基于zgojin的astrbot_plugin_AW插件修改版。",
+    "repo": "https://github.com/monbed/astrbot_plugin_animewifex"
+  },
   "astrbot_plugin_emojimix": {
     "author": "Flartiny",
     "desc": "一个用于 AstrBot 的插件，实现类似Google Emoji Kitchen(合成emoji)的效果。",
