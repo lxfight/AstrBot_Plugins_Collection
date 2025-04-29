@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_maodie": {
+    "author": "Jason.Joestar",
+    "desc": "使用“哈个气”获得可爱耄耋涩图",
+    "repo": "https://github.com/advent259141/astrbot_plugin_maodie",
+    "tags": ["哈气", "耄耋"],
+    "social_link": "https://github.com/advent259141"
+  },
   "astrbot_plugin_napdog_cleaner": {
     "author": "anka",
     "desc": "[仅 NapCat] napdog, 把napcat拉的史全部吃光光, 自动监控并清理 NapCat 产生的缓存文件, 注意docker需要额外配置!",
