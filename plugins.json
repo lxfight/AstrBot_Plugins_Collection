@@ -5,7 +5,7 @@
     "repo": "https://github.com/anka-afk/astrbot_plugin_napdog",
     "tags": ["napcat", "工具"],
     "social_link": "https://space.bilibili.com/26584382"
-  }
+  },
   "astrbot_plugin_supervisor": {
     "author": "Zhalslar",
     "desc": "赛博监工，检测到某人水群，就提醒他滚去干活",
