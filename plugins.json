@@ -18,6 +18,12 @@
     "desc": "活字印刷（文本转语音）",
     "repo": "https://github.com/ttq7/astrbot_plugin_voiceprint"
   },
+  "astrbot_plugin_mrfz": {
+    "author": "bushikq",
+    "desc": "这是一个高级的自动化的明日方舟所有角色语音的 AstrBot 插件",
+    "tags": ["明日方舟", "游戏", "语音"],
+    "repo": "https://github.com/zhewang448/astrbot_plugin_mrfz"
+  },
   "astrbot_plugin_maodie": {
     "author": "Jason.Joestar",
     "desc": "使用“哈个气”获得可爱耄耋涩图",
