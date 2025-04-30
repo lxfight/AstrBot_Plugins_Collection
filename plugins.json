@@ -1,4 +1,23 @@
 {
+  "astrbot_plugin_bilipic": {
+    "author": "明日香奈",
+    "desc": "发送BV号获取哔站视频封面图",
+    "repo": "https://github.com/mingrixiangnai/bilipic",
+    "tags": ["图片", "哔站"],
+    "social_link": "https://github.com/mingrixiangnai/bilipic"
+  },
+  "astrbot_plugin_memelite_rs": {
+    "author": "Zhalslar",
+    "desc": "表情包生成器，制作各种沙雕表情（Rust重构版，速度快占用小）",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite_rs",
+    "tags": ["表情包"],
+    "social_link": "https://github.com/Zhalslar"
+  },
+  "astrbot_plugin_voiceprint": {
+    "author": "hello七七",
+    "desc": "活字印刷（文本转语音）",
+    "repo": "https://github.com/ttq7/astrbot_plugin_voiceprint"
+  },
   "astrbot_plugin_mrfz": {
     "author": "bushikq",
     "desc": "这是一个高级的自动化的明日方舟所有角色语音的 AstrBot 插件",
