@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_yinlish": {
+    "author": "vmoranv",
+    "desc": "普通文本转换为'淫语',支持自定义淫乱度,淫语字典",
+    "repo": "https://github.com/vmoranv/astrbot_plugin_yinlish",
+    "tags": ["淫语"],
+    "social_link": "https://github.com/vmoranv"
+  },
   "astrbot_plugin_bilipic": {
     "author": "明日香奈",
     "desc": "发送BV号获取哔站视频封面图",
