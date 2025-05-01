@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_mcgetter": {
+    "author": "QiChen",
+    "desc": "[仅 QQ]获取mc服务器信息,渲染为图片",
+    "repo": "https://github.com/QiChenSn/astrbot_mcgetter",
+    "tags": ["mc", "minecraft", "我的世界"],
+    "social_link": "https://github.com/QiChenSn"
+  },
   "astrbot_plugin_yinlish": {
     "author": "vmoranv",
     "desc": "普通文本转换为'淫语',支持自定义淫乱度,淫语字典",
