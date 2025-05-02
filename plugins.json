@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_broadcast": {
+    "author": "Zhalslar",
+    "desc": "[仅aiocqhttp] 广播助手，帮助你向所有群聊广播消息(支持任何格式消息)",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_broadcast",
+    "tags": ["广播"],
+    "social_link": "https://github.com/Zhalslar"
+  },
   "astrbot_plugin_nobot": {
     "author": "Zhalslar",
     "desc": "[仅 aiocqhttp]] 找出并禁言群里的人机!",
