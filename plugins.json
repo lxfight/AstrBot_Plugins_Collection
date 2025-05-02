@@ -1,23 +1,22 @@
 {
   "astrbot_plugin_nobot": {
     "author": "Zhalslar",
-    "desc": "[仅 aiocqhttp]人机去死！找出并禁言群里的人机!",
+    "desc": "[仅 aiocqhttp]] 找出并禁言群里的人机!",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_nobot",
     "tags": ["人机"],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot"
   },
   "astrbot_plugin_mcgetter": {
     "author": "QiChen",
-    "desc": "[仅 QQ]获取mc服务器信息,渲染为图片",
+    "desc": "[仅 QQ]获取 MC 服务器信息, 渲染为图片",
     "repo": "https://github.com/QiChenSn/astrbot_mcgetter",
     "tags": ["mc", "minecraft", "我的世界"],
     "social_link": "https://github.com/QiChenSn"
   },
   "astrbot_plugin_yinlish": {
     "author": "vmoranv",
-    "desc": "普通文本转换为'淫语',支持自定义淫乱度,淫语字典",
+    "desc": "普通文本转换为'*语',支持自定义*乱度,*语字典",
     "repo": "https://github.com/vmoranv/astrbot_plugin_yinlish",
-    "tags": ["淫语"],
     "social_link": "https://github.com/vmoranv"
   },
   "astrbot_plugin_bilipic": {
@@ -176,7 +175,8 @@
     "author": "tinker",
     "desc": "一键输出所有插件的命令帮助！",
     "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_help",
-    "social_link": "https://github.com/tinkerbellqwq"
+    "social_link": "https://github.com/tinkerbellqwq",
+    "pinned": true
   },
   "astrbot_qqemotionreply": {
     "author": "QiChen",
@@ -733,8 +733,7 @@
     "author": "IGCrystal",
     "repo": "https://github.com/IGCrystal/AstrBot_plugin_Ewords",
     "social_link": "https://github.com/IGCrystal/AstrBot_plugin_Ewords",
-    "tags": ["CET-4", "英语"],
-    "pinned": true
+    "tags": ["CET-4", "英语"]
   },
   "astrbot_plugin_weather_wttr_in": {
     "desc": "使用 wttr.in 查询天气（llm工具）",
@@ -967,8 +966,7 @@
     "author": "Raven95676",
     "desc": "基于 Webhook 的轻量级推送插件(通过 RESTful 接口)。理论支持除 QQ官方API 外的所有平台，已测试 Telegram、QQ、微信、飞书。",
     "repo": "https://github.com/Raven95676/astrbot_plugin_push_lite",
-    "tags": ["消息推送"],
-    "pinned": true
+    "tags": ["消息推送"]
   },
   "astrbot_plugin_hello77": {
     "author": "hello七七",
