@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_nobot": {
+    "author": "Zhalslar",
+    "desc": "[仅 aiocqhttp]人机去死！找出并禁言群里的人机!",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_nobot",
+    "tags": ["人机"],
+    "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot"
+  },
   "astrbot_plugin_mcgetter": {
     "author": "QiChen",
     "desc": "[仅 QQ]获取mc服务器信息,渲染为图片",
