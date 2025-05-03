@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_combine-messages": {
+    "author": "FreeDivers",
+    "desc": "合并收到的短时间内连续发送的消息,避免重复回复刷屏",
+    "repo": "https://github.com/FreeDivers/astrbot_plugin_combine-messages"
+  },
   "astrbot_plugin_broadcast": {
     "author": "Zhalslar",
     "desc": "[仅aiocqhttp] 广播助手，帮助你向所有群聊广播消息(支持任何格式消息)",
