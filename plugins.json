@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_jm_cosmos": {
+    "author": "GEMILUXVII",
+    "desc": "[仅 aiocqhttp] 这是一个用于AstrBot的全能型插件，能够下载、管理、搜索JM漫画，并将其转换为PDF或图片预览发送。",
+    "repo": "https://github.com/GEMILUXVII/astrbot_plugin_jm_cosmos",
+    "tags": ["jmcomic", "禁漫"],
+    "social_link": "https://github.com/GEMILUXVII"
+  },
   "astrbot_plugin_combine-messages": {
     "author": "FreeDivers",
     "desc": "自动合并的短时间内收到的连续发送的消息，防止刷屏",
