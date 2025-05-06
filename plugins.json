@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_notice": {
+    "author": "Zhalslar",
+    "desc": "[仅 aiocqhttp] 通知助手，当bot被禁言/解禁、被踢出群/拉群、被取消管理员/设为管理员时，会向主人打小报告",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_notice",
+    "tags": ["通知"],
+    "social_link": "https://github.com/Zhalslar"
+  },
+  "astrbot_plugin_pokepro": {
+    "author": "Zhalslar",
+    "desc": "[仅 aiocqhttp] 更专业的戳一戳，被戳触发（反戳：LLM：emoji：图库：禁言：meme：api：开盒），戳@某人，跟戳",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_pokepro",
+    "tags": ["戳一戳"],
+    "social_link": "https://github.com/Zhalslar"
+  },
   "astrbot_plugin_jm_cosmos": {
     "author": "GEMILUXVII",
     "desc": "[仅 aiocqhttp] 这是一个用于AstrBot的全能型插件，能够下载、管理、搜索JM漫画，并将其转换为PDF或图片预览发送。",
