@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_bilibili_live": {
+    "author": "Raven95676",
+    "desc": "接入Bilibili直播",
+    "repo": "https://github.com/Raven95676/astrbot_plugin_bilibili_live"
+  },
   "astrbot_plugin_bo": {
     "author": "anchor",
     "desc": "这是我们童年玩的波波集游戏bo_game,你将与传说中的最强ai小学生对战",
