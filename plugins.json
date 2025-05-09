@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_bo": {
+    "author": "anchor",
+    "desc": "这是我们童年玩的波波集游戏bo_game,你将与传说中的最强ai小学生对战",
+    "repo": "https://github.com/anchorAnc/astrbot_plugin_bo"
+  },
   "astrbot_plugin_cloudrank": {
     "author": "GEMILUXVII",
     "desc": "AstrBot词云与排名插件(CloudRank)：专为AstrBot设计的强大聊天分析工具。可分析群聊与私聊消息，生成美观词云图，直观展示热点话题，并展示用户活跃度排行。支持定时与手动生成，提供丰富的颜色、字体、形状及排名显示自定义选项",
