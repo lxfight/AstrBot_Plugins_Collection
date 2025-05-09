@@ -1,4 +1,15 @@
 {
+  "astrbot_plugin_fishing2": {
+    "author": "tinker",
+    "desc": "升级版的钓鱼插件（详情见README）ps: 该插件是https://github.com/baa131/astrbot_plugin_fishing 的pro版，新增了一些功能：更多的鱼类和鱼饵，新增鱼竿和饰品，新增抽卡系统，新增了成就和称号功能，新增擦弹功能（赌怪）",
+    "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_fishing",
+    "tags": ["game", "fish"]
+  },
+  "astrbot_plugin_bilibili_live": {
+    "author": "Raven95676",
+    "desc": "接入Bilibili直播",
+    "repo": "https://github.com/Raven95676/astrbot_plugin_bilibili_live"
+  },
   "astrbot_plugin_bo": {
     "author": "anchor",
     "desc": "这是我们童年玩的波波集游戏bo_game,你将与传说中的最强ai小学生对战",
