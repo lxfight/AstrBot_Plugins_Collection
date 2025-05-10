@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_lanraragi": {
+    "author": "Putarku",
+    "desc": "使用lanraragi提供的api进行关键词搜索，并将搜索结果发送到聊天中。",
+    "repo": "https://github.com/Putarku/astrbot_plugin_lanraragi",
+    "tags": ["漫画"],
+    "social_link": "https://github.com/Putarku"
+  },
   "astrbot_plugins_JMPlugins": {
     "author": "orchidsziyou",
     "desc": "[仅 aiocqhttp] 支持查询JMid对应的作品信息，仅aiocqhttp支持，目前仅测试过NapCat。",
