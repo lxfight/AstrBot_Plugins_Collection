@@ -1,4 +1,24 @@
 {
+  "astrbot_plugin_pock_mini": {
+    "author": "IGCrystal",
+    "desc": "[仅 aiocqhttp] 依据长安某的“戳一戳”插件修改而来。本插件新增了调用大语言模型回复。但是也删除了表情包的制作。",
+    "repo": "https://github.com/IGCrystal/astrbot_plugin_pock_omini",
+    "tags": ["聊天体验增强"],
+    "social_link": "https://wenturc.com/"
+  },
+  "astrbot_plugin_lanraragi": {
+    "author": "Putarku",
+    "desc": "使用lanraragi提供的api进行关键词搜索，并将搜索结果发送到聊天中。",
+    "repo": "https://github.com/Putarku/astrbot_plugin_lanraragi",
+    "tags": ["漫画"],
+    "social_link": "https://github.com/Putarku"
+  },
+  "astrbot_plugins_JMPlugins": {
+    "author": "orchidsziyou",
+    "desc": "[仅 aiocqhttp] 支持查询JMid对应的作品信息，仅aiocqhttp支持，目前仅测试过NapCat。",
+    "repo": "https://github.com/orchidsziyou/astrbot_plugins_JMPlugins",
+    "social_link": "https://github.com/orchidsziyou/astrbot_plugins_JMPlugins"
+  },
   "astrbot_plugin_fishing2": {
     "author": "tinker",
     "desc": "升级版的钓鱼插件（详情见README）ps: 该插件是https://github.com/baa131/astrbot_plugin_fishing 的pro版，新增了一些功能：更多的鱼类和鱼饵，新增鱼竿和饰品，新增抽卡系统，新增了成就和称号功能，新增擦弹功能（赌怪）",
