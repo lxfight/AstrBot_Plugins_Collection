@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_error_notice": {
+    "author": "DragonEmpery",
+    "desc": "[仅 aiocqhttp] 可以屏蔽掉机器人在群聊或私聊中的错误信息，并将错误信息发送给管理员。",
+    "repo": "https://github.com/DragonEmpery/astrbot_plugin_error_notice",
+    "tags": ["主动消息", "通知"]
+  },
+  "astrbot_plugin_emoji_like": {
+    "author": "Zhalslar",
+    "desc": "[仅 aiocqhttp] 调用LLM判断消息的情感，智能地给消息贴上QQ表情",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_emoji_like",
+    "tags": ["贴表情"],
+    "social_link": "https://github.com/Zhalslar"
+  },
   "astrbot_plugin_pock_mini": {
     "author": "IGCrystal",
     "desc": "[仅 aiocqhttp] 依据长安某的“戳一戳”插件修改而来。本插件新增了调用大语言模型回复。但是也删除了表情包的制作。",
