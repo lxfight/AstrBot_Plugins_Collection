@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_error_notice": {
+    "author": "DragonEmpery",
+    "desc": "[仅 aiocqhttp] 可以屏蔽掉机器人在群聊或私聊中的错误信息，并将错误信息发送给管理员。",
+    "repo": "https://github.com/DragonEmpery/astrbot_plugin_error_notice",
+    "tags": ["主动消息", "通知"]
+  },
   "astrbot_plugin_emoji_like": {
     "author": "Zhalslar",
     "desc": "[仅 aiocqhttp] 调用LLM判断消息的情感，智能地给消息贴上QQ表情",
