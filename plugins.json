@@ -1,4 +1,15 @@
 {
+  "astrbot_plugin_llm_poke": {
+    "author": "和泉智宏",
+    "desc": "用LLM进行回复的戳一戳插件",
+    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_llm_poke",
+    "tags": ["戳"]
+  },
+  "astrbot_plugin_sql_history": {
+    "author": "LW",
+    "desc": "MySQL存储聊天记录",
+    "repo": "https://github.com/LWWD/astrbot_plugin_sql_history"
+  },
   "astrbot_plugin_error_notice": {
     "author": "DragonEmpery",
     "desc": "[仅 aiocqhttp] 可以屏蔽掉机器人在群聊或私聊中的错误信息，并将错误信息发送给管理员。",
