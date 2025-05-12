@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_llm_poke": {
+    "author": "和泉智宏",
+    "desc": "用LLM进行回复的戳一戳插件",
+    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_llm_poke",
+    "tags": ["戳"]
+  },
   "astrbot_plugin_sql_history": {
     "author": "LW",
     "desc": "MySQL存储聊天记录",
