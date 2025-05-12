@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_cyber_archaeology": {
+    "author": "AnYan",
+    "desc": "[仅 aiocqhttp] 本插件利用embedding，根据描述查询意思相符的历史信息。",
+    "repo": "https://github.com/TheAnyan/astrbot_plugin_cyber_archaeology",
+    "tags": ["关键词", "历史消息", "搜索"],
+    "social_link": "https://github.com/TheAnyan"
+  },
   "astrbot_plugin_QQgal": {
     "author": "和泉智宏",
     "desc": "简单的Galgame",
