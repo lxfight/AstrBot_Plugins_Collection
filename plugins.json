@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_QQgal": {
+    "author": "和泉智宏",
+    "desc": "简单的Galgame",
+    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_QQgal",
+    "tags": ["Galgame"]
+  },
   "astrbot_plugin_llm_poke": {
     "author": "和泉智宏",
     "desc": "用LLM进行回复的戳一戳插件",
