@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_prefix_filter": {
+    "author": "padoru233",
+    "desc": "一个用于过滤特定前缀消息的插件",
+    "repo": "https://github.com/padoru233/astrbot_plugin_prefix_filter",
+    "tags": ["prefix", "filter", "过滤", "前缀"],
+    "social_link": "https://github.com/padoru233"
+  },
   "astrbot_plugin_cyber_archaeology": {
     "author": "AnYan",
     "desc": "[仅 aiocqhttp] 本插件利用embedding，根据描述查询意思相符的历史信息。",
