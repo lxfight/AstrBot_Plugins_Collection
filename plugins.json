@@ -1219,12 +1219,6 @@
     "repo": "https://github.com/Elen123bot/astrbot_plugin_gemini_exp",
     "social_link": "https://x.com/Alens454635"
   },
-  "astrbot_plugin_qwq_filter": {
-    "desc": "QwQ 模型思考内容过滤工具",
-    "author": "beat4ocean",
-    "tags": ["qwq", "思考过滤"],
-    "repo": "https://github.com/beat4ocean/astrbot_plugin_qwq_filter"
-  },
   "astrbot_plugin_chatsummary": {
     "desc": "[仅 aiocqhttp] 一个通过拉取历史聊天记录，调用 LLM 大模型接口实现消息总结功能。",
     "author": "laopanmemz",
