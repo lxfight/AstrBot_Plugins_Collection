@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_portrayal": {
+    "author": "Zhalslar",
+    "desc": "[仅 napcat] 根据群友的聊天记录，调用llm分析群友的性格画像",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_portrayal",
+    "tags": ["性格", "画像"],
+    "social_link": "https://github.com/Zhalslar"
+  },
   "astrbot_plugin_Kanalyse": {
     "author": "End_Tower",
     "desc": "基于大语言模型的群聊分析插件，提供聊天记录总结和实时分析功能，并将生成的内容转化为一张图片，以AI绝对客观的视角来调停冲突 本意为让AI当判官直接评判对错，后来发现AI无法成为一个裁判判断是非，但AI能以他绝对的客观性，强行把大家拉回观众席上，客观的看待一个事件。部署一个月内累计处理：重大社会热点争议 10+ 次（订婚强奸案被判3年等、胖猫事件重提等）,日常群组冲突 30+ 次,90% 争议在AI介入后停止升级",
