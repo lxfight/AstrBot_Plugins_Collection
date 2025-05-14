@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_zt": {
+    "author": "Zhalslar",
+    "desc": "简易版服务器状态插件，几乎不消耗性能，准确度更高",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_zt",
+    "tags": ["状态"],
+    "social_link": "https://github.com/Zhalslar"
+  },
   "astrbot_plugin_portrayal": {
     "author": "Zhalslar",
     "desc": "[仅 napcat] 根据群友的聊天记录，调用llm分析群友的性格画像",
