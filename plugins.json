@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_search_video": {
+    "author": "Zhalslar",
+    "desc": "视频搜索，让你和群友一起刷视频（目前仅支持B站、QQ平台，后续兼容更多）",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
+    "social_link": "https://github.com/Zhalslar"
+  },
   "astrbot_plugin_zt": {
     "author": "Zhalslar",
     "desc": "简易版服务器状态插件，几乎不消耗性能，准确度更高",
