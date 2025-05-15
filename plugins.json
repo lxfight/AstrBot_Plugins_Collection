@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_kfc_thursday": {
+    "author": "和泉智宏",
+    "desc": "[仅 aiocqhttp] 让大模型发送疯狂星期四文案，图片加入阅读readme",
+    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_kfc_thursday",
+    "tags": ["疯狂星期四"]
+  },
   "astrbot_plugin_search_video": {
     "author": "Zhalslar",
     "desc": "视频搜索，让你和群友一起刷视频（目前仅支持B站、QQ平台，后续兼容更多）",
