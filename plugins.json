@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_embedding_adapter": {
+    "author": "AnYan",
+    "desc": "[前置] [适配器] 在配置后提供embedding接口",
+    "repo": "https://github.com/TheAnyan/astrbot_plugin_embedding_adapter",
+    "tags": ["embedding"],
+    "social_link": "https://github.com/TheAnyan"
+  },
   "astrbot_plugin_stock": {
     "author": "anchor",
     "desc": "基于 Tushare Pro 的股市行情查询 AstrBot 插件，支持实时和历史日线数据查询。",
