@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_babirthday": {
+    "author": "laopanmemz",
+    "desc": "Blue Archive 蔚蓝档案学员生日提醒插件",
+    "repo": "https://github.com/laopanmemz/astrbot_plugin_babirthday",
+    "tags": ["蔚蓝档案", "游戏"],
+    "social_link": "https://space.bilibili.com/447591776"
+  },
   "astrbot_plugin_embedding_adapter": {
     "author": "AnYan",
     "desc": "[前置] [适配器] 在配置后提供embedding接口",
