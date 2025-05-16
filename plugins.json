@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_qrcode": {
+    "author": "Yuki Soffd",
+    "desc": "链接转二维码的astrbot插件",
+    "repo": "https://github.com/Soffd/astrbot_plugin_qrcode",
+    "tags": ["工具"]
+  },
   "astrbot_plugin_babirthday": {
     "author": "laopanmemz",
     "desc": "Blue Archive 蔚蓝档案学员生日提醒插件",
