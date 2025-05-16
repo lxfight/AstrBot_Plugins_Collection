@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_LatexPlotter": {
+    "author": "xunxi",
+    "desc": "本插件为 AstrBot 设计，旨在提供强大的 LaTeX 数学公式渲染功能。它可以将用户输入的 LaTeX 字符串渲染成高质量的图片，并支持通过逗号分隔实现多行、分步骤的公式展示。插件具有高度的可配置性，允许用户调整渲染效果，如DPI、字体大小、颜色、行间距等。",
+    "repo": "https://github.com/xunxiing/LatexPlotter",
+    "tags": ["latex", "渲染"]
+  },
   "astrbot_plugin_qrcode": {
     "author": "Yuki Soffd",
     "desc": "链接转二维码的astrbot插件",
