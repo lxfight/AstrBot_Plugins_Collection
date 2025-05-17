@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_baike": {
+    "author": "明日香奈",
+    "desc": "输入【/百科 要搜索的词条】即可查询百度百科简略内容",
+    "repo": "https://github.com/mingrixiangnai/astrbot_plugin_baike",
+    "tags": ["百科", "信息"],
+    "social_link": "https://github.com/mingrixiangnai/astrbot_plugin_baike"
+  },
   "astrbot_plugin_LatexPlotter": {
     "author": "xunxi",
     "desc": "本插件为 AstrBot 设计，旨在提供强大的 LaTeX 数学公式渲染功能。它可以将用户输入的 LaTeX 字符串渲染成高质量的图片，并支持通过逗号分隔实现多行、分步骤的公式展示。插件具有高度的可配置性，允许用户调整渲染效果，如DPI、字体大小、颜色、行间距等。",
