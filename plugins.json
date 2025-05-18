@@ -1,6 +1,6 @@
 {
   "astrbot_plugin_doro": {
-    "author": "shingetsu"，
+    "author": "shingetsu",
     "desc": "获取随机的 Doro 表情包",
     "repo": "https://github.com/2356820887/astrbot_plugin_doro",
     "tags": ["doro"]
