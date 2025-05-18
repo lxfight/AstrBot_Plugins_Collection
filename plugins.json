@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_doro": {
+    "author": "shingetsu"，
+    "desc": "获取随机的 Doro 表情包",
+    "repo": "https://github.com/2356820887/astrbot_plugin_doro",
+    "tags": ["doro"]
+  },
   "astrbot_plugin_baike": {
     "author": "明日香奈",
     "desc": "输入【/百科 要搜索的词条】即可查询百度百科简略内容",
