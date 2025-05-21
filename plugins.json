@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_knowledge_base": {
+    "author": "lxfight",
+    "desc": "astrbot_plugin_knowledge_base 是一个为 AstrBot 聊天机器人框架量身定制的强大知识库插件。 它允许您的机器人连接到自定义的知识源，通过先进的检索增强生成 (RAG) 技术， 让机器人能够基于准确、具体的私有信息进行对话，而不仅仅依赖预训练模型的通用知识。",
+    "repo": "https://github.com/lxfight/astrbot_plugin_knowledge_base",
+    "tags": ["RAG", "知识库"]
+  },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
     "desc": "通过 Webhook 从 Uptime Kuma 接收监控状态通知，并将这些通知推送到指定的 AstrBot 用户或群组",
