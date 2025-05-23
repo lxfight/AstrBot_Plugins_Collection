@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_timetask": {
+    "author": "ZW",
+    "desc": "这是timetask插件，支持定时消息，可以指定微信群(暂时只支持WechatPadPro渠道)",
+    "repo": "https://github.com/Zhenyi-Wang/astrbot-timetask"
+  },
   "astrbot_plugin_time_prompt": {
     "author": "wuyan1003",
     "desc": "给聊天增加了当前时间提示词，让模型有一定的时间观念，还会让模型知道你们上一次对话间隔了多久[可在插件配置选择是否开启，默认开启]",
