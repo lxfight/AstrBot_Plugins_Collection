@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_time_prompt": {
+    "author": "wuyan1003",
+    "desc": "给聊天增加了当前时间提示词，让模型有一定的时间观念，还会让模型知道你们上一次对话间隔了多久[可在插件配置选择是否开启，默认开启]",
+    "repo": "https://github.com/wuyan1003/time_prompt"
+  },
   "astrbot_plugin_seiadetect": {
     "author": "orchidsziyou",
     "desc": "[仅 napcat] 使用Onnx检测发送的图片是否包含_百合园圣娅_并且有特定回复。",
