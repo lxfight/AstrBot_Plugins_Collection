@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_text2image": {
+    "author": "wuyan1003",
+    "desc": "一款灵活高效的文本转图片工具，让文字呈现更具视觉张力",
+    "repo": "https://github.com/wuyan1003/astrbot_plugin_text2image"
+  },
   "astrbot_plugin_angus": {
     "author": "angus-fw",
     "desc": "综合功能插件合集，集成了多个实用功能，包括智能提醒、主动对话、涩图功能和服务器状态监控等",
