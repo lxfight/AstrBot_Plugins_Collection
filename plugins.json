@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_dzmm": {
+    "author": "VincentHo",
+    "desc": "DZMM聊天插件，适配了DZMM返回的格式，并避免与AstrBot的模型混用，可用特别命令唤起DZMM的模型进行\"有趣生动\"的互动聊天。",
+    "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm"
+  },
   "astrbot_plugin_text2image": {
     "author": "wuyan1003",
     "desc": "一款灵活高效的文本转图片工具，让文字呈现更具视觉张力",
