@@ -1,4 +1,9 @@
 {
+  "astrbot_plugin_mrfz_haunting_query": {
+    "author": "Ricky",
+    "desc": "明日方舟抽卡查询",
+    "repo": "https://github.com/R1ckyQaQ/astrbot_plugin_mrfz_haunting_query"
+  },
   "astrbot_plugin_deepwiki": {
     "author": "Zhalslar",
     "desc": "使用deepwiki查询指定github仓库，可作为问答助手",
