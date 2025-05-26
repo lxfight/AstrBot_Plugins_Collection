@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_deepwiki": {
+    "author": "Zhalslar",
+    "desc": "使用deepwiki查询指定github仓库，可作为问答助手",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_deepwiki",
+    "tags": ["deepwiki", "github"],
+    "social_link": "https://github.com/Zhalslar"
+  },
   "astrbot_plugin_delete_and_block_filter": {
     "author": "enixi",
     "desc": "对astrbot删除和屏蔽功能的补充",
