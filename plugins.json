@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_wwuid_reply_enhance": {
+    "author": "tyql688",
+    "desc": "基于astrbot的wwuid的回复增强。",
+    "repo": "https://github.com/tyql688/astrbot_plugin_wwuid_reply_enhance",
+    "tags": ["鸣潮"],
+    "social_link": "https://github.com/tyql688/WutheringWavesUID"
+  },
   "astrbot_plugin_mrfz_haunting_query": {
     "author": "Ricky",
     "desc": "明日方舟抽卡查询",
