@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_bili_userinfo": {
+    "author": "FlyingMuyu",
+    "desc": "B站用户信息查询",
+    "repo": "https://github.com/FlyingMuyu/astrbot_plugin_bili_userinfo",
+    "tags": ["bilibili"],
+    "social_link": "https://github.com/FlyingMuyu"
+  },
   "astrbot_plugin_weather-Amap": {
     "author": "BB0813",
     "desc": "基于w33d大佬心知天气插件二次开发 修改为高德开放平台API",
