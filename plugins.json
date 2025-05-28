@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_weather-Amap": {
+    "author": "BB0813",
+    "desc": "基于w33d大佬心知天气插件二次开发 修改为高德开放平台API",
+    "repo": "https://github.com/BB0813/astrbot_plugin_weather-Amap",
+    "tags": ["天气查询"],
+    "social_link": "https://github.com/BB0813"
+  },
   "astrbot_plugin_chouqunyou": {
     "author": "灵煞",
     "desc": "[仅 napcat] 在QQ群随机抽取一个群友",
