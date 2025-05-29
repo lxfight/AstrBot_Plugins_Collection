@@ -94,7 +94,7 @@
   },
   "astrbot_plugin_mcmod_modsearch": {
     "author": "mmyddd",
-    "desc": "本插件根据wayzinx/httpposter修改，大部分代码由ai编写，用于查询爬取的mcmod内的模组与整合包，用法：/查mod mek或 /查整合包 GTNH",
+    "desc": "本插件根据 wayzinx/httpposter 修改，用于查询爬取的 mcmod 内的模组与整合包，用法：/查mod mek或 /查整合包 GTNH",
     "repo": "https://github.com/mmyddd/astrbot_plugin_mcmod_modsearch"
   },
   "astrbot_plugin_doro": {
@@ -170,7 +170,7 @@
   },
   "astrbot_plugin_Kanalyse": {
     "author": "End_Tower",
-    "desc": "基于大语言模型的群聊分析插件，提供聊天记录总结和实时分析功能，并将生成的内容转化为一张图片，以AI绝对客观的视角来调停冲突 本意为让AI当判官直接评判对错，后来发现AI无法成为一个裁判判断是非，但AI能以他绝对的客观性，强行把大家拉回观众席上，客观的看待一个事件。部署一个月内累计处理：重大社会热点争议 10+ 次（订婚强奸案被判3年等、胖猫事件重提等）,日常群组冲突 30+ 次,90% 争议在AI介入后停止升级",
+    "desc": "[仅 QQ]基于大语言模型的群聊分析插件，提供聊天记录总结和实时分析功能，并将生成的内容转化为一张图片，以AI绝对客观的视角来调停冲突 本意为让AI当判官直接评判对错，后来发现AI无法成为一个裁判判断是非，但AI能以他绝对的客观性，强行把大家拉回观众席上，客观的看待一个事件。部署一个月内累计处理：重大社会热点争议 10+ 次（订婚强奸案被判3年等、胖猫事件重提等）,日常群组冲突 30+ 次,90% 争议在AI介入后停止升级",
     "repo": "https://github.com/endtower/astrbot_plugin_Kanalyse",
     "tags": ["教育", "调停"]
   },
@@ -259,7 +259,8 @@
     "desc": "AstrBot词云与排名插件(CloudRank)：专为AstrBot设计的强大聊天分析工具。可分析群聊与私聊消息，生成美观词云图，直观展示热点话题，并展示用户活跃度排行。支持定时与手动生成，提供丰富的颜色、字体、形状及排名显示自定义选项",
     "repo": "https://github.com/GEMILUXVII/astrbot_plugin_cloudrank",
     "tags": ["词云"],
-    "social_link": "https://github.com/GEMILUXVII"
+    "social_link": "https://github.com/GEMILUXVII",
+    "pinned": true
   },
   "astrbot_plugin_liblibapi": {
     "author": "machinad",
@@ -483,8 +484,7 @@
     "author": "tinker",
     "desc": "一键输出所有插件的命令帮助！",
     "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_help",
-    "social_link": "https://github.com/tinkerbellqwq",
-    "pinned": true
+    "social_link": "https://github.com/tinkerbellqwq"
   },
   "astrbot_qqemotionreply": {
     "author": "QiChen",
@@ -1655,8 +1655,9 @@
   },
   "astrbot_plugin_bilibili": {
     "desc": "哔哩哔哩动态推送、视频信息、直播间信息查询插件",
-    "author": "Soulter",
-    "repo": "https://github.com/Soulter/astrbot_plugin_bilibili"
+    "author": "Flartiny & Soulter",
+    "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
+    "pinned": true
   },
   "astrbot_plugin_leetcode": {
     "desc": "leetcode 每日一题、随机题目。",
@@ -1871,8 +1872,7 @@
   "astrbot_plugin_mnemosyne": {
     "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
     "author": "lxfight",
-    "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
-    "pinned": true
+    "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
