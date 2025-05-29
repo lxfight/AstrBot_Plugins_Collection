@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_renjian": {
+    "author": "FlyingMuyu",
+    "desc": "《我在人间凑数的日子》散文随机语录。",
+    "repo": "https://github.com/FlyingMuyu/astrbot_plugin_renjian",
+    "social_link": "https://github.com/FlyingMuyu"
+  },
+  "astrbot_plugin_translate": {
+    "author": "xu-wish",
+    "desc": "使用 Google Translate 的 AstrBot 插件，支持使用命令 /tl 翻译任意文本。",
+    "repo": "https://github.com/xu-wish/astrbot_plugin_translate",
+    "tags": ["翻译"],
+    "social_link": "https://github.com/xu-wish"
+  },
   "astrbot_plugin_bili_userinfo": {
     "author": "FlyingMuyu",
     "desc": "B站用户信息查询",
