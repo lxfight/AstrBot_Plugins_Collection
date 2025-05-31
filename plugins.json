@@ -1,4 +1,11 @@
 {
+    "astrbot_plugin_tts_Step_Audio": {
+    "author": "xiewoc",
+    "desc": "（QQ已测试可用性）一个基于Step-Audio的tts插件（文字转语音）",
+    "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Step_Audio",
+    "tags": ["文字转语音"],
+    "social_link": "https://github.com/xiewoc"
+  },
     "astrbot_plugin_sysinfoimg": {
     "author": "BB0813",
     "desc": "获取当前系统状态&AstrBot状态并生成图片发送的插件",
