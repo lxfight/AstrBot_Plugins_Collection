@@ -1,4 +1,11 @@
 {
+    "astrbot_plugin_sysinfoimg": {
+    "author": "BB0813",
+    "desc": "获取当前系统状态&AstrBot状态并生成图片发送的插件",
+    "repo": "https://github.com/BB0813/astrbot_plugin_sysinfoimg",
+    "tags": ["系统状态"],
+    "social_link": "https://github.com/BB0813"
+  },
     "astrbot_dg_lab_plugin": {
     "author": "RC-CHN",
     "desc": "嗯，用郊狼和你的AI玩一点小游戏，理论上全平台，测试aiocqhttp可用",
