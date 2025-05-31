@@ -1,8 +1,15 @@
 {
+    "astrbot_dg_lab_plugin": {
+    "author": "RC-CHN",
+    "desc": "嗯，用郊狼和你的AI玩一点小游戏，理论上全平台，测试aiocqhttp可用",
+    "repo": "https://github.com/RC-CHN/astrbot_dg_lab_plugin",
+    "tags": ["玩具"]
+  },
     "astrbot_plugin_music": {
     "author": "Zhalslar",
     "desc": "点歌插件，支持按钮点歌、ai点歌、音乐卡片播放、语音播放、热评、歌词、歌单、多音源、无需VIP、全平台兼容",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_music",
+    "tags": ["音乐"],
     "social_link": "https://github.com/Zhalslar"
   },
   "astrbot_plugin_renjian": {
