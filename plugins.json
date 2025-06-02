@@ -1,7 +1,7 @@
 {
     "astrbot_plugin_drift_bottle": {
     "author": "wuyan1003",
-    "desc": "一个简单的漂流瓶插件，支持发送和捡起漂流瓶，可以包含文字和图片",
+    "desc": "一起来扔漂流瓶吧！一个简单的漂流瓶插件，支持发送和捡起漂流瓶，可以包含文字和图片",
     "repo": "https://github.com/wuyan1003/astrbot_plugin_drift_bottle"
     },
     "astrbot_plugin_tts_Step_Audio": {
