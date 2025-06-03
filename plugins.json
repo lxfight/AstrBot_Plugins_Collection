@@ -1,4 +1,21 @@
 {
+    "astrbot_plugin_xiaoxue": {
+    "author": "sbmikoto",
+    "desc": " 让 LLM 通过正常聊天的方式调用 ComfyUI 进行画图（需要模型支持函数调用）",
+    "repo": "https://github.com/sbmikoto/astrbot_plugin_xiaoxue",
+    "tags": ["ComfyUI"]
+    },
+    "astrbot-plugin-relaychat": {
+    "author": "HikariFroya",
+    "desc": "一款为 AstrBot 设计的插件，允许多个虚拟Bot人格在同一个聊天会话（目前主要支持群聊）中进行轮流的连锁回复，营造更生动和沉浸的群聊对话体验。",
+    "repo": "https://github.com/HikariFroya/astrbot-plugin-relaychat"
+    },
+    "astrbot_plugin_vocechat": {
+    "author": "HikariFroya",
+    "desc": "一款为 AstrBot 设计的平台适配器插件，用于连接和集成 VoceChat 聊天服务。VoceChat是一个支持多平台、搭建简单的快捷聊天平台",
+    "repo": "https://github.com/HikariFroya/astrbot_plugin_vocechat",
+    "tags": ["平台适配器", "vocechat"]
+    },
     "astrbot_plugin_drift_bottle": {
     "author": "wuyan1003",
     "desc": "一起来扔漂流瓶吧！一个简单的漂流瓶插件，支持发送和捡起漂流瓶，可以包含文字和图片",
