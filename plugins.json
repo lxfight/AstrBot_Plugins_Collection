@@ -1,4 +1,10 @@
 {
+    "astrbot_plugin_yunshi": {
+        "author": "Abyss-Seeker",
+        "desc": "发送'运势'获取随机二次元运势图", 
+        "repo": "https://github.com/Abyss-Seeker/astrbot_plugin_yunshi",
+        "social_link": "https://github.com/Abyss-Seeker"
+    },
     "astrbot_plugin_bilibili_summary": {
       "author": "VincenttHo",
       "desc": "Bilibili视频字幕总结插件，获取B站视频字幕并使用LLM生成内容总结",
