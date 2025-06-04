@@ -1,4 +1,16 @@
 {
+    "astrbot_plugin_bilibili_summary": {
+      "author": "VincenttHo",
+      "desc": "Bilibili视频字幕总结插件，获取B站视频字幕并使用LLM生成内容总结",
+      "repo": "https://github.com/VincenttHo/astrbot_plugin_bilibili_summary"
+    },
+    "astrbot_plugin_steam_status_monitor": {
+      "author": "猫耳",
+      "desc": "监控指定 Steam 玩家的游戏状态，并在状态变更时推送通知。",
+      "repo": "https://github.com/Maoer233/astrbot_plugin_steam_status_monitor",
+      "tags": ["Steam"],
+      "social_link": "https://github.com/Maoer233" 
+    },
     "astrbot_plugin_xiaoxue": {
     "author": "sbmikoto",
     "desc": " 让 LLM 通过正常聊天的方式调用 ComfyUI 进行画图（需要模型支持函数调用）",
@@ -451,7 +463,7 @@
   },
   "astrbot_plugin_animewifex": {
     "author": "monbed",
-    "desc": "[仅 aiocqhttp] 基于zgojin的astrbot_plugin_AW插件修改版。",
+    "desc": "[仅 aiocqhttp] 基于 zgojin 的群二次元老婆插件修改版。",
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex"
   },
   "astrbot_plugin_emojimix": {
