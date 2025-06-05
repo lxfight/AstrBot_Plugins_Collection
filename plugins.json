@@ -1,4 +1,11 @@
 {
+    "astrbot_plugin_galinfo": {
+        "author": "Hxfrzc",
+        "desc": "一个可以提供查询 Galgame 简介等信息的插件",
+        "repo": "https://github.com/Hxfrzc/astrbot_plugin_galinfo",
+        "tags": ["Galgame", "旮旯给木"],
+        "social_link": "https://github.com/Hxfrzc"
+    },
     "astrbot_plugin_yunshi": {
         "author": "Abyss-Seeker",
         "desc": "发送'运势'获取随机二次元运势图", 
