@@ -1,10 +1,47 @@
 {
+  "astrbot_plugin_n8n": {
+    "author": "Wanxp",
+    "repo": "https://github.com/Wanxp/astrbot_plugin_n8n",
+    "tags": ["n8n", "webhook"],
+    "social_link": "https://wxp.hk"
+  },
+  "astrobot_send_msg_to_gotify": {
+    "author": "malphitee",
+    "desc": "监听指定用户的消息并自动转发到 Gotify 推送服务",
+    "repo": "https://github.com/malphitee/astrobot_send_msg_to_gotify"
+  },
+  "astrbot_plugin_cube": {
+    "author": "Zhalslar",
+    "desc": "可视化魔方插件（三阶魔方），内置公式方便初学者学习",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_cube",
+    "tags": ["魔方"],
+    "social_link": "https://github.com/Zhalslar"
+  },
+  "astrbot_plugin_constellation": {
+    "author": "Abyss-Seeker",
+    "desc": "发送星座名返回对应运势（文字）",
+    "repo": "https://github.com/Abyss-Seeker/astrbot_plugin_constellation",
+    "tags": ["运势", "星座", "zodiac"],
+    "social_link": "https://github.com/Abyss-Seeker"
+  },
+  "astrbot_plugin_zhanxing": {
+    "author": "雨爲/yuweitk",
+    "desc": "基于 LLM 的占星骰子插件",
+    "repo": "https://github.com/yuweitk/astrbot_plugin_zhanxing",
+    "tags": ["占星"]
+  },
   "astrbot_plugin_YumeCard": {
     "author": "FengYing",
     "desc": "让 AstrBot 支持 YumeCard，同时也进行自动部署和管理配置项(主项目 YumeCard 系统要求为 Linux or Win 平台)",
     "repo": "https://github.com/FengYing1314/astrbot_plugin_YumeCard",
     "tags": ["GitHub", "订阅", "卡片"],
     "social_link": "https://github.com/FengYing1314"
+  },
+  "astrbot_plugin_zhuge": {
+    "author": "雨爲/yuweitk",
+    "repo": "https://github.com/yuweitk/astrbot_plugin_zhuge",
+    "desc": "诸葛神算",
+    "tags": ["占卜"]
   },
   "astrbot_plugin_farm": {
     "author": "Shu-Ying",
@@ -29,6 +66,12 @@
     "tags": ["漂流瓶"],
     "social_link": "https://github.com/Flartiny",
     "repo": "https://github.com/Flartiny/astrbot_plugin_message_bottle"
+  },
+  "astrbot_plugin_64gua": {
+    "author": "雨爲/yuweitk",
+    "repo": "https://github.com/yuweitk/astrbot_plugin_64gua",
+    "desc": "周易六十四卦随机生成器",
+    "tags": ["占卜"]
   },
   "astrbot_plugin_cook": {
     "author": "Niloux",
