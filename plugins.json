@@ -1640,10 +1640,10 @@
     ],
     "repo": "https://github.com/chengcheng0325/astrbot_plugin_saris_fish"
   },
-  "astr_plugin_random_image": {
+  "astrbot_plugin_rdimage": {
     "desc": "从 wenturc 获取随机图片的插件（无 HTML 解析）",
     "author": "IGCrystal",
-    "repo": "https://github.com/IGCrystal/astr_plugin_random_image"
+    "repo": "https://github.com/IGCrystal/astrbot_plugin_rdimage"
   },
   "astrbot_plugin_gewe_chatsummary": {
     "desc": "[仅 gewechat] 用来对最近消息调用 LLM 进行总结的插件",
