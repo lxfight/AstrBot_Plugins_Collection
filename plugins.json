@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_sakisaki": {
+    "author": "LumineStory",
+    "repo": "https://github.com/oyxning/astrbot_plugin_sakisaki",
+    "tags": ["Ave Mujica", "丰川祥子"],
+    "social_link": "https://github.com/oyxning",
+    "desc": "祥压抑用户专属，基于关键词触发的香草小祥插件"
+  },
   "astrbot_plugin_n8n": {
     "author": "Wanxp",
     "repo": "https://github.com/Wanxp/astrbot_plugin_n8n",
