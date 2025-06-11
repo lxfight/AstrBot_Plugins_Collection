@@ -1,4 +1,24 @@
 {
+  "astrbot_plugin_lyricnext": {
+    "author": "PikoPai",
+    "repo": "https://github.com/EEEpai/astrbot_plugin_lyricnext",
+    "tags": ["接歌词"],
+    "desc": "歌词接龙插件，当你发送一句歌词，机器人会回复下一句。"
+  },
+  "astrbot_plugin_redstone": {
+    "author": "LumineStory",
+    "repo": "https://github.com/oyxning/astrbot_plugin_redstone",
+    "tags": ["地狱笑话吧打过来了"],
+    "desc": "通过调用硅基流动 API 生成地狱笑话",
+    "social_link": "https://github.com/oyxning"
+  },
+  "astrbot_plugin_human_service": {
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_human_service",
+    "tags": ["人工", "客服"],
+    "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
+    "social_link": "https://github.com/Zhalslar"
+  },
   "astrbot_plugin_sakisaki": {
     "author": "LumineStory",
     "repo": "https://github.com/oyxning/astrbot_plugin_sakisaki",
