@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_github_analyzer": {
+    "author": "lxfight",
+    "repo": "https://github.com/lxfight/astrbot_plugin_github_analyzer",
+    "desc": "分析 GitHub 用户的近期活动，并生成一张精美的“内卷”报告卡。",
+    "tags": ["GitHub", "数据跟踪"],
+    "social_link": "https://github.com/lxfight"
+  },
+  "astrbot_plugin_mathjax2image": {
+    "author": "Willixrain",
+    "desc": "用于调用 LLM 生成数学文章，并支持 Mathjax 渲染.",
+    "tags": ["Mathjax"],
+    "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image"
+  },
+  "astrbot_plugin_xyzw_box": {
+    "author": "cloudcranesss",
+    "desc": "通过 OCR 识别咸鱼之王游戏中的宝箱数量",
+    "repo": "https://github.com/cloudcranesss/astrbot_plugin_xyzw_box"
+  },
+  "astrbot_scpsl_server": {
+    "author": "若梦",
+    "repo": "https://github.com/liangkga/astrbot_scpsl_server",
+    "desc": "SCP：SL 服务器查询插件，仿照 server_Qchat 功能",
+    "social_link": "https://xingyu.ink"
+  },
+  "astrbot_plugin_wbank": {
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_wbank",
+    "tags": ["词库", "自定义回复"],
+    "social_link": "https://github.com/Zhalslar",
+    "desc": "动态词库，自定义回复词"
+  },
   "astrbot_plugin_lyricnext": {
     "author": "PikoPai",
     "repo": "https://github.com/EEEpai/astrbot_plugin_lyricnext",
@@ -18,6 +49,12 @@
     "tags": ["人工", "客服"],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar"
+  },
+  "astrbot_plugin_reimage": {
+    "author": "victical",
+    "repo": "https://github.com/victical/astrbot_plugin_reimage",
+    "tags": ["图像转述"],
+    "desc": "将图像转述给不支持图像识别的大模型"
   },
   "astrbot_plugin_sakisaki": {
     "author": "LumineStory",
