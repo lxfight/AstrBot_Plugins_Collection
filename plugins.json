@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_alistfile": {
+    "author": "linjianyan",
+    "repo": "https://github.com/linjianyan0229/astrbot_plugin_alistfile",
+    "desc": "支持对 alist 的下载和上传（仅支持图上传）",
+    "tags": ["alist"],
+    "social_link": "https://github.com/linjianyan0229"
+  },
+  "astrbot_plugin_StarMonitor": {
+    "author": "Jason.Joestar",
+    "repo": "https://github.com/advent259141/astrbot_plugin_StarMonitor",
+    "desc": "用于监控指定 Github 仓库的 Star 数变化",
+    "tags": ["Github", "数据跟踪"],
+    "social_link": "https://github.com/advent259141"
+  },
   "astrbot_plugin_github_analyzer": {
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_github_analyzer",
