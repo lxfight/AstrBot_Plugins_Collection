@@ -1,4 +1,63 @@
 {
+  "astrbot_plugin_kook_adapter": {
+    "author": "wuyan1003",
+    "desc": "为 AstrBot Kook 平台适配器，支持机器人在 Kook 服务器中实现消息接收、指令响应等功能，轻松拓展多平台运营能力。",
+    "repo": "https://github.com/wuyan1003/astrbot_plugin_kook_adapter",
+    "tags": ["Kook", "平台适配器"]
+  },
+  "astrbot_plugin_deepresearch": {
+    "author": "lxfight",
+    "desc": "为 AstrBot 提供一种 DeepResearch 方案，并支持生成可视化 HTML 报告",
+    "tags": ["deep research", "web search"],
+    "social_link": "https://github.com/lxfight"
+  },
+  "astrbot_plugin_textadventure": {
+    "author": "LumineStory",
+    "desc": "一个由 LLM（大语言模型）驱动的动态文字冒险小游戏插件，支持自定义冒险主题",
+    "repo": "https://github.com/oyxning/astrbot_plugin_textadventure",
+    "social_link": "https://github.com/oyxning",
+    "tags": ["文字游戏"]
+  },
+  "astrbot_plugin_llmAtTool": {
+    "author": "LumineStory",
+    "repo": "https://github.com/oyxning/astrbot_plugin_llmAtTool",
+    "desc": "提供一个可供 LLM 调用的 @ 用户工具(Tool)",
+    "tags": ["函数调用"],
+    "social_link": "https://github.com/oyxning"
+  },
+  "astrbot_plugin_daliy_60s_news": {
+    "author": "CJSen",
+    "desc": "一个为AstrBot)设计的每日 60 秒新闻插件。该插件可自动或手动推送每日新闻（文本或图片）到指定群组，帮助群成员快速获取当天要闻。",
+    "tags": ["每日新闻"],
+    "repo": "https://github.com/CJSen/astrbot_plugin_daliy_60s_news"
+  },
+  "astrbot_plugin_desuwa": {
+    "author": "GEMILUXVII",
+    "repo": "https://github.com/GEMILUXVII/astrbot_plugin_desuwa",
+    "desc": "在机器人回复的每句话末尾加上 “desuwa” desuwa",
+    "tags": ["sakiko", "丰川祥子"],
+    "social_link": "https://github.com/GEMILUXVII"
+  },
+  "astrbot_plugin_afdian": {
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_afdian",
+    "desc": "爱发电对接插件，接受用户打赏，实时推送订单情况",
+    "tags": ["爱发电"],
+    "social_link": "https://github.com/Zhalslar"
+  },
+  "astrbot_plugin_runes": {
+    "author": "雨爲/yuweitk",
+    "repo": "https://github.com/yuweitk/astrbot_plugin_runes",
+    "desc": "基于 LLM 的卢恩符文占卜插件",
+    "tags": ["占卜"]
+  },
+  "astrbot_plugin_antipromptinjector": {
+    "desc": "防提示注入，保护 AI 不被恶意调教",
+    "repo": "https://github.com/oyxning/astrbot_plugin_antipromptinjector",
+    "author": "LumineStory",
+    "tags": ["保护", "调教"],
+    "social_link": "https://github.com/oyxning"
+  },
   "astrbot_plugin_alistfile": {
     "author": "linjianyan",
     "repo": "https://github.com/linjianyan0229/astrbot_plugin_alistfile",
