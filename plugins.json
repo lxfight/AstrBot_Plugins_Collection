@@ -1,4 +1,38 @@
 {
+  "astrbot_plugin_Astrsupermarket": {
+    "author": "和泉智宏本人",
+    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_Astrsupermarket",
+    "desc": "一款专为 AstrBot 打造的高互动性 QQ 群聊插件，融合经济、社交、冒险等玩法"
+  },
+  "astrbot_plugin_gameinfo": {
+    "author": "bushikq",
+    "repo": "https://github.com/zhewang448/astrbot_plugin_gameinfo",
+    "desc": "基于 Selenium 的一个获取部分二游角色 Wiki 信息的插件。",
+    "tags": ["明日方舟", "wiki", "selenium"],
+    "social_link": "https://github.com/zhewang448"
+  },
+  "astrbot_plugin_shutup": {
+    "author": "Railgun19457",
+    "repo": "https://github.com/railgun19457/astrbot_plugin_shutup",
+    "desc": "一个简单的插件，让 Bot 闭嘴",
+    "social_link": "https://github.com/railgun19457"
+  },
+  "astrbot_plugin_check-dst-room": {
+    "author": "EncodedWitcher",
+    "repo": "https://github.com/EncodedWitcher/astrbot_plugin_check-dst-room",
+    "desc": "饥荒查房"
+  },
+  "astrbot_plugin_solve_longmsg": {
+    "author": "HakimYu/SXP-Simon",
+    "repo": "https://github.com/HakimYu/astrbot_plugin_solve_longmsg",
+    "desc": "撤回并合并转发群员或者机器人的长消息"
+  },
+  "astrbot_plugin_promise_keeper": {
+    "author": "xunxi",
+    "desc": "一个能自动识别聊天承诺并提醒记录的智能插件，支持模糊时间解析、排行榜生成和自定义规则，确保承诺不被遗忘。",
+    "repo": "https://github.com/xunxiing/astrbot_plugin_promise_keeper",
+    "tags": ["提醒", "守信", "排行榜"]
+  },
   "astrbot_plugin_kook_adapter": {
     "author": "wuyan1003",
     "desc": "为 AstrBot Kook 平台适配器，支持机器人在 Kook 服务器中实现消息接收、指令响应等功能，轻松拓展多平台运营能力。",
