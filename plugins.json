@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_dynamic_persona": {
+    "author": "LumineStory",
+    "desc": "在每次交互前为你的 Bot 动态生成一个全新的、临时的性格，让你的 Bot 充满惊喜和生命力。",
+    "repo": "https://github.com/oyxning/astrbot_plugin_dynamic_persona",
+    "social_link": "https://github.com/oyxning",
+    "tags": ["随机人格"]
+  },
+  "astrbot_plugin_touchi": {
+    "author": "sa1guu",
+    "desc": "三角洲鼠鼠偷吃模拟器（简易）",
+    "repo": "https://github.com/sa1guu/astrbot_plugin_touchi"
+  },
   "astrbot_plugin_Astrsupermarket": {
     "author": "和泉智宏本人",
     "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_Astrsupermarket",
