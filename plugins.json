@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_discord_self_embeded": {
+    "author": "SXP-Simon",
+    "desc": "一个用于 AstrBot 的 Discord Embed 适配器插件，可以自动将发送至 Discord 的文本消息转换为精美的 Embed 格式。",
+    "social_link": "https://github.com/SXP-Simon",
+    "repo": "https://github.com/SXP-Simon/astrbot_plugin_discord_self_embeded"
+  },
   "astrbot_plugin_dynamic_persona": {
     "author": "LumineStory",
     "desc": "在每次交互前为你的 Bot 动态生成一个全新的、临时的性格，让你的 Bot 充满惊喜和生命力。",
