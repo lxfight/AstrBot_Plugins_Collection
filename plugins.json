@@ -1,4 +1,22 @@
 {
+  "yandere_github_stalker": {
+    "author": "Hakimyu",
+    "desc": "监控 GitHub 用户活动，采用病娇风格，并通过图片或文本的形式发送通知。",
+    "repo": "https://github.com/SXP-Simon/astrbot_plugin_yandere_github_stalker",
+    "tags": ["GitHub", "病娇"]
+  },
+  "tron_address": {
+    "author": "xinghanxu",
+    "desc": "波场地址查询插件",
+    "tags": ["Tron"],
+    "social_link": "https://t.me/tianxu648"
+  },
+  "astrbot_plugin_test_helper": {
+    "author": "LumineStory",
+    "desc": "允许你通过一个简单的聊天指令，远程热更新你正在开发和测试的任何其他插件",
+    "social_link": "https://github.com/oyxning",
+    "repo": "https://github.com/oyxning/astrbot_plugin_test_helper"
+  },
   "astrbot_plugin_discord_self_embeded": {
     "author": "SXP-Simon",
     "desc": "一个用于 AstrBot 的 Discord Embed 适配器插件，可以自动将发送至 Discord 的文本消息转换为精美的 Embed 格式。",
@@ -10,7 +28,9 @@
     "desc": "在每次交互前为你的 Bot 动态生成一个全新的、临时的性格，让你的 Bot 充满惊喜和生命力。",
     "repo": "https://github.com/oyxning/astrbot_plugin_dynamic_persona",
     "social_link": "https://github.com/oyxning",
-    "tags": ["随机人格"]
+    "tags": [
+      "随机人格"
+    ]
   },
   "astrbot_plugin_touchi": {
     "author": "sa1guu",
@@ -26,7 +46,11 @@
     "author": "bushikq",
     "repo": "https://github.com/zhewang448/astrbot_plugin_gameinfo",
     "desc": "基于 Selenium 的一个获取部分二游角色 Wiki 信息的插件。",
-    "tags": ["明日方舟", "wiki", "selenium"],
+    "tags": [
+      "明日方舟",
+      "wiki",
+      "selenium"
+    ],
     "social_link": "https://github.com/zhewang448"
   },
   "astrbot_plugin_shutup": {
@@ -49,18 +73,28 @@
     "author": "xunxi",
     "desc": "一个能自动识别聊天承诺并提醒记录的智能插件，支持模糊时间解析、排行榜生成和自定义规则，确保承诺不被遗忘。",
     "repo": "https://github.com/xunxiing/astrbot_plugin_promise_keeper",
-    "tags": ["提醒", "守信", "排行榜"]
+    "tags": [
+      "提醒",
+      "守信",
+      "排行榜"
+    ]
   },
   "astrbot_plugin_kook_adapter": {
     "author": "wuyan1003",
     "desc": "为 AstrBot Kook 平台适配器，支持机器人在 Kook 服务器中实现消息接收、指令响应等功能，轻松拓展多平台运营能力。",
     "repo": "https://github.com/wuyan1003/astrbot_plugin_kook_adapter",
-    "tags": ["Kook", "平台适配器"]
+    "tags": [
+      "Kook",
+      "平台适配器"
+    ]
   },
   "astrbot_plugin_deepresearch": {
     "author": "lxfight",
     "desc": "为 AstrBot 提供一种 DeepResearch 方案，并支持生成可视化 HTML 报告",
-    "tags": ["deep research", "web search"],
+    "tags": [
+      "deep research",
+      "web search"
+    ],
     "social_link": "https://github.com/lxfight"
   },
   "astrbot_plugin_textadventure": {
@@ -68,73 +102,99 @@
     "desc": "一个由 LLM（大语言模型）驱动的动态文字冒险小游戏插件，支持自定义冒险主题",
     "repo": "https://github.com/oyxning/astrbot_plugin_textadventure",
     "social_link": "https://github.com/oyxning",
-    "tags": ["文字游戏"]
+    "tags": [
+      "文字游戏"
+    ]
   },
   "astrbot_plugin_llmAtTool": {
     "author": "LumineStory",
     "repo": "https://github.com/oyxning/astrbot_plugin_llmAtTool",
     "desc": "提供一个可供 LLM 调用的 @ 用户工具(Tool)",
-    "tags": ["函数调用"],
+    "tags": [
+      "函数调用"
+    ],
     "social_link": "https://github.com/oyxning"
   },
   "astrbot_plugin_daliy_60s_news": {
     "author": "CJSen",
     "desc": "一个为AstrBot)设计的每日 60 秒新闻插件。该插件可自动或手动推送每日新闻（文本或图片）到指定群组，帮助群成员快速获取当天要闻。",
-    "tags": ["每日新闻"],
+    "tags": [
+      "每日新闻"
+    ],
     "repo": "https://github.com/CJSen/astrbot_plugin_daliy_60s_news"
   },
   "astrbot_plugin_desuwa": {
     "author": "GEMILUXVII",
     "repo": "https://github.com/GEMILUXVII/astrbot_plugin_desuwa",
     "desc": "在机器人回复的每句话末尾加上 “desuwa” desuwa",
-    "tags": ["sakiko", "丰川祥子"],
+    "tags": [
+      "sakiko",
+      "丰川祥子"
+    ],
     "social_link": "https://github.com/GEMILUXVII"
   },
   "astrbot_plugin_afdian": {
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_afdian",
     "desc": "爱发电对接插件，接受用户打赏，实时推送订单情况",
-    "tags": ["爱发电"],
+    "tags": [
+      "爱发电"
+    ],
     "social_link": "https://github.com/Zhalslar"
   },
   "astrbot_plugin_runes": {
     "author": "雨爲/yuweitk",
     "repo": "https://github.com/yuweitk/astrbot_plugin_runes",
     "desc": "基于 LLM 的卢恩符文占卜插件",
-    "tags": ["占卜"]
+    "tags": [
+      "占卜"
+    ]
   },
   "astrbot_plugin_antipromptinjector": {
     "desc": "防提示注入，保护 AI 不被恶意调教",
     "repo": "https://github.com/oyxning/astrbot_plugin_antipromptinjector",
     "author": "LumineStory",
-    "tags": ["保护", "调教"],
+    "tags": [
+      "保护",
+      "调教"
+    ],
     "social_link": "https://github.com/oyxning"
   },
   "astrbot_plugin_alistfile": {
     "author": "linjianyan",
     "repo": "https://github.com/linjianyan0229/astrbot_plugin_alistfile",
     "desc": "支持对 alist 的下载和上传（仅支持图上传）",
-    "tags": ["alist"],
+    "tags": [
+      "alist"
+    ],
     "social_link": "https://github.com/linjianyan0229"
   },
   "astrbot_plugin_StarMonitor": {
     "author": "Jason.Joestar",
     "repo": "https://github.com/advent259141/astrbot_plugin_StarMonitor",
     "desc": "用于监控指定 Github 仓库的 Star 数变化",
-    "tags": ["Github", "数据跟踪"],
+    "tags": [
+      "Github",
+      "数据跟踪"
+    ],
     "social_link": "https://github.com/advent259141"
   },
   "astrbot_plugin_github_analyzer": {
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_github_analyzer",
     "desc": "分析 GitHub 用户的近期活动，并生成一张精美的“内卷”报告卡。",
-    "tags": ["GitHub", "数据跟踪"],
+    "tags": [
+      "GitHub",
+      "数据跟踪"
+    ],
     "social_link": "https://github.com/lxfight"
   },
   "astrbot_plugin_mathjax2image": {
     "author": "Willixrain",
     "desc": "用于调用 LLM 生成数学文章，并支持 Mathjax 渲染.",
-    "tags": ["Mathjax"],
+    "tags": [
+      "Mathjax"
+    ],
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image"
   },
   "astrbot_plugin_xyzw_box": {
@@ -151,47 +211,65 @@
   "astrbot_plugin_wbank": {
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_wbank",
-    "tags": ["词库", "自定义回复"],
+    "tags": [
+      "词库",
+      "自定义回复"
+    ],
     "social_link": "https://github.com/Zhalslar",
     "desc": "动态词库，自定义回复词"
   },
   "astrbot_plugin_lyricnext": {
     "author": "PikoPai",
     "repo": "https://github.com/EEEpai/astrbot_plugin_lyricnext",
-    "tags": ["接歌词"],
+    "tags": [
+      "接歌词"
+    ],
     "desc": "歌词接龙插件，当你发送一句歌词，机器人会回复下一句。"
   },
   "astrbot_plugin_redstone": {
     "author": "LumineStory",
     "repo": "https://github.com/oyxning/astrbot_plugin_redstone",
-    "tags": ["地狱笑话吧打过来了"],
+    "tags": [
+      "地狱笑话吧打过来了"
+    ],
     "desc": "通过调用硅基流动 API 生成地狱笑话",
     "social_link": "https://github.com/oyxning"
   },
   "astrbot_plugin_human_service": {
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_human_service",
-    "tags": ["人工", "客服"],
+    "tags": [
+      "人工",
+      "客服"
+    ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar"
   },
   "astrbot_plugin_reimage": {
     "author": "victical",
     "repo": "https://github.com/victical/astrbot_plugin_reimage",
-    "tags": ["图像转述"],
+    "tags": [
+      "图像转述"
+    ],
     "desc": "将图像转述给不支持图像识别的大模型"
   },
   "astrbot_plugin_sakisaki": {
     "author": "LumineStory",
     "repo": "https://github.com/oyxning/astrbot_plugin_sakisaki",
-    "tags": ["Ave Mujica", "丰川祥子"],
+    "tags": [
+      "Ave Mujica",
+      "丰川祥子"
+    ],
     "social_link": "https://github.com/oyxning",
     "desc": "祥压抑用户专属，基于关键词触发的香草小祥插件"
   },
   "astrbot_plugin_n8n": {
     "author": "Wanxp",
     "repo": "https://github.com/Wanxp/astrbot_plugin_n8n",
-    "tags": ["n8n", "webhook"],
+    "tags": [
+      "n8n",
+      "webhook"
+    ],
     "social_link": "https://wxp.hk"
   },
   "astrobot_send_msg_to_gotify": {
@@ -203,39 +281,56 @@
     "author": "Zhalslar",
     "desc": "可视化魔方插件（三阶魔方），内置公式方便初学者学习",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_cube",
-    "tags": ["魔方"],
+    "tags": [
+      "魔方"
+    ],
     "social_link": "https://github.com/Zhalslar"
   },
   "astrbot_plugin_constellation": {
     "author": "Abyss-Seeker",
     "desc": "发送星座名返回对应运势（文字）",
     "repo": "https://github.com/Abyss-Seeker/astrbot_plugin_constellation",
-    "tags": ["运势", "星座", "zodiac"],
+    "tags": [
+      "运势",
+      "星座",
+      "zodiac"
+    ],
     "social_link": "https://github.com/Abyss-Seeker"
   },
   "astrbot_plugin_zhanxing": {
     "author": "雨爲/yuweitk",
     "desc": "基于 LLM 的占星骰子插件",
     "repo": "https://github.com/yuweitk/astrbot_plugin_zhanxing",
-    "tags": ["占星"]
+    "tags": [
+      "占星"
+    ]
   },
   "astrbot_plugin_YumeCard": {
     "author": "FengYing",
     "desc": "让 AstrBot 支持 YumeCard，同时也进行自动部署和管理配置项(主项目 YumeCard 系统要求为 Linux or Win 平台)",
     "repo": "https://github.com/FengYing1314/astrbot_plugin_YumeCard",
-    "tags": ["GitHub", "订阅", "卡片"],
+    "tags": [
+      "GitHub",
+      "订阅",
+      "卡片"
+    ],
     "social_link": "https://github.com/FengYing1314"
   },
   "astrbot_plugin_zhuge": {
     "author": "雨爲/yuweitk",
     "repo": "https://github.com/yuweitk/astrbot_plugin_zhuge",
     "desc": "诸葛神算",
-    "tags": ["占卜"]
+    "tags": [
+      "占卜"
+    ]
   },
   "astrbot_plugin_farm": {
     "author": "Shu-Ying",
     "desc": "快乐农场时光（真寻农场）",
-    "tags": ["农场", "种地"],
+    "tags": [
+      "农场",
+      "种地"
+    ],
     "repo": "https://github.com/Shu-Ying/astrbot_plugin_farm"
   },
   "astrbot_plugin_weakblacklist": {
@@ -246,13 +341,18 @@
   "astrbot_plugin_InitiativeDialogue_for_group": {
     "author": "Jason.Joestar",
     "desc": "[仅QQ] 群聊长时间没有人发言时机器人主动发起对话的插件（InitiativeDialogue）",
-    "tags": ["主动对话", "闹鬼"],
+    "tags": [
+      "主动对话",
+      "闹鬼"
+    ],
     "repo": "https://github.com/advent259141/astrbot_plugin_InitiativeDialogue_for_group"
   },
   "astrbot_plugin_message_bottle": {
     "author": "Flartiny",
     "desc": "基于 @wuyan1003 的漂流瓶插件重构并更改存储方案",
-    "tags": ["漂流瓶"],
+    "tags": [
+      "漂流瓶"
+    ],
     "social_link": "https://github.com/Flartiny",
     "repo": "https://github.com/Flartiny/astrbot_plugin_message_bottle"
   },
@@ -260,12 +360,16 @@
     "author": "雨爲/yuweitk",
     "repo": "https://github.com/yuweitk/astrbot_plugin_64gua",
     "desc": "周易六十四卦随机生成器",
-    "tags": ["占卜"]
+    "tags": [
+      "占卜"
+    ]
   },
   "astrbot_plugin_cook": {
     "author": "Niloux",
     "desc": "一个功能丰富的 AstrBot 食谱推荐插件，帮助你解决今天吃什么的难题！",
-    "tags": ["吃"],
+    "tags": [
+      "吃"
+    ],
     "social_link": "https://github.com/Niloux",
     "repo": "https://github.com/Niloux/astrbot_plugin_cook"
   },
