@@ -9,7 +9,8 @@
     "author": "xinghanxu",
     "desc": "波场地址查询插件",
     "tags": ["Tron"],
-    "social_link": "https://t.me/tianxu648"
+    "social_link": "https://t.me/tianxu648",
+    "repo": "https://github.com/xinghanxu666/tron-q"
   },
   "astrbot_plugin_test_helper": {
     "author": "LumineStory",
