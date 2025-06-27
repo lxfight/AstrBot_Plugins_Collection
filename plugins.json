@@ -92,6 +92,7 @@
   "astrbot_plugin_deepresearch": {
     "author": "lxfight",
     "desc": "为 AstrBot 提供一种 DeepResearch 方案，并支持生成可视化 HTML 报告",
+    "repo": "https://github.com/lxfight/astrbot_plugin_deepresearch",
     "tags": [
       "deep research",
       "web search"
