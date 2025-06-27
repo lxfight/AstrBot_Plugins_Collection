@@ -913,16 +913,6 @@
     "repo": "https://github.com/vmoranv/astrbot_plugin_yinlish",
     "social_link": "https://github.com/vmoranv"
   },
-  "astrbot_plugin_bilipic": {
-    "author": "明日香奈",
-    "desc": "发送BV号获取哔站视频封面图",
-    "repo": "https://github.com/mingrixiangnai/bilipic",
-    "tags": [
-      "图片",
-      "哔站"
-    ],
-    "social_link": "https://github.com/mingrixiangnai/bilipic"
-  },
   "astrbot_plugin_memelite_rs": {
     "author": "Zhalslar",
     "desc": "表情包生成器，制作各种沙雕表情（Rust重构版，速度快占用小）",
