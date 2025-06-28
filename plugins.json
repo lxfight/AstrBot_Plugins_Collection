@@ -1,4 +1,14 @@
 {
+  "astrbot_plugin_shitu": {
+    "author": "Aurora-xk & DeepSeek R1",
+    "repo": "https://github.com/Aurora-xk/astrbot_plugin_shitu",
+    "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图"
+  },
+  "astrbot_plugin_cheru": {
+    "author": "irs",
+    "desc": "切噜语翻译器",
+    "repo": "https://github.com/irs1122/astrbot_plugin_cheru"
+  },
   "yandere_github_stalker": {
     "author": "Hakimyu",
     "desc": "监控 GitHub 用户活动，采用病娇风格，并通过图片或文本的形式发送通知。",
