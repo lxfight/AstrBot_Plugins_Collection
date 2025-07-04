@@ -1,17 +1,17 @@
 {
-  {
+  "astrbot_plugin_bw_monitor": {
     "name": "astrbot_plugin_bw_monitor",
     "desc": "Bilibili Show 票务监控插件，支持群聊/私聊隔离，检测余票变化并推送通知。",
     "repo": "https://github.com/satori5555/astrbot_plugin_bw_monitor",
     "tags": ["bilibili", "ticket", "推送", "余票"]
   },
-  {
+  "astrbot_plugin_78animesearch": {
     "name": "astrbot_plugin_78animesearch",
     "desc": "通过 `/78dm [关键词]` 命令在 78动漫模型网搜索模玩信息",
     "repo": "https://github.com/critans/astrbot_plugin_78animesearch",
     "tags": ["爬虫", "78动漫"]
   },
-  {
+  "astrbot_plugin_hyrz": {
     "name": "astrbot_plugin_hyrz",
     "desc": "从火影忍者官网上查询火影忍者手游忍者信息",
     "repo": "https://github.com/Aurora-xk/astrbot_plugin_hyrz"
