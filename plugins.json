@@ -1,47 +1,58 @@
 {
+  "astrbot_plugin_cmd_console": {
+    "desc": "提供 WebUI 的指令管理面板，可以启用/禁用插件的指令。",
+    "repo": "https://github.com/Hina-Chat/astrbot_plugin_cmd_console",
+    "tags": ["工具", "实用"],
+    "social_link": "https://magstic.art/"
+  },
+  "astrbot_plugin_market": {
+    "desc": "指令版插件市场。(点个 star 吧~ 你的 star 是我更新的动力）",
+    "repo": "https://github.com/zgojin/astrbot_plugin_market",
+    "tags": ["工具"],
+    "social_link": "astrbot.uk"
+  },
   "astrbot_plugin_bw_monitor": {
-    "name": "astrbot_plugin_bw_monitor",
     "desc": "Bilibili Show 票务监控插件，支持群聊/私聊隔离，检测余票变化并推送通知。",
     "repo": "https://github.com/satori5555/astrbot_plugin_bw_monitor",
-    "tags": ["bilibili", "ticket", "推送", "余票"]
+    "tags": ["bilibili", "ticket", "推送", "余票"],
+    "author": "satori5555"
   },
   "astrbot_plugin_78animesearch": {
-    "name": "astrbot_plugin_78animesearch",
     "desc": "通过 `/78dm [关键词]` 命令在 78动漫模型网搜索模玩信息",
     "repo": "https://github.com/critans/astrbot_plugin_78animesearch",
-    "tags": ["爬虫", "78动漫"]
+    "tags": ["爬虫", "78动漫"],
+    "author": "critans"
   },
   "astrbot_plugin_hyrz": {
-    "name": "astrbot_plugin_hyrz",
     "desc": "从火影忍者官网上查询火影忍者手游忍者信息",
-    "repo": "https://github.com/Aurora-xk/astrbot_plugin_hyrz"
+    "repo": "https://github.com/Aurora-xk/astrbot_plugin_hyrz",
+    "author": "Aurora-xk"
   },
   "astrbot_plugin_at_somebody": {
-    "name": "astrbot_plugin_at_somebody",
     "desc": "[仅限aiocqhttp] 在指定群内艾特(@)给定名单的用户+要通知的内容",
-    "repo": "https://github.com/jiongjiongJOJO/astrbot_plugin_at_somebody"
+    "repo": "https://github.com/jiongjiongJOJO/astrbot_plugin_at_somebody",
+    "author": "jiongjiongJOJO"
   },
   "astrbot_plugin_deltaforce": {
-    "name": "astrbot_plugin_deltaforce",
     "desc": "三角洲行动插件",
     "repo": "https://github.com/UyNewNas/astrbot_plugin_deltaforce",
-    "tags": ["抽卡", "三角洲行动", "鼠鼠"]
+    "tags": ["抽卡", "三角洲行动", "鼠鼠"],
+    "author": "UyNewNas"
   },
   "astrbot_plugin_LetAI_sendemojis": {
-    "name": "astrbot_plugin_LetAI_sendemojis",
     "desc": "智能分析AI对话内容并发送匹配表情包，支持情感识别、历史记录和多数据源，让聊天更生动有趣",
     "repo": "https://github.com/Heyh520/astrbot_plugin_LetAI_sendemojis",
-    "tags": ["表情包", "聊天体验增强"]
+    "tags": ["表情包", "聊天体验增强"],
+    "author": "Heyh520"
   },
   "astrbot_plugin_monitor": {
-    "name": "astrbot_plugin_monitor",
     "desc": "[仅aiocqhttp] 群消息互通插件，通过bot查看其他群聊的聊天记录, 同时能通过bot向其他群聊发消息",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_monitor",
     "tags": ["消息互通"],
-    "social_link": "https://github.com/Zhalslar"
+    "social_link": "https://github.com/Zhalslar",
+    "author": "Zhalslar"
   },
   "astrbot_plugin_decision_roulette": {
-    "name": "astrbot_plugin_decision_roulette",
     "desc": "一个有趣且实用的插件，通过一张精美的静态结果卡片帮助用户做出决策，完美解决“选择困难症”或群组中意见不统一的难题。",
     "repo": "https://github.com/oyxning/astrbot_plugin_decision_roulette",
     "tags": ["工具", "趣味", "决策", "实用"],
