@@ -3,11 +3,13 @@
     "desc": "提供 WebUI 的指令管理面板，可以启用/禁用插件的指令。",
     "repo": "https://github.com/Hina-Chat/astrbot_plugin_cmd_console",
     "tags": ["工具", "实用"],
+    "author": "Hina-Chat",
     "social_link": "https://magstic.art/"
   },
   "astrbot_plugin_market": {
     "desc": "指令版插件市场。(点个 star 吧~ 你的 star 是我更新的动力）",
     "repo": "https://github.com/zgojin/astrbot_plugin_market",
+    "author": "zgojin",
     "tags": ["工具"],
     "social_link": "astrbot.uk"
   },
