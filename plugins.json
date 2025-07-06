@@ -33,7 +33,8 @@
   "astrbot_plugin_at_somebody": {
     "desc": "[仅限aiocqhttp] 在指定群内艾特(@)给定名单的用户+要通知的内容",
     "repo": "https://github.com/jiongjiongJOJO/astrbot_plugin_at_somebody",
-    "author": "jiongjiongJOJO"
+    "author": "JOJO",
+    "social_link": "https://blog.jojo.host/"
   },
   "astrbot_plugin_deltaforce": {
     "desc": "三角洲行动插件",
