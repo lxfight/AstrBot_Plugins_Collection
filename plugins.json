@@ -1,4 +1,15 @@
 {
+  "astrbot_plugin_mp": {
+    "desc": "一个适用于最新版本 MoviePilot 的小工具，支持搜索、订阅、消息转发等功能",
+    "author": "EWEDL",
+    "repo": "https://github.com/EWEDLCM/astrbot_plugin/tree/master/astrbot_plugin_mp",
+    "tags": ["MoviePilot"],
+  },
+  "astrbot_plugin_ip_proxy": {
+    "desc": "一个将HTTP代理API转换为本地代理的AstrBot插件",
+    "author": "timetetng",
+    "repo": "https://github.com/timetetng/astrbot_plugin_ip_proxy",
+  },
   "astrbot_plugin_cmd_console": {
     "desc": "提供 WebUI 的指令管理面板，可以启用/禁用插件的指令。",
     "repo": "https://github.com/Hina-Chat/astrbot_plugin_cmd_console",
