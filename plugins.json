@@ -2,7 +2,7 @@
   "astrbot_plugin_mp": {
     "desc": "一个适用于最新版本moviepilot的小工具，支持搜索、订阅、消息转发等功能",
     "author": "EWEDL",
-    "repo": "https://github.com/EWEDLCM/astrbot_plugin/astrbot_plugin_mp",
+    "repo": "https://github.com/EWEDLCM/astrbot_plugin_mp",
     "tags": ["MP", "工具", "转发", "交互"]
   },
   "astrbot_plugin_anti_recall": {
