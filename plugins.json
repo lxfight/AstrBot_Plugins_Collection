@@ -1,4 +1,42 @@
 {
+  "EmailNotixion": {
+    "name": "EmailNotixion",
+    "desc": "实时IMAP邮件推送插件",
+    "author": "Temmie",
+    "repo": "https://github.com/OlyMarco/EmailNotixion",
+    "tags": ["邮箱", "email", "推送", "工具"]
+  },
+  "astrbot_plugin_RecallGuard": {
+    "name": "astrbot_plugin_RecallGuard",
+    "desc": "[仅 aiocqhttp] 监听指定用户撤回图片并将其转发到指定群聊。",
+    "author": "和泉智宏",
+    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_RecallGuard"
+  },
+  "astrbot_plugin_reply_directly": {
+    "name": "astrbot_plugin_reply_directly",
+    "desc": "一个智能回复插件，可以让LLM决定在特定情境下主动回复用户，或在自己发言后进行反思追问。",
+    "author": "qa296",
+    "repo": "https://github.com/qa296/astrbot_plugin_reply_directly",
+    "tags": ["LLM", "交互增强", "聊天辅助", "主动回复"]
+  },
+  "astrbot_plugin_choulaopo": {
+    "name": "抽老婆",
+    "desc": "[仅napcat] 这是用于抽取QQ群友当老婆的插件。",
+    "author": "糯米茨",
+    "repo": "https://github.com/nuomicici/astrbot-plugin-choulaopo,",
+    "tags": ["工具", "娱乐"]
+  },
+  "astrbot_plugin_file": {
+    "name": "astrbot_plugin_file",
+    "desc": "一个简单的文件发送、删除、移动、复制和查看文件夹内容插件，命令均默认开启管理员权限",
+    "repo": "https://github.com/Chris95743/astrbot_plugin_file"
+  },
+  "astrobot_plugin_code_executor": {
+    "name": "astrobot_plugin_code_executor",
+    "desc": "为LLM提供代码运行权限，可以执行文件操作",
+    "repo": "https://github.com/luosheng520qaq/astrobot_plugin_code_executor",
+    "tags": ["代码运行", "文件处理"]
+  },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
     "desc": "[仅 aiocqhttp] 让 bot 定时群打卡",
