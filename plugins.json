@@ -1,4 +1,29 @@
 {
+  "astrbot-plugin-magnet-preview": {
+    "name": "astrbot-plugin-magnet-preview",
+    "desc": "磁链预览。使用 Redis 作为缓存避免 API 过于频繁请求",
+    "author": "cloudcranesss",
+    "repo": "https://github.com/cloudcranesss/astrbot-plugin-magnet-preview",
+    "tags": ["磁链预览", "whatslink"]
+  },
+  "astrbot_plugin_rg": {
+    "desc":  "群聊左轮手枪游戏插件，玩家可以在群聊中进行左轮手枪射击游戏，支持随机走火事件。",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_rg"
+  },
+  "echo_avatar": {
+    "desc": "学习指定用户的说话方式并生成专业的Prompt，仅限全局管理员使用。",
+    "author": "LumineStory",
+    "repo": "https://github.com/oyxning/astrtbot_plugin_echo_avatar",
+    "tags": ["模仿"],
+    "social_link": "https://github.com/oyxning"
+  },
+  "astrbot_plugin_wwbirthday": {
+    "desc": "鸣潮角色生日播报",
+    "author": "arkina",
+    "repo": "https://github.com/yan3931/astrbot_plugin_wwbirthday",
+    "tags": ["鸣潮"]
+  },
   "EmailNotixion": {
     "name": "EmailNotixion",
     "desc": "实时IMAP邮件推送插件",
