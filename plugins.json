@@ -32,10 +32,10 @@
   },
   "astrbot_plugin_reply_directly": {
     "name": "astrbot_plugin_reply_directly",
-    "desc": "一个智能回复插件，可以让LLM决定在特定情境下主动回复用户，或在自己发言后进行反思追问。",
+    "desc": "让您的 AstrBot 在群聊中变得更加生动和智能！本插件使其可以主动的连续交互。",
     "author": "qa296",
     "repo": "https://github.com/qa296/astrbot_plugin_reply_directly",
-    "tags": ["LLM", "交互增强", "聊天辅助", "主动回复"]
+    "tags": ["交互增强", "聊天辅助", "主动回复", "沉浸式"]
   },
   "astrbot_plugin_choulaopo": {
     "name": "抽老婆",
