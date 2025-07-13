@@ -1,11 +1,4 @@
 {
-  "astrbot-plugin-magnet-preview": {
-    "name": "astrbot-plugin-magnet-preview",
-    "desc": "磁链预览。使用 Redis 作为缓存避免 API 过于频繁请求",
-    "author": "cloudcranesss",
-    "repo": "https://github.com/cloudcranesss/astrbot-plugin-magnet-preview",
-    "tags": ["磁链预览", "whatslink"]
-  },
   "astrbot_plugin_rg": {
     "desc":  "群聊左轮手枪游戏插件，玩家可以在群聊中进行左轮手枪射击游戏，支持随机走火事件。",
     "author": "piexian",
