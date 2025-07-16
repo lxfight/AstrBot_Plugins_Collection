@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_pet": {
+    "desc": "一个简单的的群内宠物养成插件，支持LLM随机事件、PVP对决和图片状态卡。",
+    "author": "DITF16",
+    "repo": "https://github.com/DITF16/astrbot_plugin_pet",
+    "tags": ["游戏", "趣味", "宠物"]
+  },
+  "astrbot_plugin_error_monitor": {
+    "desc": "捕获 Immersive Error 抛出的异常，并提供 SMTP 邮件通知进行报告。",
+    "author": "Magstic, Gemini 2.5 Pro",
+    "repo": "https://github.com/Hina-Chat/astrbot_plugin_error_monitor",
+    "tags": ["工具", "实用"],
+    "social_link": "https://magstic.art/"
+  },
+  "astrbot_plugin_immersive_error": {
+    "desc": "客制化回覆插件。侦测自订的拦截词，并将其替换为与之对应的沉浸式回覆。",
+    "author": "Magstic, Gemini 2.5 Pro",
+    "repo": "https://github.com/Hina-Chat/astrbot_plugin_immersive_error",
+    "tags": ["工具", "实用"],
+    "social_link": "https://magstic.art/"
+  },
+  "astrbot_plugin_welcome": {
+    "name": "astrbot_plugin_welcome",
+    "desc": "[仅 aiocqhttp] 入群欢迎插件，自动艾特新成员并发送自定义消息（支持文本和本地图片，可在控制台修改配置）",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_welcome"
+  },
+  "astrbot_plugin_eat_history": {
+    "desc": "自动保存转发的消息记录，随时查看",
+    "author": "logicat",
+    "repo": "https://github.com/logicat-123/astrbot_plugin_eat_history"
+  },
   "astrbot_plugin_rg": {
     "desc":  "群聊左轮手枪游戏插件，玩家可以在群聊中进行左轮手枪射击游戏，支持随机走火事件。",
     "author": "piexian",
