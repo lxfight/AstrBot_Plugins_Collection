@@ -1,16 +1,29 @@
 {
+  "astrbot_plugin_battlefield_tool": {
+    "desc": "战地风云战绩查询插件",
+    "author": "SHOOTING_STAR_C",
+    "repo": "https://github.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool",
+    "tags": ["战地风云"]
+  },
+  "astrbot_plugin_SteamSaleTracker": {
+    "desc": "这是一个 Steam 游戏价格监控插件",
+    "author": "bushikq",
+    "repo": "https://github.com/zhewang448/astrbot_plugin_SteamSaleTracker",
+    "tags": ["Steam", "游戏"],
+    "social_link": "https://github.com/zhewang448"
+  },
   "astrbot_plugin_Heartflow": {
     "desc": "基于简单的心流机制的群聊主动回复插件，带来更生动的主动回复体验",
     "author": "Jason.Joestar",
     "repo": "https://github.com/advent259141/Astrbot_plugin_Heartflow",
-    "tags": ["主动回复","拟人"],
+    "tags": ["主动回复", "拟人"],
     "social_link": "https://github.com/advent259141"
   },
   "cngal_search": {
     "desc": "CnGal查询",
     "author": "YaoYue",
     "repo": "https://github.com/yaoyuesuzu/astrbot_plugin_cngal_search",
-    "tags": ["cngal","第三方","查询"],
+    "tags": ["cngal", "第三方", "查询"],
     "social_link": "https://github.com/yaoyuesuzu"
   },
   "Trans": {
@@ -24,7 +37,7 @@
     "desc": "一个发送'🦌'进行打卡并生成月度日历的插件",
     "author": "DITF16",
     "repo": "https://github.com/DITF16/astrbot_plugin_deer_check",
-    "tags": ["鹿","打卡","健康","娱乐"]
+    "tags": ["鹿", "打卡", "健康", "娱乐"]
   },
   "astrbot_plugin_pet": {
     "desc": "一个简单的的群内宠物养成插件，支持LLM随机事件、PVP对决和图片状态卡。",
