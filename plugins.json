@@ -895,8 +895,7 @@
     "desc": "AstrBot词云与排名插件(CloudRank)：专为AstrBot设计的强大聊天分析工具。可分析群聊与私聊消息，生成美观词云图，直观展示热点话题，并展示用户活跃度排行。支持定时与手动生成，提供丰富的颜色、字体、形状及排名显示自定义选项",
     "repo": "https://github.com/GEMILUXVII/astrbot_plugin_cloudrank",
     "tags": ["词云"],
-    "social_link": "https://github.com/GEMILUXVII",
-    "pinned": true
+    "social_link": "https://github.com/GEMILUXVII"
   },
   "astrbot_plugin_liblibapi": {
     "author": "machinad",
@@ -2285,8 +2284,7 @@
   "astrbot_plugin_bilibili": {
     "desc": "哔哩哔哩动态推送、视频信息、直播间信息查询插件",
     "author": "Flartiny & Soulter",
-    "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
-    "pinned": true
+    "repo": "https://github.com/Soulter/astrbot_plugin_bilibili"
   },
   "astrbot_plugin_leetcode": {
     "desc": "leetcode 每日一题、随机题目。",
