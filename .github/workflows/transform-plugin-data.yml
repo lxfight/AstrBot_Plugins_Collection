@@ -598,8 +598,8 @@ jobs:
         ls -la
         
         # 配置Git（使用PAT_TOKEN进行认证）
-        git config --local user.email "cacheigcrystal@gmail.com"
-        git config --local user.name "IGCrystal-Ghost"
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         
         echo "检查远程仓库是否存在 plugin_cache_original.json..."
         if git ls-tree --name-only -r origin/main | grep -q "^plugin_cache_original.json$"; then
