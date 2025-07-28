@@ -2127,7 +2127,7 @@
     ],
     "stars": 6,
     "updated_at": "2025-07-23T05:10:16Z",
-    "version": "v0.0.2"
+    "version": "1.0.0"
   },
   "astrbot_plugin_mcqq": {
     "author": "kterna",
@@ -3459,8 +3459,8 @@
     "tags": [
       "实用工具"
     ],
-    "stars": 10,
-    "updated_at": "2025-07-15T03:34:47Z",
+    "stars": 11,
+    "updated_at": "2025-07-28T22:20:14Z",
     "version": "v1.0.7"
   },
   "astrbot_plugin_pokecheck": {
