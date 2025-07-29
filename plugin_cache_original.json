@@ -2686,7 +2686,7 @@
       "ehentai"
     ],
     "stars": 5,
-    "updated_at": "2025-07-22T16:14:48Z",
+    "updated_at": "2025-07-29T16:24:30Z",
     "version": "v2.3"
   },
   "astrbot_plugin_reread": {
@@ -3947,8 +3947,8 @@
       "webui",
       "图床"
     ],
-    "stars": 66,
-    "updated_at": "2025-07-26T14:07:35Z",
+    "stars": 67,
+    "updated_at": "2025-07-29T15:34:47Z",
     "version": "v3.13"
   },
   "mccloud_command": {
@@ -4325,8 +4325,8 @@
     "author": "Cl_Fu",
     "repo": "https://github.com/clfpwp/astrbot_plugin_ignore_at",
     "tags": [],
-    "stars": 5,
-    "updated_at": "2025-05-08T03:08:19Z",
+    "stars": 6,
+    "updated_at": "2025-07-29T15:38:33Z",
     "version": "v1.3"
   },
   "astrbot_plugin_error_filter": {
@@ -4532,8 +4532,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_memeify",
     "tags": [],
-    "stars": 15,
-    "updated_at": "2025-07-18T08:17:23Z",
+    "stars": 16,
+    "updated_at": "2025-07-29T15:39:10Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_DailyWife": {
@@ -4559,8 +4559,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 106,
-    "updated_at": "2025-07-28T15:09:54Z",
+    "stars": 107,
+    "updated_at": "2025-07-29T15:39:33Z",
     "version": "v0.5.1"
   },
   "FateTrial_img_identify": {
