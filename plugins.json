@@ -3,7 +3,7 @@
     "desc": "蓝奏云文件解析插件，支持自动检测和手动解析蓝奏云分享链接",
     "author": "BB0813",
     "repo": "https://github.com/BB0813/astrbot_plugin_lanzoucloud",
-    "tags": "文件解析",
+    "tags": ["文件解析"],
     "social_link": "https://qm.qq.com/q/d4lwUp9ap4"
   },
   "astrbot_plugin_img_rev_seacher": {
