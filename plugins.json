@@ -8,7 +8,7 @@
     "desc": "3dmmod 搜索插件，支持在 3dmgame Mod 站搜索相关 Mod 内容",
     "author": "--sora--",
     "repo": "https://github.com/sora-yyds/astrbot_plugin_3dmapi",
-    "tags": ["3DM", "Mod"],
+    "tags": ["3DM", "Mod"]
   },
   "astrbot_plugin_ragecoop": {
     "desc": "GTAV RageCoop 服务器查询插件",
