@@ -40,7 +40,7 @@
     "desc": "蓝奏云文件解析插件，支持自动检测和手动解析蓝奏云分享链接",
     "author": "BB0813",
     "repo": "https://github.com/BB0813/astrbot_plugin_lanzoucloud",
-    "tags": "文件解析",
+    "tags": ["文件解析"],
     "social_link": "https://qm.qq.com/q/d4lwUp9ap4"
   },
   "astrbot_plugin_img_rev_seacher": {
@@ -271,12 +271,6 @@
     "repo": "https://github.com/jiongjiongJOJO/astrbot_plugin_anti_recall",
     "tags": ["工具", "防撤回", "aiocqhttp"],
     "social_link": "https://blog.jojo.host/"
-  },
-  "astrbot_plugin_mp": {
-    "desc": "一个适用于最新版本 MoviePilot 的小工具，支持搜索、订阅、消息转发等功能",
-    "author": "EWEDL",
-    "repo": "https://github.com/EWEDLCM/astrbot_plugin/tree/master/astrbot_plugin_mp",
-    "tags": ["MoviePilot"]
   },
   "astrbot_plugin_ip_proxy": {
     "desc": "一个将HTTP代理API转换为本地代理的AstrBot插件",
