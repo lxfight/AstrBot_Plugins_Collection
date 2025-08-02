@@ -1,6 +1,5 @@
 {
   "astrbot_plugin_image_censor": {
-    "name": "astrbot_plugin_image_censor",
     "desc": "AstrBot 图片审查插件",
     "author": "Omnisch",
     "repo": "https://github.com/Omnisch/astrbot_plugin_image_censor"
@@ -12,7 +11,6 @@
     "tags": ["3DM", "Mod"],
   },
   "astrbot_plugin_ragecoop": {
-    "name": "astrbot_plugin_ragecoop",
     "desc": "GTAV RageCoop 服务器查询插件",
     "author": "--sora--",
     "repo": "https://github.com/sora-yyds/astrbot_plugin_ragecoop",
