@@ -1761,8 +1761,8 @@
       "game",
       "fish"
     ],
-    "stars": 28,
-    "updated_at": "2025-08-02T09:44:03Z",
+    "stars": 29,
+    "updated_at": "2025-08-04T08:57:36Z",
     "version": "1.4.6"
   },
   "astrbot_plugin_bilibili_live": {
@@ -2375,7 +2375,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 18,
-    "updated_at": "2025-08-04T07:33:14Z",
+    "updated_at": "2025-08-04T09:36:58Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
