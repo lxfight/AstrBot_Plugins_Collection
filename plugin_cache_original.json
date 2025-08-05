@@ -3995,8 +3995,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 285,
-    "updated_at": "2025-08-03T03:50:58Z",
+    "stars": 286,
+    "updated_at": "2025-08-05T08:13:03Z",
     "version": "v0.912"
   },
   "astrbot_plugin_superpoke": {
@@ -4640,8 +4640,8 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_AW",
     "tags": [],
     "stars": 8,
-    "updated_at": "2025-08-04T03:40:58Z",
-    "version": "v1.5.2"
+    "updated_at": "2025-08-05T08:16:07Z",
+    "version": "v1.5.3"
   },
   "astrbot_plugin_mnemosyne": {
     "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
