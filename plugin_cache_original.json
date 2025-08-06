@@ -2486,7 +2486,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 18,
-    "updated_at": "2025-08-06T05:34:17Z",
+    "updated_at": "2025-08-06T06:40:37Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -2721,9 +2721,9 @@
       "爬虫"
     ],
     "social_link": "https://github.com/waterfeet",
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 3,
+    "updated_at": "2025-05-27T04:59:28Z",
+    "version": "v2.1"
   },
   "astrbot_plugin_dajiao": {
     "author": "灵煞",
