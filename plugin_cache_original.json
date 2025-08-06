@@ -1872,8 +1872,8 @@
       "game",
       "fish"
     ],
-    "stars": 29,
-    "updated_at": "2025-08-04T08:57:36Z",
+    "stars": 30,
+    "updated_at": "2025-08-06T01:11:56Z",
     "version": "1.4.6"
   },
   "astrbot_plugin_bilibili_live": {
@@ -2341,7 +2341,7 @@
     ],
     "social_link": "https://github.com/huntuo146",
     "stars": 4,
-    "updated_at": "2025-07-11T15:06:46Z",
+    "updated_at": "2025-08-06T01:08:40Z",
     "version": "1.1.1"
   },
   "astrbot_plugin_Volcengine-Text-to-image": {
