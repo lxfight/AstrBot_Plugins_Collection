@@ -8,7 +8,7 @@
       "海龟汤"
     ],
     "stars": 1,
-    "updated_at": "2025-08-05T12:14:03Z",
+    "updated_at": "2025-08-06T02:16:17Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_typst_render": {
@@ -46,7 +46,7 @@
       "文转图"
     ],
     "stars": 0,
-    "updated_at": "2025-08-05T15:54:02Z",
+    "updated_at": "2025-08-06T02:02:06Z",
     "version": "v1.0"
   },
   "pjsk_guess_song": {
@@ -59,7 +59,7 @@
       "初音未来 缤纷舞台"
     ],
     "stars": 0,
-    "updated_at": "2025-08-05T13:48:02Z",
+    "updated_at": "2025-08-06T02:12:35Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_screenctrl": {
@@ -1593,8 +1593,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 47,
-    "updated_at": "2025-08-04T06:23:25Z",
+    "stars": 48,
+    "updated_at": "2025-08-06T03:37:43Z",
     "version": "v0.5.8"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -2341,8 +2341,8 @@
     ],
     "social_link": "https://github.com/huntuo146",
     "stars": 4,
-    "updated_at": "2025-08-06T01:08:40Z",
-    "version": "1.1.1"
+    "updated_at": "2025-08-06T03:01:40Z",
+    "version": "1.2.1"
   },
   "astrbot_plugin_Volcengine-Text-to-image": {
     "author": "wayzinx",
@@ -2486,7 +2486,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 18,
-    "updated_at": "2025-08-05T23:25:50Z",
+    "updated_at": "2025-08-06T02:10:06Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
