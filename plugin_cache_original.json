@@ -2278,8 +2278,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 57,
-    "updated_at": "2025-08-05T13:55:56Z",
+    "stars": 58,
+    "updated_at": "2025-08-07T01:52:04Z",
     "version": "v1.0.9"
   },
   "astrbot_plugin_help": {
@@ -4147,8 +4147,8 @@
       "webui",
       "图床"
     ],
-    "stars": 70,
-    "updated_at": "2025-08-05T08:43:15Z",
+    "stars": 71,
+    "updated_at": "2025-08-07T01:51:38Z",
     "version": "v3.13"
   },
   "mccloud_command": {
