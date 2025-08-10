@@ -1,4 +1,37 @@
 {
+  "intelligent_retry": {
+    "desc": "当LLM回复为空或包含特定错误关键词时，自动进行多次重试，提高交互稳定性。",
+    "author": "木有知 & 长安某",
+    "repo": "https://github.com/muyouzhi6/astrabot_plugin_retry",
+    "tags": [
+      "LLM",
+      "工具",
+      "增强"
+    ]
+  },
+  "astrbot_plugin_Group-Verification_PRO": {
+    "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
+    "author": "huntuo146",
+    "repo": "https://github.com/huntuo146/astrbot_plugin_Group-Verification_PRO",
+    "tags": [
+      "新成员验证",
+      "群审核"
+    ],
+    "social_link": "https://github.com/huntuo146"
+  },
+  "pokemon_fusion": {
+    "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
+    "author": "sugayoiya",
+    "repo": "https://github.com/sugayoiya/astrbot_plugin_pokemon_fusion",
+    "tags": ["pokemon", "fusion"],
+    "social_link": "https://github.com/sugayoiya"
+  },
+  "sunsetbot_search": {
+    "desc": "获取 sunsetbot.top 今日/明日火烧云数据",
+    "author": "棒棒糖",
+    "repo": "https://github.com/zhoufan47/astrbot_plugin_sunsetbot_search",
+    "tags": ["天气", "火烧云"]
+  },
   "astrbot_plugin_soupai": {
     "name": "astrbot_plugin_soupai",
     "desc": "AI 海龟汤推理游戏插件，支持自动生成谜题、智能判断、验证系统、智能提示、存储库管理等功能。网络题库包含近300道海龟汤，还在持续更新中。",
