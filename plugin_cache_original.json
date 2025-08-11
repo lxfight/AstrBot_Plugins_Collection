@@ -2003,8 +2003,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 17,
-    "updated_at": "2025-08-11T13:56:34Z",
-    "version": "v1.0.8"
+    "updated_at": "2025-08-11T17:11:32Z",
+    "version": "v1.0.9"
   },
   "astrbot_plugin_jm_cosmos": {
     "author": "GEMILUXVII",
@@ -2015,8 +2015,8 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 26,
-    "updated_at": "2025-08-11T09:24:10Z",
+    "stars": 27,
+    "updated_at": "2025-08-11T16:41:41Z",
     "version": "1.0.7"
   },
   "astrbot_plugin_combine-messages": {
@@ -2538,7 +2538,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 19,
-    "updated_at": "2025-08-11T16:33:10Z",
+    "updated_at": "2025-08-11T17:24:28Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -2618,8 +2618,8 @@
     "tags": [
       "pixiv"
     ],
-    "stars": 21,
-    "updated_at": "2025-08-02T09:36:33Z",
+    "stars": 22,
+    "updated_at": "2025-08-11T16:41:51Z",
     "version": "1.2.8"
   },
   "astrbot_plugin_gotify": {
@@ -3847,8 +3847,8 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 28,
-    "updated_at": "2025-08-02T08:07:36Z",
+    "stars": 29,
+    "updated_at": "2025-08-11T16:41:25Z",
     "version": "v0.2.8"
   },
   "astrbot_plugin_sjzb": {
