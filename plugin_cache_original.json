@@ -110,7 +110,7 @@
       "初音未来 缤纷舞台"
     ],
     "stars": 2,
-    "updated_at": "2025-08-11T01:34:37Z",
+    "updated_at": "2025-08-11T14:13:02Z",
     "version": "v1.1.1"
   },
   "astrbot_plugin_screenctrl": {
@@ -1644,8 +1644,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 49,
-    "updated_at": "2025-08-10T11:01:17Z",
+    "stars": 50,
+    "updated_at": "2025-08-11T13:53:16Z",
     "version": "v0.5.8"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -2001,8 +2001,8 @@
       "戳一戳"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 16,
-    "updated_at": "2025-08-11T07:10:27Z",
+    "stars": 17,
+    "updated_at": "2025-08-11T13:56:34Z",
     "version": "v1.0.8"
   },
   "astrbot_plugin_jm_cosmos": {
@@ -2537,7 +2537,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 19,
-    "updated_at": "2025-08-11T13:41:09Z",
+    "updated_at": "2025-08-11T14:26:52Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
