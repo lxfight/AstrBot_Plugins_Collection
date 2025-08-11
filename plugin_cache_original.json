@@ -1541,7 +1541,7 @@
     "repo": "https://github.com/R1ckyQaQ/astrbot_plugin_mrfz_haunting_query",
     "tags": [],
     "stars": 6,
-    "updated_at": "2025-08-03T18:15:37Z",
+    "updated_at": "2025-08-11T12:46:21Z",
     "version": "v1.1"
   },
   "astrbot_plugin_deepwiki": {
@@ -3728,8 +3728,8 @@
     "repo": "https://github.com/Ynkcc/astrbot_plugin_MultiAI_PollPad",
     "author": "Ynkcc",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-03-28T10:42:14Z",
+    "stars": 2,
+    "updated_at": "2025-08-11T11:46:16Z",
     "version": "v0.2.1"
   },
   "astrbot_plugin_push_lite": {
