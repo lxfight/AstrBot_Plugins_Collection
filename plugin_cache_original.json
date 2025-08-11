@@ -8,8 +8,8 @@
       "工具",
       "增强"
     ],
-    "stars": 1,
-    "updated_at": "2025-08-11T05:00:51Z",
+    "stars": 4,
+    "updated_at": "2025-08-11T07:45:14Z",
     "version": "2.6.3"
   },
   "astrbot_plugin_Group-Verification_PRO": {
@@ -2537,7 +2537,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 19,
-    "updated_at": "2025-08-11T07:28:59Z",
+    "updated_at": "2025-08-11T08:36:12Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -2914,8 +2914,8 @@
     "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-    "stars": 10,
-    "updated_at": "2025-08-08T14:24:08Z",
+    "stars": 11,
+    "updated_at": "2025-08-11T08:13:50Z",
     "version": "v1.0.8"
   },
   "astrbot_plugin_ehentai_bot": {
@@ -3740,7 +3740,7 @@
       "消息推送"
     ],
     "stars": 8,
-    "updated_at": "2025-07-16T14:57:10Z",
+    "updated_at": "2025-08-11T07:52:09Z",
     "version": "v0.2.1"
   },
   "astrbot_plugin_hello77": {
