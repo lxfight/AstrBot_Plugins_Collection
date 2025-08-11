@@ -8,8 +8,8 @@
       "工具",
       "增强"
     ],
-    "stars": 4,
-    "updated_at": "2025-08-11T08:51:07Z",
+    "stars": 5,
+    "updated_at": "2025-08-11T09:47:06Z",
     "version": "2.6.3"
   },
   "astrbot_plugin_Group-Verification_PRO": {
@@ -58,8 +58,8 @@
     "tags": [
       "海龟汤"
     ],
-    "stars": 2,
-    "updated_at": "2025-08-11T03:23:03Z",
+    "stars": 3,
+    "updated_at": "2025-08-11T10:07:14Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_typst_render": {
@@ -1461,8 +1461,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 39,
-    "updated_at": "2025-08-04T00:40:56Z",
+    "stars": 40,
+    "updated_at": "2025-08-11T09:32:42Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_renjian": {
@@ -2329,8 +2329,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 61,
-    "updated_at": "2025-08-08T13:33:33Z",
+    "stars": 62,
+    "updated_at": "2025-08-11T09:32:37Z",
     "version": "v1.0.9"
   },
   "astrbot_plugin_help": {
@@ -2537,7 +2537,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 19,
-    "updated_at": "2025-08-11T09:31:27Z",
+    "updated_at": "2025-08-11T10:28:31Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
