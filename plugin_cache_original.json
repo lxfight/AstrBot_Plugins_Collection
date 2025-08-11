@@ -9,7 +9,7 @@
       "增强"
     ],
     "stars": 1,
-    "updated_at": "2025-08-11T02:25:56Z",
+    "updated_at": "2025-08-11T05:00:51Z",
     "version": "2.6.3"
   },
   "astrbot_plugin_Group-Verification_PRO": {
@@ -228,8 +228,8 @@
       "工具"
     ],
     "social_link": "https://astrbot.uk",
-    "stars": 1,
-    "updated_at": "2025-07-27T05:22:25Z",
+    "stars": 2,
+    "updated_at": "2025-08-11T05:02:08Z",
     "version": "v1.2"
   },
   "astrbot_plugin_lanzoucloud": {
@@ -2537,7 +2537,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 19,
-    "updated_at": "2025-08-11T04:07:03Z",
+    "updated_at": "2025-08-11T05:31:54Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4198,8 +4198,8 @@
       "webui",
       "图床"
     ],
-    "stars": 72,
-    "updated_at": "2025-08-09T03:02:18Z",
+    "stars": 73,
+    "updated_at": "2025-08-11T05:18:40Z",
     "version": "v3.13"
   },
   "mccloud_command": {
