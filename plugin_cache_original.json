@@ -408,6 +408,7 @@
       "拟人"
     ],
     "social_link": "https://github.com/advent259141",
+    "pinned": true,
     "stars": 20,
     "updated_at": "2025-08-10T02:08:40Z",
     "version": "1.2.0"
@@ -2537,7 +2538,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 19,
-    "updated_at": "2025-08-11T15:27:48Z",
+    "updated_at": "2025-08-11T16:33:10Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
