@@ -110,7 +110,7 @@
       "初音未来 缤纷舞台"
     ],
     "stars": 3,
-    "updated_at": "2025-08-12T04:52:26Z",
+    "updated_at": "2025-08-12T12:26:40Z",
     "version": "v1.1.1"
   },
   "astrbot_plugin_screenctrl": {
@@ -3848,7 +3848,7 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "stars": 30,
-    "updated_at": "2025-08-12T09:42:31Z",
+    "updated_at": "2025-08-12T11:36:05Z",
     "version": "v0.2.8"
   },
   "astrbot_plugin_sjzb": {
@@ -4784,8 +4784,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_memeify",
     "tags": [],
-    "stars": 16,
-    "updated_at": "2025-07-29T15:39:10Z",
+    "stars": 17,
+    "updated_at": "2025-08-12T12:21:57Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_DailyWife": {
