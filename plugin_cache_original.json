@@ -34,8 +34,8 @@
       "fusion"
     ],
     "social_link": "https://github.com/sugayoiya",
-    "stars": 1,
-    "updated_at": "2025-08-11T04:28:39Z",
+    "stars": 2,
+    "updated_at": "2025-08-12T08:47:10Z",
     "version": "v1.0.8"
   },
   "sunsetbot_search": {
@@ -134,8 +134,8 @@
       "屏蔽",
       "轮询"
     ],
-    "stars": 1,
-    "updated_at": "2025-08-03T13:48:41Z",
+    "stars": 2,
+    "updated_at": "2025-08-12T08:45:23Z",
     "version": "v1.2.0"
   },
   "astrbot_plugin_silent": {
@@ -497,8 +497,8 @@
     "author": "logicat",
     "repo": "https://github.com/logicat-123/astrbot_plugin_eat_history",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-07-18T02:39:14Z",
+    "stars": 1,
+    "updated_at": "2025-08-12T08:59:12Z",
     "version": "v1.0.6"
   },
   "astrbot_plugin_rg": {
@@ -518,8 +518,8 @@
       "模仿"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 4,
-    "updated_at": "2025-07-20T15:34:56Z",
+    "stars": 5,
+    "updated_at": "2025-08-12T08:54:33Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_wwbirthday": {
@@ -2340,8 +2340,8 @@
     "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_help",
     "social_link": "https://github.com/tinkerbellqwq",
     "tags": [],
-    "stars": 18,
-    "updated_at": "2025-08-04T11:40:59Z",
+    "stars": 19,
+    "updated_at": "2025-08-12T09:27:38Z",
     "version": "v1.1.2"
   },
   "astrbot_qqemotionreply": {
@@ -2538,7 +2538,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 19,
-    "updated_at": "2025-08-12T08:32:41Z",
+    "updated_at": "2025-08-12T09:27:53Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3848,7 +3848,7 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "stars": 29,
-    "updated_at": "2025-08-11T16:41:25Z",
+    "updated_at": "2025-08-12T09:05:07Z",
     "version": "v0.2.8"
   },
   "astrbot_plugin_sjzb": {
