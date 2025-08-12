@@ -570,8 +570,8 @@
       "沉浸式"
     ],
     "stars": 14,
-    "updated_at": "2025-08-05T08:37:25Z",
-    "version": "1.4.5"
+    "updated_at": "2025-08-12T14:07:22Z",
+    "version": "1.4.6"
   },
   "astrbot_plugin_choulaopo": {
     "name": "抽老婆",
@@ -990,8 +990,8 @@
     "tags": [
       "文字游戏"
     ],
-    "stars": 9,
-    "updated_at": "2025-07-29T03:04:17Z",
+    "stars": 10,
+    "updated_at": "2025-08-12T13:44:56Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_llmAtTool": {
@@ -2538,7 +2538,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-12T13:37:05Z",
+    "updated_at": "2025-08-12T14:24:53Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3237,8 +3237,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 26,
-    "updated_at": "2025-08-08T02:18:15Z",
+    "stars": 27,
+    "updated_at": "2025-08-12T14:07:17Z",
     "version": "v1.1.9"
   },
   "astrbot_plugin_search_pic": {
