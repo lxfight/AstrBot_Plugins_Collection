@@ -110,7 +110,7 @@
       "初音未来 缤纷舞台"
     ],
     "stars": 3,
-    "updated_at": "2025-08-12T12:26:40Z",
+    "updated_at": "2025-08-12T14:27:01Z",
     "version": "v1.1.1"
   },
   "astrbot_plugin_screenctrl": {
@@ -953,8 +953,8 @@
       "守信",
       "排行榜"
     ],
-    "stars": 2,
-    "updated_at": "2025-07-24T08:01:48Z",
+    "stars": 3,
+    "updated_at": "2025-08-12T15:03:38Z",
     "version": "2.1.2"
   },
   "astrbot_plugin_kook_adapter": {
@@ -2015,8 +2015,8 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 28,
-    "updated_at": "2025-08-12T06:05:40Z",
+    "stars": 29,
+    "updated_at": "2025-08-12T15:00:53Z",
     "version": "1.0.7"
   },
   "astrbot_plugin_combine-messages": {
@@ -2050,8 +2050,8 @@
       "人机"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot",
-    "stars": 6,
-    "updated_at": "2025-07-31T12:11:22Z",
+    "stars": 7,
+    "updated_at": "2025-08-12T15:04:11Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_mcgetter": {
@@ -2538,7 +2538,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-12T14:24:53Z",
+    "updated_at": "2025-08-12T15:27:10Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
