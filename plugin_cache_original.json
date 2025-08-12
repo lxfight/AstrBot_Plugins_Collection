@@ -382,8 +382,8 @@
     "tags": [
       "战地风云"
     ],
-    "stars": 3,
-    "updated_at": "2025-08-08T02:57:43Z",
+    "stars": 4,
+    "updated_at": "2025-08-12T17:31:12Z",
     "version": "v1.0.5"
   },
   "astrbot_plugin_SteamSaleTracker": {
@@ -1130,8 +1130,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "desc": "动态词库，自定义回复词",
-    "stars": 5,
-    "updated_at": "2025-07-31T14:29:34Z",
+    "stars": 6,
+    "updated_at": "2025-08-12T17:25:51Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_lyricnext": {
@@ -2538,7 +2538,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-12T17:22:52Z",
+    "updated_at": "2025-08-12T18:36:29Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
