@@ -1542,8 +1542,8 @@
     "repo": "https://github.com/R1ckyQaQ/astrbot_plugin_mrfz_haunting_query",
     "tags": [],
     "stars": 6,
-    "updated_at": "2025-08-11T13:13:27Z",
-    "version": "v1.1"
+    "updated_at": "2025-08-12T11:16:19Z",
+    "version": "v1.2"
   },
   "astrbot_plugin_deepwiki": {
     "author": "Zhalslar",
@@ -2538,7 +2538,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-12T10:26:58Z",
+    "updated_at": "2025-08-12T11:21:15Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
