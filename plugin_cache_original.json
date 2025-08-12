@@ -1924,8 +1924,8 @@
       "game",
       "fish"
     ],
-    "stars": 32,
-    "updated_at": "2025-08-11T03:11:02Z",
+    "stars": 33,
+    "updated_at": "2025-08-12T16:20:48Z",
     "version": "1.4.6"
   },
   "astrbot_plugin_bilibili_live": {
@@ -1933,8 +1933,8 @@
     "desc": "接入Bilibili直播",
     "repo": "https://github.com/Raven95676/astrbot_plugin_bilibili_live",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-07-10T14:21:47Z",
+    "stars": 3,
+    "updated_at": "2025-08-12T16:04:02Z",
     "version": "0.2.1"
   },
   "astrbot_plugin_bo": {
@@ -3848,7 +3848,7 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "stars": 30,
-    "updated_at": "2025-08-12T11:36:05Z",
+    "updated_at": "2025-08-12T15:35:22Z",
     "version": "v0.2.8"
   },
   "astrbot_plugin_sjzb": {
@@ -4047,8 +4047,8 @@
     ],
     "social_link": "https://space.bilibili.com/11874232",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-07-30T14:16:53Z",
+    "stars": 4,
+    "updated_at": "2025-08-12T16:03:52Z",
     "version": "v1.1.5"
   },
   "astrbot_plugin_server_status": {
