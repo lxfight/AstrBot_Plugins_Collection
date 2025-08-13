@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_Mirecraft_motd": {
+    "desc": "基于 AstrBot 的 motd 探测服务器插件",
+    "author": "ChuranNeko",
+    "repo": "https://github.com/ChuranNeko/astrbot_plugin_Mirecraft_motd",
+    "tags": [
+      "Mirecraft"
+    ]
+  },
+  "astrbot_plugin_daily_reminder": {
+    "desc": "让机器人支持定时消息",
+    "author": "小懒",
+    "repo": "https://github.com/xiaolan0216/"
+  },
+  "astrbot_plugin_schedule_injector": {
+    "desc": "在 LLM 请求前注入日程/目标上下文，并在回复后解析隐藏 JSON 更新日程。支持白名单、每日目标与微目标",
+    "author": "xunxiing",
+    "repo": "https://github.com/xunxiing/astrbot_plugin_schedule_injector",
+    "tags": [
+      "角色扮演",
+      "日程"
+    ],
+    "social_link": "https://github.com/xunxiing"
+  },
+  "astrbot_plugin_image_size_limit": {
+    "desc": "限制图片尺寸",
+    "author": "ctrlkk",
+    "repo": "https://github.com/ctrlkk/astrbot_plugin_image_size_limit"
+  },
   "intelligent_retry": {
     "desc": "当LLM回复为空或包含特定错误关键词时，自动进行多次重试，提高交互稳定性。",
     "author": "木有知 & 长安某",
