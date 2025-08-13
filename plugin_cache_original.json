@@ -139,8 +139,8 @@
       "文转图"
     ],
     "stars": 1,
-    "updated_at": "2025-08-13T03:49:02Z",
-    "version": "v1.1.1"
+    "updated_at": "2025-08-13T09:13:57Z",
+    "version": "v1.1.2"
   },
   "pjsk_guess_song": {
     "desc": "PJSK 猜歌游戏插件",
@@ -152,7 +152,7 @@
       "初音未来 缤纷舞台"
     ],
     "stars": 3,
-    "updated_at": "2025-08-13T06:45:49Z",
+    "updated_at": "2025-08-13T09:21:50Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_screenctrl": {
@@ -2580,7 +2580,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-13T08:33:21Z",
+    "updated_at": "2025-08-13T09:27:41Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -2980,8 +2980,8 @@
       "复读"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
-    "stars": 15,
-    "updated_at": "2025-08-08T14:01:22Z",
+    "stars": 16,
+    "updated_at": "2025-08-13T09:21:01Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_csbaoyan": {
