@@ -152,7 +152,7 @@
       "初音未来 缤纷舞台"
     ],
     "stars": 3,
-    "updated_at": "2025-08-13T09:21:50Z",
+    "updated_at": "2025-08-13T09:53:34Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_screenctrl": {
@@ -2580,7 +2580,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-13T09:27:41Z",
+    "updated_at": "2025-08-13T10:27:21Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4138,8 +4138,8 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 62,
-    "updated_at": "2025-08-04T00:31:34Z",
+    "stars": 63,
+    "updated_at": "2025-08-13T09:49:21Z",
     "version": "v2.1.4"
   },
   "astrbot_plugin_steamshot": {
