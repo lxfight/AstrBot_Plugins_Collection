@@ -729,8 +729,8 @@
     ],
     "social_link": "astrbot.uk",
     "stars": 0,
-    "updated_at": "2025-08-10T17:21:16Z",
-    "version": "v1.3.1"
+    "updated_at": "2025-08-13T17:00:47Z",
+    "version": "v1.3.2"
   },
   "astrbot_plugin_bw_monitor": {
     "desc": "Bilibili Show 票务监控插件，支持群聊/私聊隔离，检测余票变化并推送通知。",
@@ -2580,7 +2580,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-13T16:26:49Z",
+    "updated_at": "2025-08-13T17:19:16Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
