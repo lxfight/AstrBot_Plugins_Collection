@@ -1967,7 +1967,7 @@
       "fish"
     ],
     "stars": 33,
-    "updated_at": "2025-08-12T16:20:48Z",
+    "updated_at": "2025-08-13T17:27:05Z",
     "version": "1.4.6"
   },
   "astrbot_plugin_bilibili_live": {
@@ -3087,8 +3087,8 @@
       "QQ群管"
     ],
     "stars": 35,
-    "updated_at": "2025-08-12T00:26:58Z",
-    "version": "v3.0.8"
+    "updated_at": "2025-08-13T18:27:38Z",
+    "version": "v3.0.9"
   },
   "astrbot_plugin_liars_bar": {
     "desc": "本插件是为 AstrBot 框架开发的游戏插件，实现了一个骗子酒馆",
