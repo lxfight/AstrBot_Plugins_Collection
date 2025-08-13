@@ -2372,8 +2372,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 63,
-    "updated_at": "2025-08-13T03:54:40Z",
+    "stars": 64,
+    "updated_at": "2025-08-13T12:51:29Z",
     "version": "v1.0.9"
   },
   "astrbot_plugin_help": {
@@ -2580,7 +2580,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-13T11:21:40Z",
+    "updated_at": "2025-08-13T13:38:21Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3401,8 +3401,8 @@
     "author": "Lonelysky",
     "repo": "https://github.com/LonelySky7490/astrbot_plugin_vv_pic",
     "tags": [],
-    "stars": 4,
-    "updated_at": "2025-07-22T07:16:31Z",
+    "stars": 5,
+    "updated_at": "2025-08-13T13:06:25Z",
     "version": "v0.6"
   },
   "astrbot_plugin_file_reader": {
@@ -4176,8 +4176,8 @@
     "tags": [
       "功能"
     ],
-    "stars": 13,
-    "updated_at": "2025-07-14T11:21:25Z",
+    "stars": 14,
+    "updated_at": "2025-08-13T13:32:43Z",
     "version": "1.0.2"
   },
   "astrbot_plugin_moyuren": {
