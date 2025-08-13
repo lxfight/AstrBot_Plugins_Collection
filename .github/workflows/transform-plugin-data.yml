@@ -470,17 +470,6 @@ jobs:
           fi
         done
         
-        echo ""
-        echo "📊 仓库信息获取统计:"
-        echo "  总计: $total_repos 个仓库"
-        echo "  ✅ 成功: $success_count"
-        echo "  🔄 使用缓存: $(jq '[.[] | select(.status == "cached")] | length' repo_info.json)"
-        echo "  🔄 重定向: $redirect_count"
-        echo "  🗑️  已删除: $deleted_count"
-        echo "  🌐 网络错误: $network_error_count"
-        echo "  ❌ 其他失败: $failed_count"
-        echo ""
-        
         # 成功率检查
         if [ $total_repos -gt 0 ]; then
           success_rate=$((success_count * 100 / total_repos))
@@ -595,7 +584,6 @@ jobs:
       id: git-check
       run: |
         echo "检查文件状态..."
-        ls -la
         
         # 配置Git（使用PAT_TOKEN进行认证）
         git config --local user.email "action@github.com"
@@ -719,18 +707,3 @@ jobs:
           echo "❌ 由于网络问题、GitHub服务错误或数据异常，跳过了数据转换"
           echo "请检查GitHub服务状态或查看上面的错误详情"
         fi
-        
-        echo ""
-        echo "🔐 认证增强说明:"
-        echo "  - 所有GitHub API请求都使用PAT_TOKEN认证"
-        echo "  - 提高了API访问限制（5000/小时 vs 60/小时）"
-        echo "  - 增强了对私有仓库的访问能力"
-        echo "  - 添加了API使用情况监控"
-        
-        echo ""
-        echo "💡 容错机制说明:"
-        echo "  - 自动跟随重定向: 处理301/302等重定向响应"
-        echo "  - 删库/404: 继续处理其他仓库，使用缓存数据（如果有）"
-        echo "  - 网络错误: 自动重试3次，失败后使用缓存数据"
-        echo "  - API限制: 使用缓存数据，延长请求间隔"
-        echo "  - 成功率低: 主要依赖现有缓存，确保服务稳定性"
