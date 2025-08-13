@@ -10,7 +10,7 @@
   "astrbot_plugin_daily_reminder": {
     "desc": "让机器人支持定时消息",
     "author": "小懒",
-    "repo": "https://github.com/xiaolan0216/"
+    "repo": "https://github.com/xiaolan0216/astrbot_plugin_daily_reminder"
   },
   "astrbot_plugin_schedule_injector": {
     "desc": "在 LLM 请求前注入日程/目标上下文，并在回复后解析隐藏 JSON 更新日程。支持白名单、每日目标与微目标",
