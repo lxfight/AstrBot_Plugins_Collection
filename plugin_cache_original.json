@@ -43,9 +43,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 0,
-    "updated_at": "2025-08-13T18:11:57Z",
-    "version": "v1.0.1"
+    "stars": 1,
+    "updated_at": "2025-08-14T17:53:52Z",
+    "version": "v1.0.2"
   },
   "astrbot_plugin_matchreminder": {
     "desc": "算法比赛查询和今日比赛自动提醒 - 支持 CF、牛客、AtCoder 平台",
@@ -167,7 +167,7 @@
     ],
     "social_link": "https://github.com/huntuo146",
     "stars": 1,
-    "updated_at": "2025-08-08T11:48:53Z",
+    "updated_at": "2025-08-14T18:25:37Z",
     "version": "1.0.4"
   },
   "pokemon_fusion": {
