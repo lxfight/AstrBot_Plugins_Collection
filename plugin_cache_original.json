@@ -50,8 +50,8 @@
       "工具",
       "增强"
     ],
-    "stars": 7,
-    "updated_at": "2025-08-12T04:47:36Z",
+    "stars": 8,
+    "updated_at": "2025-08-14T09:07:03Z",
     "version": "2.6.3"
   },
   "astrbot_plugin_Group-Verification_PRO": {
@@ -451,8 +451,8 @@
     ],
     "social_link": "https://github.com/advent259141",
     "pinned": true,
-    "stars": 23,
-    "updated_at": "2025-08-13T14:29:53Z",
+    "stars": 24,
+    "updated_at": "2025-08-14T09:03:45Z",
     "version": "1.2.0"
   },
   "cngal_search": {
@@ -2372,8 +2372,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 65,
-    "updated_at": "2025-08-14T07:03:07Z",
+    "stars": 66,
+    "updated_at": "2025-08-14T08:35:02Z",
     "version": "v2.0.0"
   },
   "astrbot_plugin_help": {
@@ -2580,7 +2580,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-14T08:33:43Z",
+    "updated_at": "2025-08-14T09:28:11Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3412,7 +3412,7 @@
     "social_link": "https://github.com/xiewoc",
     "tags": [],
     "stars": 3,
-    "updated_at": "2025-08-02T10:29:43Z",
+    "updated_at": "2025-08-14T08:37:14Z",
     "version": "v1.0.1"
   },
   "encrypt-and-decrypt": {
@@ -4610,8 +4610,8 @@
     "author": "LunarMeal",
     "repo": "https://github.com/LunarMeal/astrbot_plugin_memes",
     "tags": [],
-    "stars": 9,
-    "updated_at": "2025-07-25T14:33:40Z",
+    "stars": 10,
+    "updated_at": "2025-08-14T09:06:29Z",
     "version": "v3.0"
   },
   "astrbot_plugin_ignore_at": {
@@ -4782,7 +4782,7 @@
     "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Cosyvoice2",
     "tags": [],
     "stars": 10,
-    "updated_at": "2025-08-08T13:55:37Z",
+    "updated_at": "2025-08-14T08:39:05Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_sign": {
