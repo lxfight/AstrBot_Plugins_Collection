@@ -2373,8 +2373,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "stars": 65,
-    "updated_at": "2025-08-14T01:47:32Z",
-    "version": "v1.0.9"
+    "updated_at": "2025-08-14T07:03:07Z",
+    "version": "v2.0.0"
   },
   "astrbot_plugin_help": {
     "author": "tinker",
@@ -2580,7 +2580,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-14T06:37:26Z",
+    "updated_at": "2025-08-14T07:24:44Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3267,8 +3267,8 @@
       "群u爆典"
     ],
     "social_link": "https://m.bilibili.com/space/172230783",
-    "stars": 6,
-    "updated_at": "2025-06-16T14:22:52Z",
+    "stars": 7,
+    "updated_at": "2025-08-14T06:41:40Z",
     "version": "v1.3"
   },
   "astrbot_plugin_GPT_SoVITS": {
