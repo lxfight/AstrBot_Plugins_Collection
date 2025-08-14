@@ -152,7 +152,7 @@
       "初音未来 缤纷舞台"
     ],
     "stars": 3,
-    "updated_at": "2025-08-14T08:00:46Z",
+    "updated_at": "2025-08-14T11:18:38Z",
     "version": "v1.1.3"
   },
   "astrbot_plugin_screenctrl": {
@@ -857,8 +857,8 @@
     "repo": "https://github.com/Aurora-xk/astrbot_plugin_shitu",
     "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-07-24T10:21:32Z",
+    "stars": 2,
+    "updated_at": "2025-08-14T10:58:38Z",
     "version": "v1.1"
   },
   "astrbot_plugin_cheru": {
@@ -2580,7 +2580,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-14T10:27:33Z",
+    "updated_at": "2025-08-14T11:21:40Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
