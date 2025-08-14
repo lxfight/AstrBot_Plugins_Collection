@@ -425,8 +425,8 @@
       "战地风云"
     ],
     "stars": 4,
-    "updated_at": "2025-08-14T03:32:38Z",
-    "version": "v1.0.7"
+    "updated_at": "2025-08-14T06:12:36Z",
+    "version": "v1.0.8"
   },
   "astrbot_plugin_SteamSaleTracker": {
     "desc": "这是一个 Steam 游戏价格监控插件",
@@ -2580,7 +2580,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-14T05:25:05Z",
+    "updated_at": "2025-08-14T06:37:26Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
