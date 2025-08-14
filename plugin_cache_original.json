@@ -152,8 +152,8 @@
       "初音未来 缤纷舞台"
     ],
     "stars": 3,
-    "updated_at": "2025-08-13T11:35:05Z",
-    "version": "v1.1.2"
+    "updated_at": "2025-08-14T08:00:46Z",
+    "version": "v1.1.3"
   },
   "astrbot_plugin_screenctrl": {
     "desc": "屏幕控制插件，支持截屏、点击、按键等",
@@ -257,7 +257,7 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "stars": 2,
-    "updated_at": "2025-08-13T14:38:50Z",
+    "updated_at": "2025-08-14T07:58:20Z",
     "version": "v2.1.0"
   },
   "astrbot_plugins_canvas": {
@@ -2580,7 +2580,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-14T07:24:44Z",
+    "updated_at": "2025-08-14T08:33:43Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
