@@ -2683,7 +2683,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-16T03:17:55Z",
+    "updated_at": "2025-08-16T04:29:54Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3072,8 +3072,8 @@
       "ehentai"
     ],
     "stars": 5,
-    "updated_at": "2025-07-29T16:24:30Z",
-    "version": "v2.3"
+    "updated_at": "2025-08-16T04:12:03Z",
+    "version": "v3.0"
   },
   "astrbot_plugin_reread": {
     "desc": "不依赖任何数据库的群聊复读姬，可单独设置文本、图片、表情、At消息的复读阈值，可设置复读概率，可要求消息要来自不同人，可设置违禁词",
