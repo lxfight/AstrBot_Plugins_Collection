@@ -43,8 +43,8 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 2,
-    "updated_at": "2025-08-15T12:53:38Z",
+    "stars": 3,
+    "updated_at": "2025-08-16T04:32:10Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_matchreminder": {
@@ -64,8 +64,8 @@
       "撤回"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 4,
-    "updated_at": "2025-08-15T16:49:00Z",
+    "stars": 5,
+    "updated_at": "2025-08-16T04:32:07Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_record_converter": {
@@ -2683,7 +2683,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-16T04:29:54Z",
+    "updated_at": "2025-08-16T05:23:16Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
