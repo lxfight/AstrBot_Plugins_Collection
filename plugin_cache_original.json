@@ -2753,7 +2753,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-18T22:20:37Z",
+    "updated_at": "2025-08-18T23:21:43Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4328,7 +4328,7 @@
     ],
     "stars": 11,
     "updated_at": "2025-08-15T17:31:24Z",
-    "version": "1.0.0"
+    "version": "v1.8.6"
   },
   "astrbot_plugin_GGAC_Messenger": {
     "desc": "anka - GGAC 作品更新推送插件 - 自动监控并推送 GGAC 平台精选作品的更新! 附赠一套 GGAC 网站完整 api! 还有随机抽取 GGAC 内容功能, 详情见github页面!",
