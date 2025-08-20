@@ -2875,7 +2875,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-20T20:26:00Z",
+    "updated_at": "2025-08-20T21:21:20Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -5042,7 +5042,7 @@
     "tags": [],
     "stars": 1,
     "updated_at": "2025-02-13T15:02:20Z",
-    "version": "v1.0"
+    "version": "1.0.0"
   },
   "astrbot_plugin_comfyui": {
     "desc": "利用 LLM 的 function-calling 功能，调用本地启动的 ComfyUI 服务实现文生图功能",
