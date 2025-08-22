@@ -30,8 +30,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 7,
-    "updated_at": "2025-08-22T03:53:55Z",
+    "stars": 8,
+    "updated_at": "2025-08-22T06:31:06Z",
     "version": "1.0.1"
   },
   "astrbot_plugin_baiduocr": {
@@ -92,8 +92,8 @@
       "唤醒增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 4,
-    "updated_at": "2025-08-22T02:01:42Z",
+    "stars": 5,
+    "updated_at": "2025-08-22T06:35:51Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_memora_connect": {
@@ -235,8 +235,8 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 8,
-    "updated_at": "2025-08-19T14:41:58Z",
+    "stars": 9,
+    "updated_at": "2025-08-22T06:35:56Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_matchreminder": {
@@ -268,8 +268,8 @@
       "语音转化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 1,
-    "updated_at": "2025-08-16T10:25:42Z",
+    "stars": 2,
+    "updated_at": "2025-08-22T06:35:56Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_spark_tts": {
@@ -2875,7 +2875,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-22T06:35:09Z",
+    "updated_at": "2025-08-22T07:21:42Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3968,8 +3968,8 @@
       "撤回",
       "禁言"
     ],
-    "stars": 1,
-    "updated_at": "2025-08-04T13:52:31Z",
+    "stars": 2,
+    "updated_at": "2025-08-22T07:00:30Z",
     "version": "v0.1.2"
   },
   "astrbot_plugin_custom_menu": {
