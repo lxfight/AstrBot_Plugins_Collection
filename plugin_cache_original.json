@@ -256,8 +256,8 @@
       "撤回"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 5,
-    "updated_at": "2025-08-16T04:32:07Z",
+    "stars": 6,
+    "updated_at": "2025-08-22T17:20:43Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_record_converter": {
@@ -1503,8 +1503,8 @@
     ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
-    "stars": 14,
-    "updated_at": "2025-08-15T07:57:01Z",
+    "stars": 15,
+    "updated_at": "2025-08-22T17:21:50Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_reimage": {
@@ -2423,8 +2423,8 @@
       "表情包"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 33,
-    "updated_at": "2025-08-19T06:33:27Z",
+    "stars": 34,
+    "updated_at": "2025-08-22T17:50:19Z",
     "version": "v2.0.6"
   },
   "astrbot_plugin_voiceprint": {
@@ -2503,8 +2503,8 @@
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-08-20T09:24:18Z",
-    "version": "v1.5.7"
+    "updated_at": "2025-08-22T17:58:24Z",
+    "version": "v1.5.8"
   },
   "astrbot_plugin_emojimix": {
     "author": "Flartiny",
@@ -2875,7 +2875,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-22T17:20:30Z",
+    "updated_at": "2025-08-22T18:32:28Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
