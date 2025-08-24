@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_retry_v2": {
+    "desc": "一个基于事件钩子的、处理空回复和截断等非完整响应的重试插件",
+    "author": "长安某",
+    "repo": "https://github.com/zgojin/astrbot_plugin_retry_v2",
+    "tags": "优化",
+    "social_link": "astrbot.uk"
+  },
   "astrbot_plugin_papertrading": {
     "desc": "基于a股真实数据的模拟炒股插件。支持实时股价、委托交易、持仓管理、群内排行等功能。",
     "author": "Shiroim",
