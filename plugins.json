@@ -91,7 +91,7 @@
   "astrbot_plugin_Mirecraft_motd": {
     "desc": "Minecraft motd 探测服务器的插件",
     "author": "ChuranNeko",
-    "repo": "https://github.com/ChuranNeko/astrbot_plugin_Mirecraft_motd",
+    "repo": "https://github.com/ChuranNeko/astrbot_plugin_mirecraft_motd",
     "tags": ["Minecraft", "motd"]
   },
   "astrbot-plugin-huaer-bot": {
