@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_papertrading": {
+    "desc": "基于a股真实数据的模拟炒股插件。支持实时股价、委托交易、持仓管理、群内排行等功能。",
+    "author": "Shiroim",
+    "repo": "https://github.com/Shiroim/astrbot_plugin_papertrading",
+    "tags": ["股市"],
+    "social_link": ""
+  },
   "astrbot_plugin_figurine_workshop": {
     "desc": "基于gemini生图的手办化,不再需要本地部署。",
     "author": "长安某",
