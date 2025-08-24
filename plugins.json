@@ -1,4 +1,46 @@
 {
+  "astrbot_plugin_lark_send_patcher": {
+    "desc": "通过猴子补丁的方式，优化了飞书Lark适配器下，机器人发送的消息引用太频繁的问题。现在飞书下所有的机器人回复从引用消息变更为直接发送。插件可能会随着astrbot本体版本更新，涉及到lark_adapter和lark_event重大更新时失效。",
+    "author": "天各一方",
+    "repo": "https://github.com/Catfish872/lark_send_patcher",
+    "tags": [],
+    "social_link": ""
+  },
+  "astrbot_plugin_message_tester": {
+    "desc": "使用 logger 完整打印消息结构",
+    "author": "drdon1234",
+    "repo": "https://github.com/drdon1234/astrbot_plugin_message_tester",
+    "tags": ["调试"],
+    "social_link": ""
+  },
+  "asbot_plugin_furry-API": {
+    "desc": "调用趣绮梦云黑API查询用户的插件",
+    "author": "furryhm",
+    "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-",
+    "tags": [],
+    "social_link": ""
+  },
+  "asbot_plugin_furry-API-hy": {
+    "desc": "调用趣绮梦云黑API的群黑云查询踢出还有进群自动检测黑云有问题自动踢出的插件",
+    "author": "furryhm",
+    "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-hy",
+    "tags": [],
+    "social_link": ""
+  },
+  "astrbot_plugin_urldb": {
+    "desc": "为 [老九网盘数据库系统](https://github.com/ctwj/urldb) 设计的AstrBot插件，支持被@时搜索功能。",
+    "author": "老九",
+    "repo": "https://github.com/ctwj/astrbot_plugin_urldb",
+    "tags": [],
+    "social_link": "https://pan.l9.lc"
+  },
+  "astrbot_plugin_furry_cgsjk": {
+    "desc": "小茶馆数据库插件，为小茶馆插件提供数据支持",
+    "author": "furryhm",
+    "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cgsjk",
+    "tags": [],
+    "social_link": ""
+  },
   "astrbot_plugin_typst_support": {
     "desc": "添加 typst 渲染支持",
     "author": "baitwo02",
