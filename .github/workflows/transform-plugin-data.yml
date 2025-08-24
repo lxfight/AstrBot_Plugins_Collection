@@ -20,23 +20,7 @@ jobs:
       with:
         token: ${{ secrets.PAT_TOKEN }}
         fetch-depth: 0
-    
-    - name: Test PAT Token
-      run: |
-        echo "Testing PAT Token permissions..."
-        response=$(curl -L -s -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
-          -H "User-Agent: GitHub-Action-Plugin-Transformer" \
-          "https://api.github.com/user")
         
-        if echo "$response" | jq -e '.login' > /dev/null 2>&1; then
-          username=$(echo "$response" | jq -r '.login')
-          echo "✅ PAT Token authenticated as: $username"
-        else
-          echo "❌ PAT Token authentication failed"
-          echo "Response: $response"
-          exit 1
-        fi
-    
     - name: Fetch original plugin data
       id: fetch-data
       run: |
@@ -577,6 +561,30 @@ jobs:
           echo ""
           echo "🔄 发生重定向的仓库列表（已保留）:"
           jq -r 'to_entries[] | select(.value.status == "redirected") | "  - " + .key' repo_info.json
+        fi
+
+    - name: Pull latest changes before checking (rebase with autostash)
+      run: |
+        set -e
+        git fetch origin main --depth=1
+
+        # 在 Actions 的 detached HEAD 下也能切换到 main
+        if git rev-parse --abbrev-ref HEAD | grep -q '^HEAD$'; then
+          git checkout -B main origin/main
+        else
+          git checkout main 2>/dev/null || git checkout -b main origin/main
+        fi
+
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+
+        # 使用 autostash 自动 stash 未暂存更改，rebase 完成后会自动 pop
+        if git pull --rebase --autostash origin main; then
+          echo "✅ pull --rebase --autostash 成功"
+        else
+          echo "❌ pull --rebase --autostash 失败，工作流将退出以便人工检查"
+          git rebase --abort 2>/dev/null || true
+          exit 1
         fi
     
     - name: Check for changes
