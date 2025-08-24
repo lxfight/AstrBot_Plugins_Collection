@@ -585,12 +585,6 @@
     "tags": ["工具", "实用"],
     "social_link": "https://magstic.art/"
   },
-  "astrbot_plugin_welcome": {
-    "name": "astrbot_plugin_welcome",
-    "desc": "[仅 aiocqhttp] 入群欢迎插件，自动艾特新成员并发送自定义消息（支持文本和本地图片，可在控制台修改配置）",
-    "author": "piexian",
-    "repo": "https://github.com/piexian/astrbot_plugin_welcome"
-  },
   "astrbot_plugin_eat_history": {
     "desc": "自动保存转发的消息记录，随时查看",
     "author": "logicat",
@@ -909,13 +903,6 @@
     "tags": ["alist"],
     "social_link": "https://github.com/linjianyan0229"
   },
-  "astrbot_plugin_StarMonitor": {
-    "author": "Jason.Joestar",
-    "repo": "https://github.com/advent259141/astrbot_plugin_StarMonitor",
-    "desc": "用于监控指定 Github 仓库的 Star 数变化",
-    "tags": ["Github", "数据跟踪"],
-    "social_link": "https://github.com/advent259141"
-  },
   "astrbot_plugin_github_analyzer": {
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_github_analyzer",
@@ -1034,12 +1021,6 @@
     "author": "和泉智宏",
     "desc": "[仅QQ] 弱黑名单插件，对处于黑名单用户进行概率性回复，并由保底回复机制，即使@机器人也进行概率回复。主要是防止多个机器人炸群。",
     "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_weakblacklist"
-  },
-  "astrbot_plugin_InitiativeDialogue_for_group": {
-    "author": "Jason.Joestar",
-    "desc": "[仅QQ] 群聊长时间没有人发言时机器人主动发起对话的插件（InitiativeDialogue）",
-    "tags": ["主动对话", "闹鬼"],
-    "repo": "https://github.com/advent259141/astrbot_plugin_InitiativeDialogue_for_group"
   },
   "astrbot_plugin_message_bottle": {
     "author": "Flartiny",
@@ -1252,13 +1233,6 @@
     "desc": "获取随机的 Doro 表情包",
     "repo": "https://github.com/2356820887/astrbot_plugin_doro",
     "tags": ["doro"]
-  },
-  "astrbot_plugin_baike": {
-    "author": "明日香奈",
-    "desc": "输入【/百科 要搜索的词条】即可查询百度百科简略内容",
-    "repo": "https://github.com/mingrixiangnai/astrbot_plugin_baike",
-    "tags": ["百科", "信息"],
-    "social_link": "https://github.com/mingrixiangnai/astrbot_plugin_baike"
   },
   "astrbot_plugin_LatexPlotter": {
     "author": "xunxi",
@@ -1495,13 +1469,6 @@
     "tags": ["明日方舟", "游戏", "语音"],
     "repo": "https://github.com/zhewang448/astrbot_plugin_mrfz"
   },
-  "astrbot_plugin_maodie": {
-    "author": "Jason.Joestar",
-    "desc": "使用“哈个气”获得可爱耄耋涩图",
-    "repo": "https://github.com/advent259141/astrbot_plugin_maodie",
-    "tags": ["哈气", "耄耋"],
-    "social_link": "https://github.com/advent259141"
-  },
   "astrbot_plugin_napdog_cleaner": {
     "author": "anka",
     "desc": "[仅 NapCat] napdog, 把napcat拉的史全部吃光光, 自动监控并清理 NapCat 产生的缓存文件, 注意docker需要额外配置!",
@@ -1689,13 +1656,6 @@
     "tags": ["娱乐"],
     "social_link": "https://github.com/FengYing1314/"
   },
-  "astrbot_plugin_Minesweeper": {
-    "author": "Jason.Joestar",
-    "desc": "简单的扫雷小游戏",
-    "repo": "https://github.com/advent259141/astrbot_plugin_Minesweeper",
-    "tags": ["扫雷", "娱乐"],
-    "social_link": "https://github.com/advent259141"
-  },
   "astrbot_plugin_uptime_kuma_puller": {
     "author": "Henry_Du / bananaxiao2333",
     "desc": "拉取UptimeKuma监控面板中的服务器状态",
@@ -1712,13 +1672,6 @@
     "desc": "这是 AstrBot 的A2S查询插件。",
     "repo": "https://github.com/ZvZPvz/astrbot_plugin_a2s",
     "tags": ["工具"]
-  },
-  "astrbot_plugin_llmgo": {
-    "author": "Jason.Joestar",
-    "desc": "这是一个围棋插件，允许用户与 LLM 进行围棋对弈",
-    "repo": "https://github.com/advent259141/astrbot_plugin_llmgo",
-    "tags": ["围棋"],
-    "social_link": "https://github.com/advent259141"
   },
   "astrbot_plugin_fuck": {
     "author": "vmoranv",
@@ -2036,12 +1989,6 @@
     "repo": "https://github.com/advent259141/astrbot_plugin_SessionFaker",
     "tags": ["消息伪造"]
   },
-  "astrbot_plugin_aishit": {
-    "desc": "【QQ】AI 全自动造史插件",
-    "author": "Jason.Joestar",
-    "tags": ["造史"],
-    "repo": "https://github.com/advent259141/astrbot_plugin_aishit"
-  },
   "astrbot_plugin_douniuniu": {
     "desc": "QQ 群小游戏，培养你的牛牛，然后塔塔开！",
     "author": "laozhu",
@@ -2158,12 +2105,6 @@
     "author": "浅夏旧入梦",
     "repo": "https://github.com/litsum/astrbot_plugin_answerbook",
     "social_link": "https://m.bilibili.com/space/172230783"
-  },
-  "astrbot_plugin_timedtask": {
-    "desc": "一个简单易用的群聊定时任务提醒插件，可以设置每日定时提醒.初次使用请查看readme。",
-    "author": "Jason.Joestar",
-    "repo": "https://github.com/advent259141/astrbot_plugin_timedtask",
-    "tags": ["定时", "通知"]
   },
   "astrbot_plugin_doro_today": {
     "desc": "[仅测试QQ]一个AstrBot插件，从Doro结局图片中随机抽取一张并发送给用户，同时@发送者。",
@@ -2562,11 +2503,6 @@
     "author": "xiewoc",
     "repo": "https://github.com/xiewoc/astrbot_plugin_image_understanding_Janus-Pro"
   },
-  "astrbot_plugin_CS_5E": {
-    "desc": "基于5E赛事数据中心的CS赛事数据查询插件，菜单为 /5e_help。",
-    "author": "Jason.Joestar",
-    "repo": "https://github.com/advent259141/astrbot_plugin_CS_5E"
-  },
   "astrbot_plugin_mp_sub": {
     "desc": "配合 MoviePilot 订阅影片",
     "author": "NEST",
@@ -2577,11 +2513,6 @@
     "author": "aoz",
     "tags": ["功能"],
     "repo": "https://github.com/Aozaky/astrbot_plugin_nofap"
-  },
-  "astrbot_plugin_niuniuplus": {
-    "desc": "原牛牛插件的升级版，卸载原插件并安装即可，数据通用",
-    "author": "Jason.Joestar",
-    "repo": "https://github.com/advent259141/astrbot_plugin_niuniuplus"
   },
   "astrbot_plugin_random_vtb": {
     "desc": "随机推送正在直播的管人直播间",
@@ -2635,12 +2566,6 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_github_cards",
     "tags": ["功能"]
-  },
-  "astrbot_plugin_hltv": {
-    "desc": "这是基于 HLTV 网站数据的 CS 赛事查询插件",
-    "author": "Jason",
-    "repo": "https://github.com/advent259141/astrbot_plugin_hltv",
-    "tags": ["功能", "游戏", "数据查询"]
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
