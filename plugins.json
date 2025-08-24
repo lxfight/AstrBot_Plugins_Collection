@@ -1,4 +1,11 @@
 {
+  "astrbot_plugin_typst_support": {
+    "desc": "添加 typst 渲染支持",
+    "author": "baitwo02",
+    "repo": "https://github.com/baitwo02/astrbot_plugin_typst_support",
+    "tags": ["typst"],
+    "social_link": ""
+  },
   "astrbot_plugin_retry_v2": {
     "desc": "一个基于事件钩子的、处理空回复和截断等非完整响应的重试插件",
     "author": "长安某",
