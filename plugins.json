@@ -1,4 +1,27 @@
 {
+  "xfbank": {
+    "desc": "一个简易的银行插件",
+    "author": "XiaoFu1025",
+    "repo": "https://github.com/XiaoFu1025/astrbot_plugin_xfbank",
+    "tags": ["Bank", "虚拟银行"]
+  },
+  "astrbot_plugin_ms_aiimg": {
+    "desc": "接入魔搭社区文生图模型",
+    "author": "竹和木",
+    "repo": "https://github.com/3451996649/astrbot_plugin_ms_aiimg"
+  },
+  "asbot_plugin_furry_mzxyy": {
+    "desc": "毛主席一言",
+    "author": "furryhm",
+    "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry_mzxyy"
+  },
+  "astrbot_plugin_auto_ban_new": {
+    "desc": "在指定群聊中对新入群用户自动禁言并发送欢迎消息，支持多种方式解除监听。帮助群管理员更好地管理新成员，确保新成员先阅读群规再发言。",
+    "author": "糯米茨",
+    "repo": "https://github.com/nuomicici/astrbot_plugin_auto_ban_new",
+    "tags": ["禁言", "群管"],
+    "social_link": "https://qm.qq.com/q/wMGXYfKKoS"
+  },
   "command_to_llm": {
     "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
     "author": "kjqwdw",
@@ -9,51 +32,40 @@
   "astrbot_plugin_lark_send_patcher": {
     "desc": "通过猴子补丁的方式，优化了飞书Lark适配器下，机器人发送的消息引用太频繁的问题。现在飞书下所有的机器人回复从引用消息变更为直接发送。插件可能会随着astrbot本体版本更新，涉及到lark_adapter和lark_event重大更新时失效。",
     "author": "天各一方",
-    "repo": "https://github.com/Catfish872/lark_send_patcher",
-    "tags": [],
-    "social_link": ""
+    "repo": "https://github.com/Catfish872/lark_send_patcher"
   },
   "astrbot_plugin_message_tester": {
     "desc": "使用 logger 完整打印消息结构",
     "author": "drdon1234",
     "repo": "https://github.com/drdon1234/astrbot_plugin_message_tester",
-    "tags": ["调试"],
-    "social_link": ""
+    "tags": ["调试"]
   },
   "asbot_plugin_furry-API": {
     "desc": "调用趣绮梦云黑API查询用户的插件",
     "author": "furryhm",
-    "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-",
-    "tags": [],
-    "social_link": ""
+    "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-"
   },
   "asbot_plugin_furry-API-hy": {
     "desc": "调用趣绮梦云黑API的群黑云查询踢出还有进群自动检测黑云有问题自动踢出的插件",
     "author": "furryhm",
-    "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-hy",
-    "tags": [],
-    "social_link": ""
+    "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-hy"
   },
   "astrbot_plugin_urldb": {
     "desc": "为 [老九网盘数据库系统](https://github.com/ctwj/urldb) 设计的AstrBot插件，支持被@时搜索功能。",
     "author": "老九",
     "repo": "https://github.com/ctwj/astrbot_plugin_urldb",
-    "tags": [],
     "social_link": "https://pan.l9.lc"
   },
   "astrbot_plugin_furry_cgsjk": {
     "desc": "小茶馆数据库插件，为小茶馆插件提供数据支持",
     "author": "furryhm",
-    "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cgsjk",
-    "tags": [],
-    "social_link": ""
+    "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cgsjk"
   },
   "astrbot_plugin_typst_support": {
     "desc": "添加 typst 渲染支持",
     "author": "baitwo02",
     "repo": "https://github.com/baitwo02/astrbot_plugin_typst_support",
-    "tags": ["typst"],
-    "social_link": ""
+    "tags": ["typst"]
   },
   "astrbot_plugin_retry_v2": {
     "desc": "一个基于事件钩子的、处理空回复和截断等非完整响应的重试插件",
@@ -66,8 +78,7 @@
     "desc": "基于a股真实数据的模拟炒股插件。支持实时股价、委托交易、持仓管理、群内排行等功能。",
     "author": "Shiroim",
     "repo": "https://github.com/Shiroim/astrbot_plugin_papertrading",
-    "tags": ["股市"],
-    "social_link": ""
+    "tags": ["股市"]
   },
   "astrbot_plugin_figurine_workshop": {
     "desc": "基于gemini生图的手办化,不再需要本地部署。",
