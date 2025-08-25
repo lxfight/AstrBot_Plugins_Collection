@@ -138,8 +138,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 21,
-    "updated_at": "2025-08-24T16:20:55Z",
+    "stars": 22,
+    "updated_at": "2025-08-25T04:15:35Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -210,8 +210,8 @@
     ],
     "social_link": "https://github.com/danfong1104",
     "stars": 0,
-    "updated_at": "2025-08-22T03:59:39Z",
-    "version": "v2.0.0"
+    "updated_at": "2025-08-25T03:48:42Z",
+    "version": "v2.0.1"
   },
   "astrbot_plugin_tts_emotion_router": {
     "desc": "按情绪路由到不同音色与语速的 TTS 插件（硅基流动 API，其他OpenAI语音接口api同样适配），支持隐藏标记与启发式情绪识别、概率/长度/冷却门控与会话开关。",
@@ -3127,7 +3127,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-25T03:19:14Z",
+    "updated_at": "2025-08-25T04:31:15Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
