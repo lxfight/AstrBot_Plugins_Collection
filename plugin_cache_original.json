@@ -141,8 +141,8 @@
     "tags": [
       "股市"
     ],
-    "stars": 5,
-    "updated_at": "2025-08-24T16:56:08Z",
+    "stars": 6,
+    "updated_at": "2025-08-26T00:44:31Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_figurine_workshop": {
@@ -2791,8 +2791,8 @@
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-08-22T19:56:02Z",
-    "version": "v1.5.9"
+    "updated_at": "2025-08-26T00:43:08Z",
+    "version": "v1.6.0"
   },
   "astrbot_plugin_emojimix": {
     "author": "Flartiny",
