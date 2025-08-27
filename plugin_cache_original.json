@@ -330,7 +330,7 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "stars": 15,
-    "updated_at": "2025-08-26T21:43:53Z",
+    "updated_at": "2025-08-27T05:33:18Z",
     "version": "1.2.4"
   },
   "astrbot_plugin_baiduocr": {
@@ -520,8 +520,8 @@
     "author": "CaQing ＆ GPT-5 Pro",
     "repo": "https://github.com/caqingtgas/astrbot_plugin_identity_strategy",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-08-19T01:36:39Z",
+    "stars": 1,
+    "updated_at": "2025-08-27T05:25:21Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_qzone": {
@@ -748,7 +748,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 7,
     "updated_at": "2025-08-26T13:03:02Z",
-    "version": "v1.0.1"
+    "version": "1.0.0"
   },
   "astrbot_plugin_error_pro": {
     "desc": "屏蔽机器人的错误消息，选择是否发送给管理员，支持AI友好解释。",
@@ -2870,8 +2870,8 @@
       "按钮"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 26,
-    "updated_at": "2025-08-23T09:21:31Z",
+    "stars": 27,
+    "updated_at": "2025-08-27T06:17:43Z",
     "version": "v2.0.0"
   },
   "astrbot_plugin_SillyTavern_card": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-27T05:21:54Z",
+    "updated_at": "2025-08-27T06:33:21Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
