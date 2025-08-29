@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_favourpro": {
+    "desc": "这是一个与现有好感度系统完全不同的插件。它不再是一个简单的数值计算工具，而是旨在为 AI 模拟一个多维度、自主且保密的内心世界。AI 会根据与用户的互动，真实地改变其内在的“好感度”、“态度”和“关系”，并通过回应风格的变化自然地流露出来。",
+    "author": "天各一方",
+    "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro"
+  },
+  "astrbot_plugin_vtb_adapter": {
+    "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_vtb_adapter",
+    "tags": [
+      "适配器"
+    ]
+  },
   "xfbank": {
     "desc": "一个简易的银行插件",
     "author": "XiaoFu1025",
