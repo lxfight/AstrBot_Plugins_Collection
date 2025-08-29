@@ -5,8 +5,8 @@
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-08-29T04:12:16Z",
-    "version": "v1.0.0"
+    "updated_at": "2025-08-29T15:20:18Z",
+    "version": "v1.0.1"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -1179,7 +1179,7 @@
       "工具"
     ],
     "stars": 4,
-    "updated_at": "2025-08-29T03:15:03Z",
+    "updated_at": "2025-08-29T15:28:49Z",
     "version": "v1.0.7"
   },
   "astrbot_plugin_RecallGuard": {
@@ -3183,7 +3183,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-29T15:20:50Z",
+    "updated_at": "2025-08-29T16:28:11Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
