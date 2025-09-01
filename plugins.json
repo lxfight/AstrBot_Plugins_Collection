@@ -1,28 +1,50 @@
 {
+  "gemini-25-image-openrouter": {
+    "desc": "使用openrouter的免费api生成图片",
+    "author": "喵喵",
+    "repo": "https://github.com/miaoxutao123/AstrBot_plugin_gemini2point5image-openrouter",
+    "tags": ["banana", "gemini-2.5-flash-image-preview", "画图", "AI绘画"]
+  },
+  "github_star_verify": {
+    "desc": "[aiocqhttp]使用 GitHub 仓库的 Star 状态作为入群验证条件，仅允许已 Star 指定仓库的用户留在群内。",
+    "author": "Qian23333",
+    "repo": "https://github.com/Qian23333/astrbot_plugin_github_star_verify"
+  },
+  "astrbot-qq-group-daily-analysis": {
+    "desc": "QQ群日常分析插件 - 生成精美的群聊分析报告，支持话题分析、用户称号、群聊金句等功能",
+    "author": "SXP-Simon",
+    "repo": "https://github.com/SXP-Simon/astrbot-qq-group-daily-analysis",
+    "tags": ["QQ", "群聊", "分析", "总结"],
+    "social_link": "https://github.com/SXP-Simon"
+  },
+  "astrbot_plugin_boss_notifier": {
+    "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
+    "author": "Alent7",
+    "repo": "https://github.com/Alent7/astrbot_plugin_boss_notifier"
+  },
+  "astrbot_plugin_furry_dsgg": {
+    "desc": "[仅aiocqhttp] 广告助手，帮助你向所有群聊定时发送广告",
+    "author": "furryhm",
+    "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_dsgg"
+  },
   "astrbot_plugin_mememaker_api": {
     "author": "jmt059",
     "repo": "https://github.com/jmt059/astrbot_plugin_mememaker_api",
     "desc": "表情包制作插件(api版)，功能齐全，需要调用 meme-generator 服务",
-    "tags": [
-      "meme",
-      "表情包"
-    ]
+    "tags": ["meme", "api", "表情包"]
   },
   "wxauto_repost": {
     "desc": "微信消息转发框架插件 - 基于 wxauto 库和 OneBotV11 协议，支持微信消息与 OneBotV11 协议的双向转发",
     "author": "汐灿",
     "repo": "https://github.com/luosheng520qaq/wxauto-repost-onebotv11",
-    "tags": [
-      "wechat",
-      "wxauto"
-    ],
+    "tags": ["wechat", "wxauto"],
     "social_link": "blog.isla.ltd"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
     "author": "Hxfrzc",
     "repo": "https://github.com/Hxfrzc/astrbot_plugin_AnimeMagnet",
-    "tags": ["动漫","番剧","磁链"]
+    "tags": ["动漫", "番剧", "磁链"]
   },
   "astrbot_plugin_restrict_syscmd": {
     "desc": "限制仅管理员可用某些指令（支持自定义），静默处理不回复，防止bot被测，防止被恶意new、reset等",
@@ -33,9 +55,7 @@
     "desc": "一个用于 AstrBot 的 JOJO 替身面板生成插件，调用 TripleYing 的 API 生成 JOJO 风格替身面板图片。支持随机生成、自定义设置、替身系统等功能。",
     "author": "Dogend",
     "repo": "https://github.com/Dogend233/astrbot_plugin_jojo_stand_panel",
-    "tags": [
-      "JOJO"
-    ],
+    "tags": ["JOJO"],
     "social_link": "http://www.tripleying.com/jojo"
   },
   "astrbot_plugin_qun_album": {
@@ -54,9 +74,7 @@
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
     "author": "YakumoAki",
     "repo": "https://github.com/murphys7017/astrbot_plugin_vtb_adapter",
-    "tags": [
-      "适配器"
-    ]
+    "tags": ["适配器"]
   },
   "xfbank": {
     "desc": "一个简易的银行插件",
@@ -114,6 +132,11 @@
     "author": "老九",
     "repo": "https://github.com/ctwj/astrbot_plugin_urldb",
     "social_link": "https://pan.l9.lc"
+  },
+  "astrbot_plugin_furry_cg": {
+    "desc": "小茶馆插件",
+    "author": "furryhm",
+    "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cg"
   },
   "astrbot_plugin_furry_cgsjk": {
     "desc": "小茶馆数据库插件，为小茶馆插件提供数据支持",
