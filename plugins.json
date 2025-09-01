@@ -76,12 +76,6 @@
     "repo": "https://github.com/murphys7017/astrbot_plugin_vtb_adapter",
     "tags": ["适配器"]
   },
-  "xfbank": {
-    "desc": "一个简易的银行插件",
-    "author": "XiaoFu1025",
-    "repo": "https://github.com/XiaoFu1025/astrbot_plugin_xfbank",
-    "tags": ["Bank", "虚拟银行"]
-  },
   "astrbot_plugin_ms_aiimg": {
     "desc": "接入魔搭社区文生图模型",
     "author": "竹和木",
