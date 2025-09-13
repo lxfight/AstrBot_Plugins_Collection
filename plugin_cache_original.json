@@ -67,8 +67,8 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 4,
-    "updated_at": "2025-09-12T14:23:35Z",
+    "stars": 5,
+    "updated_at": "2025-09-13T00:56:37Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_group_chat": {
@@ -3586,7 +3586,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-12T01:26:02Z",
+    "updated_at": "2025-09-13T01:22:22Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
