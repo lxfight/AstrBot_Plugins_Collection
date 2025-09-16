@@ -2799,7 +2799,7 @@
       "知识库"
     ],
     "stars": 62,
-    "updated_at": "2025-09-16T09:48:37Z",
+    "updated_at": "2025-09-16T12:09:01Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -2936,8 +2936,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 25,
-    "updated_at": "2025-09-15T18:20:34Z",
-    "version": "v1.0.2"
+    "updated_at": "2025-09-16T12:09:36Z",
+    "version": "v1.0.3"
   },
   "astrbot_plugin_Kanalyse": {
     "author": "End_Tower",
