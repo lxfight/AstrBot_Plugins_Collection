@@ -51,8 +51,8 @@
       "开源"
     ],
     "stars": 6,
-    "updated_at": "2025-09-16T07:15:26Z",
-    "version": "1.0.0"
+    "updated_at": "2025-09-16T07:27:00Z",
+    "version": "1.1.0"
   },
   "astrbot_plugin_legado": {
     "desc": "随机小说",
@@ -1432,8 +1432,8 @@
       "用户信息",
       "主动回复"
     ],
-    "stars": 1,
-    "updated_at": "2025-07-28T14:44:13Z",
+    "stars": 2,
+    "updated_at": "2025-09-16T07:53:59Z",
     "version": "v1.0.1"
   },
   "treasure_bag_plugin": {
@@ -2528,7 +2528,7 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "stars": 4,
-    "updated_at": "2025-07-29T10:01:48Z",
+    "updated_at": "2025-09-16T08:15:07Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_xiaoxue": {
@@ -4893,8 +4893,8 @@
     "tags": [
       "消息推送"
     ],
-    "stars": 8,
-    "updated_at": "2025-08-11T07:52:09Z",
+    "stars": 9,
+    "updated_at": "2025-09-16T07:38:09Z",
     "version": "v0.2.1"
   },
   "astrbot_plugin_hello77": {
