@@ -1744,13 +1744,6 @@
     "repo": "https://github.com/vmoranv/astrbot_plugin_yinlish",
     "social_link": "https://github.com/vmoranv"
   },
-  "astrbot_plugin_memelite_rs": {
-    "author": "Zhalslar",
-    "desc": "表情包生成器，制作各种沙雕表情（Rust重构版，速度快占用小）",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite_rs",
-    "tags": ["表情包"],
-    "social_link": "https://github.com/Zhalslar"
-  },
   "astrbot_plugin_voiceprint": {
     "author": "hello七七",
     "desc": "活字印刷（文本转语音）",
@@ -1829,13 +1822,6 @@
     "author": "baa131",
     "repo": "https://github.com/baa131/astrbot_plugin_fishing",
     "desc": "电子钓鱼的小游戏"
-  },
-  "astrbot_plugin_buttons": {
-    "author": "Zhalslar",
-    "desc": "[仅 napcat] 让QQ的野生bot也能发送按钮！",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_buttons",
-    "tags": ["按钮"],
-    "social_link": "https://github.com/Zhalslar"
   },
   "astrbot_plugin_SillyTavern_card": {
     "author": "LKarxa",
@@ -2553,7 +2539,7 @@
     "repo": "https://github.com/LouieKH359/astrbot_plugin_PockAttack"
   },
   "astrbot_plugin_memelite": {
-    "desc": "表情包生成器，制作各种沙雕表情(本地部署，但轻量化)",
+    "desc": "表情包生成器，制作各种沙雕表情 (同时兼容Python版和Rust版)",
     "author": "Zhalslar",
     "tags": ["表情包"],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
@@ -2621,13 +2607,6 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_box",
     "tags": ["功能"],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box"
-  },
-  "astrbot_plugin_yuafeng": {
-    "desc": "对接枫林API提供的接口，随机发 美女视频、帅哥视频、精美图片、逆天音频、伤感文案等等",
-    "author": "Zhalslar",
-    "tags": ["枫林API"],
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_yuafeng",
-    "social_link": "https://github.com/Zhalslar/astrbot_plugin_yuafeng"
   },
   "astrbot_plugin_relationship": {
     "desc": "[仅aiocqhttp] bot人际关系管理器！包括查看好友列表、查看群列表、审批好友申请、审批群邀请、删好友、退群",
