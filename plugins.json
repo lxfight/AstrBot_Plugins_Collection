@@ -1,4 +1,149 @@
 {
+  "astrbot_plugin_pollinations_images": {
+    "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
+    "author": "qa296",
+    "repo": "https://github.com/qa296/astrbot_plugin_pollinations_images",
+    "tags": ["ai生图"],
+    "social_link": ["https://github.com/qa296/"]
+  },
+  "wallabag": {
+    "desc": "自动监听消息中的 URL 并保存到 Wallabag",
+    "author": "zhuguadundan",
+    "repo": "https://github.com/zhuguadundan/astrbot_plugin_wallabag"
+  },
+  "astrbot_plugin_pplxsearch": {
+    "desc": "基于Perplexity AI的互联网搜索插件，可用/pplx 搜索命令",
+    "author": "LovelyGuYiMeng",
+    "repo": "https://github.com/LovelyGuYiMeng/astrbot_plugin_pplxsearch"
+  },
+  "Discord_sync_to_kook": {
+    "desc": "Discord消息同步到Kook插件，支持频道映射和消息格式转换",
+    "author": "nulijiazaizhong",
+    "repo": "https://github.com/nulijiazaizhong/astrbot_plugin_Discord_sync_to_kook",
+    "social_link": "https://github.com/nulijiazaizhong"
+  },
+  "github_star_manager": {
+    "desc": "GitHub插件Star管理器 - 智能点赞AstrBot插件",
+    "author": "山萘",
+    "repo": "https://github.com/shannai37/github_star_plugin",
+    "tags": ["工具", "GitHub", "开源"]
+  },
+  "astrbot_plugin_legado": {
+    "desc": "随机小说",
+    "author": "Victical",
+    "repo": "https://github.com/victical/astrbot_plugin_legado",
+    "tags": ["小说"]
+  },
+  "ark_info_search": {
+    "desc": "使用明日方舟PRTS的Media API获取信息。",
+    "author": "wxgl",
+    "repo": "https://github.com/wxgl/astrbot_plugin_arkinfo",
+    "tags": ["明日方舟", "PRTS"]
+  },
+  "astrbot_plugin_move3d": {
+    "desc": "将用户引用的图片转换为简笔画风格裸眼3D图的 AstrBot 插件。",
+    "author": "vmoranv",
+    "repo": "https://github.com/vmoranv/astrbot_plugin_move3d",
+    "tags": ["简笔画", "裸眼3d"],
+    "social_link": "https://github.com/vmoranv"
+  },
+  "astrbot_plugin_poker_game": {
+    "desc": "德州扑克游戏插件 - 支持私聊发牌、多人游戏、积分系统、房间管理、管理员控制等完整功能",
+    "author": "山萘",
+    "repo": "https://github.com/shannai37/astrbot_plugin_poker_game",
+    "tags": ["游戏", "德州扑克", "多人", "积分系统"]
+  },
+  "astrbot_plugin_context_enhancer": {
+    "desc": "智能上下文增强插件，它能让您的机器人在群聊中“知晓前文，见机行事”，实现真正意义上的流畅对话。",
+    "author": "木有知",
+    "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_enhancer",
+    "tags": [
+      "上下文增强",
+      "群聊分析",
+      "读空气",
+      "角色扮演",
+      "智能对话",
+      "LLM增强"
+    ],
+    "social_link": "https://github.com/muyouzhi6"
+  },
+  "astrbot_plugin_bilibili_up_notifier": {
+    "desc": "这是一个AstrBot的插件，用于检测B站UP主发布的新视频并自动发送通知给订阅的用户",
+    "author": "CN-CQ-Z",
+    "repo": "https://github.com/CN-CQ-Z/astrbot_plugin_bilibili_up_notifier"
+  },
+  "persistent_history": {
+    "desc": "基本无需设置的简单永久记忆插件",
+    "author": "komeiji_shiki",
+    "repo": "https://github.com/Komeiji-Shiki/astrbot_plugin_persistent_history",
+    "tags": ["记忆", "永久记忆"]
+  },
+  "randomtoken": {
+    "desc": "一个Token生成管理器，支持生成、导出、删除和查看Token列表。",
+    "author": "LumineStory",
+    "repo": "https://github.com/oyxning/astrabot-plugin-randomtoken",
+    "tags": ["token", "generator", "management"]
+  },
+  "GUGUblack": {
+    "desc": "用户/群聊黑名单，也可以拦截 AstrBot 错误信息发送特定提示",
+    "author": "YUNYUN",
+    "repo": "https://github.com/huangyuzhe/astrbot_plugin_GUGUblack",
+    "tags": ["黑名单", "错误"]
+  },
+  "astrbot_plugin_shoubanhua": {
+    "desc": "通过第三方api，实现手办化、cos化等等功能",
+    "author": "shskjw",
+    "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua"
+  },
+  "astrbot_plugin_group_chat": {
+    "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
+    "author": "qa296",
+    "repo": "https://github.com/qa296/astrbot_plugin_group_chat",
+    "tags": ["主动回复", "拟人"],
+    "social_link": "https://github.com/qa296/"
+  },
+  "astrbot_plugin_sha": {
+    "desc": "获取GitHub仓库最后5次提交SHA的插件",
+    "author": "IGCrystal",
+    "repo": "https://github.com/IGCrystal-NEO/astrbot_plugin_sha",
+    "tags": ["工具", "GitHub"],
+    "social_link": "https://wenturc.com"
+  },
+  "input_state_by_napcat": {
+    "desc": "[仅NapCat]输入状态显示",
+    "author": "ctrlkk",
+    "repo": "https://github.com/ctrlkk/astrbot_plugin_input_state_by_nc",
+    "tags": ["napcat"]
+  },
+  "model_mcp_bridge": {
+    "desc": "用于为不支持tool_use的模型提供一个调用MCP的途径的插件。",
+    "author": "Dt8333",
+    "repo": "https://github.com/Dt8333/astrbot_plugin_model_mcp_bridge"
+  },
+  "Codex": {
+    "desc": "AstrBot_Codex 是一个基于 Docker 的 Linux 命令执行插件，专为 AstrBot 开发，能够安全地在隔离的 Docker 容器中执行多种编程语言的代码并返回结果。",
+    "author": "TuF3i",
+    "repo": "https://github.com/TuF3i/astrBot_plugin_Codex",
+    "tags": ["命令执行", "docker"]
+  },
+  "openai-image-command": {
+    "desc": "修改自喵喵的openrouter生图插件。使用openai格式的免费api生成图片(使用指令调用插件)",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/AstrBot_plugin_openai_image-command"
+  },
+  "astrbot_plugin_sleep_tracker": {
+    "desc": "一个基于 AstrBot 的睡眠记录插件，帮助用户记录和分析睡眠作息情况",
+    "author": "SHOOTING-STAR-C",
+    "repo": "https://github.com/SHOOTING-STAR-C/astrbot_plugin_sleep_tracker",
+    "tags": ["睡眠", "记录"]
+  },
+  "astrbot_plugin_snap_translator": {
+    "desc": "自动获取并翻译 Marvel Snap 开发者问答",
+    "author": "sic",
+    "repo": "https://github.com/Sic-x/astrbot_plugin_snap_translator",
+    "tags": ["marvel", "snap"],
+    "social_link": "https://github.com/Sic-x"
+  },
   "astrbot_plugin_m": {
     "desc": "AI自动识别对话中的歌名，支持发送音乐卡片、链接、语音、音频文件，集成网易云音乐数据接口",
     "author": "Mnbqq",
