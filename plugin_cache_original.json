@@ -5334,9 +5334,9 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_wake_enhance",
     "tags": [],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 7,
+    "updated_at": "2025-08-24T16:24:17Z",
+    "version": "v1.0.2"
   },
   "astrbot_plugin_safebooru": {
     "desc": "/safebooru + tag = 好看的图，",
