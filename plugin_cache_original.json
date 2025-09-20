@@ -98,7 +98,7 @@
       "TTS"
     ],
     "stars": 1,
-    "updated_at": "2025-09-19T01:26:49Z",
+    "updated_at": "2025-09-20T16:11:44Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_angel_eye": {
@@ -972,8 +972,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 19,
-    "updated_at": "2025-09-15T02:45:12Z",
+    "stars": 20,
+    "updated_at": "2025-09-20T15:59:59Z",
     "version": "1.2.5"
   },
   "astrbot_plugin_baiduocr": {
@@ -3575,8 +3575,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "stars": 81,
-    "updated_at": "2025-09-20T08:33:01Z",
-    "version": "v2.0.3"
+    "updated_at": "2025-09-20T15:33:52Z",
+    "version": "v2.0.4"
   },
   "astrbot_plugin_help": {
     "author": "tinker",
