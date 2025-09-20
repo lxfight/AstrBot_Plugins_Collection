@@ -2528,8 +2528,8 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "stars": 5,
-    "updated_at": "2025-09-18T15:02:23Z",
-    "version": "1.0.0"
+    "updated_at": "2025-09-20T00:56:44Z",
+    "version": "2.1.4"
   },
   "astrbot_plugin_xiaoxue": {
     "author": "sbmikoto",
@@ -3667,7 +3667,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-19T01:37:03Z",
+    "updated_at": "2025-09-20T01:25:23Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
@@ -5470,8 +5470,8 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 18,
-    "updated_at": "2025-09-19T14:07:10Z",
-    "version": "v1.3.4"
+    "updated_at": "2025-09-19T23:30:45Z",
+    "version": "v1.3.5"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
