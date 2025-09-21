@@ -2320,11 +2320,11 @@
 		"tags": ["浏览器"],
 		"social_link": "https://github.com/Zhalslar/astrbot_plugin_browser"
 	},
-	"astrbot_plugin_QQAdmin": {
-		"desc": "[仅aiocqhttp]QQ群管插件，功能包括：禁言、全体禁言、踢人、拉黑、改群昵称、改头衔、设管理员、设精华、发群公告、撤回消息、刷屏检测、宵禁等等",
+	"astrbot_plugin_qqadmin": {
+		"desc": "[仅aiocqhttp]QQ群管插件，功能包括：禁言、全体禁言、踢人、拉黑、改群昵称、改头衔、设管理员、设精华、发群公告、撤回消息、刷屏禁言、违禁词禁言、投票禁言、宵禁等等",
 		"author": "Zhalslar",
-		"repo": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
-		"social_link": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
+		"repo": "https://github.com/Zhalslar/astrbot_plugin_qqadmin",
+		"social_link": "https://github.com/Zhalslar",
 		"tags": ["QQ群管"]
 	},
 	"astrbot_plugin_liars_bar": {
@@ -2386,12 +2386,12 @@
 		"repo": "https://github.com/zhewang448/astrbot_plugin_wsde",
 		"tags": ["游戏"]
 	},
-	"astrbot_plugin_QQProfile": {
+	"astrbot_plugin_qqprofile": {
 		"desc": "[仅aiocqhttp] 通过命令配置bot的头像、昵称、签名、状态, 切换人格时同步改变头像、昵称",
 		"author": "Zhalslar",
-		"repo": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
+		"repo": "https://github.com/Zhalslar/astrbot_plugin_qqprofile",
 		"tags": ["QQ资料"],
-		"social_link": "https://github.com/Zhalslar/astrbot_plugin_QQProfile"
+		"social_link": "https://github.com/Zhalslar"
 	},
 	"astrbot_plugin_mcping": {
 		"desc": "获取 Minecraft 服务器的状态（图片展示版）",
