@@ -56,8 +56,7 @@
 		"repo": "https://github.com/clown145/astrbot_plugin_tts_llm",
 		"tags": ["TTS"]
 	},
-	{
-	  "name": "astrbot_plugin_angel_heart",
+	"astrbot_plugin_angel_heart": {
 	  "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让 AI 成为懂分寸、有眼色的聊天伙伴。",
 	  "author": "kawayiYokami",
 	  "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_heart",
