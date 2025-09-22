@@ -11,7 +11,7 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "stars": 0,
-    "updated_at": "2025-09-22T07:50:26Z",
+    "updated_at": "2025-09-22T13:56:04Z",
     "version": "v0.1.0"
   },
   "qftp": {
@@ -310,7 +310,7 @@
       "TTS"
     ],
     "stars": 2,
-    "updated_at": "2025-09-21T03:13:41Z",
+    "updated_at": "2025-09-22T13:32:32Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_angel_heart": {
@@ -322,8 +322,8 @@
       "主动应答"
     ],
     "social_link": "https://github.com/kawayiYokami",
-    "stars": 2,
-    "updated_at": "2025-09-22T13:14:29Z",
+    "stars": 3,
+    "updated_at": "2025-09-22T14:00:18Z",
     "version": "0.0.3"
   },
   "astrbot_plugin_angel_eye": {
@@ -4505,8 +4505,8 @@
       "QQ群管"
     ],
     "stars": 45,
-    "updated_at": "2025-09-22T12:07:40Z",
-    "version": "v3.1.5"
+    "updated_at": "2025-09-22T14:25:08Z",
+    "version": "v3.1.6"
   },
   "astrbot_plugin_liars_bar": {
     "desc": "本插件是为 AstrBot 框架开发的游戏插件，实现了一个骗子酒馆",
