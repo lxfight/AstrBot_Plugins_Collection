@@ -367,8 +367,8 @@
     "author": "LovelyGuYiMeng",
     "repo": "https://github.com/LovelyGuYiMeng/astrbot_plugin_pplxsearch",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-09-19T07:40:51Z",
+    "stars": 2,
+    "updated_at": "2025-09-22T15:37:12Z",
     "version": "v1.2.0"
   },
   "Discord_sync_to_kook": {
@@ -458,7 +458,7 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 5,
-    "updated_at": "2025-09-22T12:39:50Z",
+    "updated_at": "2025-09-22T16:12:43Z",
     "version": "2.0.0"
   },
   "astrbot_plugin_bilibili_up_notifier": {
@@ -4006,8 +4006,8 @@
       "工具"
     ],
     "social_link": "https://wenturc.com/",
-    "stars": 21,
-    "updated_at": "2025-09-22T04:59:33Z",
+    "stars": 22,
+    "updated_at": "2025-09-22T16:28:02Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
@@ -4087,8 +4087,8 @@
     "tags": [
       "pixiv"
     ],
-    "stars": 22,
-    "updated_at": "2025-09-18T00:39:43Z",
+    "stars": 23,
+    "updated_at": "2025-09-22T16:31:21Z",
     "version": "1.2.8"
   },
   "astrbot_plugin_gotify": {
@@ -5926,8 +5926,8 @@
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
     "tags": [],
-    "stars": 15,
-    "updated_at": "2025-07-24T01:39:20Z",
+    "stars": 16,
+    "updated_at": "2025-09-22T15:40:39Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_sysinfo": {
@@ -6223,8 +6223,8 @@
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro",
     "tags": [],
-    "stars": 10,
-    "updated_at": "2025-07-29T13:14:09Z",
+    "stars": 11,
+    "updated_at": "2025-09-22T15:36:49Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_memeify": {
