@@ -190,8 +190,8 @@
       "备货"
     ],
     "stars": 0,
-    "updated_at": "2025-09-23T01:24:50Z",
-    "version": "v0.3"
+    "updated_at": "2025-09-23T02:18:10Z",
+    "version": "v0.3.2"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -605,8 +605,8 @@
     ],
     "social_link": "https://github.com/Sic-x",
     "stars": 0,
-    "updated_at": "2025-09-22T01:24:19Z",
-    "version": "1.1.10"
+    "updated_at": "2025-09-23T01:34:11Z",
+    "version": "1.1.11"
   },
   "astrbot_plugin_m": {
     "desc": "AI自动识别对话中的歌名，支持发送音乐卡片、链接、语音、音频文件，集成网易云音乐数据接口",
@@ -756,8 +756,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 22,
-    "updated_at": "2025-09-22T06:42:18Z",
+    "stars": 23,
+    "updated_at": "2025-09-23T02:21:35Z",
     "version": "v2.4.0"
   },
   "astrbot_plugin_boss_notifier": {
@@ -1955,8 +1955,8 @@
       "趣味",
       "宠物"
     ],
-    "stars": 5,
-    "updated_at": "2025-08-24T16:50:11Z",
+    "stars": 6,
+    "updated_at": "2025-09-23T03:01:37Z",
     "version": "v1.2"
   },
   "astrbot_plugin_error_monitor": {
@@ -5809,8 +5809,8 @@
     "author": "kjqwdw",
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
-    "stars": 18,
-    "updated_at": "2025-09-22T04:15:32Z",
+    "stars": 19,
+    "updated_at": "2025-09-23T02:05:59Z",
     "version": "v1.3.5"
   },
   "ai_memory": {
