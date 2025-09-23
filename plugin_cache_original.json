@@ -190,8 +190,8 @@
       "备货"
     ],
     "stars": 0,
-    "updated_at": "2025-09-18T08:22:59Z",
-    "version": "v0.2"
+    "updated_at": "2025-09-23T01:24:50Z",
+    "version": "v0.3"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -4006,8 +4006,8 @@
       "工具"
     ],
     "social_link": "https://wenturc.com/",
-    "stars": 23,
-    "updated_at": "2025-09-22T17:46:20Z",
+    "stars": 24,
+    "updated_at": "2025-09-23T01:27:28Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
