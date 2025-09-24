@@ -99,8 +99,8 @@
     "repo": "https://github.com/ctrlkk/astrbot_plugin_blacklist_tools",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-09-21T11:39:47Z",
-    "version": "v1.0"
+    "updated_at": "2025-09-24T07:17:34Z",
+    "version": "v1.1"
   },
   "astrbot_plugin_text_renderer": {
     "desc": "文本文件生成图片",
@@ -5810,7 +5810,7 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 20,
-    "updated_at": "2025-09-24T02:56:07Z",
+    "updated_at": "2025-09-24T07:17:32Z",
     "version": "v1.3.5"
   },
   "ai_memory": {
