@@ -122,8 +122,8 @@
     "tags": [
       "骰子"
     ],
-    "stars": 1,
-    "updated_at": "2025-09-24T07:23:03Z",
+    "stars": 2,
+    "updated_at": "2025-09-24T10:19:58Z",
     "version": "v2.1.0"
   },
   "astrbot_plugin_xiuxian": {
@@ -539,7 +539,7 @@
     ],
     "social_link": "https://wenturc.com",
     "stars": 1,
-    "updated_at": "2025-09-24T08:44:11Z",
+    "updated_at": "2025-09-24T09:24:10Z",
     "version": "v1.3.6"
   },
   "input_state_by_napcat": {
@@ -3799,8 +3799,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 83,
-    "updated_at": "2025-09-24T07:29:42Z",
+    "stars": 84,
+    "updated_at": "2025-09-24T10:17:03Z",
     "version": "v2.0.4"
   },
   "astrbot_plugin_help": {
