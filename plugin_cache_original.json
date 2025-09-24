@@ -69,8 +69,8 @@
       "fishing"
     ],
     "stars": 3,
-    "updated_at": "2025-09-24T16:17:49Z",
-    "version": "2.0.8"
+    "updated_at": "2025-09-24T17:12:29Z",
+    "version": "2.0.9"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -1501,8 +1501,8 @@
       "工具",
       "增强"
     ],
-    "stars": 12,
-    "updated_at": "2025-09-23T11:20:30Z",
+    "stars": 13,
+    "updated_at": "2025-09-24T16:43:06Z",
     "version": "2.9.9"
   },
   "astrbot_plugin_Group-Verification_PRO": {
