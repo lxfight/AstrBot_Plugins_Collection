@@ -68,8 +68,8 @@
       "game",
       "fishing"
     ],
-    "stars": 1,
-    "updated_at": "2025-09-23T18:12:53Z",
+    "stars": 2,
+    "updated_at": "2025-09-24T11:17:15Z",
     "version": "2.0.6"
   },
   "astrbot_plugin_astrmetry": {
@@ -123,7 +123,7 @@
       "骰子"
     ],
     "stars": 2,
-    "updated_at": "2025-09-24T10:19:58Z",
+    "updated_at": "2025-09-24T12:20:49Z",
     "version": "v2.1.0"
   },
   "astrbot_plugin_xiuxian": {
@@ -414,7 +414,7 @@
       "PRTS"
     ],
     "stars": 0,
-    "updated_at": "2025-09-24T11:05:30Z",
+    "updated_at": "2025-09-24T12:21:35Z",
     "version": "v1.0"
   },
   "astrbot_plugin_move3d": {
@@ -2811,8 +2811,8 @@
     "tags": [
       "占卜"
     ],
-    "stars": 0,
-    "updated_at": "2025-06-17T06:18:19Z",
+    "stars": 1,
+    "updated_at": "2025-09-24T12:29:26Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_cook": {
@@ -5809,8 +5809,8 @@
     "author": "kjqwdw",
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
-    "stars": 20,
-    "updated_at": "2025-09-24T07:17:32Z",
+    "stars": 21,
+    "updated_at": "2025-09-24T11:31:01Z",
     "version": "v1.3.5"
   },
   "ai_memory": {
