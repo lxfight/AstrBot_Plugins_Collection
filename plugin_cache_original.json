@@ -1,4 +1,24 @@
 {
+  "astrbot_plugin_GroupFS": {
+    "desc": "管理QQ群文件(仅限napcat)。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_GroupFS",
+    "tags": [
+      "群文件"
+    ],
+    "stars": 0,
+    "updated_at": "2025-09-25T12:04:55Z",
+    "version": "v0.8"
+  },
+  "group_notice_manager": {
+    "desc": "当群主,管理员发布群公告或@全体时自动响应 \"td\" 的管理插件",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/astrbot_plugin_group_notice_manager",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-09-25T09:03:47Z",
+    "version": "v0.2.0"
+  },
   "jrrp_lite": {
     "desc": "一个只有今日人品功能的轻量级插件，数据重启后自动清除，每人每天只能随机生成一次，除此外调用第一次数据，欢迎pr~",
     "author": "kuank",
@@ -3482,7 +3502,7 @@
     "social_link": "https://github.com/orchidsziyou/astrbot_plugins_JMPlugins",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-09-12T07:29:22Z",
+    "updated_at": "2025-09-25T15:31:01Z",
     "version": "v1.3"
   },
   "astrbot_plugin_fishing2": {
@@ -4659,7 +4679,7 @@
     "tags": [],
     "stars": 7,
     "updated_at": "2025-09-15T03:30:12Z",
-    "version": "v1.0.4"
+    "version": "1.0.0"
   },
   "astrbot_plugins_ConvetPicture": {
     "desc": "[仅aiocqhttp]把QQ里面不可保存的表情转化为可以保存的图片，包括GIF",
@@ -4724,9 +4744,9 @@
       "lorebook",
       "世界书"
     ],
-    "stars": 9,
-    "updated_at": "2025-08-26T08:54:35Z",
-    "version": "v0.1.8"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
