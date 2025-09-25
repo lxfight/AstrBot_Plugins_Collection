@@ -44,8 +44,8 @@
     ],
     "social_link": "maxim2811705608@outlook.com",
     "stars": 3,
-    "updated_at": "2025-09-25T08:06:14Z",
-    "version": "v0.1"
+    "updated_at": "2025-09-25T16:46:28Z",
+    "version": "v0.2"
   },
   "astrbot_plugin_counter": {
     "desc": "计数器插件; 用法 /cnt add|del|list ; 当消息包含计数器或其别名时自动+1; JSON持久化",
@@ -883,8 +883,8 @@
       "api",
       "表情包"
     ],
-    "stars": 4,
-    "updated_at": "2025-09-23T08:00:47Z",
+    "stars": 5,
+    "updated_at": "2025-09-25T17:08:11Z",
     "version": "v1.0.1"
   },
   "wxauto_repost": {
@@ -4679,7 +4679,7 @@
     "tags": [],
     "stars": 7,
     "updated_at": "2025-09-15T03:30:12Z",
-    "version": "1.0.0"
+    "version": "v1.0.4"
   },
   "astrbot_plugins_ConvetPicture": {
     "desc": "[仅aiocqhttp]把QQ里面不可保存的表情转化为可以保存的图片，包括GIF",
@@ -4744,9 +4744,9 @@
       "lorebook",
       "世界书"
     ],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 9,
+    "updated_at": "2025-08-26T08:54:35Z",
+    "version": "v0.1.8"
   },
   "daily_limit": {
     "desc": "限制成员每日访问AI次数的插件，支持为不同用户和群组设置不同的调用限制(支持的astrbot最低版本为3.5.1)",
