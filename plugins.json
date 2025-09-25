@@ -2265,11 +2265,6 @@
     "tags": ["ExchangeRate"],
     "repo": "https://github.com/MoonShadow1976/astrbot_plugin_ExchangeRateQuery"
   },
-  "astrbot_plugin_grok_filter": {
-    "author": "Cheng-MaoMao",
-    "repo": "https://github.com/Cheng-MaoMao/astrbot_plugin_grok_filter",
-    "desc": "过滤 grok-3-reasoner 推理模型的思维链内容"
-  },
   "FavorSystem": {
     "author": "wuyan1003",
     "repo": "https://github.com/wuyan1003/likability-level",
