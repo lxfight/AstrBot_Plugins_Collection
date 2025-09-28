@@ -1,4 +1,51 @@
 {
+  "astrbot_plugin_CourseSchedule": {
+    "desc": "一个用于绑定、查询和分享课程表的插件",
+    "author": "Jason.Joestar",
+    "repo": "https://github.com/advent259141/astrbot_plugin_CourseSchedule",
+    "tags": ["课表", "视奸"],
+    "social_link": "https://github.com/advent259141"
+  },
+  "bmtxt2img": {
+    "desc": "通过/bmimg指令调用智谱文生图模型",
+    "author": "CoooooNG",
+    "repo": "https://github.com/CoooooNG/astrbot_plugin_bmtxt2img",
+    "tags": ["文生图", "图片生成"]
+  },
+  "mcstatus": {
+    "desc": "云版MC服务器状态获取",
+    "author": "WhiteCloudCN",
+    "repo": "https://github.com/WhiteCloudOL/astrbot_plugin_mcstatus",
+    "tags": ["MC", "工具"],
+    "social_link": "https://catyun.cyou/"
+  },
+  "astrbot_plugin_search_tracemoe": {
+    "desc": "基于 trace.moe API 的动漫场景识别插件，支持通过图片搜索动漫截图场景出处。",
+    "author": "PaloMiku",
+    "repo": "https://github.com/PaloMiku/astrbot_plugin_search_tracemoe",
+    "tags": ["动漫", "图片识别"],
+    "social_link": "https://github.com/PaloMiku/"
+  },
+  "zhiyu-astrbot-violationquery": {
+    "desc": "一款QQ违规记录查询的AstrBot插件",
+    "author": "知鱼",
+    "repo": "https://github.com/ovoox/zhiyu-astrbot-violationquery",
+    "tags": ["违规", "查询", "违规记录"],
+    "social_link": "https://github.com/ovoox"
+  },
+  "zhiyu-astrbot-beautyvideo": {
+    "desc": "一款随机美女视频的AstrBot插件",
+    "author": "知鱼",
+    "repo": "https://github.com/ovoox/zhiyu-astrbot-beautyvideo",
+    "tags": ["美女", "视频", "美女视频"],
+    "social_link": "https://github.com/ovoox"
+  },
+  "astrbot_plugin_simulation-xiuxian": {
+    "desc": "一个简单的文字模拟修仙插件",
+    "author": "Victical",
+    "repo": "https://github.com/victical/astrbot_plugin_simulation-xiuxian",
+    "tags": ["模拟", "修仙"]
+  },
   "astrbot_plugin_GroupFS": {
     "desc": "管理QQ群文件(仅限napcat)。",
     "author": "Foolllll",
