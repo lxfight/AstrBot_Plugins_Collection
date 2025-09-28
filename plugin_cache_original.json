@@ -286,8 +286,8 @@
       "备货"
     ],
     "stars": 0,
-    "updated_at": "2025-09-28T02:02:11Z",
-    "version": "v0.3.4"
+    "updated_at": "2025-09-28T06:34:22Z",
+    "version": "v0.3.5"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -303,8 +303,8 @@
     "author": "bandaotehe",
     "repo": "https://github.com/bandaotehe/astrbot_plugin_-dpcq_game",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-09-25T09:27:48Z",
+    "stars": 1,
+    "updated_at": "2025-09-28T06:56:54Z",
     "version": "v1.14"
   },
   "astrbot_plugin_meme_manager_lite": {
@@ -883,8 +883,8 @@
       "api",
       "表情包"
     ],
-    "stars": 6,
-    "updated_at": "2025-09-28T00:43:48Z",
+    "stars": 7,
+    "updated_at": "2025-09-28T06:30:03Z",
     "version": "v1.0.1"
   },
   "wxauto_repost": {
