@@ -1,4 +1,14 @@
 {
+  "astrbot_plugin_guijishiping": {
+    "desc": "硅基流动api视频，可以制作动态壁纸之类的",
+    "author": "shskjw",
+    "repo": "https://github.com/shskjw/astrbot_plugin_guijishiping"
+  },
+  "astrbot_plugin_user_inject": {
+    "desc": "根据用户id动态注入system_prompt",
+    "author": "RC-CHN",
+    "repo": "https://github.com/RC-CHN/astrbot_plugin_user_inject"
+  },
   "astrbot_plugin_CourseSchedule": {
     "desc": "一个用于绑定、查询和分享课程表的插件",
     "author": "Jason.Joestar",
