@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_tg_button": {
+    "desc": "一个可以把指令或者网址绑定到Telegram的按钮上的插件",
+    "author": "随风潜入夜",
+    "repo": "https://github.com/clown145/astrbot_plugin_tg_button",
+    "tags": ["Telegram"]
+  },
+  "astrbot_plugin_markdown2img": {
+    "desc": "允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。",
+    "author": "tosaki",
+    "repo": "https://github.com/t0saki/astrbot_plugin_markdown2img",
+    "tags": ["Markdown", "Image"],
+    "social_link": "https://zhxwu.com"
+  },
+  "astrbot_plugin_auto_approve_all": {
+    "desc": "自动同意所有的群邀请和好友申请",
+    "author": "Nahida",
+    "repo": "https://github.com/Nahida364/astrbot_plugin_auto_approve_all",
+    "social_link": "https://qm.qq.com/q/RiUSQsrZ0A"
+  },
+  "astrbot_plugin_galplayer": {
+    "desc": "一个可以让你和群友一起推galgame的插件，需要在windows电脑上运行galgame本体。",
+    "author": "随风潜入夜",
+    "repo": "https://github.com/clown145/astrbot_plugin_galplayer",
+    "tags": ["galgame"]
+  },
+  "astrbot_plugin_sha_fork": {
+    "desc": "基于原仓库 IGCrystal-NEO/astrbot_plugin_sha 的fork版本",
+    "author": "ChuranNeko",
+    "repo": "https://github.com/ChuranNeko/astrbot_plugin_sha",
+    "tags": ["群管"]
+  },
   "astrbot_plugin_guijishiping": {
     "desc": "硅基流动api视频，可以制作动态壁纸之类的",
     "author": "shskjw",
