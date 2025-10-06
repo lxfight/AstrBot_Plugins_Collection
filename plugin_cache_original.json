@@ -7,8 +7,8 @@
       "Telegram"
     ],
     "stars": 0,
-    "updated_at": "2025-10-05T21:12:55Z",
-    "version": "1.0.1"
+    "updated_at": "2025-10-06T06:26:41Z",
+    "version": "1.0.2"
   },
   "astrbot_plugin_markdown2img": {
     "desc": "允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。",
@@ -51,8 +51,8 @@
     "tags": [
       "群管"
     ],
-    "stars": 1,
-    "updated_at": "2025-09-30T18:07:41Z",
+    "stars": 2,
+    "updated_at": "2025-10-06T05:24:48Z",
     "version": "v1.4.1"
   },
   "astrbot_plugin_guijishiping": {
