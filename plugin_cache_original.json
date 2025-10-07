@@ -1812,8 +1812,8 @@
     "tags": [
       "海龟汤"
     ],
-    "stars": 10,
-    "updated_at": "2025-09-24T03:30:58Z",
+    "stars": 11,
+    "updated_at": "2025-10-07T13:33:01Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_typst_render": {
@@ -2137,8 +2137,8 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-10-07T04:24:04Z",
-    "version": "v1.10.1"
+    "updated_at": "2025-10-07T14:22:23Z",
+    "version": "v1.10.2"
   },
   "astrbot_plugin_SteamSaleTracker": {
     "desc": "这是一个 Steam 游戏价格监控插件",
