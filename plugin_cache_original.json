@@ -825,8 +825,8 @@
       "napcat"
     ],
     "stars": 0,
-    "updated_at": "2025-09-20T03:37:58Z",
-    "version": "v1.0"
+    "updated_at": "2025-10-09T09:11:32Z",
+    "version": "v1.1"
   },
   "model_mcp_bridge": {
     "desc": "用于为不支持tool_use的模型提供一个调用MCP的途径的插件。",
@@ -1130,8 +1130,8 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 15,
-    "updated_at": "2025-09-30T09:13:28Z",
+    "stars": 16,
+    "updated_at": "2025-10-09T08:32:48Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_vtb_adapter": {
@@ -5570,8 +5570,8 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 46,
-    "updated_at": "2025-10-08T04:56:37Z",
+    "stars": 47,
+    "updated_at": "2025-10-09T09:30:23Z",
     "version": "v0.2.13"
   },
   "astrbot_plugin_sjzb": {
