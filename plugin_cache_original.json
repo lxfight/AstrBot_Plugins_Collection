@@ -1472,8 +1472,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 23,
-    "updated_at": "2025-09-28T21:10:46Z",
+    "stars": 24,
+    "updated_at": "2025-10-09T10:08:50Z",
     "version": "1.2.5"
   },
   "astrbot_plugin_baiduocr": {
@@ -3130,8 +3130,8 @@
     "desc": "Bilibili视频字幕总结插件，获取B站视频字幕并使用LLM生成内容总结",
     "repo": "https://github.com/VincenttHo/astrbot_plugin_bilibili_summary",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-06-05T02:13:24Z",
+    "stars": 3,
+    "updated_at": "2025-10-09T09:29:32Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_steam_status_monitor": {
