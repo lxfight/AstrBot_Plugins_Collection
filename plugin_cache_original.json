@@ -653,8 +653,8 @@
     "social_link": "https://github.com/nulijiazaizhong",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-10-08T04:17:26Z",
-    "version": "v0.0.2"
+    "updated_at": "2025-10-10T06:32:58Z",
+    "version": "v0.0.3"
   },
   "github_star_manager": {
     "desc": "GitHub插件Star管理器 - 智能点赞AstrBot插件",
@@ -3413,8 +3413,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 63,
-    "updated_at": "2025-10-08T08:54:12Z",
+    "stars": 64,
+    "updated_at": "2025-10-10T07:21:34Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -3784,7 +3784,7 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 43,
-    "updated_at": "2025-10-06T18:08:00Z",
+    "updated_at": "2025-10-10T07:09:54Z",
     "version": "1.1.0"
   },
   "astrbot_plugin_combine-messages": {
