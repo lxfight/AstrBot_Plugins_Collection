@@ -561,8 +561,8 @@
       "人格",
       "LLM"
     ],
-    "stars": 0,
-    "updated_at": "2025-09-18T01:12:05Z",
+    "stars": 1,
+    "updated_at": "2025-10-11T19:14:30Z",
     "version": "0.1.1"
   },
   "astrbot_plugin_restart": {
@@ -6291,8 +6291,8 @@
     "author": "LunarMeal",
     "repo": "https://github.com/LunarMeal/astrbot_plugin_memes",
     "tags": [],
-    "stars": 10,
-    "updated_at": "2025-08-19T02:00:19Z",
+    "stars": 11,
+    "updated_at": "2025-10-11T19:39:58Z",
     "version": "v3.1"
   },
   "astrbot_plugin_ignore_at": {
