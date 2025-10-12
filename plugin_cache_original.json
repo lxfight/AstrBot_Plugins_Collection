@@ -228,8 +228,8 @@
       "娱乐"
     ],
     "stars": 2,
-    "updated_at": "2025-09-24T16:24:37Z",
-    "version": "v1.0.6"
+    "updated_at": "2025-10-12T08:49:41Z",
+    "version": "v1.1.0"
   },
   "AstrBot_plugin_MaimaiDX": {
     "desc": "A maimaidx helper for Astrbot.",
@@ -5591,8 +5591,8 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 47,
-    "updated_at": "2025-10-09T09:30:23Z",
+    "stars": 48,
+    "updated_at": "2025-10-12T08:32:12Z",
     "version": "v0.2.13"
   },
   "astrbot_plugin_sjzb": {
