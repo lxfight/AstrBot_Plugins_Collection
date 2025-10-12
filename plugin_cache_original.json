@@ -1,4 +1,25 @@
 {
+  "astrbot_plugin_hapemxg_Inspect": {
+    "desc": "LLM 内容审查插件，集成了正则表达式与 AI 模型双重审查机制。当回复不合规时，能自动重试并智能引导模型修正，确保内容安全合规。",
+    "author": "hapemxg",
+    "repo": "https://github.com/hapemxg/astrbot_plugin_hapemxg_Inspect",
+    "tags": [
+      "审核",
+      "审查"
+    ],
+    "stars": 0,
+    "updated_at": "2025-10-09T10:40:25Z",
+    "version": "v1.1.1"
+  },
+  "astrbot_quotes_plugin": {
+    "desc": "语录插件。记录 QQ 群友说过的话。",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/astrbot_quotes_plugin",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-10-08T09:51:30Z",
+    "version": "v0.2.0"
+  },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
     "author": "bushikq",
@@ -374,8 +395,8 @@
     "repo": "https://github.com/ctrlkk/astrbot_plugin_blacklist_tools",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-10-07T08:38:33Z",
-    "version": "v1.4"
+    "updated_at": "2025-10-12T03:01:23Z",
+    "version": "v1.5"
   },
   "astrbot_plugin_text_renderer": {
     "desc": "文本文件生成图片",
@@ -825,8 +846,8 @@
       "napcat"
     ],
     "stars": 0,
-    "updated_at": "2025-10-09T09:11:32Z",
-    "version": "v1.1"
+    "updated_at": "2025-10-12T02:32:53Z",
+    "version": "v1.2"
   },
   "model_mcp_bridge": {
     "desc": "用于为不支持tool_use的模型提供一个调用MCP的途径的插件。",
@@ -2584,8 +2605,8 @@
     "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-09-22T11:54:20Z",
-    "version": "v3.4"
+    "updated_at": "2025-10-12T02:19:23Z",
+    "version": "v3.5"
   },
   "astrbot_plugin_cheru": {
     "author": "irs",
