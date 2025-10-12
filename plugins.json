@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_hapemxg_Inspect": {
+    "desc": "LLM 内容审查插件，集成了正则表达式与 AI 模型双重审查机制。当回复不合规时，能自动重试并智能引导模型修正，确保内容安全合规。",
+    "author": "hapemxg",
+    "repo": "https://github.com/hapemxg/astrbot_plugin_hapemxg_Inspect",
+    "tags": [
+      "审核",
+      "审查"
+    ]
+  },
+  "astrbot_quotes_plugin": {
+    "desc": "语录插件。记录 QQ 群友说过的话。",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/astrbot_quotes_plugin"
+  },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
     "author": "bushikq",
