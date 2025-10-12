@@ -31,8 +31,8 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "stars": 2,
-    "updated_at": "2025-10-09T00:17:52Z",
-    "version": "v1.0.0"
+    "updated_at": "2025-10-12T13:55:32Z",
+    "version": "v1.3.0"
   },
   "astrbot_plugin_tg_button": {
     "desc": "一个可以把指令或者网址绑定到Telegram的按钮上的插件",
