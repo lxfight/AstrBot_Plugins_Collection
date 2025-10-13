@@ -83,8 +83,8 @@
       "Telegram"
     ],
     "stars": 3,
-    "updated_at": "2025-10-12T00:40:32Z",
-    "version": "1.1.2"
+    "updated_at": "2025-10-13T15:14:58Z",
+    "version": "1.2.0"
   },
   "astrbot_plugin_markdown2img": {
     "desc": "允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。",
@@ -659,8 +659,8 @@
       "主动应答"
     ],
     "social_link": "https://github.com/kawayiYokami",
-    "stars": 9,
-    "updated_at": "2025-10-11T13:39:48Z",
+    "stars": 10,
+    "updated_at": "2025-10-13T15:09:30Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_angel_eye": {
@@ -672,8 +672,8 @@
       "知识"
     ],
     "social_link": "https://github.com/kawayiYokami",
-    "stars": 4,
-    "updated_at": "2025-10-13T10:24:58Z",
+    "stars": 5,
+    "updated_at": "2025-10-13T15:08:23Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_pollinations_images": {
@@ -704,8 +704,8 @@
     "author": "LovelyGuYiMeng",
     "repo": "https://github.com/LovelyGuYiMeng/astrbot_plugin_pplxsearch",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-09-25T14:34:21Z",
+    "stars": 4,
+    "updated_at": "2025-10-13T15:06:52Z",
     "version": "v1.2.0"
   },
   "Discord_sync_to_kook": {
@@ -738,8 +738,8 @@
     "tags": [
       "小说"
     ],
-    "stars": 1,
-    "updated_at": "2025-09-14T18:58:52Z",
+    "stars": 2,
+    "updated_at": "2025-10-13T15:06:41Z",
     "version": "v0.0.1"
   },
   "ark_info_search": {
@@ -2213,7 +2213,7 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-10-13T09:42:04Z",
+    "updated_at": "2025-10-13T14:32:50Z",
     "version": "v1.11.2"
   },
   "astrbot_plugin_SteamSaleTracker": {
@@ -2753,7 +2753,7 @@
     "social_link": "https://github.com/railgun19457",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-10-13T08:03:31Z",
+    "updated_at": "2025-10-13T15:23:57Z",
     "version": "v1.2"
   },
   "astrbot_plugin_check-dst-room": {
@@ -4274,8 +4274,8 @@
       "信息",
       "监控面板"
     ],
-    "stars": 2,
-    "updated_at": "2025-07-30T03:36:55Z",
+    "stars": 1,
+    "updated_at": "2025-10-13T14:31:15Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_tarot": {
@@ -5484,8 +5484,8 @@
       "功能"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "stars": 49,
-    "updated_at": "2025-10-13T08:50:02Z",
+    "stars": 48,
+    "updated_at": "2025-10-13T14:51:39Z",
     "version": "v1.1.7"
   },
   "astrbot_plugin_relationship": {
@@ -5919,8 +5919,8 @@
     "tags": [
       "功能"
     ],
-    "stars": 15,
-    "updated_at": "2025-09-06T08:39:56Z",
+    "stars": 14,
+    "updated_at": "2025-10-13T14:31:19Z",
     "version": "1.0.2"
   },
   "astrbot_plugin_moyuren": {
@@ -6596,8 +6596,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 128,
-    "updated_at": "2025-10-08T10:43:50Z",
+    "stars": 127,
+    "updated_at": "2025-10-13T14:50:00Z",
     "version": "v0.5.1"
   },
   "FateTrial_img_identify": {
