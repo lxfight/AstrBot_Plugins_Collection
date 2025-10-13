@@ -1,4 +1,45 @@
 {
+  "astrbot_mcmod_card": {
+    "desc": "MC 百科卡片解析",
+    "author": "QiChenSn",
+    "repo": "https://github.com/QiChenSn/astrbot_mcmod_card",
+    "tags": [
+      "MC",
+      "mcmod",
+      "解析"
+    ],
+    "social_link": "https://github.com/QiChenSn",
+    "stars": 0,
+    "updated_at": "2025-10-09T15:43:24Z",
+    "version": "v1.0.0"
+  },
+  "astrbot_plugin_bilibili_adapter": {
+    "desc": "Bilibili 私信适配器，使用 Cookie 认证。",
+    "author": "Magstic, Gemini 2.5 Pro, Claude Opus 4, ChatGPT 5",
+    "repo": "https://github.com/Hina-Chat/astrbot_plugin_bilibili_adapter",
+    "tags": [
+      "Bilibili",
+      "平台适配器"
+    ],
+    "social_link": "https://magstic.art/",
+    "pinned": true,
+    "stars": 0,
+    "updated_at": "2025-10-12T15:26:28Z",
+    "version": "0.1.0"
+  },
+  "astrbot_plugin_SendBlessings": {
+    "desc": "在节假日自动送上祝福并配图",
+    "author": "Cheng-MaoMao",
+    "repo": "https://github.com/Cheng-MaoMao/astrbot_plugin_SendBlessings",
+    "tags": [
+      "图片生成",
+      "节日",
+      "信息"
+    ],
+    "stars": 0,
+    "updated_at": "2025-10-09T13:25:00Z",
+    "version": "1.0.8"
+  },
   "astrbot_plugin_hapemxg_Inspect": {
     "desc": "LLM 内容审查插件，集成了正则表达式与 AI 模型双重审查机制。当回复不合规时，能自动重试并智能引导模型修正，确保内容安全合规。",
     "author": "hapemxg",
@@ -4877,8 +4918,8 @@
     "author": "lm379",
     "repo": "https://github.com/lm379/astrbot_plugin_quarksave",
     "tags": [],
-    "stars": 7,
-    "updated_at": "2025-09-15T03:30:12Z",
+    "stars": 8,
+    "updated_at": "2025-10-13T11:35:14Z",
     "version": "v1.0.4"
   },
   "astrbot_plugins_ConvetPicture": {
