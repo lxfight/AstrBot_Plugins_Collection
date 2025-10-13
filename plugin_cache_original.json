@@ -2712,7 +2712,7 @@
     "social_link": "https://github.com/railgun19457",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-07-01T03:13:55Z",
+    "updated_at": "2025-10-13T04:51:41Z",
     "version": "v1.1"
   },
   "astrbot_plugin_check-dst-room": {
@@ -5903,8 +5903,8 @@
       "搬史"
     ],
     "stars": 293,
-    "updated_at": "2025-10-13T02:21:10Z",
-    "version": "v0.913"
+    "updated_at": "2025-10-13T04:34:40Z",
+    "version": "v0.914"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -5943,8 +5943,8 @@
       "webui",
       "图床"
     ],
-    "stars": 83,
-    "updated_at": "2025-10-07T09:14:41Z",
+    "stars": 84,
+    "updated_at": "2025-10-13T05:21:50Z",
     "version": "v3.13"
   },
   "mccloud_command": {
