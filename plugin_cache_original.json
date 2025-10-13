@@ -582,8 +582,8 @@
       "人格",
       "LLM"
     ],
-    "stars": 1,
-    "updated_at": "2025-10-11T19:14:30Z",
+    "stars": 2,
+    "updated_at": "2025-10-13T09:36:15Z",
     "version": "0.1.1"
   },
   "astrbot_plugin_restart": {
@@ -753,8 +753,8 @@
       "LLM增强"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 6,
-    "updated_at": "2025-10-11T13:28:57Z",
+    "stars": 7,
+    "updated_at": "2025-10-13T09:35:07Z",
     "version": "2.0.0"
   },
   "astrbot_plugin_bilibili_up_notifier": {
@@ -2172,8 +2172,8 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-10-11T15:44:14Z",
-    "version": "v1.11.1"
+    "updated_at": "2025-10-13T09:42:04Z",
+    "version": "v1.11.2"
   },
   "astrbot_plugin_SteamSaleTracker": {
     "desc": "这是一个 Steam 游戏价格监控插件",
@@ -3195,8 +3195,8 @@
       "平台适配器",
       "vocechat"
     ],
-    "stars": 4,
-    "updated_at": "2025-09-07T08:39:50Z",
+    "stars": 5,
+    "updated_at": "2025-10-13T10:09:30Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_drift_bottle": {
