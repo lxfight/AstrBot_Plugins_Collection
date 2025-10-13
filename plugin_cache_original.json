@@ -632,7 +632,7 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 4,
-    "updated_at": "2025-10-10T11:39:17Z",
+    "updated_at": "2025-10-13T07:54:01Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_pollinations_images": {
@@ -2712,8 +2712,8 @@
     "social_link": "https://github.com/railgun19457",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-10-13T07:06:35Z",
-    "version": "v1.1"
+    "updated_at": "2025-10-13T08:03:31Z",
+    "version": "v1.2"
   },
   "astrbot_plugin_check-dst-room": {
     "author": "EncodedWitcher",
@@ -4095,8 +4095,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 86,
-    "updated_at": "2025-10-08T14:10:52Z",
+    "stars": 87,
+    "updated_at": "2025-10-13T08:01:23Z",
     "version": "v2.0.4"
   },
   "astrbot_plugin_help": {
