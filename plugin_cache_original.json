@@ -989,7 +989,7 @@
       "rag"
     ],
     "stars": 21,
-    "updated_at": "2025-10-05T04:44:52Z",
+    "updated_at": "2025-10-14T14:21:16Z",
     "version": "1.0.1"
   },
   "astrbot_plugin_mathitools": {
@@ -1137,8 +1137,8 @@
       "wxauto"
     ],
     "social_link": "blog.isla.ltd",
-    "stars": 3,
-    "updated_at": "2025-10-12T15:36:35Z",
+    "stars": 4,
+    "updated_at": "2025-10-14T14:17:24Z",
     "version": "1.2.0"
   },
   "astrbot_plugin_AnimeMagnet": {
@@ -1464,8 +1464,8 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 29,
-    "updated_at": "2025-10-14T04:07:35Z",
+    "stars": 30,
+    "updated_at": "2025-10-14T13:36:44Z",
     "version": "0.4.3"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -5952,9 +5952,9 @@
     "author": "waterfeet",
     "repo": "https://github.com/waterfeet/astrbot_plugin_superpoke",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-05-27T04:51:27Z",
-    "version": "v1.2.0"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_humanlike": {
     "desc": "anka - 让ai更像真人 - 学会沉默",
@@ -6596,8 +6596,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 128,
-    "updated_at": "2025-10-13T23:55:18Z",
+    "stars": 130,
+    "updated_at": "2025-10-14T14:21:10Z",
     "version": "v0.5.1"
   },
   "FateTrial_img_identify": {
