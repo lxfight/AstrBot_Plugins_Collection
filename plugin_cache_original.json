@@ -23,8 +23,8 @@
     ],
     "social_link": "https://magstic.art/",
     "pinned": true,
-    "stars": 1,
-    "updated_at": "2025-10-13T15:39:11Z",
+    "stars": 2,
+    "updated_at": "2025-10-14T02:09:55Z",
     "version": "0.1.1"
   },
   "astrbot_plugin_SendBlessings": {
@@ -406,7 +406,7 @@
       "fishing"
     ],
     "stars": 10,
-    "updated_at": "2025-10-13T13:40:51Z",
+    "updated_at": "2025-10-14T01:30:40Z",
     "version": "2.1.1"
   },
   "astrbot_plugin_astrmetry": {
