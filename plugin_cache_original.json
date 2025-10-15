@@ -23,8 +23,8 @@
     ],
     "social_link": "https://magstic.art/",
     "pinned": true,
-    "stars": 2,
-    "updated_at": "2025-10-14T02:09:55Z",
+    "stars": 3,
+    "updated_at": "2025-10-15T15:34:36Z",
     "version": "0.1.1"
   },
   "astrbot_plugin_SendBlessings": {
@@ -1535,8 +1535,8 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "stars": 25,
-    "updated_at": "2025-10-11T01:31:58Z",
-    "version": "1.2.5"
+    "updated_at": "2025-10-15T15:24:23Z",
+    "version": "1.2.8"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -3436,8 +3436,8 @@
       "工具"
     ],
     "social_link": "https://github.com/Angus-fw",
-    "stars": 17,
-    "updated_at": "2025-09-20T08:22:59Z",
+    "stars": 18,
+    "updated_at": "2025-10-15T15:39:08Z",
     "version": "v1.1.5"
   },
   "astrbot_plugin_timetask": {
@@ -3845,8 +3845,8 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 43,
-    "updated_at": "2025-10-13T06:43:55Z",
+    "stars": 44,
+    "updated_at": "2025-10-15T15:44:38Z",
     "version": "1.1.0"
   },
   "astrbot_plugin_combine-messages": {
