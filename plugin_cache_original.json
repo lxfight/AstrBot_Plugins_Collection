@@ -237,8 +237,8 @@
       "修仙"
     ],
     "stars": 3,
-    "updated_at": "2025-10-12T11:59:56Z",
-    "version": "v0.0.9"
+    "updated_at": "2025-10-15T12:14:27Z",
+    "version": "v0.1.0"
   },
   "astrbot_plugin_GroupFS": {
     "desc": "管理QQ群文件(仅限napcat)。",
@@ -427,7 +427,7 @@
     "social_link": "https://voice.gbkgov.cn",
     "tags": [],
     "stars": 4,
-    "updated_at": "2025-10-14T11:18:24Z",
+    "updated_at": "2025-10-15T12:36:44Z",
     "version": "v1.7.0"
   },
   "astrbot_plugin_blacklist_tools": {
@@ -659,8 +659,8 @@
       "主动应答"
     ],
     "social_link": "https://github.com/kawayiYokami",
-    "stars": 10,
-    "updated_at": "2025-10-14T20:22:34Z",
+    "stars": 11,
+    "updated_at": "2025-10-15T11:25:56Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_angel_eye": {
@@ -862,8 +862,8 @@
       "拟人"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 1,
-    "updated_at": "2025-10-10T17:27:55Z",
+    "stars": 2,
+    "updated_at": "2025-10-15T11:37:35Z",
     "version": "1.0.3"
   },
   "astrbot_plugin_sha": {
@@ -928,8 +928,8 @@
       "睡眠",
       "记录"
     ],
-    "stars": 0,
-    "updated_at": "2025-09-12T02:12:01Z",
+    "stars": 1,
+    "updated_at": "2025-10-15T11:40:47Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_snap_translator": {
@@ -1192,8 +1192,8 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 17,
-    "updated_at": "2025-10-11T18:41:48Z",
+    "stars": 18,
+    "updated_at": "2025-10-15T11:39:51Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_vtb_adapter": {
@@ -1609,8 +1609,8 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 15,
-    "updated_at": "2025-09-26T15:03:08Z",
+    "stars": 16,
+    "updated_at": "2025-10-15T11:52:53Z",
     "version": "v0.2.5"
   },
   "astrbot_plugin_iearning_style": {
@@ -1622,8 +1622,8 @@
       "拟人"
     ],
     "social_link": "https://github.com/qa296",
-    "stars": 6,
-    "updated_at": "2025-09-07T07:04:35Z",
+    "stars": 7,
+    "updated_at": "2025-10-15T12:31:19Z",
     "version": "v0.1.2"
   },
   "astrbot_plugin_who_at_me": {
@@ -2586,8 +2586,8 @@
       "聊天体验增强"
     ],
     "author": "Heyh520",
-    "stars": 3,
-    "updated_at": "2025-09-26T05:38:22Z",
+    "stars": 4,
+    "updated_at": "2025-10-15T11:49:50Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_monitor": {
