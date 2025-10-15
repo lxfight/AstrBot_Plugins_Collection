@@ -83,7 +83,7 @@
       "Telegram"
     ],
     "stars": 3,
-    "updated_at": "2025-10-15T07:14:23Z",
+    "updated_at": "2025-10-15T11:12:18Z",
     "version": "1.2.2"
   },
   "astrbot_plugin_markdown2img": {
@@ -5984,8 +5984,8 @@
       "webui",
       "图床"
     ],
-    "stars": 84,
-    "updated_at": "2025-10-14T11:32:20Z",
+    "stars": 85,
+    "updated_at": "2025-10-15T11:25:50Z",
     "version": "v3.13"
   },
   "mccloud_command": {
