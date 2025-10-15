@@ -1093,8 +1093,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 30,
-    "updated_at": "2025-10-14T01:09:58Z",
+    "stars": 31,
+    "updated_at": "2025-10-15T19:40:23Z",
     "version": "v2.7.1"
   },
   "astrbot_plugin_boss_notifier": {
@@ -5984,8 +5984,8 @@
       "webui",
       "图床"
     ],
-    "stars": 85,
-    "updated_at": "2025-10-15T11:25:50Z",
+    "stars": 86,
+    "updated_at": "2025-10-15T20:12:51Z",
     "version": "v3.13"
   },
   "mccloud_command": {
