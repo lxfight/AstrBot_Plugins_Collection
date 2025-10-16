@@ -1,4 +1,23 @@
 {
+  "astrbot_plugin_persona_plus": {
+    "desc": "扩展 AstrBot 的人格管理能力，提供关键词自动切换、快速切换指令、以及与 QQ 头像/昵称的同步修改。",
+    "author": "Railgun19457",
+    "repo": "https://github.com/railgun19457/astrbot_plugin_persona_plus",
+    "tags": ["人格"],
+    "social_link": "https://www.misakanet.site"
+  },
+  "astrbot_plugin_sticker": {
+    "desc": "doro、capoo、cheshire、chiikawa四大表情包发送",
+    "author": "shiywhh",
+    "repo": "https://github.com/shiywhh/astrbot_plugin_sticker",
+    "tags": [
+      "表情包",
+      "doro",
+      "capoo",
+      "cheshire",
+      "chiikawa"
+    ]
+  },
   "astrbot_mcmod_card": {
     "desc": "MC 百科卡片解析",
     "author": "QiChenSn",
@@ -13,6 +32,25 @@
     "tags": ["Bilibili", "平台适配器"],
     "social_link": "https://magstic.art/",
     "pinned": true
+  },
+  "astrbot_plugin_Favour_Ultra": {
+    "desc": "更加完善的好感度判断插件，配合LLM和自定义 Prompt 进行使用，效果显著。该插件使用与现有好感度插件不同的判断、写入方法，以及扩展更多的自定义内容，允许更加自由地定义好感度规则。",
+    "author": "糯米茨",
+    "repo": "https://github.com/nuomicici/astrbot_plugin_Favour_Ultra",
+    "tags":[
+      "好感度",
+      "关系管理",
+      "提示词",
+      "娱乐"
+    ],
+    "social_link": "https://qm.qq.com/q/wMGXYfKKoS"
+  },
+  "astrbot_plugin_owcx": {
+    "name": "astrbot_plugin_owcx",
+    "desc": "亚服《守望先锋 2》战绩查询插件，支持绑定战网Tag",
+    "author": "tzyc",
+    "repo": "https://github.com/TZYCeng/astrbot_plugin_owcx",
+    "social_link": "https://space.bilibili.com/1482890426?spm_id_from=333.1007.0.0"
   },
   "astrbot_plugin_SendBlessings": {
     "desc": "在节假日自动送上祝福并配图",
@@ -44,6 +82,14 @@
     "repo": "https://github.com/zhewang448/astrbot_plugin_33recognition",
     "tags": ["LLM","图片识别","关键词"],
     "social_link": "https://github.com/zhewang448"
+  },
+  "astrbot_plugin_JMCOMIC": {
+    "desc": "AstrBot JMComic，支持通过指令搜索和下载漫画。",
+    "author": "iamfromchangsha",
+    "repo": "https://github.com/iamfromchangsha/astrbot_plugin_JMCOMIC",
+    "tags": [
+      "JM"
+    ]
   },
   "astrbot_plugin_tg_button": {
     "desc": "一个可以把指令或者网址绑定到Telegram的按钮上的插件",
