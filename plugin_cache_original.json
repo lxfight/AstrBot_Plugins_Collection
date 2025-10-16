@@ -3475,8 +3475,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 64,
-    "updated_at": "2025-10-10T07:21:34Z",
+    "stars": 65,
+    "updated_at": "2025-10-16T04:36:38Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -4468,8 +4468,8 @@
     ],
     "repo": "https://github.com/MoonShadow1976/astrbot_plugin_ExchangeRateQuery",
     "stars": 1,
-    "updated_at": "2025-08-31T16:18:05Z",
-    "version": "v1.2"
+    "updated_at": "2025-10-16T05:25:56Z",
+    "version": "v1.3"
   },
   "FavorSystem": {
     "author": "wuyan1003",
