@@ -1053,8 +1053,8 @@
       "rag"
     ],
     "stars": 21,
-    "updated_at": "2025-10-16T06:14:45Z",
-    "version": "1.0.1"
+    "updated_at": "2025-10-16T07:11:23Z",
+    "version": "1.1.0"
   },
   "astrbot_plugin_mathitools": {
     "desc": "基于mpmath&eval的简易数学表达式支持",
@@ -2957,8 +2957,8 @@
     ],
     "social_link": "https://github.com/oyxning",
     "stars": 22,
-    "updated_at": "2025-10-16T00:50:47Z",
-    "version": "v3.0.0"
+    "updated_at": "2025-10-16T06:54:58Z",
+    "version": "v3.1.0"
   },
   "astrbot_plugin_alistfile": {
     "author": "linjianyan",
