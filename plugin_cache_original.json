@@ -470,7 +470,7 @@
       "fishing"
     ],
     "stars": 10,
-    "updated_at": "2025-10-16T14:09:41Z",
+    "updated_at": "2025-10-16T14:26:22Z",
     "version": "2.2.0"
   },
   "astrbot_plugin_astrmetry": {
@@ -1553,9 +1553,9 @@
       "MiBand"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 1,
-    "updated_at": "2025-09-27T10:01:44Z",
-    "version": "v1.0.2"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_immersive_control": {
     "desc": "🎮 给 AI 植入神奇小玩具的娱乐插件，3分钟沉浸式互动体验。",
@@ -2638,8 +2638,8 @@
       "鼠鼠"
     ],
     "author": "UyNewNas",
-    "stars": 9,
-    "updated_at": "2025-10-01T10:36:06Z",
+    "stars": 10,
+    "updated_at": "2025-10-16T14:37:32Z",
     "version": "v1.2"
   },
   "astrbot_plugin_LetAI_sendemojis": {
