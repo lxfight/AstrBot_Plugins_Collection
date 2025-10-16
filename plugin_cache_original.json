@@ -1553,9 +1553,9 @@
       "MiBand"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 1,
+    "updated_at": "2025-09-27T10:01:44Z",
+    "version": "v1.0.2"
   },
   "astrbot_plugin_immersive_control": {
     "desc": "🎮 给 AI 植入神奇小玩具的娱乐插件，3分钟沉浸式互动体验。",
