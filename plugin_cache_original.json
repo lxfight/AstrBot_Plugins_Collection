@@ -135,8 +135,8 @@
     "tags": [
       "JM"
     ],
-    "stars": 0,
-    "updated_at": "2025-10-05T14:46:49Z",
+    "stars": 1,
+    "updated_at": "2025-10-16T11:05:50Z",
     "version": "v1.0"
   },
   "astrbot_plugin_tg_button": {
@@ -458,8 +458,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_plugin_nbnhhsh",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-10-16T10:09:16Z",
-    "version": "v0.1.0"
+    "updated_at": "2025-10-16T10:33:25Z",
+    "version": "v0.1.1"
   },
   "Fishing Another!": {
     "desc": "升级版的钓鱼插件，附带后台管理界面（个性化钓鱼游戏！支持原版fashing2 1.4.6版本fishing存档继续游玩）\n另外一个作者tinker似乎不再继续维护了，我将接手钓鱼插件的后续开发。",
@@ -724,7 +724,7 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 13,
-    "updated_at": "2025-10-16T06:22:22Z",
+    "updated_at": "2025-10-16T11:09:09Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_angel_eye": {
@@ -736,8 +736,8 @@
       "知识"
     ],
     "social_link": "https://github.com/kawayiYokami",
-    "stars": 5,
-    "updated_at": "2025-10-14T14:30:00Z",
+    "stars": 6,
+    "updated_at": "2025-10-16T10:40:13Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_pollinations_images": {
