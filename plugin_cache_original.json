@@ -2996,8 +2996,8 @@
     ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
-    "stars": 21,
-    "updated_at": "2025-10-10T07:37:10Z",
+    "stars": 22,
+    "updated_at": "2025-10-16T02:36:07Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_reimage": {
