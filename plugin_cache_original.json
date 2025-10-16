@@ -50,8 +50,8 @@
     ],
     "social_link": "https://magstic.art/",
     "pinned": true,
-    "stars": 4,
-    "updated_at": "2025-10-16T07:37:26Z",
+    "stars": 5,
+    "updated_at": "2025-10-16T13:22:16Z",
     "version": "0.1.1"
   },
   "astrbot_plugin_Favour_Ultra": {
@@ -470,8 +470,8 @@
       "fishing"
     ],
     "stars": 10,
-    "updated_at": "2025-10-14T01:30:40Z",
-    "version": "2.1.1"
+    "updated_at": "2025-10-16T13:26:17Z",
+    "version": "2.1.2"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -1528,8 +1528,8 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 30,
-    "updated_at": "2025-10-14T13:36:44Z",
+    "stars": 31,
+    "updated_at": "2025-10-16T13:27:46Z",
     "version": "0.4.3"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -2556,7 +2556,7 @@
     "repo": "https://github.com/timetetng/astrbot_plugin_ip_proxy",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-09-02T03:14:37Z",
+    "updated_at": "2025-10-16T13:20:41Z",
     "version": "v1.6"
   },
   "astrbot_plugin_cmd_console": {
