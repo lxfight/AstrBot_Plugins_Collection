@@ -6008,8 +6008,8 @@
       "搬史"
     ],
     "stars": 294,
-    "updated_at": "2025-10-17T04:33:47Z",
-    "version": "v0.914"
+    "updated_at": "2025-10-17T16:20:12Z",
+    "version": "v0.915"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
