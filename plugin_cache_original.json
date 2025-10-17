@@ -312,7 +312,7 @@
       "群文件"
     ],
     "stars": 2,
-    "updated_at": "2025-10-12T15:31:46Z",
+    "updated_at": "2025-10-17T15:16:39Z",
     "version": "v0.8.1"
   },
   "group_notice_manager": {
@@ -470,8 +470,8 @@
       "fishing"
     ],
     "stars": 11,
-    "updated_at": "2025-10-17T02:34:06Z",
-    "version": "2.2.0"
+    "updated_at": "2025-10-17T15:14:49Z",
+    "version": "2.2.1"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -4249,8 +4249,8 @@
       "游戏"
     ],
     "stars": 6,
-    "updated_at": "2025-10-17T12:51:47Z",
-    "version": "v1.8.1"
+    "updated_at": "2025-10-17T14:44:31Z",
+    "version": "v1.8.2"
   },
   "astrbot_plugin_Group-Verification": {
     "author": "huotuo146",
@@ -5502,7 +5502,7 @@
     "repo": "https://github.com/Futureppo/astrbot_plugin_custom_menu",
     "tags": [],
     "stars": 4,
-    "updated_at": "2025-10-17T13:08:17Z",
+    "updated_at": "2025-10-17T14:42:31Z",
     "version": "v2.0.2"
   },
   "astrbot_plugin_liferestart": {
