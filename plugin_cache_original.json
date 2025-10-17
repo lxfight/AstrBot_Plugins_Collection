@@ -147,8 +147,8 @@
       "Telegram"
     ],
     "stars": 3,
-    "updated_at": "2025-10-17T13:10:04Z",
-    "version": "1.3.2"
+    "updated_at": "2025-10-17T18:04:44Z",
+    "version": "1.3.3"
   },
   "astrbot_plugin_markdown2img": {
     "desc": "允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。",
