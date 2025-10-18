@@ -7,8 +7,8 @@
       "人格"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 2,
-    "updated_at": "2025-10-18T03:51:12Z",
+    "stars": 3,
+    "updated_at": "2025-10-18T05:34:42Z",
     "version": "v1.0"
   },
   "astrbot_plugin_sticker": {
@@ -893,7 +893,7 @@
       "management"
     ],
     "stars": 2,
-    "updated_at": "2025-10-16T00:48:28Z",
+    "updated_at": "2025-10-18T05:58:10Z",
     "version": "1.0.0"
   },
   "GUGUblack": {
@@ -2816,8 +2816,8 @@
     "desc": "一个简单的插件，让 Bot 闭嘴",
     "social_link": "https://github.com/railgun19457",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-10-13T15:23:57Z",
+    "stars": 3,
+    "updated_at": "2025-10-18T05:34:34Z",
     "version": "v1.2"
   },
   "astrbot_plugin_check-dst-room": {
@@ -2957,8 +2957,8 @@
     ],
     "social_link": "https://github.com/oyxning",
     "stars": 22,
-    "updated_at": "2025-10-16T06:54:58Z",
-    "version": "v3.1.0"
+    "updated_at": "2025-10-18T06:14:18Z",
+    "version": "v3.2.0"
   },
   "astrbot_plugin_alistfile": {
     "author": "linjianyan",
@@ -3061,8 +3061,8 @@
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
     "stars": 23,
-    "updated_at": "2025-10-16T03:13:45Z",
-    "version": "v1.0.4"
+    "updated_at": "2025-10-18T05:26:24Z",
+    "version": "v1.7.2"
   },
   "astrbot_plugin_reimage": {
     "author": "victical",
