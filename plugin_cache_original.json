@@ -77,8 +77,8 @@
     "social_link": "https://space.bilibili.com/1482890426?spm_id_from=333.1007.0.0",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-10-02T06:18:42Z",
-    "version": "v1.3"
+    "updated_at": "2025-10-18T17:02:35Z",
+    "version": "v1.1.1"
   },
   "astrbot_plugin_SendBlessings": {
     "desc": "在节假日自动送上祝福并配图",
@@ -1053,8 +1053,8 @@
       "rag"
     ],
     "stars": 23,
-    "updated_at": "2025-10-18T16:23:16Z",
-    "version": "1.1.0"
+    "updated_at": "2025-10-18T16:39:41Z",
+    "version": "1.1.2"
   },
   "astrbot_plugin_mathitools": {
     "desc": "基于mpmath&eval的简易数学表达式支持",
