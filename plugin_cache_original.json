@@ -90,8 +90,8 @@
       "信息"
     ],
     "stars": 4,
-    "updated_at": "2025-10-19T09:10:09Z",
-    "version": "1.0.9"
+    "updated_at": "2025-10-19T10:14:36Z",
+    "version": "1.1.1"
   },
   "astrbot_plugin_hapemxg_Inspect": {
     "desc": "LLM 内容审查插件，集成了正则表达式与 AI 模型双重审查机制。当回复不合规时，能自动重试并智能引导模型修正，确保内容安全合规。",
@@ -2709,8 +2709,8 @@
     "repo": "https://github.com/Aurora-xk/astrbot_plugin_shitu",
     "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-10-12T02:19:23Z",
+    "stars": 3,
+    "updated_at": "2025-10-19T09:49:02Z",
     "version": "v3.5"
   },
   "astrbot_plugin_cheru": {
