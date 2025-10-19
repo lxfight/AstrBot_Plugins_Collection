@@ -90,8 +90,8 @@
       "信息"
     ],
     "stars": 4,
-    "updated_at": "2025-10-18T03:53:29Z",
-    "version": "1.0.8"
+    "updated_at": "2025-10-19T09:10:09Z",
+    "version": "1.0.9"
   },
   "astrbot_plugin_hapemxg_Inspect": {
     "desc": "LLM 内容审查插件，集成了正则表达式与 AI 模型双重审查机制。当回复不合规时，能自动重试并智能引导模型修正，确保内容安全合规。",
@@ -1053,8 +1053,8 @@
       "rag"
     ],
     "stars": 23,
-    "updated_at": "2025-10-18T16:39:41Z",
-    "version": "1.1.2"
+    "updated_at": "2025-10-19T08:54:04Z",
+    "version": "1.3.0"
   },
   "astrbot_plugin_mathitools": {
     "desc": "基于mpmath&eval的简易数学表达式支持",
@@ -5061,8 +5061,8 @@
       "工具",
       "安全"
     ],
-    "stars": 2,
-    "updated_at": "2025-10-18T04:42:30Z",
+    "stars": 1,
+    "updated_at": "2025-10-19T08:57:33Z",
     "version": "v2.2"
   },
   "JmCli": {
