@@ -1,4 +1,10 @@
 {
+  "astrbot_plugin_nobrowser_markdown_to_pic": {
+    "desc": "无浏览器实现 Markdown 转图片，基于 pillowmd 实现，支持指令和 LLM 自动转换",
+    "author": "Xican",
+    "repo": "https://github.com/luosheng520qaq/astrbot_plugin_nobrowser_markdown_to_pic",
+    "tags": ["markdown", "pic", "nobroswer"]
+  },
   "astrbot_plugin_video_sora": {
     "desc": "使用 OpenAI Sora 模型生成视频",
     "author": "Sukafon",
@@ -15,6 +21,16 @@
     "desc": "zssm，支持关键词“zssm”（忽略前缀）与“zssm + 内容”直接解释；引用消息（含@）正常处理，Napcat get_msg 回溯图片；按 Provider ID 选择文本/图片模型并带回退；未回复仅发 zssm 时提示；默认提示词可在 main.py 顶部修改。",
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain"
+  },
+  "astrbot_plugin_image_replay": {
+    "name": "astrbot_plugin_image_replay",
+    "desc": "支持按自定义关键词触发自定义表情，图片，随机，批量发送。",
+    "author": "cuman",
+    "repo": "https://github.com/cumany/astrbot_plugin_image_replay",
+    "tags": [
+      "图片"
+    ],
+    "social_link": "https://github.com/cumany"
   },
   "astrbot_plugin_cxzl": {
     "desc": "查询指定指令来源的插件（/cx 指令）",
@@ -63,6 +79,13 @@
     "tags": ["Bilibili", "平台适配器"],
     "social_link": "https://magstic.art/",
     "pinned": true
+  },
+  "astrbot_plugin_gemini_search": {
+    "desc": "一个调用Gemini格式API进行联网搜索的函数工具",
+    "author": "Chris",
+    "repo": "https://github.com/Chris95743/astrbot_plugin_gemini_search",
+    "tags": ["联网搜索"],
+    "social_link": "https://gbkgov.cn"
   },
   "astrbot_plugin_Favour_Ultra": {
     "desc": "更加完善的好感度判断插件，配合LLM和自定义 Prompt 进行使用，效果显著。该插件使用与现有好感度插件不同的判断、写入方法，以及扩展更多的自定义内容，允许更加自由地定义好感度规则。",
@@ -118,6 +141,18 @@
     "repo": "https://github.com/zhewang448/astrbot_plugin_33recognition",
     "tags": ["LLM","图片识别","关键词"],
     "social_link": "https://github.com/zhewang448"
+  },
+  "astrbot_plugin_clocc_search": {
+    "desc": "网盘资源资源搜索插件，支持关键词自动回复和资源搜索功能。发送以\"搜\"开头的消息（如\"搜关键词\"）即可搜索资源。",
+    "author": "Clocc",
+    "repo": "https://github.com/Clocc/astrbot_plugin_clocc_search",
+    "tags": [
+      "网盘资源搜索",
+      "影视",
+      "小说",
+      "工具",
+      "教程"
+    ]
   },
   "astrbot_plugin_JMCOMIC": {
     "desc": "AstrBot JMComic，支持通过指令搜索和下载漫画。",
