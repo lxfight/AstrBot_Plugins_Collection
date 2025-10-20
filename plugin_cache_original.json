@@ -8,7 +8,7 @@
     ],
     "social_link": "https://www.misakanet.site",
     "stars": 3,
-    "updated_at": "2025-10-20T03:46:38Z",
+    "updated_at": "2025-10-20T04:58:31Z",
     "version": "v1.0"
   },
   "astrbot_plugin_sticker": {
@@ -5061,9 +5061,9 @@
       "工具",
       "安全"
     ],
-    "stars": 2,
-    "updated_at": "2025-10-20T01:42:36Z",
-    "version": "v2.2"
+    "stars": 3,
+    "updated_at": "2025-10-20T05:21:33Z",
+    "version": "v2.3"
   },
   "JmCli": {
     "desc": "JM命令行工具，提供下载和带封面的查询搜索功能，输入jm_help查看用法",
