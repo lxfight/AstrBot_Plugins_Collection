@@ -191,8 +191,8 @@
     "tags": [
       "群管"
     ],
-    "stars": 2,
-    "updated_at": "2025-10-06T05:24:48Z",
+    "stars": 3,
+    "updated_at": "2025-10-20T13:21:46Z",
     "version": "v1.4.1"
   },
   "astrbot_plugin_guijishiping": {
@@ -1256,8 +1256,8 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 19,
-    "updated_at": "2025-10-17T08:44:08Z",
+    "stars": 20,
+    "updated_at": "2025-10-20T12:46:15Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_vtb_adapter": {
@@ -1598,8 +1598,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 26,
-    "updated_at": "2025-10-17T19:25:10Z",
+    "stars": 27,
+    "updated_at": "2025-10-20T12:47:04Z",
     "version": "1.2.8"
   },
   "astrbot_plugin_baiduocr": {
