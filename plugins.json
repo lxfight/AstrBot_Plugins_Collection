@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_video_sora": {
+    "desc": "使用 OpenAI Sora 模型生成视频",
+    "author": "Sukafon",
+    "repo": "https://github.com/sukafon/astrbot_plugin_video_sora",
+    "tags": ["视频", "sora"]
+  },
+  "astrbot_gengtu": {
+    "desc": "梗图抽象猜词插件，获取图片题目并校验答案。",
+    "author": "柠柚",
+    "repo": "https://github.com/ningyou8023/astrbot_gengtu",
+    "tags": ["梗图", "猜词"]
+  },
+  "astrbot_zssm_explain": {
+    "desc": "zssm，支持关键词“zssm”（忽略前缀）与“zssm + 内容”直接解释；引用消息（含@）正常处理，Napcat get_msg 回溯图片；按 Provider ID 选择文本/图片模型并带回退；未回复仅发 zssm 时提示；默认提示词可在 main.py 顶部修改。",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain"
+  },
+  "astrbot_plugin_cxzl": {
+    "desc": "查询指定指令来源的插件（/cx 指令）",
+    "author": "giri",
+    "repo": "https://github.com/995755805/astrbot_plugin_cxzl",
+    "tags": ["功能"]
+  },
+  "astrbot_plugin_youshusearch": {
+    "desc": "查询小说详情以及优书网评分的搜索工具。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_youshusearch",
+    "tags": [
+      "网络小说"
+    ]
+  },
   "astrbot_plugin_persona_plus": {
     "desc": "扩展 AstrBot 的人格管理能力，提供关键词自动切换、快速切换指令、以及与 QQ 头像/昵称的同步修改。",
     "author": "Railgun19457",
@@ -75,6 +106,11 @@
     "desc": "语录插件。记录 QQ 群友说过的话。",
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_quotes_plugin"
+  },
+  "astrbot-plugin-tmp-bot": {
+    "desc": "欧洲卡车模拟2 TMP查询机器人 - 支持玩家信息查询、位置查询、服务器状态查询、里程排行榜等功能",
+    "author": "BGYdook",
+    "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
