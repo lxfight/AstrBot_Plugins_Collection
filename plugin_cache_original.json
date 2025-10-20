@@ -723,8 +723,8 @@
       "主动应答"
     ],
     "social_link": "https://github.com/kawayiYokami",
-    "stars": 14,
-    "updated_at": "2025-10-19T12:30:53Z",
+    "stars": 15,
+    "updated_at": "2025-10-20T01:51:08Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_angel_eye": {
@@ -1053,8 +1053,8 @@
       "rag"
     ],
     "stars": 24,
-    "updated_at": "2025-10-19T14:21:48Z",
-    "version": "1.3.0"
+    "updated_at": "2025-10-20T03:12:44Z",
+    "version": "1.3.2"
   },
   "astrbot_plugin_mathitools": {
     "desc": "基于mpmath&eval的简易数学表达式支持",
@@ -5154,8 +5154,8 @@
       "抽卡"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 16,
-    "updated_at": "2025-09-27T10:00:55Z",
+    "stars": 17,
+    "updated_at": "2025-10-20T02:42:27Z",
     "version": "v1.0.12"
   },
   "astrbot_plugin_litematic": {
@@ -6008,7 +6008,7 @@
       "搬史"
     ],
     "stars": 296,
-    "updated_at": "2025-10-19T14:47:18Z",
+    "updated_at": "2025-10-20T02:48:58Z",
     "version": "v0.915"
   },
   "astrbot_plugin_superpoke": {
