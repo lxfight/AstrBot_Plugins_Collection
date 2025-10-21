@@ -1560,8 +1560,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 108,
-    "updated_at": "2025-10-21T07:34:16Z",
+    "stars": 109,
+    "updated_at": "2025-10-21T23:13:46Z",
     "version": "v2.1.2"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -3177,8 +3177,8 @@
     ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
-    "stars": 23,
-    "updated_at": "2025-10-18T05:26:24Z",
+    "stars": 24,
+    "updated_at": "2025-10-21T22:50:35Z",
     "version": "v1.7.2"
   },
   "astrbot_plugin_reimage": {
