@@ -67,8 +67,8 @@
       "视频",
       "sora"
     ],
-    "stars": 13,
-    "updated_at": "2025-10-22T07:15:47Z",
+    "stars": 14,
+    "updated_at": "2025-10-22T13:51:07Z",
     "version": "v1.2.1"
   },
   "astrbot_gengtu": {
@@ -652,8 +652,8 @@
       "fishing"
     ],
     "stars": 13,
-    "updated_at": "2025-10-22T00:14:59Z",
-    "version": "2.2.5"
+    "updated_at": "2025-10-22T14:17:24Z",
+    "version": "2.2.6"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -717,8 +717,8 @@
       "赛博修仙",
       "小游戏"
     ],
-    "stars": 6,
-    "updated_at": "2025-10-12T12:02:34Z",
+    "stars": 7,
+    "updated_at": "2025-10-22T14:03:29Z",
     "version": "v2.1.0"
   },
   "astrbot_plugin_admin_tools": {
@@ -5269,8 +5269,8 @@
       "安全"
     ],
     "stars": 3,
-    "updated_at": "2025-10-21T05:30:25Z",
-    "version": "v2.4.2"
+    "updated_at": "2025-10-22T14:02:58Z",
+    "version": "v2.4.3"
   },
   "JmCli": {
     "desc": "JM命令行工具，提供下载和带封面的查询搜索功能，输入jm_help查看用法",
@@ -5641,7 +5641,7 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "stars": 54,
     "updated_at": "2025-10-17T10:19:56Z",
-    "version": "v3.0.1"
+    "version": "1.0.0"
   },
   "astrbot_plugin_saris_economic": {
     "author": "城城",
@@ -5651,9 +5651,9 @@
       "签到",
       "经济"
     ],
-    "stars": 1,
-    "updated_at": "2025-04-13T16:22:54Z",
-    "version": "v1.6.2"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_saris_db": {
     "author": "城城",
@@ -5662,9 +5662,9 @@
     "tags": [
       "前置"
     ],
-    "stars": 1,
-    "updated_at": "2025-04-09T17:14:21Z",
-    "version": "v1.4.4"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "headline": {
     "author": "egg",
