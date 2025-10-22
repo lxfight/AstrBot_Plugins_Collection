@@ -13,6 +13,27 @@
     "updated_at": "2025-10-21T11:46:44Z",
     "version": "v1.0"
   },
+  "astrbot_plugin_chat_queue": {
+    "desc": "让并发消息按照队列依次执行",
+    "author": "ctrlkk",
+    "repo": "https://github.com/ctrlkk/astrbot_plugin_chat_queue",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-10-16T03:41:55Z",
+    "version": "v1.1"
+  },
+  "astrbot_plugin_chat_buffer": {
+    "desc": "消息防抖，指定时间内的多段消息合并处理",
+    "author": "ctrlkk",
+    "repo": "https://github.com/ctrlkk/astrbot_plugin_chat_buffer",
+    "tags": [
+      "消息合并",
+      "实用"
+    ],
+    "stars": 0,
+    "updated_at": "2025-10-16T03:46:45Z",
+    "version": "v1.0"
+  },
   "astrbot_plugin_nobrowser_markdown_to_pic": {
     "desc": "无浏览器实现 Markdown 转图片，基于 pillowmd 实现，支持指令和 LLM 自动转换",
     "author": "Xican",
@@ -70,6 +91,15 @@
     "stars": 0,
     "updated_at": "2025-10-20T17:57:00Z",
     "version": "v0.3.0"
+  },
+  "astrbot_plugin_timeline": {
+    "desc": "一个非常简单的插件，在请求中插入当前时间",
+    "author": "ctrlkk",
+    "repo": "https://github.com/ctrlkk/astrbot_plugin_timeline",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-10-15T11:35:14Z",
+    "version": "v1.1"
   },
   "astrbot_plugin_blessingholidays": {
     "desc": "在节假日自动送上祝福(修改自 cheng-maomao 的 SendBlessings 插件)",
@@ -3445,8 +3475,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 29,
-    "updated_at": "2025-10-12T15:44:56Z",
+    "stars": 30,
+    "updated_at": "2025-10-22T08:39:26Z",
     "version": "2.1.8"
   },
   "astrbot_plugin_xiaoxue": {
@@ -6184,8 +6214,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 301,
-    "updated_at": "2025-10-22T06:21:54Z",
+    "stars": 302,
+    "updated_at": "2025-10-22T08:43:54Z",
     "version": "v0.915"
   },
   "astrbot_plugin_superpoke": {
@@ -6225,8 +6255,8 @@
       "webui",
       "图床"
     ],
-    "stars": 88,
-    "updated_at": "2025-10-19T06:07:16Z",
+    "stars": 89,
+    "updated_at": "2025-10-22T08:48:30Z",
     "version": "v3.13"
   },
   "mccloud_command": {
