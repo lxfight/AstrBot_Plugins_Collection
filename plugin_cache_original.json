@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_acm_helper": {
+    "desc": "功能强大的 ACM 训练辅助插件。它能够自动追踪成员在 Codeforces 和洛谷的刷题动态，提供实时排名，并通过一个直观的排行榜。让每一次提交，都留下印记。",
+    "author": "suzakudry",
+    "repo": "https://github.com/FCYXSZY/astrbot_plugin_acm_helper",
+    "tags": [
+      "ACM",
+      "CodeForces",
+      "洛谷",
+      "训练"
+    ],
+    "stars": 1,
+    "updated_at": "2025-10-21T11:46:44Z",
+    "version": "v1.0"
+  },
   "astrbot_plugin_nobrowser_markdown_to_pic": {
     "desc": "无浏览器实现 Markdown 转图片，基于 pillowmd 实现，支持指令和 LLM 自动转换",
     "author": "Xican",
@@ -10,6 +24,18 @@
     ],
     "stars": 3,
     "updated_at": "2025-10-20T16:58:50Z",
+    "version": "v1.0.0"
+  },
+  "astrbot_plugin_sora": {
+    "desc": "使用 newAPI 生成视频。指令 文生视频 <提示词> 或 图生视频 <提示词> + 图片。",
+    "author": "CCYellowStar2",
+    "repo": "https://github.com/CCYellowStar2/astrbot_plugin_sora",
+    "tags": [
+      "sora"
+    ],
+    "social_link": "https://github.com/CCYellowStar2",
+    "stars": 0,
+    "updated_at": "2025-10-17T09:01:38Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_video_sora": {
@@ -44,6 +70,15 @@
     "stars": 0,
     "updated_at": "2025-10-20T17:57:00Z",
     "version": "v0.3.0"
+  },
+  "astrbot_plugin_blessingholidays": {
+    "desc": "在节假日自动送上祝福(修改自 cheng-maomao 的 SendBlessings 插件)",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/astrbot_plugin_blessingholidays",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-10-16T12:16:22Z",
+    "version": "1.2"
   },
   "astrbot_plugin_image_replay": {
     "name": "astrbot_plugin_image_replay",
@@ -1060,8 +1095,19 @@
     "updated_at": "2025-09-27T14:32:04Z",
     "version": "v1.3.6"
   },
+  "astrbot_plugin_anti_revoke": {
+    "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_anti_revoke",
+    "tags": [
+      "撤回"
+    ],
+    "stars": 1,
+    "updated_at": "2025-10-19T05:38:21Z",
+    "version": "v0.2"
+  },
   "input_state_by_napcat": {
-    "desc": "[仅NapCat]输入状态显示",
+    "desc": "[仅 OneBot]输入状态显示",
     "author": "ctrlkk",
     "repo": "https://github.com/ctrlkk/astrbot_plugin_input_state_by_nc",
     "tags": [
@@ -1092,8 +1138,22 @@
     "updated_at": "2025-10-17T09:52:55Z",
     "version": "v1.1.0"
   },
+  "textToImg": {
+    "desc": "修改自 薄暝(二创)和喵喵的 OpenRouter 生图插件(原创)。使用 OpenAI 格式的免费 API 生成图片兼容硅基流动生图",
+    "author": "hugh",
+    "repo": "https://github.com/HUGHHUXIAOJUN/AstrBot_plugin_openai_image-command",
+    "tags": [
+      "图片生成",
+      "硅基流动",
+      "openAi",
+      "openrouter"
+    ],
+    "stars": 0,
+    "updated_at": "2025-10-10T03:48:20Z",
+    "version": "v1.91"
+  },
   "openai-image-command": {
-    "desc": "修改自喵喵的openrouter生图插件。使用openai格式的免费api生成图片(使用指令调用插件)",
+    "desc": "修改自喵喵的 OpenRouter 生图插件。使用 OpenAI 格式的免费 API 生成图片(使用指令调用插件)",
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/AstrBot_plugin_openai_image-command",
     "tags": [],
@@ -1429,8 +1489,8 @@
       "function"
     ],
     "social_link": "https://github.com/kjqwer",
-    "stars": 5,
-    "updated_at": "2025-09-29T05:21:07Z",
+    "stars": 6,
+    "updated_at": "2025-10-22T07:44:32Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_lark_send_patcher": {
@@ -5516,8 +5576,8 @@
       "JM"
     ],
     "social_link": "https://github.com/Ayachi2225",
-    "stars": 2,
-    "updated_at": "2025-04-04T03:15:11Z",
+    "stars": 3,
+    "updated_at": "2025-10-22T08:21:13Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_history_day": {
