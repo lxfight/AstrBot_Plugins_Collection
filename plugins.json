@@ -8,7 +8,7 @@
   "astrbot_plugin_chat_queue": {
     "desc": "让并发消息按照队列依次执行",
     "author": "ctrlkk",
-    "repo": "https://github.com/ctrlkk/astrbot_plugin_chat_queue",
+    "repo": "https://github.com/ctrlkk/astrbot_plugin_chat_queue"
   },
   "astrbot_plugin_chat_buffer": {
     "desc": "消息防抖，指定时间内的多段消息合并处理",
