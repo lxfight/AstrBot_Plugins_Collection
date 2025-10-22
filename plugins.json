@@ -1,9 +1,24 @@
 {
+  "astrbot_plugin_acm_helper": {
+    "desc": "功能强大的 ACM 训练辅助插件。它能够自动追踪成员在 Codeforces 和洛谷的刷题动态，提供实时排名，并通过一个直观的排行榜。让每一次提交，都留下印记。",
+    "author": "suzakudry",
+    "repo": "https://github.com/FCYXSZY/astrbot_plugin_acm_helper",
+    "tags": ["ACM", "CodeForces", "洛谷", "训练"]
+  },
   "astrbot_plugin_nobrowser_markdown_to_pic": {
     "desc": "无浏览器实现 Markdown 转图片，基于 pillowmd 实现，支持指令和 LLM 自动转换",
     "author": "Xican",
     "repo": "https://github.com/luosheng520qaq/astrbot_plugin_nobrowser_markdown_to_pic",
     "tags": ["markdown", "pic", "nobroswer"]
+  },
+  "astrbot_plugin_sora": {
+    "desc": "使用 newAPI 生成视频。指令 文生视频 <提示词> 或 图生视频 <提示词> + 图片。",
+    "author": "CCYellowStar2",
+    "repo": "https://github.com/CCYellowStar2/astrbot_plugin_sora",
+    "tags": [
+      "sora"
+    ],
+    "social_link": "https://github.com/CCYellowStar2"
   },
   "astrbot_plugin_video_sora": {
     "desc": "使用 OpenAI Sora 模型生成视频",
@@ -21,6 +36,11 @@
     "desc": "zssm，支持关键词“zssm”（忽略前缀）与“zssm + 内容”直接解释；引用消息（含@）正常处理，Napcat get_msg 回溯图片；按 Provider ID 选择文本/图片模型并带回退；未回复仅发 zssm 时提示；默认提示词可在 main.py 顶部修改。",
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain"
+  },
+  "astrbot_plugin_blessingholidays": {
+    "desc": "在节假日自动送上祝福(修改自 cheng-maomao 的 SendBlessings 插件)",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/astrbot_plugin_blessingholidays"
   },
   "astrbot_plugin_image_replay": {
     "name": "astrbot_plugin_image_replay",
@@ -589,8 +609,16 @@
     "tags": ["工具", "GitHub"],
     "social_link": "https://wenturc.com"
   },
+  "astrbot_plugin_anti_revoke": {
+    "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_anti_revoke",
+    "tags": [
+      "撤回"
+    ]
+  },
   "input_state_by_napcat": {
-    "desc": "[仅NapCat]输入状态显示",
+    "desc": "[仅 OneBot]输入状态显示",
     "author": "ctrlkk",
     "repo": "https://github.com/ctrlkk/astrbot_plugin_input_state_by_nc",
     "tags": ["napcat"]
@@ -606,8 +634,19 @@
     "repo": "https://github.com/TuF3i/astrBot_plugin_Codex",
     "tags": ["命令执行", "docker"]
   },
+  "textToImg": {
+    "desc": "修改自 薄暝(二创)和喵喵的 OpenRouter 生图插件(原创)。使用 OpenAI 格式的免费 API 生成图片兼容硅基流动生图",
+    "author": "hugh",
+    "repo": "https://github.com/HUGHHUXIAOJUN/AstrBot_plugin_openai_image-command",
+    "tags": [
+      "图片生成",
+      "硅基流动",
+      "openAi",
+      "openrouter"
+    ]
+  },
   "openai-image-command": {
-    "desc": "修改自喵喵的openrouter生图插件。使用openai格式的免费api生成图片(使用指令调用插件)",
+    "desc": "修改自喵喵的 OpenRouter 生图插件。使用 OpenAI 格式的免费 API 生成图片(使用指令调用插件)",
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/AstrBot_plugin_openai_image-command"
   },
