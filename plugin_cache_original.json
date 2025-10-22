@@ -5641,7 +5641,7 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "stars": 54,
     "updated_at": "2025-10-17T10:19:56Z",
-    "version": "1.0.0"
+    "version": "v3.0.1"
   },
   "astrbot_plugin_saris_economic": {
     "author": "城城",
@@ -5651,9 +5651,9 @@
       "签到",
       "经济"
     ],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 1,
+    "updated_at": "2025-04-13T16:22:54Z",
+    "version": "v1.6.2"
   },
   "astrbot_plugin_saris_db": {
     "author": "城城",
@@ -5662,9 +5662,9 @@
     "tags": [
       "前置"
     ],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 1,
+    "updated_at": "2025-04-09T17:14:21Z",
+    "version": "v1.4.4"
   },
   "headline": {
     "author": "egg",
