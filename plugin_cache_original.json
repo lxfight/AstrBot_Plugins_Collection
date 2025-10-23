@@ -10,7 +10,7 @@
       "训练"
     ],
     "stars": 1,
-    "updated_at": "2025-10-22T12:50:35Z",
+    "updated_at": "2025-10-23T07:39:07Z",
     "version": "v1.0"
   },
   "astrbot_plugin_chat_queue": {
@@ -208,8 +208,8 @@
       "联网搜索"
     ],
     "social_link": "https://gbkgov.cn",
-    "stars": 3,
-    "updated_at": "2025-10-15T02:04:32Z",
+    "stars": 4,
+    "updated_at": "2025-10-23T07:30:34Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_Favour_Ultra": {
@@ -652,8 +652,8 @@
       "fishing"
     ],
     "stars": 13,
-    "updated_at": "2025-10-23T00:58:03Z",
-    "version": "2.3.0"
+    "updated_at": "2025-10-23T08:26:20Z",
+    "version": "2.3.1"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -1408,8 +1408,8 @@
       "wxauto"
     ],
     "social_link": "blog.isla.ltd",
-    "stars": 5,
-    "updated_at": "2025-10-22T07:04:17Z",
+    "stars": 6,
+    "updated_at": "2025-10-23T07:56:32Z",
     "version": "1.2.0"
   },
   "astrbot_plugin_AnimeMagnet": {
@@ -5112,8 +5112,8 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 56,
-    "updated_at": "2025-10-20T13:48:14Z",
+    "stars": 57,
+    "updated_at": "2025-10-23T07:44:55Z",
     "version": "v3.1.7"
   },
   "astrbot_plugin_liars_bar": {
@@ -6534,8 +6534,8 @@
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
     "tags": [],
-    "stars": 17,
-    "updated_at": "2025-10-20T07:15:14Z",
+    "stars": 18,
+    "updated_at": "2025-10-23T08:17:29Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_sysinfo": {
