@@ -2484,8 +2484,8 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-10-20T10:04:43Z",
-    "version": "v1.11.5"
+    "updated_at": "2025-10-23T07:17:41Z",
+    "version": "v1.11.6"
   },
   "astrbot_plugin_SteamSaleTracker": {
     "desc": "这是一个 Steam 游戏价格监控插件",
