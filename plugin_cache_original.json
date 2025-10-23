@@ -141,8 +141,8 @@
     "tags": [
       "网络小说"
     ],
-    "stars": 0,
-    "updated_at": "2025-10-23T15:32:32Z",
+    "stars": 1,
+    "updated_at": "2025-10-23T17:06:00Z",
     "version": "v1.3"
   },
   "astrbot_plugin_persona_plus": {
@@ -168,8 +168,8 @@
       "cheshire",
       "chiikawa"
     ],
-    "stars": 2,
-    "updated_at": "2025-10-18T03:52:15Z",
+    "stars": 3,
+    "updated_at": "2025-10-23T17:07:23Z",
     "version": "v1.1.2"
   },
   "astrbot_mcmod_card": {
@@ -1284,8 +1284,8 @@
       "禁用"
     ],
     "social_link": "https://github.com/qa296",
-    "stars": 0,
-    "updated_at": "2025-09-03T13:39:09Z",
+    "stars": 1,
+    "updated_at": "2025-10-23T17:00:12Z",
     "version": "v1.0"
   },
   "astrbot_plugin_recall_cancel": {
