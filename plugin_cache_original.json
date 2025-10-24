@@ -68,7 +68,7 @@
       "sora"
     ],
     "stars": 17,
-    "updated_at": "2025-10-24T08:11:46Z",
+    "updated_at": "2025-10-24T08:46:28Z",
     "version": "v1.2.2"
   },
   "astrbot_gengtu": {
@@ -2159,8 +2159,8 @@
     "tags": [
       "海龟汤"
     ],
-    "stars": 13,
-    "updated_at": "2025-10-14T16:37:09Z",
+    "stars": 14,
+    "updated_at": "2025-10-24T09:19:57Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_typst_render": {
@@ -5709,8 +5709,8 @@
     "repo": "https://github.com/Futureppo/astrbot_plugin_custom_menu",
     "tags": [],
     "stars": 4,
-    "updated_at": "2025-10-17T14:42:31Z",
-    "version": "v2.0.2"
+    "updated_at": "2025-10-24T08:53:16Z",
+    "version": "v2.0.1"
   },
   "astrbot_plugin_liferestart": {
     "desc": "人生重启模拟器。输入「重开」来重开你的沟槽人生吧！",
@@ -6214,8 +6214,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 377,
-    "updated_at": "2025-10-24T08:24:03Z",
+    "stars": 383,
+    "updated_at": "2025-10-24T09:30:20Z",
     "version": "v0.915"
   },
   "astrbot_plugin_superpoke": {
@@ -6868,7 +6868,7 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
     "stars": 135,
-    "updated_at": "2025-10-24T07:54:17Z",
+    "updated_at": "2025-10-24T09:04:22Z",
     "version": "v0.5.1"
   },
   "FateTrial_img_identify": {
