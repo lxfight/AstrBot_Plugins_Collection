@@ -98,8 +98,8 @@
     ],
     "social_link": "https://github.com/cumany",
     "stars": 0,
-    "updated_at": "2025-10-17T08:50:42Z",
-    "version": "1.0.0"
+    "updated_at": "2025-10-25T06:18:16Z",
+    "version": "1.2.0"
   },
   "astrbot_plugin_sora": {
     "desc": "使用 newAPI 生成视频。指令 文生视频 <提示词> 或 图生视频 <提示词> + 图片。",
@@ -946,8 +946,8 @@
       "重启"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 2,
-    "updated_at": "2025-09-20T16:56:24Z",
+    "stars": 3,
+    "updated_at": "2025-10-25T05:57:27Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_tts_llm": {
@@ -2548,8 +2548,8 @@
     "tags": [
       "战地风云"
     ],
-    "stars": 9,
-    "updated_at": "2025-10-24T06:23:39Z",
+    "stars": 10,
+    "updated_at": "2025-10-25T05:27:28Z",
     "version": "v1.11.6"
   },
   "astrbot_plugin_SteamSaleTracker": {
@@ -5820,8 +5820,8 @@
       "功能"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "stars": 48,
-    "updated_at": "2025-10-13T14:51:39Z",
+    "stars": 49,
+    "updated_at": "2025-10-25T06:16:00Z",
     "version": "v1.1.7"
   },
   "astrbot_plugin_relationship": {
@@ -6279,8 +6279,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 410,
-    "updated_at": "2025-10-25T02:00:55Z",
+    "stars": 412,
+    "updated_at": "2025-10-25T06:31:11Z",
     "version": "v0.915"
   },
   "astrbot_plugin_superpoke": {
