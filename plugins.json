@@ -43,7 +43,8 @@
     "desc": "无浏览器实现 Markdown 转图片，基于 pillowmd 实现，支持指令和 LLM 自动转换",
     "author": "Xican",
     "repo": "https://github.com/luosheng520qaq/astrbot_plugin_nobrowser_markdown_to_pic",
-    "tags": ["markdown", "pic", "nobroswer"]
+    "tags": ["markdown", "pic", "nobroswer"],
+    "pinned": true
   },
   "astrbot_plugin_fetch_summary": {
     "desc": "根据 URL 获取网站摘要",
@@ -143,8 +144,7 @@
     "author": "Magstic, Gemini 2.5 Pro, Claude Opus 4, ChatGPT 5",
     "repo": "https://github.com/Hina-Chat/astrbot_plugin_bilibili_adapter",
     "tags": ["Bilibili", "平台适配器"],
-    "social_link": "https://magstic.art/",
-    "pinned": true
+    "social_link": "https://magstic.art/"
   },
   "astrbot_plugin_gemini_search": {
     "desc": "一个调用Gemini格式API进行联网搜索的函数工具",
@@ -464,7 +464,8 @@
   "astrbot_plugin_the_Big-3_Chinese_AI_conferences": {
     "desc": "亿万人将要精读中文AI顶会",
     "author": "RC-CHN",
-    "repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences"
+    "repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences",
+    "pinned": true
   },
   "astrbot_plugin_mc_admin": {
     "desc": "这是 MC服务器 的管理插件，支持list，珍珠炮落点计算，服务器工程坐标，备货清单，白名单管理等功能",
