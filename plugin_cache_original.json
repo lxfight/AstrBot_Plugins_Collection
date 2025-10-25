@@ -122,8 +122,8 @@
       "视频",
       "sora"
     ],
-    "stars": 18,
-    "updated_at": "2025-10-25T14:01:45Z",
+    "stars": 19,
+    "updated_at": "2025-10-25T16:37:28Z",
     "version": "v1.2.3"
   },
   "astrbot_gengtu": {
@@ -5705,8 +5705,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 54,
-    "updated_at": "2025-10-17T10:19:56Z",
+    "stars": 55,
+    "updated_at": "2025-10-25T16:35:45Z",
     "version": "v3.0.1"
   },
   "astrbot_plugin_saris_economic": {
@@ -6933,8 +6933,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 136,
-    "updated_at": "2025-10-24T19:01:18Z",
+    "stars": 137,
+    "updated_at": "2025-10-25T17:05:10Z",
     "version": "v2.0.0"
   },
   "FateTrial_img_identify": {
