@@ -26,8 +26,8 @@
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
     "social_link": "https://github.com/miaoxutao123",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-10-24T01:19:23Z",
+    "stars": 3,
+    "updated_at": "2025-10-25T03:56:12Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_daily_limit": {
@@ -109,8 +109,8 @@
       "sora"
     ],
     "social_link": "https://github.com/CCYellowStar2",
-    "stars": 2,
-    "updated_at": "2025-10-22T13:26:53Z",
+    "stars": 3,
+    "updated_at": "2025-10-25T03:17:03Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_video_sora": {
@@ -1325,7 +1325,7 @@
       "rag"
     ],
     "stars": 25,
-    "updated_at": "2025-10-25T02:52:20Z",
+    "updated_at": "2025-10-25T03:08:26Z",
     "version": "1.4.0"
   },
   "astrbot_plugin_mathitools": {
@@ -1570,8 +1570,8 @@
       "群管"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 4,
-    "updated_at": "2025-09-17T09:38:01Z",
+    "stars": 5,
+    "updated_at": "2025-10-25T04:04:17Z",
     "version": "v1.4"
   },
   "command_to_llm": {
