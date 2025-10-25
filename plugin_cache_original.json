@@ -123,8 +123,8 @@
       "sora"
     ],
     "stars": 18,
-    "updated_at": "2025-10-24T18:16:04Z",
-    "version": "v1.2.2"
+    "updated_at": "2025-10-25T14:01:45Z",
+    "version": "v1.2.3"
   },
   "astrbot_gengtu": {
     "desc": "梗图抽象猜词插件，获取图片题目并校验答案。",
