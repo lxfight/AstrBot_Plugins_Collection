@@ -38,7 +38,7 @@
       "实用"
     ],
     "stars": 3,
-    "updated_at": "2025-10-22T14:02:58Z",
+    "updated_at": "2025-10-25T04:43:23Z",
     "version": "v2.4.3"
   },
   "astrbot_plugin_acm_helper": {
@@ -5334,7 +5334,7 @@
       "安全"
     ],
     "stars": 3,
-    "updated_at": "2025-10-22T14:02:58Z",
+    "updated_at": "2025-10-25T04:43:23Z",
     "version": "v2.4.3"
   },
   "JmCli": {
@@ -6320,8 +6320,8 @@
       "webui",
       "图床"
     ],
-    "stars": 91,
-    "updated_at": "2025-10-24T03:17:21Z",
+    "stars": 92,
+    "updated_at": "2025-10-25T05:05:38Z",
     "version": "v3.13"
   },
   "mccloud_command": {
