@@ -1,4 +1,27 @@
 {
+  "astrbot_plugin_github_monitor_shell": {
+    "desc": "定时监控 GitHub 仓库 Commit 变化并发送通知",
+    "author": "Shell",
+    "repo": "https://github.com/1592363624/astrbot_plugin_github_monitor_shell",
+    "tags": ["消息通知", "实用"]
+  },
+  "astrbot_plugin_ragflow_adapter": {
+    "desc": "使用 RAGFlow 检索增强生成",
+    "author": "RC-CHN",
+    "repo": "https://github.com/RC-CHN/astrbot_plugin_ragflow_adapter"
+  },
+  "astrbot_plugin_LLMPerception": {
+    "desc": "增强 LLM 环境感知能力：时间、节假日、平台环境感知",
+    "author": "喵喵",
+    "repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
+    "social_link": "https://github.com/miaoxutao123"
+  },
+  "astrbot_plugin_daily_limit": {
+    "desc": "限制用户每日调用大模型的次数",
+    "author": "left666 & Sakura520222",
+    "repo": "https://github.com/left666/astrbot_plugin_daily_limit",
+    "tags": ["实用"]
+  },
   "astrbot_plugin_acm_helper": {
     "desc": "功能强大的 ACM 训练辅助插件。它能够自动追踪成员在 Codeforces 和洛谷的刷题动态，提供实时排名，并通过一个直观的排行榜。让每一次提交，都留下印记。",
     "author": "suzakudry",
@@ -21,6 +44,13 @@
     "author": "Xican",
     "repo": "https://github.com/luosheng520qaq/astrbot_plugin_nobrowser_markdown_to_pic",
     "tags": ["markdown", "pic", "nobroswer"]
+  },
+  "astrbot_plugin_fetch_summary": {
+    "desc": "根据 URL 获取网站摘要",
+    "author": "cuman",
+    "repo": "https://github.com/cumany/astrbot_plugin_fetch_summary",
+    "tags": ["summary"],
+    "social_link": "https://github.com/cumany"
   },
   "astrbot_plugin_sora": {
     "desc": "使用 newAPI 生成视频。指令 文生视频 <提示词> 或 图生视频 <提示词> + 图片。",
@@ -189,6 +219,12 @@
       "工具",
       "教程"
     ]
+  },
+  "astrbot_plugin_file_checker": {
+    "desc": "用于QQ群文件失效检查(仅限 QQ napcat)",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_file_checker",
+    "tags": ["群文件"]
   },
   "astrbot_plugin_JMCOMIC": {
     "desc": "AstrBot JMComic，支持通过指令搜索和下载漫画。",
