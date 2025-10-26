@@ -123,8 +123,8 @@
       "sora"
     ],
     "stars": 19,
-    "updated_at": "2025-10-25T16:37:28Z",
-    "version": "v1.2.3"
+    "updated_at": "2025-10-26T01:35:01Z",
+    "version": "v1.2.5"
   },
   "astrbot_gengtu": {
     "desc": "梗图抽象猜词插件，获取图片题目并校验答案。",
@@ -911,8 +911,8 @@
     "tags": [
       "galgame"
     ],
-    "stars": 1,
-    "updated_at": "2025-10-15T05:16:45Z",
+    "stars": 2,
+    "updated_at": "2025-10-25T23:19:33Z",
     "version": "v1.2"
   },
   "astrbot_plugins_steam_shop_price": {
@@ -6280,8 +6280,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 424,
-    "updated_at": "2025-10-25T21:17:18Z",
+    "stars": 425,
+    "updated_at": "2025-10-26T00:25:54Z",
     "version": "v0.915"
   },
   "astrbot_plugin_superpoke": {
