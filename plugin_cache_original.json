@@ -30,6 +30,34 @@
     "updated_at": "2025-10-25T08:53:32Z",
     "version": "v1.0.0"
   },
+  "astrbot_plugin_zhanbu": {
+    "desc": "占卜起数小工具，用于懒人排盘、占卜等，包括但不限于小六壬、梅花易数、塔罗等",
+    "author": "mxwz",
+    "repo": "https://github.com/mxwz/astrbot_plugin_zhanbu",
+    "tags": [
+      "占卜",
+      "排盘",
+      "塔罗",
+      "小六壬",
+      "梅花易数"
+    ],
+    "stars": 0,
+    "updated_at": "2025-10-25T11:00:39Z",
+    "version": "v1.0.2"
+  },
+  "astrbot_plugin_rvc_svc": {
+    "desc": "RVC/SVC 翻唱网易云歌曲（需要下载后端）",
+    "author": "CCYellowStar2",
+    "repo": "https://github.com/CCYellowStar2/astrbot_plugin_rvc_svc",
+    "tags": [
+      "svc",
+      "rvc"
+    ],
+    "social_link": "https://github.com/CCYellowStar2",
+    "stars": 1,
+    "updated_at": "2025-10-24T18:37:40Z",
+    "version": "v1.0.0"
+  },
   "astrbot_plugin_daily_limit": {
     "desc": "限制用户每日调用大模型的次数",
     "author": "left666 & Sakura520222",
@@ -717,7 +745,7 @@
       "fishing"
     ],
     "stars": 14,
-    "updated_at": "2025-10-26T04:25:07Z",
+    "updated_at": "2025-10-26T12:05:03Z",
     "version": "2.3.5"
   },
   "astrbot_plugin_astrmetry": {
