@@ -1412,8 +1412,7 @@
     "author": "Jason.Joestar",
     "repo": "https://github.com/advent259141/Astrbot_plugin_Heartflow",
     "tags": ["主动回复", "拟人"],
-    "social_link": "https://github.com/advent259141",
-    "pinned": true
+    "social_link": "https://github.com/advent259141"
   },
   "cngal_search": {
     "desc": "CnGal查询",
