@@ -26,8 +26,8 @@
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
     "social_link": "https://github.com/miaoxutao123",
     "tags": [],
-    "stars": 5,
-    "updated_at": "2025-10-25T08:53:32Z",
+    "stars": 6,
+    "updated_at": "2025-10-26T14:30:23Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_zhanbu": {
@@ -150,8 +150,8 @@
       "视频",
       "sora"
     ],
-    "stars": 19,
-    "updated_at": "2025-10-26T01:35:01Z",
+    "stars": 20,
+    "updated_at": "2025-10-26T14:58:26Z",
     "version": "v1.2.5"
   },
   "astrbot_gengtu": {
@@ -360,7 +360,7 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 4,
-    "updated_at": "2025-10-26T13:31:22Z",
+    "updated_at": "2025-10-26T14:53:07Z",
     "version": "1.2.9"
   },
   "astrbot_plugin_33recognition": {
@@ -745,7 +745,7 @@
       "fishing"
     ],
     "stars": 14,
-    "updated_at": "2025-10-26T14:09:36Z",
+    "updated_at": "2025-10-26T14:33:08Z",
     "version": "2.3.6"
   },
   "astrbot_plugin_astrmetry": {
