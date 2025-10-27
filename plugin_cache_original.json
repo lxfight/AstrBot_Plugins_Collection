@@ -172,8 +172,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-10-20T17:57:00Z",
-    "version": "v0.3.0"
+    "updated_at": "2025-10-27T09:42:55Z",
+    "version": "v0.4.0"
   },
   "astrbot_plugin_timeline": {
     "desc": "一个非常简单的插件，在请求中插入当前时间",
@@ -2701,7 +2701,7 @@
     "repo": "https://github.com/piexian/astrbot_plugin_rg",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-07-15T07:19:09Z",
+    "updated_at": "2025-10-27T10:24:31Z",
     "version": "v1.4.0"
   },
   "echo_avatar": {
@@ -3840,7 +3840,7 @@
       "知识库"
     ],
     "stars": 66,
-    "updated_at": "2025-10-27T08:11:06Z",
+    "updated_at": "2025-10-27T09:56:17Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
