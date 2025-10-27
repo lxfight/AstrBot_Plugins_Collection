@@ -509,8 +509,8 @@
       "文生图",
       "图片生成"
     ],
-    "stars": 0,
-    "updated_at": "2025-09-20T10:40:10Z",
+    "stars": 1,
+    "updated_at": "2025-10-27T03:57:38Z",
     "version": "v1.3"
   },
   "mcstatus": {
@@ -745,8 +745,8 @@
       "fishing"
     ],
     "stars": 14,
-    "updated_at": "2025-10-26T14:33:08Z",
-    "version": "2.3.6"
+    "updated_at": "2025-10-27T04:00:22Z",
+    "version": "2.3.7"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
