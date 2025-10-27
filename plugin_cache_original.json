@@ -114,8 +114,8 @@
       "nobroswer"
     ],
     "pinned": true,
-    "stars": 4,
-    "updated_at": "2025-10-26T18:59:01Z",
+    "stars": 5,
+    "updated_at": "2025-10-27T00:03:57Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_fetch_summary": {
@@ -126,8 +126,8 @@
       "summary"
     ],
     "social_link": "https://github.com/cumany",
-    "stars": 0,
-    "updated_at": "2025-10-25T06:18:16Z",
+    "stars": 1,
+    "updated_at": "2025-10-27T01:29:26Z",
     "version": "1.2.0"
   },
   "astrbot_plugin_sora": {
@@ -1614,7 +1614,7 @@
     ],
     "social_link": "https://github.com/kjqwer",
     "stars": 6,
-    "updated_at": "2025-10-22T07:44:32Z",
+    "updated_at": "2025-10-27T00:03:49Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_lark_send_patcher": {
@@ -6308,7 +6308,7 @@
       "搬史"
     ],
     "stars": 431,
-    "updated_at": "2025-10-26T13:53:53Z",
+    "updated_at": "2025-10-27T01:22:29Z",
     "version": "v0.915"
   },
   "astrbot_plugin_superpoke": {
