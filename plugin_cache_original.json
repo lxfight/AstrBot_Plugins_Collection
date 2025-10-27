@@ -745,8 +745,8 @@
       "fishing"
     ],
     "stars": 14,
-    "updated_at": "2025-10-27T04:00:22Z",
-    "version": "2.3.7"
+    "updated_at": "2025-10-27T15:25:56Z",
+    "version": "2.3.8"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -2847,8 +2847,8 @@
     ],
     "social_link": "https://blog.jojo.host/",
     "stars": 3,
-    "updated_at": "2025-10-23T02:52:54Z",
-    "version": "v0.0.4"
+    "updated_at": "2025-10-27T15:43:33Z",
+    "version": "v0.0.5"
   },
   "astrbot_plugin_ip_proxy": {
     "desc": "一个将HTTP代理API转换为本地代理的AstrBot插件",
