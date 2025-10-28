@@ -3818,8 +3818,8 @@
       "生图",
       "函数工具"
     ],
-    "stars": 11,
-    "updated_at": "2025-09-25T06:12:24Z",
+    "stars": 10,
+    "updated_at": "2025-10-28T10:09:30Z",
     "version": "v1.5.0"
   },
   "astrbot_plugin_dzmm": {
@@ -4244,8 +4244,8 @@
       "戳一戳"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 32,
-    "updated_at": "2025-10-14T12:24:39Z",
+    "stars": 33,
+    "updated_at": "2025-10-28T10:16:44Z",
     "version": "v1.1.3"
   },
   "astrbot_plugin_jm_cosmos": {
@@ -5578,8 +5578,8 @@
     "repo": "https://github.com/xiewoc/astrbot_plugin_file_reader",
     "social_link": "https://github.com/xiewoc",
     "tags": [],
-    "stars": 4,
-    "updated_at": "2025-09-01T07:23:04Z",
+    "stars": 3,
+    "updated_at": "2025-10-28T10:09:28Z",
     "version": "v1.0.2"
   },
   "encrypt-and-decrypt": {
