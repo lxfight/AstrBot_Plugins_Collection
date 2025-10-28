@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_mcgetter_enhanced": {
+    "display_name": "mcgetter-enhanced",
+    "desc": "查询 MC 服务器信息和玩家列表, 在线人数柱状图渲染为图片, 修改自 QiChen 的 mcgetter",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/astrbot_mcgetter_enhanced"
+  },
+  "astrbot_plugin_minecraftskin": {
+    "display_name": "Minecraft Skin 查询",
+    "desc": "从 API 查询我的世界玩家皮肤信息（skin、uuid、渲染等）。",
+    "author": "BvzRays",
+    "repo": "https://github.com/bvzrays/astrbot_plugin_minecraftskin",
+    "tags": [
+      "minecraft",
+      "我的世界"
+    ],
+    "social_link": "https://github.com/bvzrays"
+  },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
     "desc": "一个能让 AI 自主决定 SMTP 发送邮件的函数工具。此外，还支持服务器内存告警和 NapCat 下线告警。",
@@ -24,6 +41,12 @@
     "author": "RC-CHN",
     "repo": "https://github.com/RC-CHN/astrbot_plugin_ragflow_adapter"
   },
+  "astrbot_plugin_genie-tts": {
+    "desc": "基于 Genie TTS 的语音合成插件",
+    "author": "victical",
+    "repo": "https://github.com/victical/astrbot_plugin_genie-tts",
+    "tags": ["TTS","日语"]
+  },
   "astrbot_plugin_jimengapi": {
     "display_name": "即梦 API",
     "desc": "对接即梦2 API，支持生图，图生图与文生视频",
@@ -35,6 +58,25 @@
     "author": "喵喵",
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
     "social_link": "https://github.com/miaoxutao123"
+  },
+  "astrbot_plugin_violation_record": {
+    "desc": "QQ 查询账号违规记录插件",
+    "author": "Futureppo",
+    "repo": "https://github.com/Futureppo/astrbot_plugin_violation_record",
+    "tags": [
+      "查违规"
+    ],
+    "social_link": "https://github.com/Futureppo"
+  },
+  "zhiyu-astrbot-qqaiavatar": {
+    "desc": "一款AI解读QQ头像的AstrBot插件",
+    "author": "知鱼",
+    "repo": "https://github.com/ovoox/zhiyu-astrbot-aiqqavatar",
+    "tags": [
+      "AI",
+      "头像"
+    ],
+    "social_link": "https://github.com/ovoox"
   },
   "astrbot_plugin_zhanbu": {
     "desc": "占卜起数小工具，用于懒人排盘、占卜等，包括但不限于小六壬、梅花易数、塔罗等",
