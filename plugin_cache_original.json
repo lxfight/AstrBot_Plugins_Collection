@@ -2471,8 +2471,8 @@
       "工具"
     ],
     "social_link": "https://astrbot.uk",
-    "stars": 4,
-    "updated_at": "2025-08-31T14:27:29Z",
+    "stars": 5,
+    "updated_at": "2025-10-28T05:42:35Z",
     "version": "v1.2"
   },
   "astrbot_plugin_lanzoucloud": {
@@ -5780,8 +5780,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 56,
-    "updated_at": "2025-10-26T07:51:45Z",
+    "stars": 57,
+    "updated_at": "2025-10-28T05:54:51Z",
     "version": "v3.0.1"
   },
   "astrbot_plugin_saris_economic": {
@@ -6129,8 +6129,8 @@
       "功能",
       "推送"
     ],
-    "stars": 15,
-    "updated_at": "2025-10-11T14:45:41Z",
+    "stars": 16,
+    "updated_at": "2025-10-28T05:52:29Z",
     "version": "v2.1.0"
   },
   "astrbot_plugin_gemini_exp": {
@@ -6954,8 +6954,8 @@
     "author": "枫莹",
     "repo": "https://github.com/FengYing1314/astrbot_plugin_token_auto",
     "tags": [],
-    "stars": 7,
-    "updated_at": "2025-09-06T00:30:49Z",
+    "stars": 8,
+    "updated_at": "2025-10-28T05:54:48Z",
     "version": "v1.3.0"
   },
   "FateTrial_setucontroller": {
