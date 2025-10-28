@@ -793,8 +793,8 @@
       "fishing"
     ],
     "stars": 15,
-    "updated_at": "2025-10-27T19:23:02Z",
-    "version": "2.3.8"
+    "updated_at": "2025-10-28T04:52:36Z",
+    "version": "2.3.9"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -5034,8 +5034,8 @@
     ],
     "social_link": "https://docs.sayu-bot.com/",
     "stars": 21,
-    "updated_at": "2025-10-10T03:15:27Z",
-    "version": "v0.4.1"
+    "updated_at": "2025-10-28T05:18:33Z",
+    "version": "v0.4.2"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
