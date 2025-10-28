@@ -1463,8 +1463,8 @@
       "rag"
     ],
     "stars": 25,
-    "updated_at": "2025-10-28T15:24:27Z",
-    "version": "1.4.0"
+    "updated_at": "2025-10-28T15:26:47Z",
+    "version": "1.4.2"
   },
   "astrbot_plugin_mathitools": {
     "desc": "基于mpmath&eval的简易数学表达式支持",
