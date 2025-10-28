@@ -6,8 +6,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_mcgetter_enhanced",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-10-28T11:44:11Z",
-    "version": "v1.1.0"
+    "updated_at": "2025-10-28T17:02:51Z",
+    "version": "v1.2.0"
   },
   "astrbot_plugin_minecraftskin": {
     "display_name": "Minecraft Skin 查询",
@@ -1567,8 +1567,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 36,
-    "updated_at": "2025-10-28T06:53:24Z",
+    "stars": 37,
+    "updated_at": "2025-10-28T17:13:49Z",
     "version": "v2.8.0"
   },
   "astrbot_plugin_boss_notifier": {
