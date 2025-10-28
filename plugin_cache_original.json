@@ -1,4 +1,29 @@
 {
+  "astrbot_plugin_email_tool": {
+    "display_name": "SMTP 邮件小工具",
+    "desc": "一个能让 AI 自主决定 SMTP 发送邮件的函数工具。此外，还支持服务器内存告警和 NapCat 下线告警。",
+    "author": "Chris",
+    "repo": "https://github.com/Chris95743/astrbot_plugin_email_tool",
+    "tags": [
+      "邮件",
+      "告警"
+    ],
+    "social_link": "https://gbkgov.cn",
+    "stars": 2,
+    "updated_at": "2025-10-28T01:33:28Z",
+    "version": "v1.0.0"
+  },
+  "astrbot_plugin_tts_sanitizer": {
+    "desc": "TTS 文本过滤插件，自动过滤颜文字、特殊符号等不适合语音朗读的内容",
+    "author": "柯尔",
+    "repo": "https://github.com/Luna-channel/astrbot_plugin_tts_sanitizer",
+    "tags": [
+      "TTS"
+    ],
+    "stars": 0,
+    "updated_at": "2025-10-22T13:16:59Z",
+    "version": "v0.3"
+  },
   "astrbot_plugin_github_monitor_shell": {
     "desc": "定时监控 GitHub 仓库 Commit 变化并发送通知",
     "author": "Shell",
@@ -19,6 +44,16 @@
     "stars": 5,
     "updated_at": "2025-10-27T02:12:59Z",
     "version": "v0.2"
+  },
+  "astrbot_plugin_jimengapi": {
+    "display_name": "即梦 API",
+    "desc": "对接即梦2 API，支持生图，图生图与文生视频",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/astrbot_plugin_jimengapi",
+    "tags": [],
+    "stars": 1,
+    "updated_at": "2025-10-23T14:30:46Z",
+    "version": "v0.2.0"
   },
   "astrbot_plugin_LLMPerception": {
     "desc": "增强 LLM 环境感知能力：时间、节假日、平台环境感知",
@@ -57,6 +92,19 @@
     "stars": 1,
     "updated_at": "2025-10-24T18:37:40Z",
     "version": "v1.0.0"
+  },
+  "astrbot_plugin_yunsdf": {
+    "name": "yunsdf",
+    "desc": "三角洲改枪码、每日密码等查询插件，支持自定义添加，JSON持久化",
+    "author": "清蒸云鸭",
+    "repo": "https://github.com/WhiteCloudOL/",
+    "tags": [
+      "playwright",
+      "三角洲"
+    ],
+    "social_link": "https://github.com/WhiteCloudOL",
+    "stars": 0,
+    "version": "1.0.0"
   },
   "astrbot_plugin_daily_limit": {
     "desc": "限制用户每日调用大模型的次数",
@@ -832,8 +880,8 @@
       "搜消息"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 4,
-    "updated_at": "2025-10-10T17:36:03Z",
+    "stars": 5,
+    "updated_at": "2025-10-28T04:21:42Z",
     "version": "v1.0.1"
   },
   "scheduled_reply": {
@@ -1502,8 +1550,8 @@
       "wxauto"
     ],
     "social_link": "blog.isla.ltd",
-    "stars": 6,
-    "updated_at": "2025-10-23T07:56:32Z",
+    "stars": 7,
+    "updated_at": "2025-10-28T03:39:17Z",
     "version": "1.2.0"
   },
   "astrbot_plugin_AnimeMagnet": {
