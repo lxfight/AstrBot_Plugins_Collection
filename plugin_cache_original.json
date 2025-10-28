@@ -813,8 +813,8 @@
     "repo": "https://github.com/Chris95743/astrbot_plugin_VITS_pro",
     "social_link": "https://voice.gbkgov.cn",
     "tags": [],
-    "stars": 6,
-    "updated_at": "2025-10-28T12:14:23Z",
+    "stars": 7,
+    "updated_at": "2025-10-28T13:21:58Z",
     "version": "v1.8.0"
   },
   "astrbot_plugin_blacklist_tools": {
@@ -1402,7 +1402,7 @@
       "rag"
     ],
     "stars": 25,
-    "updated_at": "2025-10-25T03:08:26Z",
+    "updated_at": "2025-10-28T13:30:45Z",
     "version": "1.4.0"
   },
   "astrbot_plugin_mathitools": {
