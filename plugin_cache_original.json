@@ -6511,8 +6511,8 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 23,
-    "updated_at": "2025-10-08T14:37:03Z",
-    "version": "v1.3.6"
+    "updated_at": "2025-10-28T00:01:11Z",
+    "version": "v1.3.7"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
