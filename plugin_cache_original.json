@@ -20,7 +20,7 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "stars": 1,
-    "updated_at": "2025-10-29T02:04:02Z",
+    "updated_at": "2025-10-29T06:02:32Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_email_tool": {
@@ -57,8 +57,8 @@
       "实用"
     ],
     "stars": 0,
-    "updated_at": "2025-10-24T10:00:47Z",
-    "version": "1.0.0"
+    "updated_at": "2025-10-29T06:22:18Z",
+    "version": "1.0.1"
   },
   "astrbot_plugin_ragflow_adapter": {
     "desc": "使用 RAGFlow 检索增强生成",
@@ -281,8 +281,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-10-28T17:22:29Z",
-    "version": "v0.5.0"
+    "updated_at": "2025-10-29T06:05:04Z",
+    "version": "v0.8.0"
   },
   "astrbot_plugin_timeline": {
     "desc": "一个非常简单的插件，在请求中插入当前时间",
@@ -4318,8 +4318,8 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 49,
-    "updated_at": "2025-10-29T02:28:05Z",
+    "stars": 50,
+    "updated_at": "2025-10-29T06:15:03Z",
     "version": "1.1.0"
   },
   "astrbot_plugin_combine-messages": {
