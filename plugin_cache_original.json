@@ -57,7 +57,7 @@
       "实用"
     ],
     "stars": 0,
-    "updated_at": "2025-10-29T06:22:18Z",
+    "updated_at": "2025-10-29T09:24:32Z",
     "version": "1.0.1"
   },
   "astrbot_plugin_ragflow_adapter": {
@@ -311,8 +311,8 @@
       "图片"
     ],
     "social_link": "https://github.com/cumany",
-    "stars": 0,
-    "updated_at": "2025-10-20T15:30:41Z",
+    "stars": 1,
+    "updated_at": "2025-10-29T10:09:20Z",
     "version": "1.1.0"
   },
   "astrbot_plugin_cxzl": {
@@ -1463,7 +1463,7 @@
       "rag"
     ],
     "stars": 25,
-    "updated_at": "2025-10-29T08:16:30Z",
+    "updated_at": "2025-10-29T09:45:02Z",
     "version": "1.4.2"
   },
   "astrbot_plugin_mathitools": {
@@ -3766,7 +3766,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 60,
-    "updated_at": "2025-10-25T08:27:21Z",
+    "updated_at": "2025-10-29T09:58:53Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_renjian": {
