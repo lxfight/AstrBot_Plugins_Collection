@@ -795,8 +795,8 @@
       "成员查询"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 3,
-    "updated_at": "2025-10-01T15:46:08Z",
+    "stars": 4,
+    "updated_at": "2025-10-29T12:32:29Z",
     "version": "v0.1.0"
   },
   "qftp": {
@@ -854,8 +854,8 @@
       "fishing"
     ],
     "stars": 15,
-    "updated_at": "2025-10-28T04:52:36Z",
-    "version": "2.3.9"
+    "updated_at": "2025-10-29T12:43:04Z",
+    "version": "2.3.10"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -2008,8 +2008,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 28,
-    "updated_at": "2025-10-29T00:54:23Z",
+    "stars": 29,
+    "updated_at": "2025-10-29T11:59:41Z",
     "version": "1.2.8"
   },
   "astrbot_plugin_baiduocr": {
@@ -5841,8 +5841,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 58,
-    "updated_at": "2025-10-28T15:01:13Z",
+    "stars": 59,
+    "updated_at": "2025-10-29T12:43:37Z",
     "version": "v3.0.1"
   },
   "astrbot_plugin_saris_economic": {
