@@ -2766,8 +2766,8 @@
       "宠物"
     ],
     "stars": 6,
-    "updated_at": "2025-10-21T07:57:00Z",
-    "version": "1.5"
+    "updated_at": "2025-10-29T04:43:22Z",
+    "version": "1.6"
   },
   "astrbot_plugin_error_monitor": {
     "desc": "捕获 Immersive Error 抛出的异常，并提供 SMTP 邮件通知进行报告。",
