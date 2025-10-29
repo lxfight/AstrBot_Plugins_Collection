@@ -1108,8 +1108,8 @@
       "主动应答"
     ],
     "social_link": "https://github.com/kawayiYokami",
-    "stars": 16,
-    "updated_at": "2025-10-29T12:55:07Z",
+    "stars": 15,
+    "updated_at": "2025-10-29T14:23:27Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_angel_eye": {
@@ -1243,8 +1243,8 @@
       "LLM增强"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 7,
-    "updated_at": "2025-10-13T09:35:07Z",
+    "stars": 6,
+    "updated_at": "2025-10-29T14:23:27Z",
     "version": "2.0.0"
   },
   "astrbot_plugin_bilibili_up_notifier": {
@@ -1463,7 +1463,7 @@
       "rag"
     ],
     "stars": 25,
-    "updated_at": "2025-10-29T09:45:02Z",
+    "updated_at": "2025-10-29T13:47:48Z",
     "version": "1.4.2"
   },
   "astrbot_plugin_mathitools": {
@@ -6457,8 +6457,8 @@
       "webui",
       "图床"
     ],
-    "stars": 91,
-    "updated_at": "2025-10-27T14:41:19Z",
+    "stars": 90,
+    "updated_at": "2025-10-29T14:23:27Z",
     "version": "v3.13"
   },
   "mccloud_command": {
