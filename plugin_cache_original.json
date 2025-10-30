@@ -69,6 +69,35 @@
     "updated_at": "2025-10-29T08:07:41Z",
     "version": "v0.2"
   },
+  "astrbot_plugin_proactive_chat": {
+    "display_name": "主动消息 (Proactive Chat)",
+    "desc": "一个让Bot能够发起主动消息的插件，拥有上下文感知、动态情绪、免打扰时段和健壮的TTS集成。",
+    "author": "DBJD-CR & Gemini",
+    "repo": "https://github.com/DBJD-CR/astrbot_plugin_proactive_chat",
+    "tags": [
+      "主动消息",
+      "拟人",
+      "TTS"
+    ],
+    "social_link": "https://github.com/DBJD-CR",
+    "stars": 3,
+    "updated_at": "2025-10-29T06:36:40Z",
+    "version": "0.9.7"
+  },
+  "astrbot-plugin-moremorelove": {
+    "desc": "基于 AI 的 Galgame 互动插件，为 AstrBot 提供恋恋的多阶段情感体验",
+    "author": "LumineStory",
+    "repo": "https://github.com/oyxning/astrbot-plugin-moremorelove",
+    "tags": [
+      "Galgame",
+      "恋爱养成",
+      "AI"
+    ],
+    "social_link": "https://github.com/oyxning",
+    "stars": 3,
+    "updated_at": "2025-10-29T11:40:25Z",
+    "version": "0.3.0"
+  },
   "astrbot_plugin_genie-tts": {
     "desc": "基于 Genie TTS 的语音合成插件",
     "author": "victical",
@@ -100,6 +129,18 @@
     "stars": 6,
     "updated_at": "2025-10-26T14:30:23Z",
     "version": "v1.0.0"
+  },
+  "zhiyu-astrbot-zdtyfxx": {
+    "desc": "自动同意所有 QQ 群邀请和 QQ 好友申请并发送消息",
+    "author": "知鱼",
+    "repo": "https://github.com/ovoox/zhiyu-astrbot-zdtyfxx",
+    "tags": [
+      "QQ"
+    ],
+    "social_link": "https://github.com/ovoox",
+    "stars": 0,
+    "updated_at": "2025-10-22T12:20:41Z",
+    "version": "v1.0"
   },
   "astrbot_plugin_violation_record": {
     "desc": "QQ 查询账号违规记录插件",
@@ -1463,8 +1504,8 @@
       "rag"
     ],
     "stars": 25,
-    "updated_at": "2025-10-30T02:47:21Z",
-    "version": "1.5.8"
+    "updated_at": "2025-10-30T08:04:45Z",
+    "version": "1.5.10"
   },
   "astrbot_plugin_mathitools": {
     "desc": "基于mpmath&eval的简易数学表达式支持",
