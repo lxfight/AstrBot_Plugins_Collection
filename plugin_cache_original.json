@@ -56,8 +56,8 @@
       "消息通知",
       "实用"
     ],
-    "stars": 0,
-    "updated_at": "2025-10-29T09:24:32Z",
+    "stars": 1,
+    "updated_at": "2025-10-30T02:34:27Z",
     "version": "1.0.1"
   },
   "astrbot_plugin_ragflow_adapter": {
@@ -1463,8 +1463,8 @@
       "rag"
     ],
     "stars": 25,
-    "updated_at": "2025-10-29T14:37:39Z",
-    "version": "1.5.0"
+    "updated_at": "2025-10-30T02:47:21Z",
+    "version": "1.5.8"
   },
   "astrbot_plugin_mathitools": {
     "desc": "基于mpmath&eval的简易数学表达式支持",
@@ -2661,8 +2661,8 @@
       "服务器",
       "监控"
     ],
-    "stars": 4,
-    "updated_at": "2025-10-29T18:52:39Z",
+    "stars": 5,
+    "updated_at": "2025-10-30T02:04:43Z",
     "version": "v1.1"
   },
   "astrbot_plugin_scheduler": {
@@ -3765,8 +3765,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 61,
-    "updated_at": "2025-10-29T10:46:25Z",
+    "stars": 62,
+    "updated_at": "2025-10-30T02:17:56Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_renjian": {
@@ -4171,7 +4171,7 @@
     ],
     "stars": 5,
     "updated_at": "2025-08-25T14:51:37Z",
-    "version": "v1.0.3"
+    "version": "1.0.0"
   },
   "astrbot_plugin_emoji_like": {
     "author": "Zhalslar",
@@ -6105,8 +6105,8 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 51,
-    "updated_at": "2025-10-26T06:41:36Z",
+    "stars": 52,
+    "updated_at": "2025-10-30T02:32:36Z",
     "version": "v0.2.13"
   },
   "astrbot_plugin_sjzb": {
