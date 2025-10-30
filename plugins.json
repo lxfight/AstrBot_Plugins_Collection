@@ -82,6 +82,24 @@
 		"repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
 		"social_link": "https://github.com/miaoxutao123"
 	},
+	"zhiyu-astrbot-business": {
+	  "desc": "一款查询 QQ 业务/名称/开通/到期时间以及自动续费/剩余天数/Q币的AstrBot插件",
+	  "author": "知鱼",
+	  "repo": "https://github.com/ovoox/zhiyu-astrbot-business",
+	  "tags": [
+	    "业务"
+	  ],
+	  "social_link": "https://github.com/ovoox"
+	},
+	"zhiyu-astrbot-sjyy": {
+	  "desc": "一款随机音乐的 AstrBot 插件",
+	  "author": "知鱼",
+	  "repo": "https://github.com/ovoox/zhiyu-astrbot-sjyy",
+	  "tags": [
+	    "音乐"
+	  ],
+	  "social_link": "https://github.com/ovoox"
+	},
 	"zhiyu-astrbot-zdtyfxx": {
 		"desc": "自动同意所有 QQ 群邀请和 QQ 好友申请并发送消息",
 		"author": "知鱼",
