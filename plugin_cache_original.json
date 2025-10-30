@@ -1048,8 +1048,8 @@
     "tags": [
       "galgame"
     ],
-    "stars": 2,
-    "updated_at": "2025-10-25T23:19:33Z",
+    "stars": 3,
+    "updated_at": "2025-10-30T01:35:14Z",
     "version": "v1.2"
   },
   "astrbot_plugins_steam_shop_price": {
@@ -1866,8 +1866,8 @@
       "motd"
     ],
     "stars": 3,
-    "updated_at": "2025-10-02T09:17:26Z",
-    "version": "v1.7.0"
+    "updated_at": "2025-10-30T01:31:06Z",
+    "version": "v2.0.0"
   },
   "astrbot-plugin-huaer-bot": {
     "desc": "基于 SiliconFlow API 的多组群聊天插件，支持人格设定、Markdown 显示、联网搜索、检索增强生成（RAG）等功能",
@@ -2166,7 +2166,7 @@
     "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry_jtwzbq",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-08-20T13:37:06Z",
+    "updated_at": "2025-10-30T00:34:58Z",
     "version": "v2.0.0"
   },
   "astrbot_plugin_index_tts": {
