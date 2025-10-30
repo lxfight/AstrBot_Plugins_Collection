@@ -16,6 +16,13 @@
 		],
 		"social_link": "https://github.com/bvzrays"
 	},
+	"astrbot_plugin_cstatscheck": {
+	  "display_name": "cstatscheck",
+	  "desc": "这是一个能查询 CS 战绩（仅支持 5e 平台）的插件，并让大模型评价评价你打得怎么样",
+	  "author": "bdbd2yy",
+	  "repo": "https://github.com/badbirdy/astrbot_plugin_cstatscheck",
+	  "tags": ["CS", "5e", "战绩"]
+	},
 	"astrbot_plugin_email_tool": {
 		"display_name": "SMTP 邮件小工具",
 		"desc": "一个能让 AI 自主决定 SMTP 发送邮件的函数工具。此外，还支持服务器内存告警和 NapCat 下线告警。",
@@ -23,6 +30,25 @@
 		"repo": "https://github.com/Chris95743/astrbot_plugin_email_tool",
 		"tags": ["邮件", "告警"],
 		"social_link": "https://gbkgov.cn"
+	},
+	"astrbot_plugin_onelastimage": {
+	  "display_name": "One Last Kiss 图片生成器",
+	  "desc": "One Last Kiss 卢浮宫风格图片生成器",
+	  "author": "timetetng",
+	  "repo": "https://github.com/timetetng/astrbot_plugin_onelastimage",
+	  "tags": ["图片生成"]
+	},
+	"astrbot_plugin_decode_qrcode": {
+	  "display_name": "DecodeQRCode",
+	  "desc": "基于 OpenCV 的微信开源二维码解码模块，识别图片中的二维码并返回解码结果",
+	  "author": "Sukafon",
+	  "repo": "https://github.com/sukafon/astrbot_plugin_decode_qrcode",
+	  "tags": ["二维码", "解码"]
+	},
+	"astrbot_plugin_gemini-image": {
+	  "desc": "通过 gcli2api(gemini api) 对接 Gemini 生图/改图并发送到 QQ",
+	  "author": "薄暝",
+	  "repo": "https://github.com/xiaoxi68/astrbot_plugin_gemini_image"
 	},
 	"astrbot_plugin_tts_sanitizer": {
 		"desc": "TTS 文本过滤插件，自动过滤颜文字、特殊符号等不适合语音朗读的内容",
@@ -81,6 +107,13 @@
 		"author": "喵喵",
 		"repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
 		"social_link": "https://github.com/miaoxutao123"
+	},
+	"astrbot_plugin_jietu": {
+	  "desc": "戳一戳截图，适用于win直接部署，可用作状态监控",
+	  "author": "BvzRays",
+	  "repo": "https://github.com/bvzrays/astrbot_plugin_jietu",
+	  "tags": ["QQ", "status"],
+	  "social_link": "https://github.com/bvzrays"
 	},
 	"zhiyu-astrbot-business": {
 	  "desc": "一款查询 QQ 业务/名称/开通/到期时间以及自动续费/剩余天数/Q币的AstrBot插件",
