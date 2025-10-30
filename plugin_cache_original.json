@@ -142,8 +142,8 @@
       "AI"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 3,
-    "updated_at": "2025-10-29T11:40:25Z",
+    "stars": 4,
+    "updated_at": "2025-10-30T20:52:35Z",
     "version": "0.3.0"
   },
   "astrbot_plugin_genie-tts": {
@@ -882,8 +882,8 @@
     "tags": [
       "合并消息分析与回复"
     ],
-    "stars": 4,
-    "updated_at": "2025-10-07T09:02:05Z",
+    "stars": 5,
+    "updated_at": "2025-10-30T20:48:11Z",
     "version": "1.1.1"
   },
   "zhiyu-astrbot-qqquery": {
@@ -921,8 +921,8 @@
       "成员查询"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 4,
-    "updated_at": "2025-10-29T12:32:29Z",
+    "stars": 5,
+    "updated_at": "2025-10-30T20:48:38Z",
     "version": "v0.1.0"
   },
   "qftp": {
@@ -1552,8 +1552,8 @@
     "tags": [
       "音乐"
     ],
-    "stars": 4,
-    "updated_at": "2025-09-20T12:12:55Z",
+    "stars": 5,
+    "updated_at": "2025-10-30T20:49:46Z",
     "version": "2.1.1"
   },
   "astrbot_plugin_slg": {
@@ -1724,8 +1724,8 @@
       "api",
       "表情包"
     ],
-    "stars": 9,
-    "updated_at": "2025-10-27T08:08:09Z",
+    "stars": 10,
+    "updated_at": "2025-10-30T20:40:36Z",
     "version": "v1.0.1"
   },
   "wxauto_repost": {
@@ -3595,8 +3595,8 @@
     ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
-    "stars": 24,
-    "updated_at": "2025-10-21T22:50:35Z",
+    "stars": 25,
+    "updated_at": "2025-10-30T20:32:34Z",
     "version": "v1.7.2"
   },
   "astrbot_plugin_reimage": {
@@ -3632,8 +3632,8 @@
     ],
     "social_link": "https://wxp.hk",
     "desc": null,
-    "stars": 1,
-    "updated_at": "2025-08-08T03:01:40Z",
+    "stars": 2,
+    "updated_at": "2025-10-30T21:15:12Z",
     "version": "v1.0"
   },
   "astrobot_send_msg_to_gotify": {
@@ -4086,8 +4086,8 @@
       "监控",
       "服务器"
     ],
-    "stars": 4,
-    "updated_at": "2025-10-22T00:36:01Z",
+    "stars": 5,
+    "updated_at": "2025-10-30T20:55:34Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_mcmod_modsearch": {
