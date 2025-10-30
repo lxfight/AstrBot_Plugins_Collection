@@ -151,7 +151,7 @@
     ],
     "social_link": "https://github.com/ovoox",
     "stars": 0,
-    "updated_at": "2025-10-22T09:32:25Z",
+    "updated_at": "2025-10-30T14:00:16Z",
     "version": "v1.0"
   },
   "zhiyu-astrbot-zdtyfxx": {
@@ -288,8 +288,8 @@
       "nobroswer"
     ],
     "pinned": true,
-    "stars": 7,
-    "updated_at": "2025-10-28T02:36:35Z",
+    "stars": 8,
+    "updated_at": "2025-10-30T14:16:44Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_fetch_summary": {
@@ -919,8 +919,8 @@
       "fishing"
     ],
     "stars": 15,
-    "updated_at": "2025-10-29T12:43:04Z",
-    "version": "2.3.10"
+    "updated_at": "2025-10-30T14:09:35Z",
+    "version": "2.3.11"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -1528,7 +1528,7 @@
       "rag"
     ],
     "stars": 26,
-    "updated_at": "2025-10-30T11:20:22Z",
+    "updated_at": "2025-10-30T13:45:51Z",
     "version": "1.5.14"
   },
   "astrbot_plugin_mathitools": {
