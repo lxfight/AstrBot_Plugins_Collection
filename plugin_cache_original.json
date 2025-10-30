@@ -5274,8 +5274,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "stars": 19,
-    "updated_at": "2025-10-08T07:21:45Z",
-    "version": "v1.1.2"
+    "updated_at": "2025-10-30T15:57:08Z",
+    "version": "v1.1.3"
   },
   "astrbot_plugin_csbaoyan": {
     "desc": "计算机保研院校信息查询、通知订阅插件。数据来源于 GitHub CS-BAOYAN (绿群官方)组织。",
@@ -6481,8 +6481,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 443,
-    "updated_at": "2025-10-29T08:46:51Z",
+    "stars": 444,
+    "updated_at": "2025-10-30T16:29:58Z",
     "version": "v0.915"
   },
   "astrbot_plugin_superpoke": {
