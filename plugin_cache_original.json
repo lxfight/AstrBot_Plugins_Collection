@@ -33,8 +33,8 @@
       "告警"
     ],
     "social_link": "https://gbkgov.cn",
-    "stars": 3,
-    "updated_at": "2025-10-28T12:31:01Z",
+    "stars": 4,
+    "updated_at": "2025-10-30T15:22:27Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_tts_sanitizer": {
@@ -151,7 +151,7 @@
     ],
     "social_link": "https://github.com/ovoox",
     "stars": 0,
-    "updated_at": "2025-10-30T14:00:16Z",
+    "updated_at": "2025-10-30T15:13:48Z",
     "version": "v1.0"
   },
   "zhiyu-astrbot-zdtyfxx": {
@@ -3774,8 +3774,8 @@
       "平台适配器",
       "vocechat"
     ],
-    "stars": 5,
-    "updated_at": "2025-10-13T10:09:30Z",
+    "stars": 6,
+    "updated_at": "2025-10-30T14:56:23Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_drift_bottle": {
@@ -4674,8 +4674,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 91,
-    "updated_at": "2025-10-29T11:25:29Z",
+    "stars": 92,
+    "updated_at": "2025-10-30T15:20:54Z",
     "version": "v2.0.4"
   },
   "astrbot_plugin_help": {
