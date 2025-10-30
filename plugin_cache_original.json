@@ -60,7 +60,7 @@
       "图片生成"
     ],
     "stars": 0,
-    "updated_at": "2025-10-29T17:07:07Z",
+    "updated_at": "2025-10-30T20:02:15Z",
     "version": "v1.0"
   },
   "astrbot_plugin_decode_qrcode": {
@@ -3407,8 +3407,8 @@
       "web search"
     ],
     "social_link": "https://github.com/lxfight",
-    "stars": 19,
-    "updated_at": "2025-10-28T13:54:27Z",
+    "stars": 20,
+    "updated_at": "2025-10-30T19:33:45Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_textadventure": {
