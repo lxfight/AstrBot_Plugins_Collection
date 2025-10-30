@@ -1504,7 +1504,7 @@
       "rag"
     ],
     "stars": 25,
-    "updated_at": "2025-10-30T08:04:45Z",
+    "updated_at": "2025-10-30T09:20:59Z",
     "version": "1.5.10"
   },
   "astrbot_plugin_mathitools": {
@@ -4497,8 +4497,8 @@
     "desc": "[仅 aiocqhttp] 基于 zgojin 的群二次元老婆插件修改版。",
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-08-26T06:46:23Z",
+    "stars": 3,
+    "updated_at": "2025-10-30T08:53:04Z",
     "version": "v1.6.1"
   },
   "astrbot_plugin_emojimix": {
@@ -7110,8 +7110,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 138,
-    "updated_at": "2025-10-28T12:34:11Z",
+    "stars": 139,
+    "updated_at": "2025-10-30T08:45:28Z",
     "version": "v0.5.1"
   },
   "FateTrial_img_identify": {
