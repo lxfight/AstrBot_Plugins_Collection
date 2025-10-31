@@ -2877,8 +2877,8 @@
       "健康",
       "娱乐"
     ],
-    "stars": 2,
-    "updated_at": "2025-07-30T14:11:32Z",
+    "stars": 3,
+    "updated_at": "2025-10-31T16:39:50Z",
     "version": "v1.2"
   },
   "astrbot_plugin_pet": {
@@ -2890,8 +2890,8 @@
       "趣味",
       "宠物"
     ],
-    "stars": 6,
-    "updated_at": "2025-10-29T04:43:22Z",
+    "stars": 7,
+    "updated_at": "2025-10-31T16:40:10Z",
     "version": "1.6"
   },
   "astrbot_plugin_error_monitor": {
