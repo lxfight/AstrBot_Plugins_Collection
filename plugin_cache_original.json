@@ -1089,8 +1089,8 @@
       "备货"
     ],
     "stars": 0,
-    "updated_at": "2025-10-31T02:57:01Z",
-    "version": "v0.4.1"
+    "updated_at": "2025-10-31T08:55:12Z",
+    "version": "v0.4.3"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -5341,7 +5341,7 @@
       "ehentai"
     ],
     "stars": 5,
-    "updated_at": "2025-09-30T18:20:26Z",
+    "updated_at": "2025-10-31T08:46:11Z",
     "version": "v3.2"
   },
   "astrbot_plugin_reread": {
@@ -5353,8 +5353,8 @@
       "复读"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
-    "stars": 19,
-    "updated_at": "2025-10-31T06:23:44Z",
+    "stars": 20,
+    "updated_at": "2025-10-31T09:07:38Z",
     "version": "v1.1.4"
   },
   "astrbot_plugin_csbaoyan": {
