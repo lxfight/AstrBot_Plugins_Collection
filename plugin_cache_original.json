@@ -128,8 +128,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 3,
-    "updated_at": "2025-10-29T06:36:40Z",
+    "stars": 4,
+    "updated_at": "2025-10-31T02:03:31Z",
     "version": "0.9.7"
   },
   "astrbot-plugin-moremorelove": {
@@ -1102,8 +1102,8 @@
       "备货"
     ],
     "stars": 0,
-    "updated_at": "2025-10-06T20:13:19Z",
-    "version": "v0.3.6"
+    "updated_at": "2025-10-31T02:57:01Z",
+    "version": "v0.4.1"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -1437,8 +1437,8 @@
       "拟人"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 2,
-    "updated_at": "2025-10-15T11:37:35Z",
+    "stars": 3,
+    "updated_at": "2025-10-31T02:13:47Z",
     "version": "1.0.3"
   },
   "astrbot_plugin_sha": {
@@ -4455,8 +4455,8 @@
     "tags": [
       "主动回复"
     ],
-    "stars": 5,
-    "updated_at": "2025-10-18T00:59:00Z",
+    "stars": 6,
+    "updated_at": "2025-10-31T03:03:37Z",
     "version": "v1.3"
   },
   "astrbot_plugin_broadcast": {
