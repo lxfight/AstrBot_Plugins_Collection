@@ -1426,8 +1426,8 @@
       "拟人"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 3,
-    "updated_at": "2025-10-31T02:13:47Z",
+    "stars": 4,
+    "updated_at": "2025-10-31T10:55:57Z",
     "version": "1.0.3"
   },
   "astrbot_plugin_sha": {
@@ -5083,8 +5083,8 @@
     ],
     "repo": "https://github.com/MoonShadow1976/astrbot_plugin_ExchangeRateQuery",
     "stars": 2,
-    "updated_at": "2025-10-16T05:34:48Z",
-    "version": "v1.3"
+    "updated_at": "2025-10-31T10:38:14Z",
+    "version": "v1.3.1"
   },
   "FavorSystem": {
     "author": "wuyan1003",
