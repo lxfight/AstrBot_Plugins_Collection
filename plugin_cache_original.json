@@ -114,7 +114,7 @@
     "repo": "https://github.com/RC-CHN/astrbot_plugin_ragflow_adapter",
     "tags": [],
     "stars": 6,
-    "updated_at": "2025-10-29T08:07:41Z",
+    "updated_at": "2025-10-31T06:47:15Z",
     "version": "v0.2"
   },
   "astrbot_plugin_proactive_chat": {
@@ -786,20 +786,6 @@
     "social_link": "https://github.com/ovoox",
     "stars": 0,
     "updated_at": "2025-10-22T09:30:21Z",
-    "version": "v1.0"
-  },
-  "zhiyu-astrbot-beautyvideo": {
-    "desc": "一款随机美女视频的AstrBot插件",
-    "author": "知鱼",
-    "repo": "https://github.com/ovoox/zhiyu-astrbot-beautyvideo",
-    "tags": [
-      "美女",
-      "视频",
-      "美女视频"
-    ],
-    "social_link": "https://github.com/ovoox",
-    "stars": 1,
-    "updated_at": "2025-10-26T02:04:39Z",
     "version": "v1.0"
   },
   "astrbot_plugin_simulation-xiuxian": {
@@ -6745,8 +6731,8 @@
     "author": "kjqwdw",
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
-    "stars": 24,
-    "updated_at": "2025-10-28T23:55:02Z",
+    "stars": 25,
+    "updated_at": "2025-10-31T06:59:59Z",
     "version": "v1.3.9"
   },
   "ai_memory": {
