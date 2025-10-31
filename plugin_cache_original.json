@@ -1068,7 +1068,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 4,
-    "updated_at": "2025-10-28T08:16:37Z",
+    "updated_at": "2025-10-31T00:53:11Z",
     "version": "v1.0.1"
   },
   "scheduled_reply": {
@@ -1644,7 +1644,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 1,
-    "updated_at": "2025-09-22T04:31:53Z",
+    "updated_at": "2025-10-31T00:40:51Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_keywordsreply": {
@@ -1784,7 +1784,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 8,
-    "updated_at": "2025-10-08T02:41:40Z",
+    "updated_at": "2025-10-31T00:37:07Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_favourpro": {
@@ -2247,7 +2247,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 6,
-    "updated_at": "2025-09-19T00:56:56Z",
+    "updated_at": "2025-10-31T01:12:38Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_image_summary": {
@@ -2340,7 +2340,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 20,
-    "updated_at": "2025-10-15T03:59:05Z",
+    "updated_at": "2025-10-31T00:37:20Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_matchreminder": {
@@ -3596,7 +3596,7 @@
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
     "stars": 25,
-    "updated_at": "2025-10-30T20:32:34Z",
+    "updated_at": "2025-10-31T00:36:33Z",
     "version": "v1.7.2"
   },
   "astrbot_plugin_reimage": {
@@ -4212,7 +4212,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 33,
-    "updated_at": "2025-10-19T12:44:37Z",
+    "updated_at": "2025-10-31T00:45:52Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_Kanalyse": {
@@ -5135,7 +5135,7 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
     "stars": 16,
-    "updated_at": "2025-10-24T15:21:40Z",
+    "updated_at": "2025-10-31T00:36:09Z",
     "version": "v2.0.2"
   },
   "astrbot_plugin_sensoji_pro": {
@@ -5441,7 +5441,7 @@
       "QQ群管"
     ],
     "stars": 58,
-    "updated_at": "2025-10-30T17:44:03Z",
+    "updated_at": "2025-10-31T00:55:32Z",
     "version": "v3.1.7"
   },
   "astrbot_plugin_liars_bar": {
@@ -5573,7 +5573,7 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_mcping",
     "stars": 8,
-    "updated_at": "2025-09-05T05:44:35Z",
+    "updated_at": "2025-10-31T01:01:16Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_lorebook_lite": {
