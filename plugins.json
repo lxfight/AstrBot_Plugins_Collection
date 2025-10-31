@@ -487,13 +487,6 @@
 		"tags": ["违规", "查询", "违规记录"],
 		"social_link": "https://github.com/ovoox"
 	},
-	"zhiyu-astrbot-beautyvideo": {
-		"desc": "一款随机美女视频的AstrBot插件",
-		"author": "知鱼",
-		"repo": "https://github.com/ovoox/zhiyu-astrbot-beautyvideo",
-		"tags": ["美女", "视频", "美女视频"],
-		"social_link": "https://github.com/ovoox"
-	},
 	"astrbot_plugin_simulation-xiuxian": {
 		"desc": "一个简单的文字模拟修仙插件",
 		"author": "Victical",
