@@ -34,7 +34,7 @@
       "战绩"
     ],
     "stars": 2,
-    "updated_at": "2025-11-01T08:00:57Z",
+    "updated_at": "2025-11-01T09:05:04Z",
     "version": "v1.0"
   },
   "astrbot_plugin_email_tool": {
@@ -2082,8 +2082,8 @@
     ],
     "social_link": "https://github.com/Futureppo",
     "stars": 2,
-    "updated_at": "2025-10-25T11:02:00Z",
-    "version": "v1.0.2"
+    "updated_at": "2025-11-01T09:08:29Z",
+    "version": "v1.0.3"
   },
   "astrbot_plugin_immersive_control": {
     "desc": "🎮 给 AI 植入神奇小玩具的娱乐插件，3分钟沉浸式互动体验。",
@@ -3352,7 +3352,7 @@
     "social_link": "https://github.com/railgun19457",
     "tags": [],
     "stars": 3,
-    "updated_at": "2025-11-01T08:15:38Z",
+    "updated_at": "2025-11-01T09:12:27Z",
     "version": "v1.4"
   },
   "astrbot_plugin_check-dst-room": {
@@ -4443,8 +4443,8 @@
       "戳一戳"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 33,
-    "updated_at": "2025-10-31T06:19:58Z",
+    "stars": 34,
+    "updated_at": "2025-11-01T08:41:19Z",
     "version": "v1.1.4"
   },
   "astrbot_plugin_jm_cosmos": {
