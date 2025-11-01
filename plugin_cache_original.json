@@ -301,8 +301,8 @@
       "实用"
     ],
     "stars": 3,
-    "updated_at": "2025-11-01T08:04:30Z",
-    "version": "v2.4.3"
+    "updated_at": "2025-11-01T11:18:38Z",
+    "version": "v2.4.4"
   },
   "astrbot_plugin_acm_helper": {
     "desc": "功能强大的 ACM 训练辅助插件。它能够自动追踪成员在 Codeforces 和洛谷的刷题动态，提供实时排名，并通过一个直观的排行榜。让每一次提交，都留下印记。",
@@ -407,7 +407,7 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-11-01T09:57:38Z",
+    "updated_at": "2025-11-01T11:13:41Z",
     "version": "v0.8.0"
   },
   "astrbot_plugin_timeline": {
@@ -5620,8 +5620,8 @@
       "安全"
     ],
     "stars": 3,
-    "updated_at": "2025-11-01T08:04:30Z",
-    "version": "v2.4.3"
+    "updated_at": "2025-11-01T11:18:38Z",
+    "version": "v2.4.4"
   },
   "JmCli": {
     "desc": "JM命令行工具，提供下载和带封面的查询搜索功能，输入jm_help查看用法",
