@@ -407,8 +407,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-11-01T11:13:41Z",
-    "version": "v0.8.0"
+    "updated_at": "2025-11-01T12:35:35Z",
+    "version": "v1.0.0"
   },
   "astrbot_plugin_timeline": {
     "desc": "一个非常简单的插件，在请求中插入当前时间",
@@ -4927,8 +4927,8 @@
     "desc": "简单的五子棋对战游戏",
     "repo": "https://github.com/bigshabei/astrbot_plugin_wuziqi",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-08-14T14:31:56Z",
+    "stars": 4,
+    "updated_at": "2025-11-01T12:30:24Z",
     "version": "2.0.0"
   },
   "astrbot_plugin_dogdiary": {
@@ -6558,8 +6558,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 448,
-    "updated_at": "2025-11-01T04:00:38Z",
+    "stars": 450,
+    "updated_at": "2025-11-01T12:33:36Z",
     "version": "v0.915"
   },
   "astrbot_plugin_superpoke": {
