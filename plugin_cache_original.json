@@ -140,8 +140,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 6,
-    "updated_at": "2025-11-01T13:28:20Z",
+    "stars": 7,
+    "updated_at": "2025-11-02T12:34:44Z",
     "version": "0.9.7"
   },
   "astrbot-plugin-moremorelove": {
@@ -484,8 +484,8 @@
     ],
     "social_link": "https://www.misakanet.site",
     "stars": 4,
-    "updated_at": "2025-11-02T09:10:59Z",
-    "version": "v1.1"
+    "updated_at": "2025-11-02T12:22:49Z",
+    "version": "v1.2"
   },
   "astrbot_plugin_sticker": {
     "desc": "doro、capoo、cheshire、chiikawa四大表情包发送",
@@ -1696,8 +1696,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 39,
-    "updated_at": "2025-11-02T09:39:59Z",
-    "version": "v3.0.0"
+    "updated_at": "2025-11-02T12:14:36Z",
+    "version": "v3.1.0"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -6571,7 +6571,7 @@
       "搬史"
     ],
     "stars": 452,
-    "updated_at": "2025-11-02T11:21:32Z",
+    "updated_at": "2025-11-02T11:38:08Z",
     "version": "v0.915"
   },
   "astrbot_plugin_superpoke": {
