@@ -16,15 +16,14 @@
 		],
 		"social_link": "https://github.com/bvzrays"
 	},
-	{
-	  "name": "astrbot_plugin_cs_skins",
+	"astrbot_plugin_cs_skins": {
 	  "display_name": "CS 饰品查询",
 	  "desc": "通过 CSQAQ 的 API 进行调用，获取饰品的信息。",
 	  "author": "wsryhc",
 	  "repo": "https://github.com/wsryhc/astrbot_plugin_cs_skins",
 	  "tags": [
 	    "cs"
-	  ],
+	  ]
 	},
 	"astrbot_plugin_cstatscheck": {
 	  "display_name": "cstatscheck",
