@@ -186,8 +186,8 @@
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
     "social_link": "https://github.com/miaoxutao123",
     "tags": [],
-    "stars": 6,
-    "updated_at": "2025-10-26T14:30:23Z",
+    "stars": 7,
+    "updated_at": "2025-11-02T09:22:48Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_jietu": {
@@ -552,9 +552,9 @@
       "娱乐"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 2,
-    "updated_at": "2025-10-21T08:58:18Z",
-    "version": "v2.0"
+    "stars": 3,
+    "updated_at": "2025-11-02T07:53:54Z",
+    "version": "v2.1"
   },
   "astrbot_plugin_owcx": {
     "name": "astrbot_plugin_owcx",
@@ -681,8 +681,8 @@
       "Image"
     ],
     "social_link": "https://zhxwu.com",
-    "stars": 0,
-    "updated_at": "2025-10-24T18:24:14Z",
+    "stars": 1,
+    "updated_at": "2025-11-02T09:22:55Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_auto_approve_all": {
@@ -1696,8 +1696,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 39,
-    "updated_at": "2025-11-02T01:36:25Z",
-    "version": "v2.8.0"
+    "updated_at": "2025-11-02T09:23:15Z",
+    "version": "v2.9.0"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -1816,8 +1816,8 @@
     "repo": "https://github.com/3451996649/astrbot_plugin_ms_aiimg",
     "tags": [],
     "stars": 3,
-    "updated_at": "2025-10-02T13:36:51Z",
-    "version": "v1.0"
+    "updated_at": "2025-11-02T09:25:27Z",
+    "version": "v1.2"
   },
   "asbot_plugin_furry_mzxyy": {
     "desc": "毛主席一言",
@@ -2876,7 +2876,7 @@
     ],
     "social_link": "https://github.com/EIA2024",
     "stars": 5,
-    "updated_at": "2025-11-01T18:59:52Z",
+    "updated_at": "2025-11-02T07:55:16Z",
     "version": "v1.0"
   },
   "astrbot_plugin_deer_check": {
@@ -5792,7 +5792,7 @@
     "repo": "https://github.com/LonelySky7490/astrbot_plugin_vv_pic",
     "tags": [],
     "stars": 5,
-    "updated_at": "2025-11-01T03:06:30Z",
+    "updated_at": "2025-11-02T09:02:05Z",
     "version": "v0.7"
   },
   "astrbot_plugin_file_reader": {
@@ -6546,8 +6546,8 @@
     "tags": [
       "功能"
     ],
-    "stars": 16,
-    "updated_at": "2025-11-02T04:18:59Z",
+    "stars": 17,
+    "updated_at": "2025-11-02T07:50:45Z",
     "version": "1.1.0"
   },
   "astrbot_plugin_moyuren": {
