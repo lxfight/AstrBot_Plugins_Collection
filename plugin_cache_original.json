@@ -484,7 +484,7 @@
     ],
     "social_link": "https://www.misakanet.site",
     "stars": 4,
-    "updated_at": "2025-11-01T08:13:03Z",
+    "updated_at": "2025-11-02T09:10:59Z",
     "version": "v1.1"
   },
   "astrbot_plugin_sticker": {
@@ -977,8 +977,8 @@
       "game",
       "fishing"
     ],
-    "stars": 15,
-    "updated_at": "2025-10-30T14:09:35Z",
+    "stars": 16,
+    "updated_at": "2025-11-02T09:53:01Z",
     "version": "2.3.11"
   },
   "astrbot_plugin_astrmetry": {
@@ -1696,8 +1696,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 39,
-    "updated_at": "2025-11-02T09:23:15Z",
-    "version": "v2.9.0"
+    "updated_at": "2025-11-02T09:02:16Z",
+    "version": "v3.0.0"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
