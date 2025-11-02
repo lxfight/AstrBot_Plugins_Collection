@@ -141,8 +141,8 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 7,
-    "updated_at": "2025-11-02T12:34:44Z",
-    "version": "0.9.7"
+    "updated_at": "2025-11-02T12:53:17Z",
+    "version": "0.9.8"
   },
   "astrbot-plugin-moremorelove": {
     "desc": "基于 AI 的 Galgame 互动插件，为 AstrBot 提供恋恋的多阶段情感体验",
@@ -484,7 +484,7 @@
     ],
     "social_link": "https://www.misakanet.site",
     "stars": 4,
-    "updated_at": "2025-11-02T12:22:49Z",
+    "updated_at": "2025-11-02T12:58:30Z",
     "version": "v1.2"
   },
   "astrbot_plugin_sticker": {
@@ -4552,8 +4552,8 @@
     ],
     "repo": "https://github.com/zhewang448/astrbot_plugin_mrfz",
     "stars": 4,
-    "updated_at": "2025-11-02T04:57:06Z",
-    "version": "v3.3.6"
+    "updated_at": "2025-11-02T13:28:16Z",
+    "version": "v3.3.7"
   },
   "astrbot_plugin_napdog_cleaner": {
     "author": "anka",
