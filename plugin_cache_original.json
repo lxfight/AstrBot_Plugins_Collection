@@ -141,7 +141,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 7,
-    "updated_at": "2025-11-02T14:02:22Z",
+    "updated_at": "2025-11-02T14:20:34Z",
     "version": "0.9.8"
   },
   "astrbot-plugin-moremorelove": {
@@ -621,8 +621,8 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "stars": 3,
-    "updated_at": "2025-11-02T04:16:03Z",
-    "version": "v1.3.3"
+    "updated_at": "2025-11-02T15:14:11Z",
+    "version": "v1.3.4"
   },
   "astrbot_plugin_clocc_search": {
     "desc": "网盘资源资源搜索插件，支持关键词自动回复和资源搜索功能。发送以\"搜\"开头的消息（如\"搜关键词\"）即可搜索资源。",
@@ -1052,8 +1052,8 @@
     "author": "ctrlkk",
     "repo": "https://github.com/ctrlkk/astrbot_plugin_admin_tools",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-10-27T05:13:07Z",
+    "stars": 3,
+    "updated_at": "2025-11-02T15:06:05Z",
     "version": "v1.2"
   },
   "astrbot_plugin_msg_search": {
