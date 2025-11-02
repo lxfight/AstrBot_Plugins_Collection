@@ -23,6 +23,18 @@
     "updated_at": "2025-10-29T06:02:32Z",
     "version": "v1.0.0"
   },
+  "astrbot_plugin_cs_skins": {
+    "display_name": "CS 饰品查询",
+    "desc": "通过 CSQAQ 的 API 进行调用，获取饰品的信息。",
+    "author": "wsryhc",
+    "repo": "https://github.com/wsryhc/astrbot_plugin_cs_skins",
+    "tags": [
+      "cs"
+    ],
+    "stars": 1,
+    "updated_at": "2025-11-01T15:18:52Z",
+    "version": "v0.0.1"
+  },
   "astrbot_plugin_cstatscheck": {
     "display_name": "cstatscheck",
     "desc": "这是一个能查询 CS 战绩（仅支持 5e 平台）的插件，并让大模型评价评价你打得怎么样",
@@ -595,8 +607,8 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 5,
-    "updated_at": "2025-11-02T03:11:00Z",
-    "version": "1.3.28"
+    "updated_at": "2025-11-02T03:31:58Z",
+    "version": "1.3.32"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -609,8 +621,8 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "stars": 3,
-    "updated_at": "2025-11-01T17:24:55Z",
-    "version": "v1.3.1"
+    "updated_at": "2025-11-02T04:16:03Z",
+    "version": "v1.3.3"
   },
   "astrbot_plugin_clocc_search": {
     "desc": "网盘资源资源搜索插件，支持关键词自动回复和资源搜索功能。发送以\"搜\"开头的消息（如\"搜关键词\"）即可搜索资源。",
@@ -2335,8 +2347,8 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 20,
-    "updated_at": "2025-10-31T06:20:12Z",
+    "stars": 21,
+    "updated_at": "2025-11-02T04:59:12Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_matchreminder": {
@@ -4539,8 +4551,8 @@
       "语音"
     ],
     "repo": "https://github.com/zhewang448/astrbot_plugin_mrfz",
-    "stars": 3,
-    "updated_at": "2025-11-01T16:05:11Z",
+    "stars": 4,
+    "updated_at": "2025-11-02T04:57:06Z",
     "version": "v3.3.6"
   },
   "astrbot_plugin_napdog_cleaner": {
@@ -6535,8 +6547,8 @@
       "功能"
     ],
     "stars": 16,
-    "updated_at": "2025-10-29T04:31:53Z",
-    "version": "1.0.2"
+    "updated_at": "2025-11-02T04:18:59Z",
+    "version": "1.1.0"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
