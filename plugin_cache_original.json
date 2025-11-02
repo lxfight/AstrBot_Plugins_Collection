@@ -141,7 +141,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 7,
-    "updated_at": "2025-11-02T12:53:17Z",
+    "updated_at": "2025-11-02T14:02:22Z",
     "version": "0.9.8"
   },
   "astrbot-plugin-moremorelove": {
@@ -312,8 +312,8 @@
     "tags": [
       "实用"
     ],
-    "stars": 3,
-    "updated_at": "2025-11-02T07:14:14Z",
+    "stars": 4,
+    "updated_at": "2025-11-02T14:21:16Z",
     "version": "v2.5.1"
   },
   "astrbot_plugin_acm_helper": {
@@ -2356,8 +2356,8 @@
     "author": "LuBanQAQ",
     "repo": "https://github.com/LuBanQAQ/astrbot_plugin_matchreminder",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-10-18T13:22:39Z",
+    "stars": 3,
+    "updated_at": "2025-11-02T13:47:17Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_recall": {
@@ -2998,8 +2998,8 @@
       "主动回复",
       "沉浸式"
     ],
-    "stars": 19,
-    "updated_at": "2025-11-02T05:31:11Z",
+    "stars": 20,
+    "updated_at": "2025-11-02T14:12:46Z",
     "version": "1.4.6"
   },
   "astrbot_plugin_choulaopo": {
@@ -4329,8 +4329,8 @@
       "贴表情"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 11,
-    "updated_at": "2025-10-31T06:16:07Z",
+    "stars": 12,
+    "updated_at": "2025-11-02T14:00:31Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_pock_mini": {
@@ -5631,8 +5631,8 @@
       "工具",
       "安全"
     ],
-    "stars": 3,
-    "updated_at": "2025-11-02T07:14:14Z",
+    "stars": 4,
+    "updated_at": "2025-11-02T14:21:16Z",
     "version": "v2.5.1"
   },
   "JmCli": {
