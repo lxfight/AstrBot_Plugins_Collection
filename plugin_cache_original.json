@@ -1236,7 +1236,7 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 16,
-    "updated_at": "2025-11-01T19:03:47Z",
+    "updated_at": "2025-11-03T17:17:12Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_angel_eye": {
@@ -1249,7 +1249,7 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 6,
-    "updated_at": "2025-11-02T16:46:56Z",
+    "updated_at": "2025-11-03T17:16:51Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_pollinations_images": {
@@ -3184,8 +3184,8 @@
       "鼠鼠"
     ],
     "author": "UyNewNas",
-    "stars": 10,
-    "updated_at": "2025-10-16T14:37:32Z",
+    "stars": 11,
+    "updated_at": "2025-11-03T17:06:00Z",
     "version": "v1.2"
   },
   "astrbot_plugin_LetAI_sendemojis": {
@@ -6459,8 +6459,8 @@
     ],
     "social_link": "https://space.bilibili.com/11874232",
     "tags": [],
-    "stars": 4,
-    "updated_at": "2025-11-03T16:35:06Z",
+    "stars": 5,
+    "updated_at": "2025-11-03T16:40:40Z",
     "version": "v1.1.6"
   },
   "astrbot_plugin_server_status": {
@@ -6827,8 +6827,8 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_rss",
     "tags": [],
-    "stars": 19,
-    "updated_at": "2025-10-24T05:35:51Z",
+    "stars": 20,
+    "updated_at": "2025-11-03T16:39:22Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_bilibili": {
