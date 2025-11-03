@@ -1101,8 +1101,8 @@
       "备货"
     ],
     "stars": 0,
-    "updated_at": "2025-10-31T08:55:12Z",
-    "version": "v0.4.3"
+    "updated_at": "2025-11-03T06:06:24Z",
+    "version": "v0.4.4"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -1696,8 +1696,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 39,
-    "updated_at": "2025-11-03T04:56:20Z",
-    "version": "v3.1.0"
+    "updated_at": "2025-11-03T06:13:17Z",
+    "version": "v3.2.0"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -4866,8 +4866,8 @@
     ],
     "social_link": "https://github.com/gameswu",
     "stars": 9,
-    "updated_at": "2025-08-08T03:55:58Z",
-    "version": "v0.2.1"
+    "updated_at": "2025-11-03T06:01:29Z",
+    "version": "v0.2.2"
   },
   "astrbot_plugin_group_information": {
     "author": "Futureppo",
