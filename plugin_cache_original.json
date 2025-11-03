@@ -978,8 +978,8 @@
       "fishing"
     ],
     "stars": 16,
-    "updated_at": "2025-11-02T09:53:01Z",
-    "version": "2.3.11"
+    "updated_at": "2025-11-03T13:30:53Z",
+    "version": "2.3.12"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -1696,8 +1696,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 40,
-    "updated_at": "2025-11-03T12:10:50Z",
-    "version": "v3.2.0"
+    "updated_at": "2025-11-03T12:59:49Z",
+    "version": "v3.3.0"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -3504,8 +3504,8 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 24,
-    "updated_at": "2025-11-03T10:31:56Z",
+    "stars": 25,
+    "updated_at": "2025-11-03T13:33:56Z",
     "version": "v3.3.0"
   },
   "astrbot_plugin_alistfile": {
@@ -3819,8 +3819,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 31,
-    "updated_at": "2025-10-24T16:04:32Z",
+    "stars": 32,
+    "updated_at": "2025-11-03T12:55:04Z",
     "version": "2.1.8"
   },
   "astrbot_plugin_xiaoxue": {
