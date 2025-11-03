@@ -313,8 +313,8 @@
       "实用"
     ],
     "stars": 4,
-    "updated_at": "2025-11-02T14:21:16Z",
-    "version": "v2.5.1"
+    "updated_at": "2025-11-03T09:17:13Z",
+    "version": "v2.6.0"
   },
   "astrbot_plugin_acm_helper": {
     "desc": "功能强大的 ACM 训练辅助插件。它能够自动追踪成员在 Codeforces 和洛谷的刷题动态，提供实时排名，并通过一个直观的排行榜。让每一次提交，都留下印记。",
@@ -4866,7 +4866,7 @@
     ],
     "social_link": "https://github.com/gameswu",
     "stars": 9,
-    "updated_at": "2025-11-03T08:33:29Z",
+    "updated_at": "2025-11-03T08:40:27Z",
     "version": "v0.2.2"
   },
   "astrbot_plugin_group_information": {
@@ -5632,8 +5632,8 @@
       "安全"
     ],
     "stars": 4,
-    "updated_at": "2025-11-02T14:21:16Z",
-    "version": "v2.5.1"
+    "updated_at": "2025-11-03T09:17:13Z",
+    "version": "v2.6.0"
   },
   "JmCli": {
     "desc": "JM命令行工具，提供下载和带封面的查询搜索功能，输入jm_help查看用法",
