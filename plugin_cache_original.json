@@ -419,8 +419,8 @@
       "pic",
       "nobroswer"
     ],
-    "stars": 9,
-    "updated_at": "2025-11-03T12:41:06Z",
+    "stars": 10,
+    "updated_at": "2025-11-04T13:28:01Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_fetch_summary": {
@@ -1293,7 +1293,7 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 16,
-    "updated_at": "2025-11-03T17:17:12Z",
+    "updated_at": "2025-11-04T13:14:47Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_angel_eye": {
@@ -1753,8 +1753,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 43,
-    "updated_at": "2025-11-04T11:03:15Z",
-    "version": "v3.4.2"
+    "updated_at": "2025-11-04T13:23:31Z",
+    "version": "v3.5.0"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -1783,8 +1783,8 @@
       "api",
       "表情包"
     ],
-    "stars": 10,
-    "updated_at": "2025-10-30T20:40:36Z",
+    "stars": 11,
+    "updated_at": "2025-11-04T13:15:48Z",
     "version": "v1.0.1"
   },
   "wxauto_repost": {
