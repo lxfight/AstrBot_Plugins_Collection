@@ -1158,8 +1158,8 @@
       "备货"
     ],
     "stars": 0,
-    "updated_at": "2025-11-03T06:06:24Z",
-    "version": "v0.4.4"
+    "updated_at": "2025-11-04T05:09:34Z",
+    "version": "v0.4.5"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -4820,8 +4820,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 93,
-    "updated_at": "2025-10-31T06:13:13Z",
+    "stars": 94,
+    "updated_at": "2025-11-04T04:51:34Z",
     "version": "v2.0.5"
   },
   "astrbot_plugin_help": {
