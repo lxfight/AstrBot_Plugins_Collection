@@ -1,4 +1,30 @@
 {
+	"astrbot_plugin_Conversa": {
+	  "display_name": "Conversa 主动回复插件",
+	  "desc": "Conversa 能够让 AI 在会话沉寂一段时间后，像真人一样重新发起聊天，或者在每日的特定时间点送上问候，或以自然的方式进行定时提醒。",
+	  "author": "柯尔",
+	  "repo": "https://github.com/Luna-channel/astrbot_plugin_Conversa",
+	  "tags": ["主动回复", "智能定时提醒", "自动续聊"],
+	  "social_link": "https://github.com/Luna-channel"
+	},
+	"astrbot_plugin_shutdown": {
+	  "display_name": "定时关闭 LLM 服务",
+	  "desc": "用命令或者配置定时关闭 AstrBot 服务 LLM",  
+	  "author": "Sjshi763", 
+	  "repo": "https://github.com/Sjshi763/astrbot_plugin_shutdown"
+	},
+	"astrbot_plugin_group_chat_plus": {
+	  "display_name": "chat_plus",
+	  "desc": "一个以 AI 读空气为主的群聊聊天效果增强插件",
+	  "author": "Him666233",
+	  "repo": "https://github.com/Him666233/astrbot_plugin_group_chat_plus",
+	  "tags": [
+	    "读空气",
+	    "群聊增强",
+	    "主动回复"
+	  ],
+	  "social_link": "https://github.com/Him666233"
+	},
 	"astrbot_plugin_mcgetter_enhanced": {
 		"display_name": "mcgetter-enhanced",
 		"desc": "查询 MC 服务器信息和玩家列表, 在线人数柱状图渲染为图片, 修改自 QiChen 的 mcgetter",
@@ -15,6 +41,17 @@
 			"我的世界"
 		],
 		"social_link": "https://github.com/bvzrays"
+	},
+	"astrbot_plugin_namepossession": {
+	  "display_name": "namepossession",
+	  "desc": "[QQ] 随机夺舍 QQ 群友名字（群名）。",
+	  "author": "薄暝",
+	  "repo": "https://github.com/xiaoxi68/astrbot_plugin_namepossession"
+	},
+	"astrbot_plugin_llm_qqgroupTools": {
+	  "desc": "[QQ] 允许LLM自主管理群聊，包括全群禁言和设置群成员名片等功能，当然也可以命令它",
+	  "author": "SatenShiroya",
+	  "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools"
 	},
 	"astrbot_plugin_cs_skins": {
 	  "display_name": "CS 饰品查询",
@@ -230,8 +267,7 @@
 		"desc": "无浏览器实现 Markdown 转图片，基于 pillowmd 实现，支持指令和 LLM 自动转换",
 		"author": "Xican",
 		"repo": "https://github.com/luosheng520qaq/astrbot_plugin_nobrowser_markdown_to_pic",
-		"tags": ["markdown", "pic", "nobroswer"],
-		"pinned": true
+		"tags": ["markdown", "pic", "nobroswer"]
 	},
 	"astrbot_plugin_fetch_summary": {
 		"desc": "根据 URL 获取网站摘要",
@@ -645,8 +681,7 @@
 	"astrbot_plugin_the_Big-3_Chinese_AI_conferences": {
 		"desc": "亿万人将要精读中文AI顶会",
 		"author": "RC-CHN",
-		"repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences",
-		"pinned": true
+		"repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences"
 	},
 	"astrbot_plugin_mc_admin": {
 		"desc": "这是 MC服务器 的管理插件，支持list，珍珠炮落点计算，服务器工程坐标，备货清单，白名单管理等功能",
