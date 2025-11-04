@@ -11,8 +11,8 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "stars": 2,
-    "updated_at": "2025-11-03T16:06:00Z",
-    "version": "1.2.0"
+    "updated_at": "2025-11-04T08:07:52Z",
+    "version": "1.3.0"
   },
   "astrbot_plugin_shutdown": {
     "display_name": "定时关闭 LLM 服务",
@@ -36,7 +36,7 @@
     ],
     "social_link": "https://github.com/Him666233",
     "stars": 1,
-    "updated_at": "2025-11-04T03:04:33Z",
+    "updated_at": "2025-11-04T09:27:45Z",
     "version": "v1.0.8"
   },
   "astrbot_plugin_mcgetter_enhanced": {
@@ -199,8 +199,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 10,
-    "updated_at": "2025-11-04T07:17:04Z",
+    "stars": 12,
+    "updated_at": "2025-11-04T09:10:29Z",
     "version": "0.9.8"
   },
   "astrbot-plugin-moremorelove": {
@@ -455,8 +455,8 @@
       "视频",
       "sora"
     ],
-    "stars": 24,
-    "updated_at": "2025-11-02T09:53:41Z",
+    "stars": 25,
+    "updated_at": "2025-11-04T08:18:51Z",
     "version": "v1.2.6"
   },
   "astrbot_gengtu": {
@@ -1056,8 +1056,8 @@
     "repo": "https://github.com/Chris95743/astrbot_plugin_VITS_pro",
     "social_link": "https://voice.gbkgov.cn",
     "tags": [],
-    "stars": 7,
-    "updated_at": "2025-10-28T13:21:58Z",
+    "stars": 8,
+    "updated_at": "2025-11-04T11:56:27Z",
     "version": "v1.8.0"
   },
   "astrbot_plugin_blacklist_tools": {
@@ -1752,9 +1752,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 41,
-    "updated_at": "2025-11-04T06:26:48Z",
-    "version": "v3.4.0"
+    "stars": 43,
+    "updated_at": "2025-11-04T11:03:15Z",
+    "version": "v3.4.2"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -2271,8 +2271,8 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 17,
-    "updated_at": "2025-10-31T09:35:11Z",
+    "stars": 18,
+    "updated_at": "2025-11-04T11:43:51Z",
     "version": "v0.2.6"
   },
   "astrbot_plugin_iearning_style": {
@@ -2881,8 +2881,8 @@
       "战地风云"
     ],
     "stars": 10,
-    "updated_at": "2025-11-04T05:58:21Z",
-    "version": "vv2.0.0-beta"
+    "updated_at": "2025-11-04T09:26:45Z",
+    "version": "v2.0.0"
   },
   "astrbot_plugin_SteamSaleTracker": {
     "desc": "这是一个 Steam 游戏价格监控插件",
@@ -2946,8 +2946,8 @@
       "健康",
       "娱乐"
     ],
-    "stars": 3,
-    "updated_at": "2025-10-31T16:39:50Z",
+    "stars": 4,
+    "updated_at": "2025-11-04T08:11:28Z",
     "version": "v1.2"
   },
   "astrbot_plugin_pet": {
@@ -3388,8 +3388,8 @@
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
     "stars": 27,
-    "updated_at": "2025-10-05T07:54:42Z",
-    "version": "v2.6.2"
+    "updated_at": "2025-11-04T08:52:41Z",
+    "version": "v2.7.2"
   },
   "astrbot_plugin_Astrsupermarket": {
     "author": "和泉智宏本人",
@@ -3561,8 +3561,8 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 25,
-    "updated_at": "2025-11-03T13:33:56Z",
+    "stars": 26,
+    "updated_at": "2025-11-04T09:32:18Z",
     "version": "v3.3.0"
   },
   "astrbot_plugin_alistfile": {
@@ -6627,8 +6627,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 454,
-    "updated_at": "2025-11-04T00:34:38Z",
+    "stars": 455,
+    "updated_at": "2025-11-04T08:54:58Z",
     "version": "v0.915"
   },
   "astrbot_plugin_superpoke": {
