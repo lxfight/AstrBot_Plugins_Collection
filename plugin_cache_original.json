@@ -2594,7 +2594,7 @@
       "文转图"
     ],
     "stars": 2,
-    "updated_at": "2025-08-20T15:56:38Z",
+    "updated_at": "2025-11-05T13:02:45Z",
     "version": "v1.1.3"
   },
   "pjsk_guess_song": {
@@ -3092,7 +3092,7 @@
     ],
     "author": null,
     "stars": 12,
-    "updated_at": "2025-10-28T07:27:52Z",
+    "updated_at": "2025-11-05T13:11:25Z",
     "version": "2.2.5"
   },
   "astrbot_plugin_group_sign": {
@@ -3561,8 +3561,8 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 29,
-    "updated_at": "2025-11-05T08:29:16Z",
+    "stars": 30,
+    "updated_at": "2025-11-05T12:52:38Z",
     "version": "v3.3.0"
   },
   "astrbot_plugin_alistfile": {
@@ -7281,8 +7281,8 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
     "stars": 140,
-    "updated_at": "2025-10-31T09:38:13Z",
-    "version": "v0.5.1"
+    "updated_at": "2025-11-05T13:28:47Z",
+    "version": "v2.0.0"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
