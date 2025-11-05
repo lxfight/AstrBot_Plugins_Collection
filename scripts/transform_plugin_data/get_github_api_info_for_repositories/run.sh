@@ -182,6 +182,7 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
     stars=0
     updated_at=""
     version=""
+    logo=""
     status="unknown"
 
     if [ "$success" = true ]; then
@@ -229,6 +230,25 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
                 fi
               fi
             done
+
+            # 检查logo.png是否存在
+            logo=""
+            logo_response=$(curl -L -s --max-time 10 --max-redirs 3 \
+              -H "Authorization: token $PAT_TOKEN" \
+              -H "Accept: application/vnd.github.v3+json" \
+              -H "User-Agent: GitHub-Action-Plugin-Transformer" \
+              "https://api.github.com/repos/$owner/$repo/contents/logo.png" 2>/dev/null || echo "{}")
+
+            # 检查logo.png是否存在（通过检查返回的JSON是否包含name字段）
+            if echo "$logo_response" | jq -e '.name' > /dev/null 2>&1; then
+              logo_name=$(echo "$logo_response" | jq -r '.name // ""')
+              if [ "$logo_name" = "logo.png" ]; then
+                # 获取默认分支
+                default_branch=$(echo "$api_response" | jq -r '.default_branch // "main"')
+                logo="https://raw.githubusercontent.com/$owner/$repo/$default_branch/logo.png"
+                echo "  🖼️  找到logo: $logo"
+              fi
+            fi
           fi
           ;;
         301|302)
@@ -255,18 +275,20 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
 
     # 如果失败，尝试使用缓存数据
     if [ "$status" != "success" ] && [ "$HAS_EXISTING_CACHE" = "true" ]; then
-      cached_data=$(jq -r --arg url "$repo_url" '.data // {} | to_entries[] | select(.value.repo == $url) | .value | {stars: .stars, updated_at: .updated_at, version: .version}' existing_cache.json 2>/dev/null || echo "{}")
+      cached_data=$(jq -r --arg url "$repo_url" '.data // {} | to_entries[] | select(.value.repo == $url) | .value | {stars: .stars, updated_at: .updated_at, version: .version, logo: .logo}' existing_cache.json 2>/dev/null || echo "{}")
 
       if [ "$cached_data" != "{}" ] && [ "$cached_data" != "" ]; then
         cached_stars=$(echo "$cached_data" | jq -r '.stars // 0')
         cached_updated=$(echo "$cached_data" | jq -r '.updated_at // ""')
         cached_version=$(echo "$cached_data" | jq -r '.version // ""')
+        cached_logo=$(echo "$cached_data" | jq -r '.logo // ""')
 
         if [ "$cached_stars" != "0" ] || [ "$cached_updated" != "" ]; then
           echo "  🔄 使用缓存数据: Stars: $cached_stars"
           stars="$cached_stars"
           updated_at="$cached_updated"
           version="$cached_version"
+          logo="$cached_logo"
           status="cached"
         fi
       fi
@@ -277,8 +299,9 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
        --arg stars "$stars" \
        --arg updated "$updated_at" \
        --arg version "$version" \
+       --arg logo "$logo" \
        --arg status "$status" \
-       '. + {($url): {stars: ($stars | tonumber), updated_at: $updated, version: $version, status: $status}}' \
+       '. + {($url): {stars: ($stars | tonumber), updated_at: $updated, version: $version, logo: $logo, status: $status}}' \
        repo_info.json > temp_repo_info.json && mv temp_repo_info.json repo_info.json
 
     # 添加基础延迟避免API限制
