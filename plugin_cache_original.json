@@ -164,7 +164,7 @@
       "TTS"
     ],
     "stars": 1,
-    "updated_at": "2025-11-04T16:47:25Z",
+    "updated_at": "2025-11-05T06:27:34Z",
     "version": "v0.3"
   },
   "astrbot_plugin_github_monitor_shell": {
@@ -1647,7 +1647,7 @@
       "rag"
     ],
     "stars": 29,
-    "updated_at": "2025-11-05T00:37:33Z",
+    "updated_at": "2025-11-05T06:29:56Z",
     "version": "1.5.16"
   },
   "astrbot_plugin_mathitools": {
