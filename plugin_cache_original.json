@@ -2359,8 +2359,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 29,
-    "updated_at": "2025-11-01T07:35:37Z",
+    "stars": 30,
+    "updated_at": "2025-11-05T18:49:56Z",
     "version": "1.3.0"
   },
   "astrbot_plugin_baiduocr": {
@@ -6730,8 +6730,9 @@
     "social_link": "https://space.bilibili.com/11874232",
     "tags": [],
     "stars": 5,
-    "updated_at": "2025-11-05T17:16:44Z",
-    "version": "v1.1.8"
+    "updated_at": "2025-11-05T18:45:06Z",
+    "version": "v1.1.8",
+    "logo": "https://raw.githubusercontent.com/Wave233Lee/astrbot_plugin_random_vtb/master/logo.png"
   },
   "astrbot_plugin_server_status": {
     "desc": "实时监控服务器资源使用情况，支持多平台运行，提供清晰的系统状态报告。",
