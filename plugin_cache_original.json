@@ -200,7 +200,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 13,
-    "updated_at": "2025-11-05T07:39:51Z",
+    "updated_at": "2025-11-05T14:53:02Z",
     "version": "0.9.8"
   },
   "astrbot-plugin-moremorelove": {
@@ -898,8 +898,8 @@
       "轻量",
       "娱乐"
     ],
-    "stars": 3,
-    "updated_at": "2025-10-14T07:11:49Z",
+    "stars": 4,
+    "updated_at": "2025-11-05T14:33:15Z",
     "version": "v1.1.0"
   },
   "AstrBot_plugin_MaimaiDX": {
@@ -6517,8 +6517,8 @@
     "social_link": "https://space.bilibili.com/11874232",
     "tags": [],
     "stars": 5,
-    "updated_at": "2025-11-03T16:40:40Z",
-    "version": "v1.1.6"
+    "updated_at": "2025-11-05T15:27:47Z",
+    "version": "v1.1.7"
   },
   "astrbot_plugin_server_status": {
     "desc": "实时监控服务器资源使用情况，支持多平台运行，提供清晰的系统状态报告。",
@@ -6894,8 +6894,8 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
     "stars": 32,
-    "updated_at": "2025-11-01T02:20:49Z",
-    "version": "v1.4.13"
+    "updated_at": "2025-11-05T14:46:59Z",
+    "version": "v1.4.14"
   },
   "astrbot_plugin_leetcode": {
     "desc": "leetcode 每日一题、随机题目。",
