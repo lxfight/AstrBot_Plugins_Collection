@@ -239,8 +239,9 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
               "https://api.github.com/repos/$owner/$repo/contents/logo.png" 2>/dev/null || echo "{}")
 
             # 检查logo.png是否存在（验证响应包含name字段且不是错误消息）
-            if echo "$logo_response" | jq -e '.name' > /dev/null 2>&1 && \
-               ! echo "$logo_response" | jq -e '.message' > /dev/null 2>&1; then
+            # 使用单个jq调用进行验证以提高性能
+            logo_valid=$(echo "$logo_response" | jq -r 'if .name and (.message | not) then "true" else "false" end' 2>/dev/null || echo "false")
+            if [ "$logo_valid" = "true" ]; then
               # 获取默认分支
               default_branch=$(echo "$api_response" | jq -r '.default_branch // "main"')
               logo="https://raw.githubusercontent.com/$owner/$repo/$default_branch/logo.png"
