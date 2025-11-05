@@ -232,7 +232,6 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
             done
 
             # 检查logo.png是否存在
-            logo=""
             logo_response=$(curl -L -s --max-time 10 --max-redirs 3 \
               -H "Authorization: token $PAT_TOKEN" \
               -H "Accept: application/vnd.github.v3+json" \
@@ -241,13 +240,10 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
 
             # 检查logo.png是否存在（通过检查返回的JSON是否包含name字段）
             if echo "$logo_response" | jq -e '.name' > /dev/null 2>&1; then
-              logo_name=$(echo "$logo_response" | jq -r '.name // ""')
-              if [ "$logo_name" = "logo.png" ]; then
-                # 获取默认分支
-                default_branch=$(echo "$api_response" | jq -r '.default_branch // "main"')
-                logo="https://raw.githubusercontent.com/$owner/$repo/$default_branch/logo.png"
-                echo "  🖼️  找到logo: $logo"
-              fi
+              # 获取默认分支
+              default_branch=$(echo "$api_response" | jq -r '.default_branch // "main"')
+              logo="https://raw.githubusercontent.com/$owner/$repo/$default_branch/logo.png"
+              echo "  🖼️  找到logo: $logo"
             fi
           fi
           ;;
