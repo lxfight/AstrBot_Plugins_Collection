@@ -31,7 +31,9 @@ map({
         stars: .stars,
         updated_at: .updated_at,
         version: (if .version != "" then .version else "1.0.0" end)
-      })
+      } +
+      # 仅当logo存在且不为空时添加logo字段
+      (if .logo and .logo != "" then { logo: .logo } else {} end))
     else
       {
         stars: 0,
