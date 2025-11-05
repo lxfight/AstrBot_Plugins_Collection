@@ -238,8 +238,9 @@ jq -r 'to_entries[] | .value.repo // empty' original_plugins.json | while read -
               -H "User-Agent: GitHub-Action-Plugin-Transformer" \
               "https://api.github.com/repos/$owner/$repo/contents/logo.png" 2>/dev/null || echo "{}")
 
-            # 检查logo.png是否存在（通过检查返回的JSON是否包含name字段）
-            if echo "$logo_response" | jq -e '.name' > /dev/null 2>&1; then
+            # 检查logo.png是否存在（验证响应包含name字段且不是错误消息）
+            if echo "$logo_response" | jq -e '.name' > /dev/null 2>&1 && \
+               ! echo "$logo_response" | jq -e '.message' > /dev/null 2>&1; then
               # 获取默认分支
               default_branch=$(echo "$api_response" | jq -r '.default_branch // "main"')
               logo="https://raw.githubusercontent.com/$owner/$repo/$default_branch/logo.png"
