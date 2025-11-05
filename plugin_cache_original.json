@@ -1,4 +1,82 @@
 {
+  "astrbot_plugin_dailyacmfortune": {
+    "display_name": "洛谷运势",
+    "desc": "洛谷运势生成和签到打卡",
+    "author": "Dayanshifu",
+    "repo": "https://github.com/Dayanshifu/astrbot_plugin_dailyacmfortune",
+    "tags": [
+      "抽签",
+      "运势",
+      "签到",
+      "打卡"
+    ],
+    "stars": 2,
+    "updated_at": "2025-11-05T15:00:35Z",
+    "version": "v1.0.0",
+    "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_dailyacmfortune/main/logo.png"
+  },
+  "astrbot_plugin_llm_failover": {
+    "display_name": "LLM 故障转移",
+    "desc": "AstrBot 文本类大模型故障转移插件，遇到限速/瞬时故障时自动切换备用模型，比如“硅基流动”免费模型的速率限制",
+    "author": "万一",
+    "repo": "https://github.com/Ryan7t/astrbot_plugin_llm_failover",
+    "tags": [
+      "llm",
+      "速率限制",
+      "自动切换",
+      "解决方案",
+      "AI"
+    ],
+    "social_link": "https://github.com/Ryan7t",
+    "stars": 1,
+    "updated_at": "2025-11-05T18:07:21Z",
+    "version": "v1.0.1"
+  },
+  "astrbot_plugin_stockgame": {
+    "display_name": "模拟炒股游戏",
+    "desc": "一个在群聊中玩的模拟炒股游戏",
+    "author": "DITF16",
+    "repo": "https://github.com/DITF16/astrbot_plugin_stockgame",
+    "tags": [
+      "游戏",
+      "娱乐",
+      "股票"
+    ],
+    "social_link": "https://github.com/DITF16",
+    "stars": 2,
+    "updated_at": "2025-11-05T17:09:02Z",
+    "version": "v1.0.0"
+  },
+  "astrbot_plugin_cryptocurrency": {
+    "display_name": "基于 LLM 的加密货币模拟交易",
+    "desc": "加密货币模拟交易插件具备实时价格、市场数据和AI投资模拟功能",
+    "author": "vmoranv",
+    "repo": "https://github.com/vmoranv/astrbot_plugin_cryptocurrency",
+    "tags": [
+      "加密货币",
+      "AI 投资模拟"
+    ],
+    "social_link": "https://github.com/vmoranv",
+    "stars": 1,
+    "updated_at": "2025-11-05T14:06:26Z",
+    "version": "v2.0.0",
+    "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_cryptocurrency/master/logo.png"
+  },
+  "astrbot_plugin_qqgal": {
+    "display_name": "Gal 风格图片生成",
+    "desc": "引用或跟随文本生成 GalGame 风格选项，支持图片渲染、自动生图+抠图叠加立绘。",
+    "author": "bvzrays",
+    "repo": "https://github.com/bvzrays/astrbot_plugin_qqgal",
+    "tags": [
+      "galgame",
+      "二次元"
+    ],
+    "social_link": "https://github.com/bvzrays",
+    "stars": 2,
+    "updated_at": "2025-11-05T12:04:50Z",
+    "version": "v2.0.0",
+    "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_qqgal/master/logo.png"
+  },
   "astrbot_plugin_Conversa": {
     "display_name": "Conversa 主动回复插件",
     "desc": "Conversa 能够让 AI 在会话沉寂一段时间后，像真人一样重新发起聊天，或者在每日的特定时间点送上问候，或以自然的方式进行定时提醒。",
@@ -40,6 +118,71 @@
     "updated_at": "2025-11-04T15:42:01Z",
     "version": "v1.0.8",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
+  },
+  "astrbot_plugin_message_stats": {
+    "display_name": "AstrBot 群发言统计插件",
+    "desc": "QQ群消息统计插件，支持消息数量统计、排行榜生成等功能",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_message_stats",
+    "tags": [
+      "playwright",
+      "QQ群",
+      "群聊",
+      "排行榜",
+      "发言统计"
+    ],
+    "stars": 3,
+    "updated_at": "2025-11-04T02:58:12Z",
+    "version": "1.5.0"
+  },
+  "astrbot_plugin_prompt": {
+    "display_name": "人格拓展插件",
+    "desc": "基于源官方persona的人格拓展插件",
+    "author": "ChuranNeko",
+    "repo": "https://github.com/ChuranNeko/astrbot_plugin_prompt",
+    "tags": [
+      "人设",
+      "提示词"
+    ],
+    "stars": 0,
+    "updated_at": "2025-10-31T16:42:09Z",
+    "version": "v1.2.0"
+  },
+  "zhiyu-astrbot-hjm": {
+    "desc": "一款随机哈基米语音的AstrBot插件",
+    "author": "知鱼",
+    "repo": "https://github.com/ovoox/zhiyu-astrbot-hjm",
+    "tags": [
+      "哈基米",
+      "语音"
+    ],
+    "social_link": "https://github.com/ovoox",
+    "stars": 0,
+    "updated_at": "2025-10-30T15:17:09Z",
+    "version": "v1.0"
+  },
+  "astrbot_plugin_weibo_hot": {
+    "desc": "自动抓取微博热榜。",
+    "author": "wr0x00",
+    "repo": "https://github.com/wr0x00/astrbot_plugin_weibo_hot",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-11-04T22:55:54Z",
+    "version": "v1.0.0"
+  },
+  "astrbot_plugin_bilibili_bot": {
+    "display_name": "bilibili_bot",
+    "desc": "适配 AstrBot 的插件，自动识别B站链接并转换为直链发送",
+    "author": "drdon1234",
+    "repo": "https://github.com/drdon1234/astrbot_plugin_bilibili_bot",
+    "tags": [
+      "b站",
+      "bilibili",
+      "视频链接解析"
+    ],
+    "stars": 0,
+    "updated_at": "2025-11-04T04:57:11Z",
+    "version": "v1.0"
   },
   "astrbot_plugin_mcgetter_enhanced": {
     "display_name": "mcgetter-enhanced",
