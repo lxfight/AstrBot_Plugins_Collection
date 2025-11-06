@@ -525,8 +525,8 @@
       "实用"
     ],
     "stars": 5,
-    "updated_at": "2025-11-05T10:35:18Z",
-    "version": "v2.6.0",
+    "updated_at": "2025-11-06T04:22:57Z",
+    "version": "v2.6.5",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -1300,8 +1300,8 @@
     "author": "RC-CHN",
     "repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-10-24T00:59:30Z",
+    "stars": 3,
+    "updated_at": "2025-11-06T03:41:27Z",
     "version": "v1.2"
   },
   "astrbot_plugin_mc_admin": {
@@ -1807,8 +1807,8 @@
       "rag"
     ],
     "stars": 29,
-    "updated_at": "2025-11-05T06:29:56Z",
-    "version": "1.5.16",
+    "updated_at": "2025-11-06T03:52:55Z",
+    "version": "1.5.18",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -5896,8 +5896,8 @@
       "安全"
     ],
     "stars": 5,
-    "updated_at": "2025-11-05T10:35:18Z",
-    "version": "v2.6.0",
+    "updated_at": "2025-11-06T04:22:57Z",
+    "version": "v2.6.5",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "JmCli": {
