@@ -43,9 +43,10 @@
       "股票"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 2,
-    "updated_at": "2025-11-05T17:09:02Z",
-    "version": "v1.0.0"
+    "stars": 3,
+    "updated_at": "2025-11-06T02:55:55Z",
+    "version": "v1.0.1",
+    "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_stockgame/master/logo.png"
   },
   "astrbot_plugin_cryptocurrency": {
     "display_name": "基于 LLM 的加密货币模拟交易",
@@ -214,8 +215,8 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_plugin_namepossession",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-10-29T12:27:57Z",
+    "stars": 1,
+    "updated_at": "2025-11-06T02:48:44Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_llm_qqgroupTools": {
@@ -224,8 +225,8 @@
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-11-04T06:52:35Z",
-    "version": "V1.1.1",
+    "updated_at": "2025-11-06T02:45:42Z",
+    "version": "V1.1.2",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -350,8 +351,8 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 13,
-    "updated_at": "2025-11-05T14:53:02Z",
-    "version": "0.9.8",
+    "updated_at": "2025-11-06T02:24:24Z",
+    "version": "0.9.9",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -1192,7 +1193,7 @@
       "fishing"
     ],
     "stars": 16,
-    "updated_at": "2025-11-05T08:48:54Z",
+    "updated_at": "2025-11-06T02:04:37Z",
     "version": "2.3.12"
   },
   "astrbot_plugin_astrmetry": {
@@ -3323,8 +3324,8 @@
       "aiocqhttp"
     ],
     "social_link": "https://blog.jojo.host/",
-    "stars": 3,
-    "updated_at": "2025-10-27T15:43:33Z",
+    "stars": 4,
+    "updated_at": "2025-11-06T02:47:12Z",
     "version": "v0.0.5"
   },
   "astrbot_plugin_ip_proxy": {
@@ -7496,8 +7497,8 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
     "stars": 140,
-    "updated_at": "2025-11-05T13:28:47Z",
-    "version": "v2.0.0"
+    "updated_at": "2025-11-06T02:51:42Z",
+    "version": "v2.0.2"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
