@@ -133,7 +133,7 @@
       "发言统计"
     ],
     "stars": 3,
-    "updated_at": "2025-11-04T02:58:12Z",
+    "updated_at": "2025-11-06T08:07:24Z",
     "version": "1.5.0"
   },
   "astrbot_plugin_prompt": {
@@ -397,8 +397,8 @@
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
     "social_link": "https://github.com/miaoxutao123",
     "tags": [],
-    "stars": 7,
-    "updated_at": "2025-11-06T01:28:57Z",
+    "stars": 8,
+    "updated_at": "2025-11-06T08:18:03Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_jietu": {
@@ -3055,7 +3055,7 @@
       "战地风云"
     ],
     "stars": 11,
-    "updated_at": "2025-11-05T10:30:32Z",
+    "updated_at": "2025-11-06T08:00:28Z",
     "version": "v2.0.1",
     "logo": "https://raw.githubusercontent.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool/master/logo.png"
   },
@@ -7497,8 +7497,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 140,
-    "updated_at": "2025-11-06T02:51:42Z",
+    "stars": 141,
+    "updated_at": "2025-11-06T08:23:50Z",
     "version": "v2.0.2"
   },
   "FateTrial_img_identify": {
@@ -7623,8 +7623,8 @@
     "author": "喵喵",
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_miaomiao",
     "tags": [],
-    "stars": 10,
-    "updated_at": "2025-09-08T03:05:21Z",
+    "stars": 11,
+    "updated_at": "2025-11-06T08:36:33Z",
     "version": "v1.2.4"
   },
   "astrbot_plugin_image_video_understanding_Qwen2.5_VL": {
