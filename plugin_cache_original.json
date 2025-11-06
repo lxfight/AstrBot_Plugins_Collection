@@ -1808,7 +1808,7 @@
       "rag"
     ],
     "stars": 29,
-    "updated_at": "2025-11-06T03:52:55Z",
+    "updated_at": "2025-11-06T06:04:10Z",
     "version": "1.5.18",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
@@ -5165,8 +5165,8 @@
     "desc": "一个基于 AstrBot 框架的塔罗牌占卜插件，支持多牌阵和单张牌占卜，并通过 AI 生成详细解析。",
     "repo": "https://github.com/XziXmn/astrbot_plugin_tarot",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-10-11T05:56:28Z",
+    "stars": 2,
+    "updated_at": "2025-11-06T06:23:39Z",
     "version": "v0.1.1"
   },
   "astrbot_plugin_a2s": {
