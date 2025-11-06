@@ -116,8 +116,8 @@
     ],
     "social_link": "https://github.com/Him666233",
     "stars": 2,
-    "updated_at": "2025-11-04T15:42:01Z",
-    "version": "v1.0.8",
+    "updated_at": "2025-11-06T07:17:18Z",
+    "version": "v1.0.9",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -192,8 +192,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_mcgetter_enhanced",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-10-31T07:21:55Z",
-    "version": "v1.4.0"
+    "updated_at": "2025-11-06T06:39:12Z",
+    "version": "v1.5.0"
   },
   "astrbot_plugin_minecraftskin": {
     "display_name": "Minecraft Skin 查询",
@@ -525,8 +525,8 @@
       "实用"
     ],
     "stars": 5,
-    "updated_at": "2025-11-06T04:22:57Z",
-    "version": "v2.6.5",
+    "updated_at": "2025-11-06T07:02:03Z",
+    "version": "v2.6.8",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -5897,8 +5897,8 @@
       "安全"
     ],
     "stars": 5,
-    "updated_at": "2025-11-06T04:22:57Z",
-    "version": "v2.6.5",
+    "updated_at": "2025-11-06T07:02:03Z",
+    "version": "v2.6.8",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "JmCli": {
