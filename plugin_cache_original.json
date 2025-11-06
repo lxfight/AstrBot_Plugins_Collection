@@ -11,7 +11,7 @@
       "打卡"
     ],
     "stars": 2,
-    "updated_at": "2025-11-05T15:00:35Z",
+    "updated_at": "2025-11-06T15:54:17Z",
     "version": "v1.0.0",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_dailyacmfortune/main/logo.png"
   },
@@ -350,8 +350,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 14,
-    "updated_at": "2025-11-06T08:39:10Z",
+    "stars": 15,
+    "updated_at": "2025-11-06T15:35:01Z",
     "version": "0.9.9",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -6262,8 +6262,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 62,
-    "updated_at": "2025-11-02T22:28:19Z",
+    "stars": 63,
+    "updated_at": "2025-11-06T16:01:08Z",
     "version": "v3.0.2",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
