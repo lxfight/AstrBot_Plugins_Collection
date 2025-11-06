@@ -278,8 +278,8 @@
     "tags": [
       "图片生成"
     ],
-    "stars": 0,
-    "updated_at": "2025-11-01T19:38:20Z",
+    "stars": 1,
+    "updated_at": "2025-11-06T08:38:19Z",
     "version": "v1.0",
     "logo": "https://raw.githubusercontent.com/timetetng/astrbot_plugin_onelastimage/main/logo.png"
   },
@@ -350,8 +350,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 13,
-    "updated_at": "2025-11-06T04:56:35Z",
+    "stars": 14,
+    "updated_at": "2025-11-06T08:39:10Z",
     "version": "0.9.9",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -1247,8 +1247,8 @@
     "tags": [
       "骰子"
     ],
-    "stars": 3,
-    "updated_at": "2025-10-07T15:38:09Z",
+    "stars": 4,
+    "updated_at": "2025-11-06T08:37:05Z",
     "version": "v2.1.0"
   },
   "astrbot_plugin_xiuxian": {
@@ -5016,8 +5016,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 94,
-    "updated_at": "2025-11-04T04:51:34Z",
+    "stars": 95,
+    "updated_at": "2025-11-06T09:19:20Z",
     "version": "v2.0.5",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
@@ -6884,8 +6884,8 @@
       "webui",
       "图床"
     ],
-    "stars": 92,
-    "updated_at": "2025-11-04T00:59:34Z",
+    "stars": 93,
+    "updated_at": "2025-11-06T09:23:11Z",
     "version": "v3.13"
   },
   "mccloud_command": {
