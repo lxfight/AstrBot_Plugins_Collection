@@ -7668,8 +7668,8 @@
     "desc": "二次元图片签到以及好友买卖，对接牛牛商城，仅支持qq且仅支持非官方bot(其他平台请自行测试）",
     "repo": "https://github.com/zgojin/astrbot_plugin_Qsign",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-08-18T14:53:03Z",
+    "stars": 1,
+    "updated_at": "2025-11-06T21:15:31Z",
     "version": "v2.0.0"
   },
   "astrbot_plugin_thinkTags": {
