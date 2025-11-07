@@ -402,19 +402,6 @@
     "updated_at": "2025-11-06T12:03:07Z",
     "version": "v1.1.0"
   },
-  "astrbot_plugin_jietu": {
-    "desc": "戳一戳截图，适用于win直接部署，可用作状态监控",
-    "author": "BvzRays",
-    "repo": "https://github.com/bvzrays/astrbot_plugin_jietu",
-    "tags": [
-      "QQ",
-      "status"
-    ],
-    "social_link": "https://github.com/bvzrays",
-    "stars": 1,
-    "updated_at": "2025-10-27T13:33:52Z",
-    "version": "v1.0.0"
-  },
   "zhiyu-astrbot-business": {
     "desc": "一款查询 QQ 业务/名称/开通/到期时间以及自动续费/剩余天数/Q币的AstrBot插件",
     "author": "知鱼",
@@ -822,7 +809,7 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 5,
-    "updated_at": "2025-11-06T12:28:03Z",
+    "updated_at": "2025-11-07T10:15:02Z",
     "version": "1.3.50"
   },
   "astrbot_plugin_33recognition": {
