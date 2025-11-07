@@ -1809,8 +1809,8 @@
       "rag"
     ],
     "stars": 29,
-    "updated_at": "2025-11-06T06:04:10Z",
-    "version": "1.5.18",
+    "updated_at": "2025-11-07T08:31:53Z",
+    "version": "1.6.0",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -4336,7 +4336,7 @@
       "知识库"
     ],
     "stars": 66,
-    "updated_at": "2025-10-27T09:56:17Z",
+    "updated_at": "2025-11-07T08:37:45Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
