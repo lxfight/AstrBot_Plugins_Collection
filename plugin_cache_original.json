@@ -526,7 +526,7 @@
       "实用"
     ],
     "stars": 5,
-    "updated_at": "2025-11-06T07:02:03Z",
+    "updated_at": "2025-11-07T06:20:14Z",
     "version": "v2.6.8",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
@@ -5899,7 +5899,7 @@
       "安全"
     ],
     "stars": 5,
-    "updated_at": "2025-11-06T07:02:03Z",
+    "updated_at": "2025-11-07T06:20:14Z",
     "version": "v2.6.8",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
@@ -6886,8 +6886,8 @@
       "webui",
       "图床"
     ],
-    "stars": 93,
-    "updated_at": "2025-11-06T09:23:11Z",
+    "stars": 94,
+    "updated_at": "2025-11-07T05:49:33Z",
     "version": "v3.13"
   },
   "mccloud_command": {
