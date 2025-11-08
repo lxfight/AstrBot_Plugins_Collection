@@ -133,8 +133,8 @@
       "发言统计"
     ],
     "stars": 3,
-    "updated_at": "2025-11-07T13:54:40Z",
-    "version": "1.6.1",
+    "updated_at": "2025-11-08T04:34:47Z",
+    "version": "1.6.2",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
