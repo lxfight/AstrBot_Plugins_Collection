@@ -1797,7 +1797,7 @@
     ],
     "stars": 31,
     "updated_at": "2025-11-08T19:55:32Z",
-    "version": "1.0.0",
+    "version": "1.6.0",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -3553,8 +3553,8 @@
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
     "stars": 27,
-    "updated_at": "2025-11-04T08:52:41Z",
-    "version": "v2.7.2"
+    "updated_at": "2025-11-09T07:20:18Z",
+    "version": "v2.7.3"
   },
   "astrbot_plugin_Astrsupermarket": {
     "author": "和泉智宏本人",
@@ -6029,8 +6029,8 @@
     "author": "AraragiEro",
     "repo": "https://github.com/AraragiEro/astrbot_plugin_kahunabot",
     "tags": [],
-    "stars": 8,
-    "updated_at": "2025-09-23T06:23:08Z",
+    "stars": 9,
+    "updated_at": "2025-11-09T07:12:05Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_qqpock": {
