@@ -1,4 +1,25 @@
 {
+	"astrbot_plugin_eatdrink": {
+	  "display_name": "吃喝什么呢？",
+	  "desc": "用于随机推荐吃什么，喝什么。",
+	  "author": "Cybercat",
+	  "repo": "https://github.com/Newbie-L/astrbot_plugin_eatdrink",
+	  "tags": ["美食","工具"],
+	  "social_link": "https://github.com/Newbie-L"
+	},
+	"astrbot_plugin_VisiStat": {
+	  "display_name": "可视化服务状态监控",
+	  "desc": "可视化的系统硬件监控，可自定义美化以及自定义参数显示，适配Windows/Linux双端",
+	  "author": "Rentz",
+	  "repo": "https://github.com/Rentz412/astrbot_plugin_VisiStat",
+	  "tags": ["状态","监控","服务器","工具"],
+	  "social_link": "https://github.com/Rentz412"
+	},
+	"astrbot_plugin_vangonography": {
+		"desc": "一个通过图片隐写术来隐藏和提取文件的插件",
+		"author": "shskjw",
+		"repo": "https://github.com/shskjw/astrbot_plugin_vangonography"
+	},
 	"astrbot_plugin_dailyacmfortune": {
 	  "display_name": "洛谷运势",
 	  "desc": "洛谷运势生成和签到打卡",
