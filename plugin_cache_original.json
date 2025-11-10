@@ -659,8 +659,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 3,
-    "updated_at": "2025-11-09T09:18:43Z",
-    "version": "v1.2.0"
+    "updated_at": "2025-11-10T16:37:18Z",
+    "version": "v1.3.0"
   },
   "astrbot_plugin_timeline": {
     "desc": "一个非常简单的插件，在请求中插入当前时间",
@@ -723,10 +723,9 @@
       "人格"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 6,
-    "updated_at": "2025-11-09T09:55:47Z",
-    "version": "v1.3",
-    "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_sticker": {
     "desc": "doro、capoo、cheshire、chiikawa四大表情包发送",
