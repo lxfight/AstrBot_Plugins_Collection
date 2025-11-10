@@ -113,8 +113,8 @@
       "二次元"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 6,
-    "updated_at": "2025-11-08T14:06:43Z",
+    "stars": 7,
+    "updated_at": "2025-11-10T10:15:14Z",
     "version": "v2.0.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_qqgal/master/logo.png"
   },
@@ -1836,8 +1836,8 @@
       "rag"
     ],
     "stars": 31,
-    "updated_at": "2025-11-09T11:06:22Z",
-    "version": "1.6.1",
+    "updated_at": "2025-11-10T09:56:19Z",
+    "version": "1.6.2",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
