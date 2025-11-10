@@ -723,9 +723,10 @@
       "人格"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 6,
+    "updated_at": "2025-11-09T09:55:47Z",
+    "version": "v1.3",
+    "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
     "desc": "doro、capoo、cheshire、chiikawa四大表情包发送",
