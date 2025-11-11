@@ -1,4 +1,38 @@
 {
+	"astrbot_plugin_emotionai": {
+	  "display_name": "高级情感智能交互系统",
+	  "desc": "EmotionAI 旨在为 AI 模拟一个多维度的、自主演变的内心世界。与传统的单一好感度系统不同，EmotionAI 提供了更丰富的情感维度和更智能的交互体验。",
+	  "author": "腾天",
+	  "repo": "https://github.com/tengtian3/astrbot-plugin-emotionai",
+	  "tags": [
+	    "好感度",
+	    "情感"
+	  ]
+	},
+	"astrbot_plugin_whatslinkInfo": {
+	  "display_name": "磁力解析",
+	  "desc": "磁链解析插件，使用 whatslink.info API 生成资源预览并支持截图与合并转发",
+	  "author": "ttlvip",
+	  "repo": "https://github.com/ttlvip/astrbot_plugin_whatslinkInfo",
+	  "tags": ["磁链"]
+	},
+	"astrbot_plugin_grok_video": {
+	  "display_name": "grok2api 视频生成",
+	  "desc": "基于 grok2api 的图生视频插件",
+	  "author": "ShiHao",
+	  "repo": "https://github.com/lixin0229/astrbot_plugin_grok_video",
+	  "tags": [
+	    "视频",
+	    "grok"
+	  ],
+	  "social_link": "https://www.functen.cn/"
+	},
+	"astrbot_plugin_siliconflow-shouban": {
+		"desc": "接入硅基流动画图，图片编辑，可自定义预设",
+		"author": "shskjw",
+		"repo": "https://github.com/shskjw/astrbot_plugin_siliconflow-shouban",
+		"version": "1.0.0"
+	},
 	"astrbot_plugin_eatdrink": {
 	  "display_name": "吃喝什么呢？",
 	  "desc": "用于随机推荐吃什么，喝什么。",
@@ -20,12 +54,37 @@
 		"author": "shskjw",
 		"repo": "https://github.com/shskjw/astrbot_plugin_vangonography"
 	},
+	"astrbot_plugin_bolatuship": {
+	    "desc": "使用柏拉图API接口和Sora 2等模型生成视频。",
+	    "author": "shskjw",
+	    "repo": "https://github.com/shskjw/astrbot_plugin_bolatuship",
+	    "version": "1.0.0"
+	},
+	"astrbot_plugin_NetEaseCloud_Music": {
+	  "display_name": "网易云点歌",
+	  "desc": "【仅适用于QQ】用自然语言直接AI点歌。",
+	  "author": "SatenShiroya",
+	  "repo": "https://github.com/SatenShiroya/astrbot_plugin_neteasecloud_music",
+	  "tags": [
+	    "点歌",
+	    "网易云"
+	  ],
+	  "social_link": "https://github.com/SatenShiroya"
+	},
 	"astrbot_plugin_dailyacmfortune": {
 	  "display_name": "洛谷运势",
 	  "desc": "洛谷运势生成和签到打卡",
 	  "author": "Dayanshifu",
 	  "repo": "https://github.com/Dayanshifu/astrbot_plugin_dailyacmfortune",
 	  "tags": ["抽签","运势","签到","打卡"]
+	},
+	"astrbot_plugin_idgen": {
+	  "display_name": "IDGen",
+	  "desc": "生成/验证身份证号码插件",
+	  "author": "ZvZPvz",
+	  "repo": "https://github.com/ZvZPvz/astrbot_plugin_idgen",
+	  "tags": ["身份证","工具"],
+	  "social_link": "https://github.com/ZvZPvz"
 	},
 	"astrbot_plugin_llm_failover": {
 	  "display_name": "LLM 故障转移",
@@ -34,6 +93,21 @@
 	  "repo": "https://github.com/Ryan7t/astrbot_plugin_llm_failover",
 	  "tags": ["llm", "速率限制", "自动切换", "解决方案", "AI"],
 	  "social_link": "https://github.com/Ryan7t"
+	},
+	"astrbot_plugin_blue_archive_auto_calendar": {
+	  "desc": "Blue Archive 蔚蓝档案定时发送活动日历以及活动结束提醒插件",
+	  "author": "AyaseNIA",
+	  "repo": "https://github.com/AyaseWNA/astrbot_plugin_blue_archive_auto_calendar",
+	  "tags": [
+	    "蔚蓝档案",
+	    "Blue Archive"
+	  ]
+	},
+	"astrbot_plugin_mirage_tank": {
+	  "desc": "用于生成幻影坦克图片的插件，支持黑白和彩色两种模式",
+	  "author": "poisama",
+	  "repo": "https://github.com/Yuzi-Liang/astrbot_plugin_mirage_tank",
+	  "tags": ["幻影坦克", "图片处理"]
 	},
 	"astrbot_plugin_stockgame": {
 	  "display_name": "模拟炒股游戏",
@@ -202,6 +276,24 @@
 	  "repo": "https://github.com/sukafon/astrbot_plugin_decode_qrcode",
 	  "tags": ["二维码", "解码"]
 	},
+	"astrbot_plugin_monixiuxian": {
+	  "display_name": "模拟修仙",
+	  "desc": "一款为 AstrBot 设计的、功能丰富的放置类修仙游戏插件。让你在聊天群中体验从凡人到大能的修行之路，工作摸鱼、畅聊吹水的同时亦可得道飞升！",
+	  "author": "linjianyan0229",
+	  "repo": "https://github.com/linjianyan0229/astrbot_plugin_monixiuxian",
+	  "tags": [
+	    "修仙"
+	  ]
+	},
+	"astrbot_plugin_magnet_preview": {
+	  "display_name": "Magnet Previewer",
+	  "desc": "捕获磁链，获取并发送详细信息。",
+	  "author": "Foolllll",
+	  "repo": "https://github.com/Foolllll-J/astrbot_plugin_magnet_preview",
+	  "tags": [
+	    "磁链"
+	  ]
+	},
 	"astrbot_plugin_gemini-image": {
 	  "desc": "通过 gcli2api(gemini api) 对接 Gemini 生图/改图并发送到 QQ",
 	  "author": "薄暝",
@@ -271,6 +363,13 @@
 	  "repo": "https://github.com/bvzrays/astrbot_plugin_jietu",
 	  "tags": ["QQ", "status"],
 	  "social_link": "https://github.com/bvzrays"
+	},
+	"astrbot_plugin_furry_zan": {
+	  "display_name": "爱点赞",
+	  "desc": "【仅QQ】智能点赞，支持每日定时自动点赞和赞我等功能。",
+	  "author": "芝士雪豹",
+	  "repo": "https://github.com/furry520-source/astrbot_plugin_furry_zan",
+	  "tags": ["点赞", "赞我", "自动点赞"]
 	},
 	"zhiyu-astrbot-business": {
 	  "desc": "一款查询 QQ 业务/名称/开通/到期时间以及自动续费/剩余天数/Q币的AstrBot插件",
