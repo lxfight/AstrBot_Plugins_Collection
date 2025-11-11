@@ -1835,8 +1835,8 @@
       "memory",
       "rag"
     ],
-    "stars": 32,
-    "updated_at": "2025-11-11T07:22:30Z",
+    "stars": 33,
+    "updated_at": "2025-11-11T10:45:49Z",
     "version": "1.7.0",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
@@ -4044,8 +4044,8 @@
     ],
     "social_link": "https://github.com/Niloux",
     "repo": "https://github.com/Niloux/astrbot_plugin_cook",
-    "stars": 2,
-    "updated_at": "2025-07-31T03:54:52Z",
+    "stars": 3,
+    "updated_at": "2025-11-11T10:31:59Z",
     "version": "v1.0"
   },
   "astrbot_plugin_galinfo": {
@@ -4177,8 +4177,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 66,
-    "updated_at": "2025-11-11T08:37:41Z",
+    "stars": 67,
+    "updated_at": "2025-11-11T10:37:47Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
