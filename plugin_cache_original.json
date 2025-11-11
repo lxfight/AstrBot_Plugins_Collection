@@ -2045,8 +2045,8 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 23,
-    "updated_at": "2025-10-31T09:38:06Z",
+    "stars": 24,
+    "updated_at": "2025-11-11T09:11:10Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_vtb_adapter": {
@@ -4177,8 +4177,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 65,
-    "updated_at": "2025-11-10T09:13:36Z",
+    "stars": 66,
+    "updated_at": "2025-11-11T08:37:41Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
@@ -7528,8 +7528,8 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
     "stars": 143,
-    "updated_at": "2025-11-11T05:47:10Z",
-    "version": "v2.0.2"
+    "updated_at": "2025-11-11T09:12:38Z",
+    "version": "v2.0.5"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
