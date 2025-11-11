@@ -2344,8 +2344,8 @@
       "MiBand"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 2,
-    "updated_at": "2025-11-01T09:08:29Z",
+    "stars": 3,
+    "updated_at": "2025-11-11T09:56:08Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
@@ -2390,8 +2390,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 32,
-    "updated_at": "2025-11-10T16:02:49Z",
+    "stars": 33,
+    "updated_at": "2025-11-11T09:36:22Z",
     "version": "1.3.5"
   },
   "astrbot_plugin_baiduocr": {
@@ -2602,8 +2602,8 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 21,
-    "updated_at": "2025-11-02T04:59:12Z",
+    "stars": 22,
+    "updated_at": "2025-11-11T09:59:18Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
@@ -2820,8 +2820,8 @@
       "截屏"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 7,
-    "updated_at": "2025-10-31T06:24:57Z",
+    "stars": 8,
+    "updated_at": "2025-11-11T10:01:29Z",
     "version": "v1.0.4",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_screenctrl/main/logo.png"
   },
@@ -3084,8 +3084,8 @@
       "战地风云"
     ],
     "stars": 11,
-    "updated_at": "2025-11-10T09:20:14Z",
-    "version": "v2.0.2",
+    "updated_at": "2025-11-11T10:21:35Z",
+    "version": "v2.1.0",
     "logo": "https://raw.githubusercontent.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool/master/logo.png"
   },
   "astrbot_plugin_SteamSaleTracker": {
@@ -3627,8 +3627,8 @@
     "desc": "一个简单的插件，让 Bot 闭嘴",
     "social_link": "https://github.com/railgun19457",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-11-01T09:12:27Z",
+    "stars": 4,
+    "updated_at": "2025-11-11T10:10:57Z",
     "version": "v1.4",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_shutup/master/logo.png"
   },
@@ -3782,8 +3782,8 @@
       "alist"
     ],
     "social_link": "https://github.com/linjianyan0229",
-    "stars": 0,
-    "updated_at": "2025-06-18T07:04:06Z",
+    "stars": 1,
+    "updated_at": "2025-11-11T10:12:09Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_github_analyzer": {
