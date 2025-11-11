@@ -35,7 +35,7 @@
     ],
     "social_link": "https://www.functen.cn/",
     "stars": 1,
-    "updated_at": "2025-11-11T14:56:53Z",
+    "updated_at": "2025-11-11T15:26:33Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_siliconflow-shouban": {
@@ -703,7 +703,7 @@
       "实用"
     ],
     "stars": 5,
-    "updated_at": "2025-11-11T15:17:29Z",
+    "updated_at": "2025-11-11T15:44:55Z",
     "version": "v2.7.3",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
@@ -717,8 +717,8 @@
       "洛谷",
       "训练"
     ],
-    "stars": 1,
-    "updated_at": "2025-10-23T07:39:07Z",
+    "stars": 2,
+    "updated_at": "2025-11-11T15:54:11Z",
     "version": "v1.0"
   },
   "astrbot_plugin_chat_queue": {
@@ -2540,8 +2540,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 33,
-    "updated_at": "2025-11-11T09:36:22Z",
+    "stars": 34,
+    "updated_at": "2025-11-11T15:32:43Z",
     "version": "1.3.5"
   },
   "astrbot_plugin_baiduocr": {
@@ -6077,7 +6077,7 @@
       "安全"
     ],
     "stars": 5,
-    "updated_at": "2025-11-11T15:17:29Z",
+    "updated_at": "2025-11-11T15:44:55Z",
     "version": "v2.7.3",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
