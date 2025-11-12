@@ -107,7 +107,7 @@
     ],
     "social_link": "https://github.com/SatenShiroya",
     "stars": 2,
-    "updated_at": "2025-11-11T20:17:09Z",
+    "updated_at": "2025-11-12T01:58:47Z",
     "version": "V1.0.0",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_neteasecloud_music/master/logo.png"
   },
@@ -1986,7 +1986,7 @@
       "rag"
     ],
     "stars": 34,
-    "updated_at": "2025-11-11T12:51:30Z",
+    "updated_at": "2025-11-12T02:13:21Z",
     "version": "1.7.0",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
@@ -7678,8 +7678,8 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
     "stars": 142,
-    "updated_at": "2025-11-12T00:36:05Z",
-    "version": "v2.0.5"
+    "updated_at": "2025-11-12T02:13:23Z",
+    "version": "v2.0.6"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
