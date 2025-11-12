@@ -9,8 +9,8 @@
       "情感"
     ],
     "stars": 1,
-    "updated_at": "2025-11-09T10:41:31Z",
-    "version": "v2.1.0"
+    "updated_at": "2025-11-12T11:44:36Z",
+    "version": "v2.1.1"
   },
   "astrbot_plugin_whatslinkInfo": {
     "display_name": "磁力解析",
@@ -209,8 +209,8 @@
       "AI 投资模拟"
     ],
     "social_link": "https://github.com/vmoranv",
-    "stars": 2,
-    "updated_at": "2025-11-07T11:57:47Z",
+    "stars": 3,
+    "updated_at": "2025-11-12T11:53:55Z",
     "version": "v2.0.0",
     "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_cryptocurrency/master/logo.png"
   },
@@ -224,8 +224,8 @@
       "二次元"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 11,
-    "updated_at": "2025-11-12T07:50:14Z",
+    "stars": 13,
+    "updated_at": "2025-11-12T12:31:56Z",
     "version": "v2.0.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_qqgal/master/logo.png"
   },
@@ -527,7 +527,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 19,
-    "updated_at": "2025-11-12T10:22:25Z",
+    "updated_at": "2025-11-12T11:30:44Z",
     "version": "0.9.97",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
