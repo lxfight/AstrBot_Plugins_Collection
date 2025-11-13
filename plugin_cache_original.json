@@ -526,8 +526,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 20,
-    "updated_at": "2025-11-13T08:34:45Z",
+    "stars": 21,
+    "updated_at": "2025-11-13T20:47:05Z",
     "version": "0.9.97",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -1646,8 +1646,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 7,
-    "updated_at": "2025-11-04T03:51:02Z",
-    "version": "0.1.0"
+    "updated_at": "2025-11-13T20:41:51Z",
+    "version": "1.0.0"
   },
   "astrbot_plugin_pollinations_images": {
     "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
