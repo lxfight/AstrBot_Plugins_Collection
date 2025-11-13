@@ -310,8 +310,8 @@
       "语音"
     ],
     "social_link": "https://github.com/ovoox",
-    "stars": 1,
-    "updated_at": "2025-11-12T15:27:27Z",
+    "stars": 2,
+    "updated_at": "2025-11-13T03:16:06Z",
     "version": "v1.0"
   },
   "astrbot_plugin_weibo_hot": {
@@ -2456,9 +2456,9 @@
       "Steam"
     ],
     "social_link": "https://github.com/danfong1104",
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 1,
+    "updated_at": "2025-09-20T05:41:21Z",
+    "version": "v2.1.1"
   },
   "astrbot_plugin_tts_emotion_router": {
     "desc": "按情绪路由到不同音色与语速的 TTS 插件（硅基流动 API，其他OpenAI语音接口api同样适配），支持隐藏标记与启发式情绪识别、概率/长度/冷却门控与会话开关。",
