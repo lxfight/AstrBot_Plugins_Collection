@@ -809,8 +809,9 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 4,
-    "updated_at": "2025-11-12T04:31:41Z",
-    "version": "v1.3.0"
+    "updated_at": "2025-11-13T07:17:47Z",
+    "version": "v1.4.0",
+    "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
     "desc": "一个非常简单的插件，在请求中插入当前时间",
@@ -7685,8 +7686,8 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
     "stars": 142,
-    "updated_at": "2025-11-12T02:13:23Z",
-    "version": "v2.0.6"
+    "updated_at": "2025-11-13T07:25:21Z",
+    "version": "v2.0.7"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
