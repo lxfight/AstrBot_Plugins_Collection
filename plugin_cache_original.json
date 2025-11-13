@@ -283,8 +283,8 @@
       "排行榜",
       "发言统计"
     ],
-    "stars": 4,
-    "updated_at": "2025-11-09T12:43:27Z",
+    "stars": 5,
+    "updated_at": "2025-11-13T14:14:36Z",
     "version": "1.6.2",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
@@ -1372,8 +1372,8 @@
       "fishing"
     ],
     "stars": 18,
-    "updated_at": "2025-11-12T06:50:46Z",
-    "version": "2.4.0",
+    "updated_at": "2025-11-13T14:10:14Z",
+    "version": "2.4.1",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -5492,7 +5492,7 @@
       "pixiv"
     ],
     "stars": 26,
-    "updated_at": "2025-11-13T11:50:48Z",
+    "updated_at": "2025-11-13T14:14:20Z",
     "version": "1.4.0",
     "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_pixiv_search/master/logo.png"
   },
