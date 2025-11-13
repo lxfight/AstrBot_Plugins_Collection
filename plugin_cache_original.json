@@ -3236,8 +3236,8 @@
       "战地风云"
     ],
     "stars": 11,
-    "updated_at": "2025-11-11T10:21:35Z",
-    "version": "v2.1.0",
+    "updated_at": "2025-11-13T08:26:49Z",
+    "version": "v2.1.1",
     "logo": "https://raw.githubusercontent.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool/master/logo.png"
   },
   "astrbot_plugin_SteamSaleTracker": {
@@ -6120,8 +6120,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 33,
-    "updated_at": "2025-11-12T06:25:05Z",
+    "stars": 34,
+    "updated_at": "2025-11-13T07:57:55Z",
     "version": "v1.2.0",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
