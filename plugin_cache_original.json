@@ -1496,8 +1496,8 @@
       "备货"
     ],
     "stars": 0,
-    "updated_at": "2025-11-04T05:09:34Z",
-    "version": "v0.4.5"
+    "updated_at": "2025-11-14T01:47:09Z",
+    "version": "v0.4.6"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
