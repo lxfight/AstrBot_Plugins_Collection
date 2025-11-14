@@ -1000,7 +1000,7 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 7,
-    "updated_at": "2025-11-11T23:33:53Z",
+    "updated_at": "2025-11-14T14:29:07Z",
     "version": "1.3.50"
   },
   "astrbot_plugin_33recognition": {
@@ -7072,8 +7072,8 @@
       "webui",
       "图床"
     ],
-    "stars": 96,
-    "updated_at": "2025-11-14T06:04:08Z",
+    "stars": 95,
+    "updated_at": "2025-11-14T14:49:43Z",
     "version": "v3.18"
   },
   "mccloud_command": {
