@@ -9,23 +9,69 @@
 	    "情感"
 	  ]
 	},
+	"astrbot_plugin_email_narrator": {
+	  "display_name": "Email Narrator",
+	  "desc": "一个智能邮件播报插件，能接收邮件并让继承了会话和人格的 LLM 来通知用户",
+	  "author": "ZvZPvz",
+	  "repo": "https://github.com/ZvZPvz/astrbot_plugin_email_narrator",
+	  "tags": ["主动消息","拟人","邮箱","email","推送"],
+	  "social_link": "https://github.com/ZvZPvz"
+	},
+	"astrbot_plugin_mcwatcher": {
+	  "display_name": "MCWatcher",
+	  "desc": "MCWatcher 是一个基于 AstrBot 的插件，用于 自动监测 Mojang 的最新 Minecraft 版本",
+	  "author": "noname2309-bot",
+	  "repo": "https://github.com/wadadawsd/astrbot_plugin_mcwatcher",
+	  "tags": [
+	    "mc"
+	  ]
+	},
+	"astrbot_plugin_grok_video": {
+	  "display_name": "Grok2api 视频生成",
+	  "desc": "基于 grok2api 的图生视频插件",
+	  "author": "ShiHao",
+	  "repo": "https://github.com/lixin0229/astrbot_plugin_grok_video",
+	  "tags": [
+	    "视频生成"
+	  ],
+	  "social_link": "https://www.functen.cn/"
+	},
+	"astrbot_plugin_http_adapter": {
+	  "display_name": "HTTP 消息设配器",
+	  "desc": "获得使用 HTTP 接口调用 AstrBot 的能力",
+	  "author": "fluidcat",
+	  "repo": "https://github.com/fluidcat/astrbot_plugin_http_adapter",
+	  "tags": [
+	    "平台设配器",
+	    "HTTP"
+	  ],
+	  "social_link": "https://github.com/fluidcat/astrbot_plugin_http_adapter/issues"
+	},
+	"astrbot_plugin_goldsearch": {
+	  "display_name": "astrbot_plugins_goldSearch",
+	  "desc": "获取国内金首饰价格。",
+	  "author": "Mavis",
+	  "repo": "https://github.com/1530624156/astrbot_plugin_gold",
+	  "tags": [
+	    "黄金",
+	    "金价",
+	    "gold"
+	  ],
+	  "social_link": "http://mavis01.top:88/"
+	},
+	"astrbot_plugin_permission-manager": {
+	  "display_name": "指令权限管理器",
+	  "desc": "批量权限管理插件，提供便捷的批量权限设置功能。支持Webui管理插件指令权限",
+	  "author": "珈百璃",
+	  "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_permission-manager",
+	  "tags": ["指令"]
+	},
 	"astrbot_plugin_whatslinkInfo": {
 	  "display_name": "磁力解析",
 	  "desc": "磁链解析插件，使用 whatslink.info API 生成资源预览并支持截图与合并转发",
 	  "author": "ttlvip",
 	  "repo": "https://github.com/ttlvip/astrbot_plugin_whatslinkInfo",
 	  "tags": ["磁链"]
-	},
-	"astrbot_plugin_grok_video": {
-	  "display_name": "grok2api 视频生成",
-	  "desc": "基于 grok2api 的图生视频插件",
-	  "author": "ShiHao",
-	  "repo": "https://github.com/lixin0229/astrbot_plugin_grok_video",
-	  "tags": [
-	    "视频",
-	    "grok"
-	  ],
-	  "social_link": "https://www.functen.cn/"
 	},
 	"astrbot_plugin_siliconflow-shouban": {
 		"desc": "接入硅基流动画图，图片编辑，可自定义预设",
@@ -284,6 +330,14 @@
 	  "tags": [
 	    "修仙"
 	  ]
+	},
+	"astrbot_plugin_invitecount": {
+	  "display_name": "群邀请统计",
+	  "desc": "用于群聊内查询、排行和统计每位成员的邀请、退群、有效邀请人数等入群数据。",
+	  "author": "bvzrays",
+	  "repo": "https://github.com/bvzrays/astrbot_plugin_invitecount",
+	  "tags": ["统计", "群邀请"],
+	  "social_link": "https://github.com/bvzrays"
 	},
 	"astrbot_plugin_magnet_preview": {
 	  "display_name": "Magnet Previewer",
