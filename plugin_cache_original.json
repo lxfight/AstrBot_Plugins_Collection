@@ -1718,8 +1718,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 16,
-    "updated_at": "2025-11-14T18:58:14Z",
-    "version": "0.6.1"
+    "updated_at": "2025-11-14T20:40:22Z",
+    "version": "0.6.2"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -1731,8 +1731,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 7,
-    "updated_at": "2025-11-13T20:41:51Z",
-    "version": "1.0.0"
+    "updated_at": "2025-11-14T20:39:38Z",
+    "version": "1.0.1"
   },
   "astrbot_plugin_pollinations_images": {
     "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
