@@ -224,8 +224,8 @@
       "二次元"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 14,
-    "updated_at": "2025-11-14T05:52:36Z",
+    "stars": 15,
+    "updated_at": "2025-11-14T12:17:39Z",
     "version": "v2.0.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_qqgal/master/logo.png"
   },
@@ -1372,8 +1372,8 @@
       "fishing"
     ],
     "stars": 18,
-    "updated_at": "2025-11-13T14:10:14Z",
-    "version": "2.4.1",
+    "updated_at": "2025-11-14T12:28:37Z",
+    "version": "2.4.2",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -2791,8 +2791,8 @@
       "语音转化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 5,
-    "updated_at": "2025-10-31T06:22:35Z",
+    "stars": 6,
+    "updated_at": "2025-11-14T11:55:35Z",
     "version": "v1.0.2",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
