@@ -39,7 +39,7 @@
       "mc"
     ],
     "stars": 1,
-    "updated_at": "2025-11-14T21:53:00Z",
+    "updated_at": "2025-11-15T13:23:55Z",
     "version": "0.2.2"
   },
   "astrbot_plugin_grok_video": {
@@ -489,8 +489,8 @@
       "告警"
     ],
     "social_link": "https://gbkgov.cn",
-    "stars": 4,
-    "updated_at": "2025-11-15T06:58:56Z",
+    "stars": 5,
+    "updated_at": "2025-11-15T12:46:28Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_onelastimage": {
@@ -562,8 +562,8 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_plugin_gemini_image",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-10-22T09:22:24Z",
+    "stars": 4,
+    "updated_at": "2025-11-15T13:04:29Z",
     "version": "v0.4.0"
   },
   "astrbot_plugin_tts_sanitizer": {
@@ -3831,8 +3831,9 @@
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
     "stars": 27,
-    "updated_at": "2025-11-09T07:39:26Z",
-    "version": "v2.7.4"
+    "updated_at": "2025-11-15T13:14:47Z",
+    "version": "v2.7.4",
+    "logo": "https://raw.githubusercontent.com/sa1guu/astrbot_plugin_touchi/master/logo.png"
   },
   "astrbot_plugin_Astrsupermarket": {
     "author": "和泉智宏本人",
