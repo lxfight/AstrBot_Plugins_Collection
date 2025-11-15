@@ -1029,8 +1029,8 @@
       "娱乐"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 5,
-    "updated_at": "2025-11-07T18:18:08Z",
+    "stars": 6,
+    "updated_at": "2025-11-15T16:58:07Z",
     "version": "v2.3",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
@@ -1398,8 +1398,8 @@
       "成员查询"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 5,
-    "updated_at": "2025-10-30T20:48:38Z",
+    "stars": 6,
+    "updated_at": "2025-11-15T16:57:43Z",
     "version": "v0.1.0"
   },
   "qftp": {
@@ -2324,8 +2324,8 @@
       "群管"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 5,
-    "updated_at": "2025-10-25T04:04:17Z",
+    "stars": 6,
+    "updated_at": "2025-11-15T16:57:31Z",
     "version": "v1.4"
   },
   "command_to_llm": {
@@ -2840,7 +2840,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 22,
-    "updated_at": "2025-11-15T10:20:55Z",
+    "updated_at": "2025-11-15T17:19:25Z",
     "version": "v2.0.1",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
@@ -3510,8 +3510,8 @@
       "工具",
       "娱乐"
     ],
-    "stars": 5,
-    "updated_at": "2025-09-12T06:35:19Z",
+    "stars": 6,
+    "updated_at": "2025-11-15T16:57:18Z",
     "version": "v2.0.5"
   },
   "astrbot_plugin_file": {
