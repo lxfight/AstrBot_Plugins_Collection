@@ -94,8 +94,8 @@
       "指令"
     ],
     "stars": 2,
-    "updated_at": "2025-11-16T03:39:07Z",
-    "version": "1.1.0"
+    "updated_at": "2025-11-16T11:54:50Z",
+    "version": "1.1.1"
   },
   "astrbot_plugin_whatslinkInfo": {
     "display_name": "磁力解析",
@@ -612,7 +612,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 22,
-    "updated_at": "2025-11-15T09:05:01Z",
+    "updated_at": "2025-11-16T11:33:02Z",
     "version": "0.9.97",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -1457,7 +1457,7 @@
       "fishing"
     ],
     "stars": 18,
-    "updated_at": "2025-11-16T11:10:46Z",
+    "updated_at": "2025-11-16T11:31:51Z",
     "version": "2.4.4",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
@@ -2506,7 +2506,7 @@
     "repo": "https://github.com/RC-CHN/astrbot_plugin_pic_search",
     "tags": [],
     "stars": 4,
-    "updated_at": "2025-10-22T12:32:54Z",
+    "updated_at": "2025-11-16T12:14:42Z",
     "version": "v0.1"
   },
   "astrbot_plugin_spaghetti_concrete": {
@@ -4985,8 +4985,8 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 58,
-    "updated_at": "2025-11-11T12:18:54Z",
+    "stars": 59,
+    "updated_at": "2025-11-16T12:28:51Z",
     "version": "1.1.0"
   },
   "astrbot_plugin_combine-messages": {
