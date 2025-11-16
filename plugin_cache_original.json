@@ -239,7 +239,7 @@
       "Blue Archive"
     ],
     "stars": 0,
-    "updated_at": "2025-11-10T13:43:42Z",
+    "updated_at": "2025-11-16T13:47:35Z",
     "version": "v1.14"
   },
   "astrbot_plugin_mirage_tank": {
@@ -612,7 +612,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 22,
-    "updated_at": "2025-11-16T11:33:02Z",
+    "updated_at": "2025-11-16T13:40:28Z",
     "version": "0.9.97",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -1718,8 +1718,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 16,
-    "updated_at": "2025-11-16T00:16:48Z",
-    "version": "0.6.3"
+    "updated_at": "2025-11-16T13:41:59Z",
+    "version": "0.6.5"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -2628,8 +2628,8 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "stars": 37,
-    "updated_at": "2025-11-15T09:13:31Z",
-    "version": "1.4.1"
+    "updated_at": "2025-11-16T14:18:03Z",
+    "version": "1.4.2"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -5401,8 +5401,8 @@
       "群消息"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 4,
-    "updated_at": "2025-09-06T08:46:32Z",
+    "stars": 3,
+    "updated_at": "2025-11-16T13:59:19Z",
     "version": "v1.0.8"
   },
   "astrbot_plugin_OriginiumSeal": {
@@ -7055,8 +7055,8 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 76,
-    "updated_at": "2025-11-10T09:34:37Z",
+    "stars": 75,
+    "updated_at": "2025-11-16T13:59:18Z",
     "version": "v2.1.6"
   },
   "astrbot_plugin_steamshot": {
@@ -7771,8 +7771,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 142,
-    "updated_at": "2025-11-13T07:25:21Z",
+    "stars": 141,
+    "updated_at": "2025-11-16T13:59:16Z",
     "version": "v2.0.7"
   },
   "FateTrial_img_identify": {
