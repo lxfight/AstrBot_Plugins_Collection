@@ -1797,7 +1797,7 @@
       "小说"
     ],
     "stars": 2,
-    "updated_at": "2025-10-13T15:06:41Z",
+    "updated_at": "2025-11-16T09:04:00Z",
     "version": "v0.0.1"
   },
   "ark_info_search": {
@@ -1966,8 +1966,8 @@
     "repo": "https://github.com/Dt8333/astrbot_plugin_model_mcp_bridge",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-11-16T05:30:44Z",
-    "version": "v1.1.2"
+    "updated_at": "2025-11-16T08:45:55Z",
+    "version": "v1.2.0"
   },
   "Codex": {
     "desc": "AstrBot_Codex 是一个基于 Docker 的 Linux 命令执行插件，专为 AstrBot 开发，能够安全地在隔离的 Docker 容器中执行多种编程语言的代码并返回结果。",
@@ -3565,7 +3565,7 @@
     "tags": [],
     "stars": 12,
     "updated_at": "2025-10-23T16:20:27Z",
-    "version": "v1.5.0"
+    "version": "1.0.0"
   },
   "astrbot_plugin_mp": {
     "desc": "一个适用于最新版本moviepilot的小工具，支持搜索、订阅、消息转发等功能",
