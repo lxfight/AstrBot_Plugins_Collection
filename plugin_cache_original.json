@@ -2840,8 +2840,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 23,
-    "updated_at": "2025-11-16T06:19:12Z",
-    "version": "v2.0.1",
+    "updated_at": "2025-11-16T07:38:24Z",
+    "version": "v2.0.2",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -6491,7 +6491,7 @@
     ],
     "stars": 3,
     "updated_at": "2025-04-15T08:52:55Z",
-    "version": "1.0.0"
+    "version": "v1.0.0"
   },
   "astrbot_plugin_jmcomicsget": {
     "desc": "发送 JM 漫画编号，机器人发送漫画 PDF",
@@ -6501,9 +6501,9 @@
       "JM"
     ],
     "social_link": "https://github.com/Ayachi2225",
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 4,
+    "updated_at": "2025-10-23T15:08:43Z",
+    "version": "v1.0.1"
   },
   "astrbot_plugin_history_day": {
     "desc": "查看 历史上的某天 发生的大事 (历史上的今天的增强版)",
@@ -6513,18 +6513,19 @@
       "历史"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_history_day",
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 4,
+    "updated_at": "2025-10-31T06:11:48Z",
+    "version": "v1.0.8",
+    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_history_day/main/logo.png"
   },
   "astrbot_plugin_PockAttack": {
     "desc": "[仅 aiocqhttp] 在群聊中发送 攻击+@用户 或者其他关键词，机器人会戳一戳该用户",
     "author": "LouieKH359",
     "repo": "https://github.com/LouieKH359/astrbot_plugin_PockAttack",
     "tags": [],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 1,
+    "updated_at": "2025-08-12T01:38:22Z",
+    "version": "v1.0"
   },
   "astrbot_plugin_memelite": {
     "display_name": "表情包生成器",
@@ -6535,9 +6536,10 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 64,
+    "updated_at": "2025-11-13T16:22:26Z",
+    "version": "v3.0.2",
+    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
     "author": "城城",
@@ -6547,9 +6549,9 @@
       "签到",
       "经济"
     ],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 2,
+    "updated_at": "2025-11-11T03:11:26Z",
+    "version": "v1.6.2"
   },
   "astrbot_plugin_saris_db": {
     "author": "城城",
@@ -6558,9 +6560,9 @@
     "tags": [
       "前置"
     ],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 1,
+    "updated_at": "2025-04-09T17:14:21Z",
+    "version": "v1.4.4"
   },
   "headline": {
     "author": "egg",
@@ -6570,9 +6572,9 @@
     ],
     "social_link": "https://github.com/bbpn-cn/headline",
     "repo": "https://github.com/bbpn-cn/headline",
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 2,
+    "updated_at": "2025-06-09T10:10:43Z",
+    "version": "v1.0.0"
   },
   "astrbot_plugin_mai_sgin": {
     "author": "Rinyin",
@@ -6582,9 +6584,9 @@
       "签到"
     ],
     "repo": "https://github.com/Rinyin/astrbot_plugin_mai_sgin",
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 5,
+    "updated_at": "2025-07-06T16:05:08Z",
+    "version": "v1.0.1"
   },
   "astrbot_plugin_aiocensor": {
     "desc": "AstrBot 综合内容安全+群管插件。文本、图片审核支持所有平台，撤回和禁言仅支持 aiocqhttp",
@@ -6595,18 +6597,18 @@
       "撤回",
       "禁言"
     ],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 2,
+    "updated_at": "2025-09-28T06:25:00Z",
+    "version": "v0.1.6"
   },
   "astrbot_plugin_custom_menu": {
     "desc": "自定义菜单图片，图片放置在 menu 目录下，支持格式jpg,jpeg,png,gif,bmp。",
     "author": "Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_custom_menu",
     "tags": [],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 4,
+    "updated_at": "2025-10-24T08:53:16Z",
+    "version": "v2.0.1"
   },
   "astrbot_plugin_liferestart": {
     "desc": "人生重启模拟器。输入「重开」来重开你的沟槽人生吧！",
@@ -6616,9 +6618,9 @@
     ],
     "social_link": "https://github.com/kterna/astrbot_plugin_liferestart",
     "repo": "https://github.com/kterna/astrbot_plugin_liferestart",
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 1,
+    "updated_at": "2025-03-24T15:23:26Z",
+    "version": "v1.0.0"
   },
   "astrbot_plugin_Lolicon": {
     "author": "hello七七",
@@ -6627,9 +6629,9 @@
     "tags": [
       "nsfw"
     ],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 11,
+    "updated_at": "2025-09-04T13:09:18Z",
+    "version": "v1.3"
   },
   "astrbot_plugin_Translation": {
     "desc": "通过调用百度翻译 API 接口实现翻译文本",
@@ -6640,8 +6642,8 @@
     ],
     "repo": "https://github.com/zengweis/astrbot_plugin_Translation",
     "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "updated_at": "2025-03-29T11:07:57Z",
+    "version": "v1.0.1"
   },
   "astrbot_plugin_box": {
     "display_name": "开盒插件",
@@ -6652,9 +6654,10 @@
       "开盒"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 50,
+    "updated_at": "2025-10-31T06:13:38Z",
+    "version": "v1.1.8",
+    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
     "display_name": "人际关系管理器",
@@ -6665,27 +6668,28 @@
     "tags": [
       "实用工具"
     ],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 19,
+    "updated_at": "2025-11-09T16:15:33Z",
+    "version": "v2.0.3",
+    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
     "desc": "[仅QQ可用]一个检测“戳”关键词的插件",
     "author": "huanyan434",
     "repo": "https://github.com/huanyan434/astrbot_plugin_pokecheck",
     "tags": [],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 5,
+    "updated_at": "2025-04-20T03:11:34Z",
+    "version": "v1.1"
   },
   "astrbot_plugin_MultiAI_PollPad": {
     "desc": "轮询调用配置的大语言模型输出多个结果。同时将结果拷贝至在线文本编辑器，以便用户复制。需额外安装依赖，见帮助",
     "repo": "https://github.com/Ynkcc/astrbot_plugin_MultiAI_PollPad",
     "author": "Ynkcc",
     "tags": [],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 2,
+    "updated_at": "2025-08-11T11:46:16Z",
+    "version": "v0.2.1"
   },
   "astrbot_plugin_push_lite": {
     "author": "Raven95676",
@@ -6694,9 +6698,9 @@
     "tags": [
       "消息推送"
     ],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 10,
+    "updated_at": "2025-09-29T16:31:33Z",
+    "version": "v0.2.1"
   },
   "astrbot_plugin_hello77": {
     "author": "hello七七",
@@ -6705,9 +6709,9 @@
       "梗"
     ],
     "repo": "https://github.com/ttq7/astrbot_plugin_hello77",
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 3,
+    "updated_at": "2025-04-08T12:25:41Z",
+    "version": "v1.2"
   },
   "astrbot_plugin_anti_withdrawal": {
     "desc": "[仅支持微信] 防撤回插件，目前只支持微信私聊群聊的文本消息，将撤回的消息记录并发送给设定的人",
