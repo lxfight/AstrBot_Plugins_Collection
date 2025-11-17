@@ -295,8 +295,8 @@
       "二次元"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 14,
-    "updated_at": "2025-11-16T10:25:34Z",
+    "stars": 15,
+    "updated_at": "2025-11-17T06:19:08Z",
     "version": "v2.0.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_qqgal/master/logo.png"
   },
@@ -4715,8 +4715,8 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
     "social_link": "https://github.com/Zhalslar",
     "tags": [],
-    "stars": 31,
-    "updated_at": "2025-11-16T16:40:35Z",
+    "stars": 32,
+    "updated_at": "2025-11-17T05:57:06Z",
     "version": "v1.0.9",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
@@ -6006,8 +6006,8 @@
       "QQ群管"
     ],
     "stars": 60,
-    "updated_at": "2025-11-17T01:33:43Z",
-    "version": "v3.1.10",
+    "updated_at": "2025-11-17T06:42:19Z",
+    "version": "v3.2.0",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -6514,7 +6514,7 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_history_day",
     "stars": 4,
-    "updated_at": "2025-10-31T06:11:48Z",
+    "updated_at": "2025-11-17T05:40:53Z",
     "version": "v1.0.8",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_history_day/main/logo.png"
   },
