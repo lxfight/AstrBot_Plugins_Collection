@@ -1478,8 +1478,8 @@
     "repo": "https://github.com/Chris95743/astrbot_plugin_VITS_pro",
     "social_link": "https://voice.gbkgov.cn",
     "tags": [],
-    "stars": 11,
-    "updated_at": "2025-11-12T15:05:47Z",
+    "stars": 12,
+    "updated_at": "2025-11-17T04:01:41Z",
     "version": "v1.8.0"
   },
   "astrbot_plugin_blacklist_tools": {
@@ -2180,8 +2180,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 49,
-    "updated_at": "2025-11-16T15:16:24Z",
+    "stars": 50,
+    "updated_at": "2025-11-17T03:33:36Z",
     "version": "v3.7.0",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/master/logo.png"
   },
@@ -5507,7 +5507,7 @@
     "tags": [],
     "stars": 6,
     "updated_at": "2025-07-26T10:59:25Z",
-    "version": "v1.5"
+    "version": "1.0.0"
   },
   "astrbot_plugin_group_sum_ai": {
     "author": "Ayu-u",
@@ -5527,7 +5527,7 @@
     ],
     "stars": 0,
     "updated_at": "2025-05-12T12:01:04Z",
-    "version": "v1.0.0"
+    "version": "1.0.0"
   },
   "astrbot_plugin_repeat_after_me": {
     "author": "和泉智宏",
@@ -5567,8 +5567,8 @@
       "理财"
     ],
     "stars": 0,
-    "updated_at": "2025-04-17T07:11:08Z",
-    "version": "v1.0"
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_pixiv_search": {
     "repo": "https://github.com/vmoranv/astrbot_plugin_pixiv_search",
@@ -5992,7 +5992,7 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "stars": 19,
-    "updated_at": "2025-11-16T18:53:11Z",
+    "updated_at": "2025-11-17T04:32:11Z",
     "version": "v1.1.4",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
