@@ -390,8 +390,8 @@
     "author": "wr0x00",
     "repo": "https://github.com/wr0x00/astrbot_plugin_weibo_hot",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-11-04T22:55:54Z",
+    "stars": 1,
+    "updated_at": "2025-11-18T00:35:46Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_bilibili_bot": {
@@ -587,8 +587,8 @@
       "实用"
     ],
     "stars": 2,
-    "updated_at": "2025-11-10T14:15:57Z",
-    "version": "1.1.1",
+    "updated_at": "2025-11-18T00:57:12Z",
+    "version": "1.2.0",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_github_monitor_shell/master/logo.png"
   },
   "astrbot_plugin_ragflow_adapter": {
@@ -5578,8 +5578,8 @@
       "pixiv"
     ],
     "stars": 26,
-    "updated_at": "2025-11-17T11:46:44Z",
-    "version": "1.4.0",
+    "updated_at": "2025-11-17T23:32:29Z",
+    "version": "1.4.1",
     "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_pixiv_search/master/logo.png"
   },
   "astrbot_plugin_gotify": {
