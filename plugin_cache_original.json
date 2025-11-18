@@ -85,8 +85,8 @@
       "工具",
       "私聊"
     ],
-    "stars": 0,
-    "updated_at": "2025-11-17T09:14:59Z",
+    "stars": 1,
+    "updated_at": "2025-11-18T06:47:00Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -467,8 +467,8 @@
       "二次元"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 16,
-    "updated_at": "2025-11-18T02:49:23Z",
+    "stars": 17,
+    "updated_at": "2025-11-18T07:00:25Z",
     "version": "v2.0.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_qqgal/master/logo.png"
   },
@@ -553,8 +553,8 @@
       "语音"
     ],
     "social_link": "https://github.com/ovoox",
-    "stars": 2,
-    "updated_at": "2025-11-16T02:20:48Z",
+    "stars": 3,
+    "updated_at": "2025-11-18T06:35:44Z",
     "version": "v2.0"
   },
   "astrbot_plugin_weibo_hot": {
@@ -673,8 +673,8 @@
     "tags": [
       "图片生成"
     ],
-    "stars": 1,
-    "updated_at": "2025-11-06T08:38:19Z",
+    "stars": 2,
+    "updated_at": "2025-11-18T06:39:46Z",
     "version": "v1.0",
     "logo": "https://raw.githubusercontent.com/timetetng/astrbot_plugin_onelastimage/main/logo.png"
   },
@@ -2353,8 +2353,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 51,
-    "updated_at": "2025-11-17T16:17:10Z",
-    "version": "v3.8.0",
+    "updated_at": "2025-11-18T06:41:41Z",
+    "version": "v3.8.5",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/master/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -5749,8 +5749,8 @@
     "tags": [
       "pixiv"
     ],
-    "stars": 26,
-    "updated_at": "2025-11-17T23:32:29Z",
+    "stars": 27,
+    "updated_at": "2025-11-18T07:05:12Z",
     "version": "1.4.1",
     "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_pixiv_search/master/logo.png"
   },
