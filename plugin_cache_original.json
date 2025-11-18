@@ -784,8 +784,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 24,
-    "updated_at": "2025-11-18T10:42:21Z",
+    "stars": 25,
+    "updated_at": "2025-11-18T16:22:03Z",
     "version": "1.0.0-beta.1",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -1629,8 +1629,8 @@
       "game",
       "fishing"
     ],
-    "stars": 18,
-    "updated_at": "2025-11-16T11:31:51Z",
+    "stars": 19,
+    "updated_at": "2025-11-18T15:47:35Z",
     "version": "2.4.4",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
@@ -1865,8 +1865,8 @@
       "重启"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 4,
-    "updated_at": "2025-10-31T15:20:23Z",
+    "stars": 5,
+    "updated_at": "2025-11-18T15:56:30Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
@@ -2354,8 +2354,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 51,
-    "updated_at": "2025-11-18T15:13:30Z",
-    "version": "v3.9.0",
+    "updated_at": "2025-11-18T15:47:35Z",
+    "version": "v3.9.2",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/master/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -7944,8 +7944,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 141,
-    "updated_at": "2025-11-16T13:59:16Z",
+    "stars": 142,
+    "updated_at": "2025-11-18T15:55:29Z",
     "version": "v2.0.7"
   },
   "FateTrial_img_identify": {
