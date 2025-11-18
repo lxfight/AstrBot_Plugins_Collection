@@ -110,8 +110,8 @@
     "author": "miao",
     "repo": "https://github.com/libin99527/astrbot_plugin_werewolf",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-11-16T03:05:36Z",
+    "stars": 2,
+    "updated_at": "2025-11-18T03:23:36Z",
     "version": "v1.0.0",
     "logo": "https://raw.githubusercontent.com/libin99527/astrbot_plugin_werewolf/main/logo.png"
   },
@@ -1752,8 +1752,8 @@
       "坐标",
       "备货"
     ],
-    "stars": 0,
-    "updated_at": "2025-11-14T01:47:09Z",
+    "stars": 1,
+    "updated_at": "2025-11-18T03:41:59Z",
     "version": "v0.4.6"
   },
   "astrbot_plugin_admin_emoji_reply": {
