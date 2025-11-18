@@ -266,8 +266,9 @@
       "指令"
     ],
     "stars": 2,
-    "updated_at": "2025-11-16T11:54:50Z",
-    "version": "1.1.1"
+    "updated_at": "2025-11-18T13:11:22Z",
+    "version": "1.1.2",
+    "logo": "https://raw.githubusercontent.com/TenmaGabriel0721/astrbot_plugin_permission-manager/main/logo.png"
   },
   "astrbot_plugin_whatslinkInfo": {
     "display_name": "磁力解析",
@@ -2877,7 +2878,7 @@
     ],
     "social_link": "https://github.com/qa296/",
     "stars": 18,
-    "updated_at": "2025-11-09T03:25:16Z",
+    "updated_at": "2025-11-18T13:29:49Z",
     "version": "v0.2.6"
   },
   "astrbot_plugin_iearning_style": {
