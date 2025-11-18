@@ -1119,8 +1119,8 @@
     "tags": [
       "网络小说"
     ],
-    "stars": 1,
-    "updated_at": "2025-10-29T10:49:07Z",
+    "stars": 2,
+    "updated_at": "2025-11-18T09:11:10Z",
     "version": "v1.3"
   },
   "astrbot_plugin_persona_plus": {
@@ -2642,8 +2642,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 134,
-    "updated_at": "2025-11-16T16:41:53Z",
+    "stars": 135,
+    "updated_at": "2025-11-18T08:46:48Z",
     "version": "v2.1.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lmarena/main/logo.png"
   },
@@ -2800,8 +2800,8 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "stars": 37,
-    "updated_at": "2025-11-16T14:18:03Z",
-    "version": "1.4.2"
+    "updated_at": "2025-11-18T09:21:56Z",
+    "version": "1.4.5"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
