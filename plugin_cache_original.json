@@ -61,8 +61,8 @@
       "MC"
     ],
     "stars": 0,
-    "updated_at": "2025-11-15T11:02:10Z",
-    "version": "v1.0.0",
+    "updated_at": "2025-11-18T04:37:28Z",
+    "version": "v1.0.1",
     "logo": "https://raw.githubusercontent.com/SatellIta/astrbot_plugin_minecraft_skin_render/master/logo.png"
   },
   "astrbot_plugin_picstatus": {
@@ -110,8 +110,8 @@
     "author": "miao",
     "repo": "https://github.com/libin99527/astrbot_plugin_werewolf",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-11-18T03:23:36Z",
+    "stars": 3,
+    "updated_at": "2025-11-18T04:42:26Z",
     "version": "v1.0.0",
     "logo": "https://raw.githubusercontent.com/libin99527/astrbot_plugin_werewolf/main/logo.png"
   },
@@ -130,8 +130,8 @@
       "小红书",
       "推特"
     ],
-    "stars": 2,
-    "updated_at": "2025-11-17T07:33:18Z",
+    "stars": 3,
+    "updated_at": "2025-11-18T04:53:58Z",
     "version": "v3.1.0",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
@@ -509,8 +509,8 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 5,
-    "updated_at": "2025-11-15T16:09:13Z",
+    "stars": 6,
+    "updated_at": "2025-11-18T04:53:27Z",
     "version": "v1.1.1",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
@@ -783,8 +783,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 22,
-    "updated_at": "2025-11-17T12:25:59Z",
+    "stars": 23,
+    "updated_at": "2025-11-18T05:20:26Z",
     "version": "1.0.0-beta.1",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
