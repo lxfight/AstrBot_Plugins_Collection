@@ -60,8 +60,8 @@
     "tags": [
       "MC"
     ],
-    "stars": 0,
-    "updated_at": "2025-11-18T04:37:28Z",
+    "stars": 1,
+    "updated_at": "2025-11-19T14:21:43Z",
     "version": "v1.0.1",
     "logo": "https://raw.githubusercontent.com/SatellIta/astrbot_plugin_minecraft_skin_render/master/logo.png"
   },
@@ -337,8 +337,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_bolatuship",
     "version": "v1.0.0",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-11-12T07:05:00Z"
+    "stars": 2,
+    "updated_at": "2025-11-19T14:30:43Z"
   },
   "astrbot_plugin_NetEaseCloud_Music": {
     "display_name": "网易云点歌",
@@ -2793,8 +2793,8 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "stars": 38,
-    "updated_at": "2025-11-18T10:24:28Z",
-    "version": "1.4.5"
+    "updated_at": "2025-11-19T15:24:40Z",
+    "version": "1.5.0"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -3005,8 +3005,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 24,
-    "updated_at": "2025-11-19T10:27:19Z",
-    "version": "v2.0.5",
+    "updated_at": "2025-11-19T15:23:51Z",
+    "version": "v2.0.6",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -5008,7 +5008,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 16,
-    "updated_at": "2025-11-19T05:26:47Z",
+    "updated_at": "2025-11-19T15:00:26Z",
     "version": "v1.1.1",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
