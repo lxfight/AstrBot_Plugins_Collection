@@ -784,8 +784,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 26,
-    "updated_at": "2025-11-18T16:33:34Z",
+    "stars": 27,
+    "updated_at": "2025-11-19T05:46:35Z",
     "version": "1.0.0-beta.1",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -1058,8 +1058,9 @@
       "猜词"
     ],
     "stars": 0,
-    "updated_at": "2025-10-13T00:47:08Z",
-    "version": "v1.0.0"
+    "updated_at": "2025-11-19T05:57:42Z",
+    "version": "v1.0.0",
+    "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_gengtu/main/logo.png"
   },
   "astrbot_zssm_explain": {
     "desc": "zssm，支持关键词“zssm”（忽略前缀）与“zssm + 内容”直接解释；引用消息（含@）正常处理，Napcat get_msg 回溯图片；按 Provider ID 选择文本/图片模型并带回退；未回复仅发 zssm 时提示；默认提示词可在 main.py 顶部修改。",
@@ -1754,8 +1755,8 @@
       "备货"
     ],
     "stars": 1,
-    "updated_at": "2025-11-19T03:22:19Z",
-    "version": "v0.4.7"
+    "updated_at": "2025-11-19T05:45:07Z",
+    "version": "v0.4.8"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -4774,8 +4775,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 66,
-    "updated_at": "2025-11-07T08:37:45Z",
+    "stars": 67,
+    "updated_at": "2025-11-19T06:27:23Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -7331,8 +7332,8 @@
       "webui",
       "图床"
     ],
-    "stars": 95,
-    "updated_at": "2025-11-14T14:49:43Z",
+    "stars": 97,
+    "updated_at": "2025-11-19T06:02:00Z",
     "version": "v3.18"
   },
   "mccloud_command": {
