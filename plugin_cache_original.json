@@ -961,8 +961,8 @@
       "实用"
     ],
     "stars": 5,
-    "updated_at": "2025-11-15T10:29:33Z",
-    "version": "v2.7.4",
+    "updated_at": "2025-11-19T09:42:56Z",
+    "version": "v2.7.5",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -1905,7 +1905,7 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 7,
-    "updated_at": "2025-11-14T20:39:38Z",
+    "updated_at": "2025-11-19T10:00:27Z",
     "version": "1.0.1"
   },
   "astrbot_plugin_pollinations_images": {
@@ -3014,8 +3014,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 24,
-    "updated_at": "2025-11-18T16:38:11Z",
-    "version": "v2.0.4",
+    "updated_at": "2025-11-19T10:27:19Z",
+    "version": "v2.0.5",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -4589,8 +4589,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 67,
-    "updated_at": "2025-11-11T10:37:47Z",
+    "stars": 68,
+    "updated_at": "2025-11-19T09:42:02Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
@@ -6342,8 +6342,8 @@
       "安全"
     ],
     "stars": 5,
-    "updated_at": "2025-11-15T10:29:33Z",
-    "version": "v2.7.4",
+    "updated_at": "2025-11-19T09:42:56Z",
+    "version": "v2.7.5",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "JmCli": {
@@ -7945,8 +7945,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 142,
-    "updated_at": "2025-11-18T15:55:29Z",
+    "stars": 141,
+    "updated_at": "2025-11-19T10:02:33Z",
     "version": "v2.0.7"
   },
   "FateTrial_img_identify": {
