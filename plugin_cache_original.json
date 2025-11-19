@@ -85,8 +85,8 @@
       "工具",
       "私聊"
     ],
-    "stars": 2,
-    "updated_at": "2025-11-18T11:12:22Z",
+    "stars": 3,
+    "updated_at": "2025-11-19T04:39:55Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -1396,8 +1396,8 @@
       "视奸"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 8,
-    "updated_at": "2025-11-16T15:41:08Z",
+    "stars": 9,
+    "updated_at": "2025-11-19T04:48:15Z",
     "version": "1.0.0"
   },
   "bmtxt2img": {
@@ -1422,8 +1422,8 @@
     ],
     "social_link": "https://catyun.cyou/",
     "stars": 1,
-    "updated_at": "2025-11-13T17:24:39Z",
-    "version": "v1.0.5"
+    "updated_at": "2025-11-19T04:44:52Z",
+    "version": "v1.0.6"
   },
   "astrbot_plugin_search_tracemoe": {
     "desc": "基于 trace.moe API 的动漫场景识别插件，支持通过图片搜索动漫截图场景出处。",
@@ -4889,8 +4889,8 @@
     "social_link": "https://github.com/Zhalslar",
     "tags": [],
     "stars": 34,
-    "updated_at": "2025-11-19T02:45:21Z",
-    "version": "v1.0.9",
+    "updated_at": "2025-11-19T05:04:19Z",
+    "version": "v1.1.0",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -5015,8 +5015,8 @@
       "贴表情"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 15,
-    "updated_at": "2025-11-19T01:12:03Z",
+    "stars": 16,
+    "updated_at": "2025-11-19T05:26:47Z",
     "version": "v1.1.1",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_emoji_like/main/logo.png"
   },
