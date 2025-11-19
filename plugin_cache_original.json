@@ -1754,8 +1754,8 @@
       "备货"
     ],
     "stars": 1,
-    "updated_at": "2025-11-18T03:41:59Z",
-    "version": "v0.4.6"
+    "updated_at": "2025-11-19T03:22:19Z",
+    "version": "v0.4.7"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -1891,8 +1891,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 16,
-    "updated_at": "2025-11-16T13:41:59Z",
-    "version": "0.6.5"
+    "updated_at": "2025-11-19T03:24:01Z",
+    "version": "0.6.6"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
