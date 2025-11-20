@@ -6407,20 +6407,6 @@
     "updated_at": "2025-07-18T11:40:14Z",
     "version": "v1.3.1"
   },
-  "AstrBot_plugin_Ewords": {
-    "desc": "一起来记单词吧喵~",
-    "author": "IGCrystal",
-    "repo": "https://github.com/IGCrystal/AstrBot_plugin_Ewords",
-    "social_link": "https://github.com/IGCrystal/AstrBot_plugin_Ewords",
-    "tags": [
-      "CET-4",
-      "英语"
-    ],
-    "stars": 6,
-    "updated_at": "2025-11-20T07:11:17Z",
-    "version": "v1.1.2",
-    "logo": "https://raw.githubusercontent.com/IGCrystal/AstrBot_plugin_Ewords/master/logo.png"
-  },
   "astrbot_plugin_weather_wttr_in": {
     "desc": "使用 wttr.in 查询天气（llm工具）",
     "author": "xiewoc",
@@ -6771,8 +6757,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
     "stars": 50,
-    "updated_at": "2025-11-16T17:37:05Z",
-    "version": "v1.2.0",
+    "updated_at": "2025-11-20T15:16:49Z",
+    "version": "v1.2.1",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
@@ -7274,8 +7260,8 @@
       "webui",
       "图床"
     ],
-    "stars": 97,
-    "updated_at": "2025-11-19T06:02:00Z",
+    "stars": 98,
+    "updated_at": "2025-11-20T15:17:25Z",
     "version": "v3.18"
   },
   "mccloud_command": {
@@ -7887,8 +7873,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 141,
-    "updated_at": "2025-11-20T10:57:31Z",
+    "stars": 142,
+    "updated_at": "2025-11-20T15:34:55Z",
     "version": "v2.0.7"
   },
   "FateTrial_img_identify": {
