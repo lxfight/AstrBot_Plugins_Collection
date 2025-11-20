@@ -2238,8 +2238,8 @@
       "rag"
     ],
     "stars": 38,
-    "updated_at": "2025-11-20T02:39:47Z",
-    "version": "1.7.0",
+    "updated_at": "2025-11-20T05:48:44Z",
+    "version": "1.7.2",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -6170,8 +6170,8 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 61,
-    "updated_at": "2025-11-17T12:38:27Z",
+    "stars": 62,
+    "updated_at": "2025-11-20T05:55:48Z",
     "version": "v3.2.0",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
