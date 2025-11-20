@@ -2224,7 +2224,7 @@
       "rag"
     ],
     "stars": 38,
-    "updated_at": "2025-11-20T05:48:44Z",
+    "updated_at": "2025-11-20T10:57:33Z",
     "version": "1.7.2",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
@@ -6714,8 +6714,8 @@
       "禁言"
     ],
     "stars": 2,
-    "updated_at": "2025-09-28T06:25:00Z",
-    "version": "v0.1.6"
+    "updated_at": "2025-11-20T10:39:22Z",
+    "version": "v0.1.7"
   },
   "astrbot_plugin_custom_menu": {
     "desc": "自定义菜单图片，图片放置在 menu 目录下，支持格式jpg,jpeg,png,gif,bmp。",
@@ -7888,7 +7888,7 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
     "stars": 141,
-    "updated_at": "2025-11-19T14:28:07Z",
+    "updated_at": "2025-11-20T10:57:31Z",
     "version": "v2.0.7"
   },
   "FateTrial_img_identify": {
