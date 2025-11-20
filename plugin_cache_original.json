@@ -1745,8 +1745,8 @@
       "坐标",
       "备货"
     ],
-    "stars": 1,
-    "updated_at": "2025-11-19T05:45:07Z",
+    "stars": 2,
+    "updated_at": "2025-11-20T02:33:32Z",
     "version": "v0.4.8"
   },
   "astrbot_plugin_admin_emoji_reply": {
@@ -2237,8 +2237,8 @@
       "memory",
       "rag"
     ],
-    "stars": 36,
-    "updated_at": "2025-11-19T13:40:58Z",
+    "stars": 38,
+    "updated_at": "2025-11-20T02:39:47Z",
     "version": "1.7.0",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
@@ -2345,8 +2345,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 52,
-    "updated_at": "2025-11-18T17:54:24Z",
+    "stars": 54,
+    "updated_at": "2025-11-20T02:43:38Z",
     "version": "v3.9.2",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/master/logo.png"
   },
