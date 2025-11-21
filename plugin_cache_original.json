@@ -1,4 +1,51 @@
 {
+  "astrbot_plugin_maimaidx": {
+    "display_name": "国服舞萌插件",
+    "desc": "国服舞萌查分插件，支持查询成绩、排名、曲目信息等功能（一定要看文档！！！）",
+    "author": "ZhiheZier",
+    "repo": "https://github.com/ZhiheZier/astrbot_plugin_maimaidx",
+    "tags": [
+      "maimai",
+      "舞萌",
+      "查分"
+    ],
+    "social_link": "https://github.com/ZhiheZier",
+    "stars": 0,
+    "updated_at": "2025-11-18T12:51:49Z",
+    "version": "v1.0.0",
+    "logo": "https://raw.githubusercontent.com/ZhiheZier/astrbot_plugin_maimaidx/master/logo.png"
+  },
+  "astrbot_plugin_mcsmanager": {
+    "display_name": "MCSManager 管理",
+    "desc": "可以通过指令管理mcsmanager内实例的插件:主要功能:通过指令开/关mcsm实例，mcsm节点状态（内存，cpu占用），查看实例列表",
+    "author": "5060ti个马力的2099",
+    "repo": "https://github.com/HSOS6/astrbot_plugin_mcsmanager",
+    "tags": [
+      "MC",
+      "mcsmanager",
+      "控制台"
+    ],
+    "social_link": "https://github.com/HSOS6",
+    "stars": 0,
+    "updated_at": "2025-11-17T13:56:15Z",
+    "version": "1.1.8",
+    "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
+  },
+  "astrbot_plugin_minecraft_adapter": {
+    "display_name": "Minecraft适配器",
+    "desc": "连接到 Minecraft 插件服务器，实现消息互通和服务器管理",
+    "author": "Railgun19457",
+    "repo": "https://github.com/railgun19457/astrbot_plugin_minecraft_adapter",
+    "tags": [
+      "MC",
+      "Minecraft"
+    ],
+    "social_link": "https://www.misakanet.site",
+    "stars": 0,
+    "updated_at": "2025-11-12T15:33:32Z",
+    "version": "1.2.0",
+    "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
+  },
   "astrbot_plugin_minecraft_monitor": {
     "display_name": "MC 服务器状态检测",
     "desc": "Minecraft服务器监控插件，支持定时检测服务器状态变化并发送通知。可配置目标群、服务器地址、检查间隔等。",
@@ -1389,8 +1436,8 @@
     ],
     "social_link": "https://github.com/advent259141",
     "stars": 8,
-    "updated_at": "2025-11-20T21:35:59Z",
-    "version": "1.0.0"
+    "updated_at": "2025-11-21T11:01:27Z",
+    "version": "1.1.5"
   },
   "bmtxt2img": {
     "desc": "通过/bmimg指令调用智谱文生图模型",
@@ -3407,8 +3454,8 @@
       "群服互通"
     ],
     "social_link": "QQ: 824907403",
-    "stars": 1,
-    "updated_at": "2025-10-21T15:55:58Z",
+    "stars": 2,
+    "updated_at": "2025-11-21T10:45:14Z",
     "version": "v1.0.3"
   },
   "cngal_morning_report": {
@@ -6806,7 +6853,7 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
     "stars": 50,
-    "updated_at": "2025-11-20T15:39:24Z",
+    "updated_at": "2025-11-21T10:47:04Z",
     "version": "v1.2.1",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
