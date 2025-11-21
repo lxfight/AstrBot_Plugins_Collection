@@ -228,8 +228,8 @@
       "情感"
     ],
     "stars": 1,
-    "updated_at": "2025-11-13T11:14:31Z",
-    "version": "v2.2.0"
+    "updated_at": "2025-11-21T17:38:58Z",
+    "version": "v2.5.1"
   },
   "astrbot_plugin_email_narrator": {
     "display_name": "Email Narrator",
@@ -2402,8 +2402,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 54,
-    "updated_at": "2025-11-21T15:14:35Z",
-    "version": "v3.9.4",
+    "updated_at": "2025-11-21T17:47:08Z",
+    "version": "v3.9.5",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/master/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
