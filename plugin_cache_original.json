@@ -2332,8 +2332,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 54,
-    "updated_at": "2025-11-20T02:43:38Z",
-    "version": "v3.9.2",
+    "updated_at": "2025-11-21T06:35:29Z",
+    "version": "v3.9.3",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/master/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -2778,8 +2778,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 40,
-    "updated_at": "2025-11-21T02:03:45Z",
+    "stars": 41,
+    "updated_at": "2025-11-21T06:15:02Z",
     "version": "1.5.0"
   },
   "astrbot_plugin_baiduocr": {
@@ -5424,8 +5424,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "stars": 103,
-    "updated_at": "2025-11-20T15:36:47Z",
-    "version": "v2.0.5",
+    "updated_at": "2025-11-21T06:05:33Z",
+    "version": "v2.0.6",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -5715,8 +5715,8 @@
     "tags": [
       "pixiv"
     ],
-    "stars": 27,
-    "updated_at": "2025-11-18T07:05:12Z",
+    "stars": 28,
+    "updated_at": "2025-11-21T06:04:39Z",
     "version": "1.4.1",
     "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_pixiv_search/master/logo.png"
   },
@@ -7873,8 +7873,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 142,
-    "updated_at": "2025-11-21T02:19:34Z",
+    "stars": 143,
+    "updated_at": "2025-11-21T06:05:35Z",
     "version": "v2.0.8"
   },
   "FateTrial_img_identify": {
