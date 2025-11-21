@@ -1896,8 +1896,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 7,
-    "updated_at": "2025-11-19T10:00:27Z",
-    "version": "1.0.1"
+    "updated_at": "2025-11-21T04:35:14Z",
+    "version": "1.0.2"
   },
   "astrbot_plugin_pollinations_images": {
     "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
@@ -4477,8 +4477,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 35,
-    "updated_at": "2025-11-08T02:00:29Z",
+    "stars": 36,
+    "updated_at": "2025-11-21T05:09:59Z",
     "version": "2.1.8"
   },
   "astrbot_plugin_xiaoxue": {
