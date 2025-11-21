@@ -61,8 +61,8 @@
       "MC"
     ],
     "stars": 1,
-    "updated_at": "2025-11-19T14:21:43Z",
-    "version": "v1.0.1",
+    "updated_at": "2025-11-21T10:20:38Z",
+    "version": "v1.0.2",
     "logo": "https://raw.githubusercontent.com/SatellIta/astrbot_plugin_minecraft_skin_render/master/logo.png"
   },
   "astrbot_plugin_picstatus": {
@@ -6170,8 +6170,8 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 62,
-    "updated_at": "2025-11-20T08:51:44Z",
+    "stars": 63,
+    "updated_at": "2025-11-21T09:53:19Z",
     "version": "v3.2.0",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
