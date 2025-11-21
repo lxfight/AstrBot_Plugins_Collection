@@ -1067,8 +1067,8 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
-    "stars": 5,
-    "updated_at": "2025-11-20T15:55:48Z",
+    "stars": 6,
+    "updated_at": "2025-11-21T08:39:20Z",
     "version": "v2.0.0",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
@@ -7923,8 +7923,8 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
     "stars": 143,
-    "updated_at": "2025-11-21T06:05:35Z",
-    "version": "v2.0.8"
+    "updated_at": "2025-11-21T08:51:05Z",
+    "version": "v2.0.9"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
