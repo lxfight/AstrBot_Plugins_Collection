@@ -557,8 +557,8 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 7,
-    "updated_at": "2025-11-18T17:30:28Z",
+    "stars": 8,
+    "updated_at": "2025-11-21T12:42:06Z",
     "version": "v1.1.1",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
@@ -2284,8 +2284,8 @@
       "memory",
       "rag"
     ],
-    "stars": 38,
-    "updated_at": "2025-11-20T10:57:33Z",
+    "stars": 39,
+    "updated_at": "2025-11-21T11:41:18Z",
     "version": "1.7.2",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
@@ -3430,7 +3430,7 @@
       "主动回复"
     ],
     "stars": 3,
-    "updated_at": "2025-11-01T07:39:49Z",
+    "updated_at": "2025-11-21T11:44:05Z",
     "version": "v1.0.1"
   },
   "treasure_bag_plugin": {
@@ -7253,8 +7253,8 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 76,
-    "updated_at": "2025-11-17T15:05:16Z",
+    "stars": 77,
+    "updated_at": "2025-11-21T12:42:05Z",
     "version": "v2.1.7"
   },
   "astrbot_plugin_steamshot": {
@@ -7970,8 +7970,8 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
     "stars": 143,
-    "updated_at": "2025-11-21T08:51:05Z",
-    "version": "v2.0.9"
+    "updated_at": "2025-11-21T11:48:34Z",
+    "version": "v2.0.10"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
