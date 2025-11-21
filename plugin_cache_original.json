@@ -2222,8 +2222,8 @@
     "repo": "https://github.com/xiaoxi68/AstrBot_plugin_openai_image-command",
     "tags": [],
     "stars": 3,
-    "updated_at": "2025-11-21T08:13:13Z",
-    "version": "v1.8.1"
+    "updated_at": "2025-11-21T17:15:39Z",
+    "version": "v2.2.0"
   },
   "astrbot_plugin_sleep_tracker": {
     "desc": "一个基于 AstrBot 的睡眠记录插件，帮助用户记录和分析睡眠作息情况",
@@ -2802,8 +2802,8 @@
       "MiBand"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 3,
-    "updated_at": "2025-11-11T09:56:08Z",
+    "stars": 4,
+    "updated_at": "2025-11-21T17:12:53Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
@@ -7097,8 +7097,8 @@
       "功能",
       "推送"
     ],
-    "stars": 15,
-    "updated_at": "2025-11-17T04:42:29Z",
+    "stars": 16,
+    "updated_at": "2025-11-21T16:55:17Z",
     "version": "v2.1.0"
   },
   "astrbot_plugin_gemini_exp": {
