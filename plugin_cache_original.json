@@ -1307,8 +1307,8 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-11-22T04:54:04Z",
-    "version": "v1.5.0"
+    "updated_at": "2025-11-22T06:22:31Z",
+    "version": "1.6.0"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -3048,8 +3048,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 26,
-    "updated_at": "2025-11-22T05:15:17Z",
-    "version": "v2.1.1",
+    "updated_at": "2025-11-22T06:30:13Z",
+    "version": "v2.2.0",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
