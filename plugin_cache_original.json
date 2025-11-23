@@ -461,8 +461,8 @@
       "打卡"
     ],
     "stars": 2,
-    "updated_at": "2025-11-06T15:54:17Z",
-    "version": "v1.0.0",
+    "updated_at": "2025-11-23T05:43:20Z",
+    "version": "v1.0.1",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_dailyacmfortune/main/logo.png"
   },
   "astrbot_plugin_idgen": {
@@ -2435,8 +2435,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 57,
-    "updated_at": "2025-11-22T21:02:56Z",
-    "version": "v4.0.1",
+    "updated_at": "2025-11-23T05:29:21Z",
+    "version": "v4.1.0",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/master/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -3472,7 +3472,7 @@
       "主动回复"
     ],
     "stars": 3,
-    "updated_at": "2025-11-23T04:12:43Z",
+    "updated_at": "2025-11-23T05:30:40Z",
     "version": "v1.1.0",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
@@ -6435,8 +6435,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 34,
-    "updated_at": "2025-11-13T07:57:55Z",
+    "stars": 35,
+    "updated_at": "2025-11-23T05:31:54Z",
     "version": "v1.2.0",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
