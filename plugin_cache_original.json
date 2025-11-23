@@ -274,8 +274,8 @@
       "情感"
     ],
     "stars": 1,
-    "updated_at": "2025-11-21T19:19:47Z",
-    "version": "v2.5.1",
+    "updated_at": "2025-11-22T23:50:58Z",
+    "version": "v3.0.1",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
   "astrbot_plugin_email_narrator": {
@@ -3094,7 +3094,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 26,
-    "updated_at": "2025-11-22T14:30:51Z",
+    "updated_at": "2025-11-23T00:39:01Z",
     "version": "v2.2.1",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
@@ -5250,8 +5250,8 @@
       "广播"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 7,
-    "updated_at": "2025-10-31T06:14:11Z",
+    "stars": 8,
+    "updated_at": "2025-11-22T23:34:52Z",
     "version": "v1.0.4",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_broadcast/main/logo.png"
   },
