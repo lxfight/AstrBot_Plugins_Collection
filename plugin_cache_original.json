@@ -1242,8 +1242,9 @@
       "网络小说"
     ],
     "stars": 2,
-    "updated_at": "2025-11-18T09:11:10Z",
-    "version": "v1.3"
+    "updated_at": "2025-11-23T20:30:49Z",
+    "version": "v1.3.1",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_youshusearch/master/logo.png"
   },
   "astrbot_plugin_persona_plus": {
     "desc": "扩展 AstrBot 的人格管理能力，提供关键词自动切换、快速切换指令、以及与 QQ 头像/昵称的同步修改。",
@@ -1420,8 +1421,9 @@
       "群文件"
     ],
     "stars": 0,
-    "updated_at": "2025-10-29T10:47:35Z",
-    "version": "v1.4"
+    "updated_at": "2025-11-23T21:13:58Z",
+    "version": "v1.5",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_JMCOMIC": {
     "desc": "AstrBot JMComic，支持通过指令搜索和下载漫画。",
@@ -1593,8 +1595,9 @@
       "群文件"
     ],
     "stars": 3,
-    "updated_at": "2025-11-18T18:00:50Z",
-    "version": "v0.8.1"
+    "updated_at": "2025-11-23T20:59:11Z",
+    "version": "v0.9",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
     "desc": "当群主,管理员发布群公告或@全体时自动响应 \"td\" 的管理插件",
@@ -2012,8 +2015,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 16,
-    "updated_at": "2025-11-21T07:18:05Z",
-    "version": "0.6.8"
+    "updated_at": "2025-11-23T20:34:40Z",
+    "version": "0.6.9"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
