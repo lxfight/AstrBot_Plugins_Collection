@@ -3094,8 +3094,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 26,
-    "updated_at": "2025-11-23T07:11:57Z",
-    "version": "v2.2.1",
+    "updated_at": "2025-11-23T10:46:45Z",
+    "version": "v2.2.2",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -7964,8 +7964,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 144,
-    "updated_at": "2025-11-23T05:26:59Z",
+    "stars": 143,
+    "updated_at": "2025-11-23T10:35:28Z",
     "version": "v2.0.11"
   },
   "FateTrial_img_identify": {
