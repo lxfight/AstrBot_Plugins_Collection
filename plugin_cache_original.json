@@ -42,7 +42,7 @@
     "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-11-21T04:53:15Z",
+    "updated_at": "2025-11-23T12:47:11Z",
     "version": "v3.2.0"
   },
   "astrbot_plugin_maimaidx": {
@@ -878,8 +878,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 28,
-    "updated_at": "2025-11-22T14:30:48Z",
+    "stars": 29,
+    "updated_at": "2025-11-23T12:47:31Z",
     "version": "v1.0.0-beta.3",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -2945,8 +2945,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 21,
-    "updated_at": "2025-11-22T14:33:27Z",
-    "version": "v1.1.3",
+    "updated_at": "2025-11-23T13:07:06Z",
+    "version": "v1.1.4",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -3286,7 +3286,7 @@
       "文转图"
     ],
     "stars": 2,
-    "updated_at": "2025-11-05T13:02:45Z",
+    "updated_at": "2025-11-23T12:57:11Z",
     "version": "v1.1.3"
   },
   "pjsk_guess_song": {
@@ -5603,8 +5603,8 @@
       "文生图"
     ],
     "social_link": "https://github.com/Wayzinx",
-    "stars": 2,
-    "updated_at": "2025-09-04T13:09:19Z",
+    "stars": 3,
+    "updated_at": "2025-11-23T13:10:14Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_chishenme": {
@@ -5807,7 +5807,7 @@
       "pixiv"
     ],
     "stars": 29,
-    "updated_at": "2025-11-22T05:19:03Z",
+    "updated_at": "2025-11-23T13:12:34Z",
     "version": "1.4.1",
     "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_pixiv_search/master/logo.png"
   },
