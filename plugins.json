@@ -1,4 +1,19 @@
 {
+	"astrbot_plugin_infinite_dialogue": {
+	  "display_name": "AstrBot 无限对话插件",
+	  "desc": "这是一个为 AstrBot 设计的插件，旨在通过自动总结对话历史来实现'无限对话'功能",
+	  "author": "Alan Backer",
+	  "repo": "https://github.com/AlanBacker/astrbot_plugin_infinite_dialogue",
+	  "tags": ["Summary", "Chat"],
+	  "social_link": "https://space.bilibili.com/702922307"
+	},
+	"astrbot_plugin_pig": {
+	  "display_name": "猪猪表情包",
+	  "desc": "随机发送一张猪猪表情包",
+	  "author": "SakuraMikku",
+	  "repo": "https://github.com/wuxinTLH/astrbot_plugin_pig",
+	  "social_link": "https://github.com/wuxinTLH"
+	},
 	"astrbot_plugin_hardwareinfo": {
 	  "display_name": "硬件信息查询",
 	  "desc": "硬件信息查询（CPU/GPU搜索+天梯图+参数图片）",
