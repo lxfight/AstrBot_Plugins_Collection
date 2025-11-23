@@ -1,4 +1,29 @@
 {
+  "astrbot_plugin_infinite_dialogue": {
+    "display_name": "AstrBot 无限对话插件",
+    "desc": "这是一个为 AstrBot 设计的插件，旨在通过自动总结对话历史来实现'无限对话'功能",
+    "author": "Alan Backer",
+    "repo": "https://github.com/AlanBacker/astrbot_plugin_infinite_dialogue",
+    "tags": [
+      "Summary",
+      "Chat"
+    ],
+    "social_link": "https://space.bilibili.com/702922307",
+    "stars": 2,
+    "updated_at": "2025-11-22T19:14:45Z",
+    "version": "1.0.9"
+  },
+  "astrbot_plugin_pig": {
+    "display_name": "猪猪表情包",
+    "desc": "随机发送一张猪猪表情包",
+    "author": "SakuraMikku",
+    "repo": "https://github.com/wuxinTLH/astrbot_plugin_pig",
+    "social_link": "https://github.com/wuxinTLH",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-11-18T09:09:29Z",
+    "version": "v0.0.8"
+  },
   "astrbot_plugin_hardwareinfo": {
     "display_name": "硬件信息查询",
     "desc": "硬件信息查询（CPU/GPU搜索+天梯图+参数图片）",
@@ -165,8 +190,8 @@
     "repo": "https://github.com/exynos967/astrbot_plugin_picstatus",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-11-15T12:15:41Z",
-    "version": "v1.0.0"
+    "updated_at": "2025-11-23T15:51:06Z",
+    "version": "v1.1.0"
   },
   "astrbot_plugin_continuous_message": {
     "display_name": "消息防抖动",
@@ -562,8 +587,8 @@
       "二次元"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 18,
-    "updated_at": "2025-11-23T08:16:40Z",
+    "stars": 19,
+    "updated_at": "2025-11-23T15:50:51Z",
     "version": "v2.0.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_qqgal/master/logo.png"
   },
@@ -2434,8 +2459,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 57,
-    "updated_at": "2025-11-23T12:06:01Z",
+    "stars": 58,
+    "updated_at": "2025-11-23T15:35:55Z",
     "version": "v4.1.1",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/master/logo.png"
   },
@@ -3094,8 +3119,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 26,
-    "updated_at": "2025-11-23T10:46:45Z",
-    "version": "v2.2.2",
+    "updated_at": "2025-11-23T16:25:19Z",
+    "version": "v2.2.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -5266,7 +5291,7 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot",
     "stars": 7,
-    "updated_at": "2025-10-31T06:19:16Z",
+    "updated_at": "2025-11-23T15:55:07Z",
     "version": "v1.0.4",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_nobot/main/logo.png"
   },
