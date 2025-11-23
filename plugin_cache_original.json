@@ -2141,8 +2141,8 @@
       "记忆",
       "永久记忆"
     ],
-    "stars": 0,
-    "updated_at": "2025-09-06T20:47:18Z",
+    "stars": 1,
+    "updated_at": "2025-11-23T15:06:25Z",
     "version": "v0.2.6.0"
   },
   "randomtoken": {
@@ -2997,8 +2997,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 7,
-    "updated_at": "2025-11-03T16:07:32Z",
-    "version": "v1.0.2",
+    "updated_at": "2025-11-23T15:17:21Z",
+    "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -3285,8 +3285,8 @@
       "Markdown",
       "文转图"
     ],
-    "stars": 2,
-    "updated_at": "2025-11-23T13:56:33Z",
+    "stars": 3,
+    "updated_at": "2025-11-23T14:55:16Z",
     "version": "v1.1.4"
   },
   "pjsk_guess_song": {
@@ -5807,8 +5807,8 @@
       "pixiv"
     ],
     "stars": 29,
-    "updated_at": "2025-11-23T14:22:49Z",
-    "version": "1.4.1",
+    "updated_at": "2025-11-23T14:57:50Z",
+    "version": "1.4.2",
     "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_pixiv_search/master/logo.png"
   },
   "astrbot_plugin_gotify": {
