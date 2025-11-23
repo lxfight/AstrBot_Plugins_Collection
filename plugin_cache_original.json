@@ -671,8 +671,8 @@
       "bilibili",
       "视频链接解析"
     ],
-    "stars": 2,
-    "updated_at": "2025-11-11T14:43:11Z",
+    "stars": 3,
+    "updated_at": "2025-11-23T09:08:52Z",
     "version": "v1.0"
   },
   "astrbot_plugin_mcgetter_enhanced": {
@@ -3589,8 +3589,8 @@
       "游戏"
     ],
     "social_link": "https://github.com/zhewang448",
-    "stars": 13,
-    "updated_at": "2025-11-18T08:30:30Z",
+    "stars": 14,
+    "updated_at": "2025-11-23T09:22:27Z",
     "version": "v1.1.4",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_SteamSaleTracker/main/logo.png"
   },
