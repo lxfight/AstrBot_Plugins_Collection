@@ -203,8 +203,8 @@
     "author": "miao",
     "repo": "https://github.com/libin99527/astrbot_plugin_werewolf",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-11-18T04:42:26Z",
+    "stars": 4,
+    "updated_at": "2025-11-23T12:00:12Z",
     "version": "v1.0.0",
     "logo": "https://raw.githubusercontent.com/libin99527/astrbot_plugin_werewolf/main/logo.png"
   },
@@ -273,8 +273,8 @@
       "好感度",
       "情感"
     ],
-    "stars": 1,
-    "updated_at": "2025-11-22T23:50:58Z",
+    "stars": 2,
+    "updated_at": "2025-11-23T12:01:03Z",
     "version": "v3.0.1",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
@@ -2435,8 +2435,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 57,
-    "updated_at": "2025-11-23T05:29:21Z",
-    "version": "v4.1.0",
+    "updated_at": "2025-11-23T12:06:01Z",
+    "version": "v4.1.1",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/master/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
