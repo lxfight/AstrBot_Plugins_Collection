@@ -562,8 +562,8 @@
       "二次元"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 17,
-    "updated_at": "2025-11-18T07:00:25Z",
+    "stars": 18,
+    "updated_at": "2025-11-23T08:16:40Z",
     "version": "v2.0.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_qqgal/master/logo.png"
   },
@@ -795,8 +795,8 @@
       "修仙"
     ],
     "stars": 2,
-    "updated_at": "2025-11-16T04:56:31Z",
-    "version": "v2.4.0"
+    "updated_at": "2025-11-23T07:59:05Z",
+    "version": "v2.4.1"
   },
   "astrbot_plugin_invitecount": {
     "display_name": "群邀请统计",
@@ -1404,8 +1404,8 @@
     "tags": [
       "JM"
     ],
-    "stars": 6,
-    "updated_at": "2025-11-17T04:32:26Z",
+    "stars": 7,
+    "updated_at": "2025-11-23T08:18:16Z",
     "version": "v1.0"
   },
   "astrbot_plugin_tg_button": {
@@ -5527,8 +5527,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 103,
-    "updated_at": "2025-11-21T06:05:33Z",
+    "stars": 104,
+    "updated_at": "2025-11-23T08:10:06Z",
     "version": "v2.0.6",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
