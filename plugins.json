@@ -1,4 +1,28 @@
 {
+	"astrbot_plugin_ftp_control": {
+	  "display_name": "ftp_manager",
+	  "desc": "通过 LLM 工具执行 FTP 文件操作",
+	  "author": "Xican",
+	  "repo": "https://github.com/luosheng520qaq/astrbot_ftp_manager",
+	  "tags": ["ftp"]
+	},
+	"astrbot_plugin_rss_subscribe": {
+	  "display_name": "RSS 订阅推送",
+	  "desc": "基于 RSS 的主动推送插件，支持监控并推送微博、B 站、小红书等多个社交平台的新动态。",
+	  "author": "沐沐沐倾",
+	  "repo": "https://github.com/muqing-wx/astrbot_plugin_rss_subscribe",
+	  "social_link": "https://jk.muqing.us.kg/status/muqing"
+	},
+	"astrbot_plugin_hotsearch": {
+	  "display_name": "实时热搜插件",
+	  "desc": "实时热搜聚合插件，支持抖音/小红书/知乎/微博/百度/懂车帝/哔哩哔哩/腾讯/头条/猫眼票房，指令无需参数，默认输出图片。",
+	  "author": "柠柚",
+	  "repo": "https://github.com/ningyou8023/astrbot_plugin_hotsearch",
+	  "tags": [
+	    "热搜",
+	    "图片"
+	  ]
+	},
 	"astrbot_plugin_infinite_dialogue": {
 	  "display_name": "AstrBot 无限对话插件",
 	  "desc": "这是一个为 AstrBot 设计的插件，旨在通过自动总结对话历史来实现'无限对话'功能",
@@ -43,6 +67,17 @@
 	  "desc": "无畏契约每日商店查询插件，支持绑定账户信息查看每日商店皮肤",
 	  "author": "GuJi08233",
 	  "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop"
+	},
+	"astrbot_plugin_rg2": {
+	  "display_name": "🔫 左轮手枪对决",
+	  "desc": "一个刺激的群聊轮盘游戏插件。支持管理员装填子弹、用户开枪对决、随机走火等功能，提供完整的游戏体验和AI自然语言交互支持。",
+	  "author": "piexian",
+	  "repo": "https://github.com/piexian/astrbot_plugin_rg2",
+	  "tags": [
+	    "小游戏",
+	    "轮盘"
+	  ],
+	  "social_link": "https://github.com/piexian"
 	},
 	"astrbot_plugin_maimaidx": {
 	  "display_name": "国服舞萌插件",
@@ -148,6 +183,14 @@
 	  "repo": "https://github.com/SinkAbyss/astrbot_plugin_llm_amnesia",
 	  "tags": ["对话管理", "工具", "遗忘"],
 	  "social_link": "https://github.com/SinkAbyss"
+	},
+	"astrbot_plugin_Furimg_Cloud": {
+	  "display_name": "兽云祭(兽兽图片/图鉴)",
+	  "desc": "这个是兽云祭官方 API 对接插件，用来获取一张精选的 furry 图片，可以是毛毛照片也可以是兽兽插画或者设定图，该插件的所有图片均来自群友投稿",
+	  "author": "huilongxiji",
+	  "repo": "https://github.com/huilongxiji/astrbot_plugin_Furimg_Cloud",
+	  "tags": ["furry","毛图"],
+	  "social_link": ""
 	},
 	"astrbot_plugin_werewolf": {
 	  "display_name": "狼人杀游戏",
