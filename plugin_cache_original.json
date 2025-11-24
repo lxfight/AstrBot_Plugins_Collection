@@ -2272,8 +2272,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 20,
-    "updated_at": "2025-11-24T17:06:24Z",
-    "version": "v1.5.0"
+    "updated_at": "2025-11-24T19:14:12Z",
+    "version": "v1.5.6"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -3190,8 +3190,8 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 29,
-    "updated_at": "2025-11-24T10:32:22Z",
+    "stars": 30,
+    "updated_at": "2025-11-24T18:57:35Z",
     "version": "v2.2.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
