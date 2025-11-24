@@ -2015,8 +2015,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 16,
-    "updated_at": "2025-11-23T20:34:40Z",
-    "version": "0.6.9"
+    "updated_at": "2025-11-24T05:42:00Z",
+    "version": "0.7.0"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -2975,8 +2975,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 21,
-    "updated_at": "2025-11-23T14:21:15Z",
-    "version": "v1.1.5",
+    "updated_at": "2025-11-24T06:38:16Z",
+    "version": "v1.1.6",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -6877,8 +6877,8 @@
       "开盒"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "stars": 51,
-    "updated_at": "2025-11-22T15:12:39Z",
+    "stars": 52,
+    "updated_at": "2025-11-24T05:47:05Z",
     "version": "v1.2.1",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
