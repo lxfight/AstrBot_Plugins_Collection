@@ -2205,8 +2205,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 20,
-    "updated_at": "2025-11-24T03:38:43Z",
-    "version": "v1.4.2"
+    "updated_at": "2025-11-24T05:26:01Z",
+    "version": "v1.4.3"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -2284,8 +2284,8 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/AstrBot_plugin_openai_image-command",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-11-23T17:11:39Z",
+    "stars": 4,
+    "updated_at": "2025-11-24T05:02:36Z",
     "version": "v2.2.0"
   },
   "astrbot_plugin_sleep_tracker": {
