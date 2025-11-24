@@ -66,8 +66,8 @@
     "author": "GuJi08233",
     "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-11-23T12:47:11Z",
+    "stars": 1,
+    "updated_at": "2025-11-24T08:06:55Z",
     "version": "v3.2.0"
   },
   "astrbot_plugin_maimaidx": {
@@ -2464,8 +2464,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 59,
-    "updated_at": "2025-11-23T17:39:24Z",
+    "stars": 60,
+    "updated_at": "2025-11-24T07:44:01Z",
     "version": "v4.1.1",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/master/logo.png"
   },
@@ -2911,8 +2911,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 45,
-    "updated_at": "2025-11-22T09:40:21Z",
+    "stars": 46,
+    "updated_at": "2025-11-24T08:31:53Z",
     "version": "1.5.0"
   },
   "astrbot_plugin_baiduocr": {
@@ -2975,7 +2975,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 21,
-    "updated_at": "2025-11-24T06:43:34Z",
+    "updated_at": "2025-11-24T07:37:49Z",
     "version": "v1.1.6",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
@@ -3606,7 +3606,7 @@
       "战地风云"
     ],
     "stars": 11,
-    "updated_at": "2025-11-16T11:09:52Z",
+    "updated_at": "2025-11-24T08:14:37Z",
     "version": "v2.1.3",
     "logo": "https://raw.githubusercontent.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool/master/logo.png"
   },
@@ -5480,8 +5480,8 @@
     "desc": "一个将 SillyTavern 角色卡（PNG 格式）转换为 Lorebook YAML 与角色信息的插件。",
     "repo": "https://github.com/LKarxa/astrbot_plugin_SillyTavern_card",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-04-26T13:24:03Z",
+    "stars": 1,
+    "updated_at": "2025-11-24T08:24:28Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_reply": {
@@ -7994,8 +7994,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 143,
-    "updated_at": "2025-11-23T10:35:28Z",
+    "stars": 144,
+    "updated_at": "2025-11-24T07:45:50Z",
     "version": "v2.0.11"
   },
   "FateTrial_img_identify": {
