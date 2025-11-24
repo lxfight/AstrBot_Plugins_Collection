@@ -714,8 +714,8 @@
       "发言统计"
     ],
     "stars": 5,
-    "updated_at": "2025-11-24T11:21:19Z",
-    "version": "1.6.4",
+    "updated_at": "2025-11-24T14:18:38Z",
+    "version": "1.6.5",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -887,7 +887,7 @@
       "修仙"
     ],
     "stars": 2,
-    "updated_at": "2025-11-23T07:59:05Z",
+    "updated_at": "2025-11-24T14:00:18Z",
     "version": "v2.4.1"
   },
   "astrbot_plugin_invitecount": {
@@ -4893,8 +4893,8 @@
     "desc": "DZMM聊天插件，适配了DZMM返回的格式，并避免与AstrBot的模型混用，可用特别命令唤起DZMM的模型进行\"有趣生动\"的互动聊天。",
     "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
     "tags": [],
-    "stars": 13,
-    "updated_at": "2025-11-08T15:15:31Z",
+    "stars": 14,
+    "updated_at": "2025-11-24T14:20:25Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_text2image": {
@@ -8134,7 +8134,7 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
     "tags": [],
     "stars": 13,
-    "updated_at": "2025-10-03T09:13:27Z",
+    "updated_at": "2025-11-24T14:04:25Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_AIQTalk": {
@@ -8179,7 +8179,7 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_voicevox",
     "tags": [],
     "stars": 4,
-    "updated_at": "2025-04-08T11:24:29Z",
+    "updated_at": "2025-11-24T14:20:24Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_miaomiao": {
