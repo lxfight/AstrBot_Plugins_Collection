@@ -3123,8 +3123,8 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 26,
-    "updated_at": "2025-11-23T16:25:19Z",
+    "stars": 28,
+    "updated_at": "2025-11-24T09:52:13Z",
     "version": "v2.2.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
@@ -4886,8 +4886,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 70,
-    "updated_at": "2025-11-23T02:04:11Z",
+    "stars": 71,
+    "updated_at": "2025-11-24T09:52:52Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
