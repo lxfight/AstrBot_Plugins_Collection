@@ -714,8 +714,8 @@
       "发言统计"
     ],
     "stars": 5,
-    "updated_at": "2025-11-24T14:18:38Z",
-    "version": "1.6.5",
+    "updated_at": "2025-11-24T15:21:21Z",
+    "version": "1.6.6",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -2507,8 +2507,8 @@
       "画图",
       "AI绘画"
     ],
-    "stars": 21,
-    "updated_at": "2025-10-29T01:44:59Z",
+    "stars": 22,
+    "updated_at": "2025-11-24T14:54:32Z",
     "version": "v1.8.1"
   },
   "github_star_verify": {
@@ -6019,8 +6019,8 @@
       "图库"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
-    "stars": 20,
-    "updated_at": "2025-11-22T13:28:26Z",
+    "stars": 21,
+    "updated_at": "2025-11-24T14:49:20Z",
     "version": "v2.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_gallery/main/logo.png"
   },
