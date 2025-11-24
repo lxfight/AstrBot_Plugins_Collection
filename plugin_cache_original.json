@@ -714,8 +714,8 @@
       "发言统计"
     ],
     "stars": 5,
-    "updated_at": "2025-11-24T16:13:48Z",
-    "version": "1.6.6",
+    "updated_at": "2025-11-24T16:38:25Z",
+    "version": "1.6.7",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -1309,7 +1309,7 @@
       "网络小说"
     ],
     "stars": 2,
-    "updated_at": "2025-11-23T20:30:49Z",
+    "updated_at": "2025-11-24T16:49:52Z",
     "version": "v1.3.1",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_youshusearch/master/logo.png"
   },
@@ -2272,8 +2272,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 20,
-    "updated_at": "2025-11-24T05:26:01Z",
-    "version": "v1.4.3"
+    "updated_at": "2025-11-24T17:06:24Z",
+    "version": "v1.5.0"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -3042,8 +3042,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 21,
-    "updated_at": "2025-11-24T07:37:49Z",
-    "version": "v1.1.6",
+    "updated_at": "2025-11-24T16:52:43Z",
+    "version": "v1.1.7",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -4397,7 +4397,7 @@
     ],
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image",
     "stars": 2,
-    "updated_at": "2025-11-24T16:31:35Z",
+    "updated_at": "2025-11-24T16:49:36Z",
     "version": "v1.0"
   },
   "astrbot_plugin_xyzw_box": {
