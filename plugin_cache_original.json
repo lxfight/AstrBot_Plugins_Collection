@@ -887,8 +887,8 @@
       "修仙"
     ],
     "stars": 2,
-    "updated_at": "2025-11-24T14:00:18Z",
-    "version": "v2.4.1"
+    "updated_at": "2025-11-25T04:31:17Z",
+    "version": "v1.0.0dev"
   },
   "astrbot_plugin_invitecount": {
     "display_name": "群邀请统计",
@@ -1255,8 +1255,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 6,
-    "updated_at": "2025-11-21T08:39:20Z",
-    "version": "v2.0.0",
+    "updated_at": "2025-11-25T05:22:17Z",
+    "version": "v2.1.0",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
