@@ -7096,7 +7096,7 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "stars": 56,
-    "updated_at": "2025-11-25T01:23:47Z",
+    "updated_at": "2025-11-25T02:38:51Z",
     "version": "v0.2.14"
   },
   "astrbot_plugin_sjzb": {
@@ -8080,8 +8080,8 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_shell_executor",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-04-16T00:50:00Z",
-    "version": "v1.0.2"
+    "updated_at": "2025-11-25T03:22:22Z",
+    "version": "v1.0.3"
   },
   "astrbot_plugin_pock": {
     "desc": "astrbot戳一戳监听",
