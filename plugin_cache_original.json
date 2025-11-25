@@ -1376,8 +1376,8 @@
       "联网搜索"
     ],
     "social_link": "https://gbkgov.cn",
-    "stars": 5,
-    "updated_at": "2025-11-22T16:56:28Z",
+    "stars": 6,
+    "updated_at": "2025-11-25T03:37:59Z",
     "version": "v1.2.0"
   },
   "astrbot_plugin_Favour_Ultra": {
@@ -1488,7 +1488,7 @@
       "群文件"
     ],
     "stars": 0,
-    "updated_at": "2025-11-24T18:19:28Z",
+    "updated_at": "2025-11-25T04:22:12Z",
     "version": "v1.6",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
@@ -4360,8 +4360,8 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 32,
-    "updated_at": "2025-11-12T04:43:43Z",
+    "stars": 33,
+    "updated_at": "2025-11-25T03:42:09Z",
     "version": "v3.4.0"
   },
   "astrbot_plugin_alistfile": {
@@ -8080,7 +8080,7 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_shell_executor",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-11-25T03:22:22Z",
+    "updated_at": "2025-11-25T04:25:46Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_pock": {
