@@ -972,7 +972,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 30,
-    "updated_at": "2025-11-25T12:11:55Z",
+    "updated_at": "2025-11-25T13:01:28Z",
     "version": "v1.0.0-beta.4",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -1437,8 +1437,8 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_quotes_plugin",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-11-25T12:28:48Z",
+    "stars": 2,
+    "updated_at": "2025-11-25T13:02:02Z",
     "version": "v1.0.0"
   },
   "astrbot-plugin-tmp-bot": {
@@ -2532,9 +2532,9 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 60,
-    "updated_at": "2025-11-24T07:44:01Z",
-    "version": "v4.1.1",
-    "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/master/logo.png"
+    "updated_at": "2025-11-25T13:13:07Z",
+    "version": "v4.2.0",
+    "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
