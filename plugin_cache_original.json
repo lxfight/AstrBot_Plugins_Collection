@@ -861,7 +861,7 @@
       "图片生成"
     ],
     "stars": 2,
-    "updated_at": "2025-11-18T06:39:46Z",
+    "updated_at": "2025-11-25T23:02:05Z",
     "version": "v1.0",
     "logo": "https://raw.githubusercontent.com/timetetng/astrbot_plugin_onelastimage/main/logo.png"
   },
@@ -3953,7 +3953,7 @@
     "repo": "https://github.com/timetetng/astrbot_plugin_ip_proxy",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-11-22T11:55:12Z",
+    "updated_at": "2025-11-25T23:01:15Z",
     "version": "v1.6"
   },
   "astrbot_plugin_cmd_console": {
