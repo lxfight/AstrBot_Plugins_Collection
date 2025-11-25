@@ -423,8 +423,8 @@
       "HTTP"
     ],
     "social_link": "https://github.com/fluidcat/astrbot_plugin_http_adapter/issues",
-    "stars": 5,
-    "updated_at": "2025-11-25T09:16:49Z",
+    "stars": 4,
+    "updated_at": "2025-11-25T12:10:45Z",
     "version": "1.1.1"
   },
   "astrbot_plugin_goldsearch": {
@@ -972,8 +972,8 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 30,
-    "updated_at": "2025-11-24T04:02:31Z",
-    "version": "v1.0.0-beta.3",
+    "updated_at": "2025-11-25T12:11:55Z",
+    "version": "v1.0.0-beta.4",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -1438,8 +1438,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_quotes_plugin",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-10-17T03:40:36Z",
-    "version": "v0.3.0"
+    "updated_at": "2025-11-25T12:28:48Z",
+    "version": "v1.0.0"
   },
   "astrbot-plugin-tmp-bot": {
     "desc": "欧洲卡车模拟2 TMP查询机器人 - 支持玩家信息查询、位置查询、服务器状态查询、里程排行榜等功能",
@@ -5916,8 +5916,8 @@
       "通知",
       "主动消息"
     ],
-    "stars": 3,
-    "updated_at": "2025-09-24T01:01:51Z",
+    "stars": 4,
+    "updated_at": "2025-11-25T12:25:10Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_hello-bye": {
@@ -7345,8 +7345,8 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 78,
-    "updated_at": "2025-11-22T08:19:54Z",
+    "stars": 79,
+    "updated_at": "2025-11-25T12:46:03Z",
     "version": "v2.1.7"
   },
   "astrbot_plugin_steamshot": {
@@ -7407,8 +7407,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 468,
-    "updated_at": "2025-11-22T14:31:19Z",
+    "stars": 469,
+    "updated_at": "2025-11-25T12:55:11Z",
     "version": "v0.915"
   },
   "astrbot_plugin_superpoke": {
