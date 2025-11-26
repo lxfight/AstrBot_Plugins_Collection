@@ -1147,8 +1147,8 @@
     "tags": [
       "实用"
     ],
-    "stars": 6,
-    "updated_at": "2025-11-26T08:14:15Z",
+    "stars": 7,
+    "updated_at": "2025-11-26T11:22:52Z",
     "version": "v2.7.5",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
@@ -3798,7 +3798,7 @@
     "repo": "https://github.com/piexian/astrbot_plugin_rg",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-10-27T13:24:07Z",
+    "updated_at": "2025-11-26T11:26:08Z",
     "version": "v1.4.1"
   },
   "echo_avatar": {
@@ -5335,8 +5335,8 @@
     "tags": [
       "主动回复"
     ],
-    "stars": 7,
-    "updated_at": "2025-11-11T00:46:17Z",
+    "stars": 8,
+    "updated_at": "2025-11-26T11:03:19Z",
     "version": "v1.3"
   },
   "astrbot_plugin_broadcast": {
@@ -5903,9 +5903,9 @@
     "tags": [
       "pixiv"
     ],
-    "stars": 30,
-    "updated_at": "2025-11-26T00:17:56Z",
-    "version": "1.4.2",
+    "stars": 31,
+    "updated_at": "2025-11-26T11:16:48Z",
+    "version": "1.4.3",
     "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_pixiv_search/master/logo.png"
   },
   "astrbot_plugin_gotify": {
@@ -6493,8 +6493,8 @@
       "工具",
       "安全"
     ],
-    "stars": 6,
-    "updated_at": "2025-11-26T08:14:15Z",
+    "stars": 7,
+    "updated_at": "2025-11-26T11:22:52Z",
     "version": "v2.7.5",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
