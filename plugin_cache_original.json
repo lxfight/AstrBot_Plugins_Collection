@@ -366,8 +366,8 @@
       "情感"
     ],
     "stars": 3,
-    "updated_at": "2025-11-24T10:48:48Z",
-    "version": "v3.3.2",
+    "updated_at": "2025-11-26T16:24:25Z",
+    "version": "v3.3.3",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
   "astrbot_plugin_email_narrator": {
@@ -3569,7 +3569,7 @@
       "主动回复"
     ],
     "stars": 3,
-    "updated_at": "2025-11-26T15:26:00Z",
+    "updated_at": "2025-11-26T15:58:03Z",
     "version": "v1.1.0",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
@@ -3700,8 +3700,8 @@
       "拟人"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 54,
-    "updated_at": "2025-11-22T14:45:36Z",
+    "stars": 55,
+    "updated_at": "2025-11-26T16:02:01Z",
     "version": "1.3.0"
   },
   "cngal_search": {
@@ -3953,7 +3953,7 @@
     "repo": "https://github.com/timetetng/astrbot_plugin_ip_proxy",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-11-25T23:01:15Z",
+    "updated_at": "2025-11-26T15:50:13Z",
     "version": "v1.6"
   },
   "astrbot_plugin_cmd_console": {
@@ -4361,8 +4361,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "stars": 35,
-    "updated_at": "2025-11-26T03:21:19Z",
-    "version": "v3.4.0"
+    "updated_at": "2025-11-26T15:48:33Z",
+    "version": "v3.4.0",
+    "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
     "author": "linjianyan",
@@ -5081,8 +5082,8 @@
       "状态"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 7,
-    "updated_at": "2025-10-31T06:18:57Z",
+    "stars": 8,
+    "updated_at": "2025-11-26T16:01:51Z",
     "version": "v1.0.2",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_zt/main/logo.png"
   },
