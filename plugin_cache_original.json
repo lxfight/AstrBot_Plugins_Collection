@@ -135,7 +135,7 @@
     ],
     "social_link": "https://github.com/ZhiheZier",
     "stars": 0,
-    "updated_at": "2025-11-26T02:59:48Z",
+    "updated_at": "2025-11-26T05:30:13Z",
     "version": "v1.0.0",
     "logo": "https://raw.githubusercontent.com/ZhiheZier/astrbot_plugin_maimaidx/master/logo.png"
   },
@@ -232,8 +232,8 @@
       "MC"
     ],
     "stars": 1,
-    "updated_at": "2025-11-26T02:10:33Z",
-    "version": "v1.0.3",
+    "updated_at": "2025-11-26T06:18:56Z",
+    "version": "v1.1.0",
     "logo": "https://raw.githubusercontent.com/SatellIta/astrbot_plugin_minecraft_skin_render/master/logo.png"
   },
   "astrbot_plugin_picstatus": {
@@ -4953,8 +4953,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 71,
-    "updated_at": "2025-11-24T09:52:52Z",
+    "stars": 72,
+    "updated_at": "2025-11-26T06:08:58Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
