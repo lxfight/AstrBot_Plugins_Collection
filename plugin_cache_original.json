@@ -83,8 +83,8 @@
       "llm工具"
     ],
     "social_link": "https://github.com/vmoranv",
-    "stars": 0,
-    "updated_at": "2025-11-18T14:59:38Z",
+    "stars": 1,
+    "updated_at": "2025-11-26T06:40:05Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_whitelistpro": {
@@ -190,8 +190,8 @@
     "tags": [
       "临时邮箱"
     ],
-    "stars": 0,
-    "updated_at": "2025-11-21T07:47:19Z",
+    "stars": 1,
+    "updated_at": "2025-11-26T06:41:28Z",
     "version": "v0.0.2"
   },
   "astrbot_plugin_reneban": {
@@ -536,8 +536,8 @@
       "网易云"
     ],
     "social_link": "https://github.com/SatenShiroya",
-    "stars": 2,
-    "updated_at": "2025-11-12T07:50:06Z",
+    "stars": 3,
+    "updated_at": "2025-11-26T06:43:50Z",
     "version": "V1.0.0",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_neteasecloud_music/master/logo.png"
   },
