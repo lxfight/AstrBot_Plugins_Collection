@@ -3569,7 +3569,7 @@
       "主动回复"
     ],
     "stars": 3,
-    "updated_at": "2025-11-23T05:30:40Z",
+    "updated_at": "2025-11-26T08:47:51Z",
     "version": "v1.1.0",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
@@ -7345,8 +7345,8 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 79,
-    "updated_at": "2025-11-25T12:46:03Z",
+    "stars": 80,
+    "updated_at": "2025-11-26T09:19:45Z",
     "version": "v2.1.7"
   },
   "astrbot_plugin_steamshot": {
