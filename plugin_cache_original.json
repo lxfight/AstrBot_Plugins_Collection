@@ -9,8 +9,8 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 15,
-    "updated_at": "2025-11-27T11:50:17Z",
+    "stars": 16,
+    "updated_at": "2025-11-27T14:48:03Z",
     "version": "v1.8.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
@@ -859,8 +859,8 @@
       "排行榜",
       "发言统计"
     ],
-    "stars": 5,
-    "updated_at": "2025-11-24T16:38:25Z",
+    "stars": 6,
+    "updated_at": "2025-11-27T15:12:22Z",
     "version": "1.6.7",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
@@ -5397,8 +5397,8 @@
       "词云"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 18,
-    "updated_at": "2025-10-31T09:38:26Z",
+    "stars": 19,
+    "updated_at": "2025-11-27T15:14:39Z",
     "version": "v2.0.1"
   },
   "astrbot_plugin_liblibapi": {
@@ -6492,8 +6492,8 @@
     "tags": [
       "消息伪造"
     ],
-    "stars": 2,
-    "updated_at": "2025-08-24T01:40:32Z",
+    "stars": 3,
+    "updated_at": "2025-11-27T15:12:26Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_douniuniu": {
