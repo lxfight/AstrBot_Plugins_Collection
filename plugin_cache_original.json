@@ -10,8 +10,8 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "stars": 14,
-    "updated_at": "2025-11-27T09:01:43Z",
-    "version": "v1.7.0",
+    "updated_at": "2025-11-27T11:17:09Z",
+    "version": "v1.8.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -3715,7 +3715,7 @@
       "主动回复"
     ],
     "stars": 3,
-    "updated_at": "2025-11-27T07:29:59Z",
+    "updated_at": "2025-11-27T11:24:25Z",
     "version": "v1.1.0",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
