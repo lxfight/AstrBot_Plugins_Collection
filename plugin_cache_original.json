@@ -450,8 +450,8 @@
     "social_link": "https://github.com/Butterblok233/",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-11-16T03:11:10Z",
-    "version": "v1.0.2"
+    "updated_at": "2025-11-27T09:33:50Z",
+    "version": "v1.1.0"
   },
   "astrbot_plugin_newapi_checkin": {
     "display_name": "New-API 签到抽奖插件",
@@ -953,7 +953,7 @@
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "tags": [],
     "stars": 8,
-    "updated_at": "2025-11-27T09:22:02Z",
+    "updated_at": "2025-11-27T09:26:35Z",
     "version": "V1.1.3",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
@@ -5234,8 +5234,8 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 38,
-    "updated_at": "2025-11-23T06:59:54Z",
+    "stars": 39,
+    "updated_at": "2025-11-27T10:16:53Z",
     "version": "v1.0.5",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
