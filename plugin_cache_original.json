@@ -9,8 +9,8 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 11,
-    "updated_at": "2025-11-27T07:22:10Z",
+    "stars": 14,
+    "updated_at": "2025-11-27T09:01:43Z",
     "version": "v1.7.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
@@ -953,7 +953,7 @@
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "tags": [],
     "stars": 8,
-    "updated_at": "2025-11-26T13:46:14Z",
+    "updated_at": "2025-11-27T09:22:02Z",
     "version": "V1.1.3",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
@@ -2178,7 +2178,7 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "stars": 3,
-    "updated_at": "2025-11-06T10:33:48Z",
+    "updated_at": "2025-11-27T09:11:08Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_personal_selfupdate": {
@@ -5838,8 +5838,8 @@
       "文生图"
     ],
     "social_link": "https://github.com/Wayzinx",
-    "stars": 3,
-    "updated_at": "2025-11-23T13:10:14Z",
+    "stars": 4,
+    "updated_at": "2025-11-27T08:45:16Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_chishenme": {
