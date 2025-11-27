@@ -498,8 +498,8 @@
       "情感"
     ],
     "stars": 4,
-    "updated_at": "2025-11-26T23:36:30Z",
-    "version": "v3.3.3",
+    "updated_at": "2025-11-27T18:24:28Z",
+    "version": "v3.4",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
   "astrbot_plugin_email_narrator": {
@@ -2417,9 +2417,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 24,
-    "updated_at": "2025-11-27T16:43:31Z",
-    "version": "v1.6.0"
+    "stars": 25,
+    "updated_at": "2025-11-27T18:25:01Z",
+    "version": "v1.6.1"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -3187,8 +3187,8 @@
       "唤醒增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 21,
-    "updated_at": "2025-11-24T16:52:43Z",
+    "stars": 22,
+    "updated_at": "2025-11-27T17:32:27Z",
     "version": "v1.1.7",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
