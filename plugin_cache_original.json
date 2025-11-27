@@ -1,4 +1,103 @@
 {
+  "astrbot_plugin_chuanhuatong": {
+    "display_name": "传话筒·立绘对话框",
+    "desc": "拦截 Bot 文本输出，套用 Gal 风气泡和立绘的渲染插件",
+    "author": "bvzrays",
+    "repo": "https://github.com/bvzrays/astrbot_plugin_chuanhuatong",
+    "tags": [
+      "魔女审判",
+      "gal"
+    ],
+    "social_link": "https://github.com/bvzrays",
+    "stars": 8,
+    "updated_at": "2025-11-27T03:54:46Z",
+    "version": "v1.7.0",
+    "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
+  },
+  "astrbot_plugin_steamgame": {
+    "display_name": "Steam 玩家数据可视化插件",
+    "desc": "Steam 玩家数据可视化插件，支持群内排行，PK，以及游戏墙",
+    "author": "bvzrays",
+    "repo": "https://github.com/bvzrays/astrbot_plugin_steamgame",
+    "tags": [
+      "steam",
+      "游戏"
+    ],
+    "social_link": "https://github.com/bvzrays",
+    "stars": 1,
+    "updated_at": "2025-11-27T04:38:48Z",
+    "version": "1.5.0",
+    "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_steamgame/master/logo.png"
+  },
+  "astrbot_plugin_gloryofkings": {
+    "display_name": "王者荣耀数据查询插件",
+    "desc": "提供王者荣耀战绩、英雄战力、皮肤等数据查询功能，支持自定义图片渲染质量",
+    "author": "球球",
+    "repo": "https://github.com/sangjie-stack/astrbot_plugin_gloryofkings",
+    "tags": [
+      "游戏",
+      "王者"
+    ],
+    "social_link": "https://github.com/sangjie-stack",
+    "stars": 0,
+    "updated_at": "2025-11-20T12:41:11Z",
+    "version": "v1.1.0"
+  },
+  "astrbot_plugin_canvas_steve": {
+    "display_name": "gemini-2.5-flash-image 画图小工具",
+    "desc": "一个普通的使用 gemini-2.5-flash-image 进行图片内容创作的插件",
+    "author": "stevessr",
+    "repo": "https://github.com/stevessr/AstrBot_Plugins_Canvas/",
+    "tags": [
+      "gemini",
+      "画图"
+    ],
+    "social_link": "https://github.com/stevessr",
+    "stars": 1,
+    "updated_at": "2025-11-20T16:05:34Z",
+    "version": "v1.1"
+  },
+  "astrbot_plugin_slave_market": {
+    "display_name": "大牛马时代",
+    "desc": "Python 版牛马市场游戏，涵盖银行、市场、农务、VIP 等系统。",
+    "author": "magisk317",
+    "repo": "https://github.com/magisk317/astrbot_plugin_slave_market",
+    "tags": [
+      "牛马市场",
+      "经济系统",
+      "VIP自动化"
+    ],
+    "social_link": "https://github.com/magisk317",
+    "stars": 0,
+    "updated_at": "2025-11-19T16:28:24Z",
+    "version": "v1.0.1"
+  },
+  "astrbot_plugin_nyscheduler": {
+    "display_name": "定时推送",
+    "desc": "这是 AstrBot 的一个定时推送插件。包含 60s，摸鱼日历，今日金价，AI资讯。",
+    "author": "柠柚",
+    "repo": "https://github.com/ningyou8023/astrbot_plugin_nyscheduler",
+    "tags": [
+      "定时",
+      "推送",
+      "新闻",
+      "AI"
+    ],
+    "stars": 0,
+    "updated_at": "2025-11-19T09:21:12Z",
+    "version": "v1.0.0",
+    "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_nyscheduler/main/logo.png"
+  },
+  "astrbot_plugin_api_fetcher": {
+    "display_name": "API 定时获取并展示",
+    "desc": "定时拉取某 API 并主动推送到指定会话的示例插件",
+    "author": "贝浦熙",
+    "repo": "https://github.com/thnf/get_api",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-11-07T16:02:26Z",
+    "version": "1.0.4"
+  },
   "astrbot_plugin_ftp_control": {
     "display_name": "ftp_manager",
     "desc": "通过 LLM 工具执行 FTP 文件操作",
@@ -107,6 +206,29 @@
     "stars": 2,
     "updated_at": "2025-11-26T01:29:21Z",
     "version": "v3.2.0"
+  },
+  "astrbot_plugin_doubao": {
+    "display_name": "豆包即梦生成",
+    "desc": "豆包即梦生成。使用方法：输入 db 设置查看, API 网址 https://missqiu.icu/api_details.php?id=18 申请免费密钥",
+    "author": "cube-lover",
+    "repo": "https://github.com/cube-lover/doubao",
+    "tags": [],
+    "stars": 7,
+    "updated_at": "2025-11-17T13:04:49Z",
+    "version": "v2.1"
+  },
+  "astrbot_plugin_daliy_news": {
+    "display_name": "每日 60s 新闻",
+    "desc": "一个简单的不稳定的Astrbot每日60s新闻定时推送插件。",
+    "author": "eaton",
+    "repo": "https://github.com/eeetechen/astrbot_plugin_daliy_news",
+    "tags": [
+      "新闻"
+    ],
+    "social_link": "blog.eeete.fun",
+    "stars": 0,
+    "updated_at": "2025-11-20T09:03:25Z",
+    "version": "v0.0.1"
   },
   "astrbot_plugin_rg2": {
     "display_name": "🔫 左轮手枪对决",
@@ -257,8 +379,8 @@
       "私聊"
     ],
     "stars": 9,
-    "updated_at": "2025-11-26T17:49:05Z",
-    "version": "1.0.0"
+    "updated_at": "2025-11-27T04:30:47Z",
+    "version": "2.0.0"
   },
   "astrbot_plugin_llm_amnesia": {
     "display_name": "LLM 遗忘插件",
@@ -330,6 +452,16 @@
     "stars": 0,
     "updated_at": "2025-11-16T03:11:10Z",
     "version": "v1.0.2"
+  },
+  "astrbot_plugin_newapi_checkin": {
+    "display_name": "New-API 签到抽奖插件",
+    "desc": "绑定 New-API 账号，支持每日签到和抽奖获取额度",
+    "author": "miao",
+    "repo": "https://github.com/libin99527/astrbot_plugin_newapi_checkin",
+    "version": "v1.0.0",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-11-09T13:17:54Z"
   },
   "astrbot_plugin_furry_chehui": {
     "display_name": "爱撤回",
@@ -426,6 +558,20 @@
     "stars": 4,
     "updated_at": "2025-11-25T12:10:45Z",
     "version": "1.1.1"
+  },
+  "astrbot_plugin_nyweather": {
+    "display_name": "天气查询插件",
+    "desc": "天气查询插件，支持当天与多天预报，返回text/image。",
+    "author": "柠柚",
+    "repo": "https://github.com/ningyou8023/astrbot_plugin_nyweather",
+    "tags": [
+      "天气",
+      "查询"
+    ],
+    "stars": 0,
+    "updated_at": "2025-11-19T09:20:34Z",
+    "version": "v1.0.0",
+    "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_nyweather/main/logo.png"
   },
   "astrbot_plugin_goldsearch": {
     "display_name": "astrbot_plugins_goldSearch",
@@ -956,8 +1102,8 @@
     "author": "RC-CHN",
     "repo": "https://github.com/RC-CHN/astrbot_plugin_ragflow_adapter",
     "tags": [],
-    "stars": 7,
-    "updated_at": "2025-11-27T02:34:07Z",
+    "stars": 8,
+    "updated_at": "2025-11-27T04:31:13Z",
     "version": "v0.3"
   },
   "astrbot_plugin_proactive_chat": {
@@ -3569,7 +3715,7 @@
       "主动回复"
     ],
     "stars": 3,
-    "updated_at": "2025-11-26T15:58:03Z",
+    "updated_at": "2025-11-27T04:38:28Z",
     "version": "v1.1.0",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
@@ -3791,15 +3937,6 @@
     "stars": 1,
     "updated_at": "2025-08-12T08:59:12Z",
     "version": "v1.0.6"
-  },
-  "astrbot_plugin_rg": {
-    "desc": "群聊左轮手枪游戏插件，玩家可以在群聊中进行左轮手枪射击游戏，支持随机走火事件。",
-    "author": "piexian",
-    "repo": "https://github.com/piexian/astrbot_plugin_rg",
-    "tags": [],
-    "stars": 1,
-    "updated_at": "2025-11-26T11:26:08Z",
-    "version": "v1.4.1"
   },
   "echo_avatar": {
     "desc": "学习指定用户的说话方式并生成专业的Prompt，仅限全局管理员使用。",
@@ -6168,8 +6305,8 @@
     "tags": [
       "AGE"
     ],
-    "stars": 4,
-    "updated_at": "2025-08-14T05:10:41Z",
+    "stars": 5,
+    "updated_at": "2025-11-27T05:27:00Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_media302-save": {
@@ -6733,8 +6870,8 @@
       "番剧"
     ],
     "repo": "https://github.com/xco2/astrbot_plugin_anime_gacha",
-    "stars": 8,
-    "updated_at": "2025-11-06T04:40:33Z",
+    "stars": 9,
+    "updated_at": "2025-11-27T05:27:01Z",
     "version": "v1.1.1"
   },
   "astrbot_plugin_nachoneko": {
@@ -7656,8 +7793,8 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "tags": [],
-    "stars": 31,
-    "updated_at": "2025-11-19T07:08:32Z",
+    "stars": 32,
+    "updated_at": "2025-11-27T05:26:53Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_rss": {
