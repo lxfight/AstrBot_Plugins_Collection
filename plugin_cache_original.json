@@ -378,8 +378,8 @@
       "工具",
       "私聊"
     ],
-    "stars": 9,
-    "updated_at": "2025-11-27T04:30:47Z",
+    "stars": 10,
+    "updated_at": "2025-11-27T16:33:53Z",
     "version": "2.0.0"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -633,8 +633,8 @@
       "工具"
     ],
     "social_link": "https://github.com/Newbie-L",
-    "stars": 0,
-    "updated_at": "2025-11-10T07:27:25Z",
+    "stars": 1,
+    "updated_at": "2025-11-27T16:34:07Z",
     "version": "v1.2.1"
   },
   "astrbot_plugin_VisiStat": {
@@ -2418,8 +2418,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 24,
-    "updated_at": "2025-11-27T15:38:21Z",
-    "version": "v1.5.6"
+    "updated_at": "2025-11-27T16:43:31Z",
+    "version": "v1.6.0"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -2662,8 +2662,8 @@
     "author": "Qian23333",
     "repo": "https://github.com/Qian23333/astrbot_plugin_github_star_verify",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-11-11T02:45:58Z",
+    "stars": 2,
+    "updated_at": "2025-11-27T16:46:48Z",
     "version": "v2.1.0"
   },
   "astrbot-qq-group-daily-analysis": {
@@ -2677,8 +2677,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 67,
-    "updated_at": "2025-11-27T15:36:42Z",
+    "stars": 68,
+    "updated_at": "2025-11-27T16:34:50Z",
     "version": "v4.2.7",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
@@ -3124,8 +3124,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 47,
-    "updated_at": "2025-11-26T12:47:00Z",
+    "stars": 48,
+    "updated_at": "2025-11-27T16:44:08Z",
     "version": "1.6.1"
   },
   "astrbot_plugin_baiduocr": {
@@ -3336,8 +3336,8 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 30,
-    "updated_at": "2025-11-24T18:57:35Z",
+    "stars": 31,
+    "updated_at": "2025-11-27T16:43:44Z",
     "version": "v2.2.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
@@ -6670,8 +6670,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 36,
-    "updated_at": "2025-11-27T03:01:10Z",
+    "stars": 37,
+    "updated_at": "2025-11-27T16:49:17Z",
     "version": "v1.2.0",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
