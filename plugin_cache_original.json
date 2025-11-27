@@ -9,8 +9,8 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 10,
-    "updated_at": "2025-11-27T07:06:10Z",
+    "stars": 11,
+    "updated_at": "2025-11-27T07:22:10Z",
     "version": "v1.7.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
@@ -53,8 +53,8 @@
       "画图"
     ],
     "social_link": "https://github.com/stevessr",
-    "stars": 1,
-    "updated_at": "2025-11-20T16:05:34Z",
+    "stars": 2,
+    "updated_at": "2025-11-27T07:24:45Z",
     "version": "v1.1"
   },
   "astrbot_plugin_slave_market": {
@@ -227,8 +227,8 @@
     ],
     "social_link": "blog.eeete.fun",
     "stars": 0,
-    "updated_at": "2025-11-20T09:03:25Z",
-    "version": "v0.0.1"
+    "updated_at": "2025-11-27T07:56:34Z",
+    "version": "v0.0.2"
   },
   "astrbot_plugin_rg2": {
     "display_name": "🔫 左轮手枪对决",
@@ -240,8 +240,8 @@
       "轮盘"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 1,
-    "updated_at": "2025-11-17T12:39:25Z",
+    "stars": 2,
+    "updated_at": "2025-11-27T08:00:15Z",
     "version": "1.2.0",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_rg2/master/logo.png"
   },
@@ -683,8 +683,8 @@
     ],
     "social_link": "https://github.com/SatenShiroya",
     "stars": 4,
-    "updated_at": "2025-11-27T01:26:25Z",
-    "version": "V1.0.0",
+    "updated_at": "2025-11-27T08:29:12Z",
+    "version": "V1.1.0",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_neteasecloud_music/master/logo.png"
   },
   "astrbot_plugin_dailyacmfortune": {
@@ -1117,8 +1117,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 32,
-    "updated_at": "2025-11-26T04:24:55Z",
+    "stars": 33,
+    "updated_at": "2025-11-27T07:42:12Z",
     "version": "v1.0.0-beta.4",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -1294,8 +1294,8 @@
       "实用"
     ],
     "stars": 7,
-    "updated_at": "2025-11-26T14:08:18Z",
-    "version": "v2.7.6",
+    "updated_at": "2025-11-27T08:16:33Z",
+    "version": "v2.7.7",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -2569,8 +2569,8 @@
       "memory",
       "rag"
     ],
-    "stars": 41,
-    "updated_at": "2025-11-24T16:23:22Z",
+    "stars": 42,
+    "updated_at": "2025-11-27T08:18:01Z",
     "version": "1.7.2",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
@@ -3715,7 +3715,7 @@
       "主动回复"
     ],
     "stars": 3,
-    "updated_at": "2025-11-27T06:03:17Z",
+    "updated_at": "2025-11-27T07:29:59Z",
     "version": "v1.1.0",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
@@ -3846,8 +3846,8 @@
       "拟人"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 55,
-    "updated_at": "2025-11-26T16:02:01Z",
+    "stars": 56,
+    "updated_at": "2025-11-27T07:59:11Z",
     "version": "1.3.0"
   },
   "cngal_search": {
@@ -6632,8 +6632,8 @@
       "安全"
     ],
     "stars": 7,
-    "updated_at": "2025-11-26T14:08:18Z",
-    "version": "v2.7.6",
+    "updated_at": "2025-11-27T08:16:33Z",
+    "version": "v2.7.7",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "JmCli": {
