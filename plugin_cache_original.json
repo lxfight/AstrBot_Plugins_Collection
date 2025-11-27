@@ -9,8 +9,8 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 14,
-    "updated_at": "2025-11-27T11:17:09Z",
+    "stars": 15,
+    "updated_at": "2025-11-27T11:50:17Z",
     "version": "v1.8.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
@@ -68,8 +68,8 @@
       "VIP自动化"
     ],
     "social_link": "https://github.com/magisk317",
-    "stars": 0,
-    "updated_at": "2025-11-19T16:28:24Z",
+    "stars": 1,
+    "updated_at": "2025-11-27T12:10:33Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_nyscheduler": {
@@ -3715,8 +3715,8 @@
       "主动回复"
     ],
     "stars": 3,
-    "updated_at": "2025-11-27T11:24:25Z",
-    "version": "v1.1.0",
+    "updated_at": "2025-11-27T12:22:30Z",
+    "version": "v1.2.0",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -4000,8 +4000,8 @@
       "娱乐"
     ],
     "stars": 7,
-    "updated_at": "2025-11-16T04:49:14Z",
-    "version": "v2.0.5"
+    "updated_at": "2025-11-27T11:44:10Z",
+    "version": "v2.0.6"
   },
   "astrbot_plugin_file": {
     "name": "astrbot_plugin_file",
