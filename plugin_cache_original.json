@@ -3336,8 +3336,8 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 32,
-    "updated_at": "2025-11-28T15:56:04Z",
+    "stars": 33,
+    "updated_at": "2025-11-28T17:07:02Z",
     "version": "v2.2.4",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
@@ -4023,8 +4023,8 @@
     ],
     "author": null,
     "stars": 16,
-    "updated_at": "2025-11-28T13:45:57Z",
-    "version": "2.2.5"
+    "updated_at": "2025-11-28T16:50:20Z",
+    "version": "2.3.0"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
