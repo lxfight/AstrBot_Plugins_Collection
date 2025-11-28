@@ -1294,8 +1294,8 @@
       "实用"
     ],
     "stars": 7,
-    "updated_at": "2025-11-28T02:50:03Z",
-    "version": "v2.7.8",
+    "updated_at": "2025-11-28T14:09:22Z",
+    "version": "v2.7.9",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -4023,7 +4023,7 @@
     ],
     "author": null,
     "stars": 16,
-    "updated_at": "2025-11-28T03:52:55Z",
+    "updated_at": "2025-11-28T13:45:57Z",
     "version": "2.2.5"
   },
   "astrbot_plugin_group_sign": {
@@ -6632,8 +6632,8 @@
       "安全"
     ],
     "stars": 7,
-    "updated_at": "2025-11-28T02:50:03Z",
-    "version": "v2.7.8",
+    "updated_at": "2025-11-28T14:09:22Z",
+    "version": "v2.7.9",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "JmCli": {
@@ -7483,8 +7483,8 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 81,
-    "updated_at": "2025-11-26T09:53:32Z",
+    "stars": 82,
+    "updated_at": "2025-11-28T14:20:35Z",
     "version": "v2.1.7"
   },
   "astrbot_plugin_steamshot": {
