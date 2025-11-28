@@ -9,8 +9,8 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 24,
-    "updated_at": "2025-11-28T15:52:18Z",
+    "stars": 25,
+    "updated_at": "2025-11-28T17:40:26Z",
     "version": "v1.8.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
@@ -25,7 +25,7 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "stars": 2,
-    "updated_at": "2025-11-27T05:52:08Z",
+    "updated_at": "2025-11-28T18:26:39Z",
     "version": "1.5.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_steamgame/master/logo.png"
   },
@@ -7587,7 +7587,7 @@
       "图床"
     ],
     "stars": 100,
-    "updated_at": "2025-11-28T10:56:36Z",
+    "updated_at": "2025-11-28T17:52:17Z",
     "version": "v3.19"
   },
   "mccloud_command": {
