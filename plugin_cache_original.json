@@ -10,7 +10,7 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "stars": 20,
-    "updated_at": "2025-11-27T20:23:21Z",
+    "updated_at": "2025-11-28T03:56:25Z",
     "version": "v1.8.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
@@ -2417,8 +2417,8 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 25,
-    "updated_at": "2025-11-27T18:25:01Z",
+    "stars": 26,
+    "updated_at": "2025-11-28T04:07:36Z",
     "version": "v1.6.1"
   },
   "astrbot_plugin_group_chat": {
@@ -2677,8 +2677,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 69,
-    "updated_at": "2025-11-28T01:15:58Z",
+    "stars": 70,
+    "updated_at": "2025-11-28T03:25:06Z",
     "version": "v4.2.7",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
@@ -4022,8 +4022,8 @@
       "文件处理"
     ],
     "author": null,
-    "stars": 15,
-    "updated_at": "2025-11-27T04:04:00Z",
+    "stars": 16,
+    "updated_at": "2025-11-28T03:52:55Z",
     "version": "2.2.5"
   },
   "astrbot_plugin_group_sign": {
