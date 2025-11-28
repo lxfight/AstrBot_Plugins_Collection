@@ -9,8 +9,8 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 22,
-    "updated_at": "2025-11-28T06:13:13Z",
+    "stars": 21,
+    "updated_at": "2025-11-28T07:09:10Z",
     "version": "v1.8.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
@@ -2944,8 +2944,8 @@
     "tags": "娱乐",
     "social_link": "astrbot.uk",
     "stars": 14,
-    "updated_at": "2025-11-28T06:25:46Z",
-    "version": "v1.3.4"
+    "updated_at": "2025-11-28T07:01:17Z",
+    "version": "v1.4.0"
   },
   "should_I_respond": {
     "desc": "“我要回复这条消息吗？”当打开主动回复时，LLM 可能傻傻的就部分上下文一直回复。这个插件没准能解决这个问题。（在 aiocqhttp 平台测试，需要搭配主动回复功能使用）",
