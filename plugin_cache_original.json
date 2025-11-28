@@ -9,8 +9,8 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 21,
-    "updated_at": "2025-11-28T05:03:54Z",
+    "stars": 22,
+    "updated_at": "2025-11-28T06:13:13Z",
     "version": "v1.8.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
@@ -169,8 +169,8 @@
     "social_link": "https://github.com/wuxinTLH",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-11-19T01:58:41Z",
-    "version": "v0.0.5"
+    "updated_at": "2025-11-28T06:07:30Z",
+    "version": "v0.0.7"
   },
   "astrbot_plugin_command2llm": {
     "display_name": "Command2LLM",
@@ -2418,7 +2418,7 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 27,
-    "updated_at": "2025-11-28T05:12:29Z",
+    "updated_at": "2025-11-28T06:07:51Z",
     "version": "v1.6.2"
   },
   "astrbot_plugin_group_chat": {
@@ -2943,8 +2943,8 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_figurine_workshop",
     "tags": "娱乐",
     "social_link": "astrbot.uk",
-    "stars": 13,
-    "updated_at": "2025-11-28T05:23:40Z",
+    "stars": 14,
+    "updated_at": "2025-11-28T06:25:46Z",
     "version": "v1.3.4"
   },
   "should_I_respond": {
@@ -3336,8 +3336,8 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 31,
-    "updated_at": "2025-11-27T16:43:44Z",
+    "stars": 32,
+    "updated_at": "2025-11-28T05:41:08Z",
     "version": "v2.2.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
@@ -4816,8 +4816,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 37,
-    "updated_at": "2025-11-27T04:04:03Z",
+    "stars": 38,
+    "updated_at": "2025-11-28T06:03:16Z",
     "version": "2.1.8"
   },
   "astrbot_plugin_xiaoxue": {
