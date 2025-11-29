@@ -1294,8 +1294,8 @@
       "实用"
     ],
     "stars": 7,
-    "updated_at": "2025-11-28T14:09:22Z",
-    "version": "v2.7.9",
+    "updated_at": "2025-11-29T08:21:32Z",
+    "version": "v2.8.0",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -6632,8 +6632,8 @@
       "安全"
     ],
     "stars": 7,
-    "updated_at": "2025-11-28T14:09:22Z",
-    "version": "v2.7.9",
+    "updated_at": "2025-11-29T08:21:32Z",
+    "version": "v2.8.0",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "JmCli": {
@@ -7586,8 +7586,8 @@
       "webui",
       "图床"
     ],
-    "stars": 100,
-    "updated_at": "2025-11-28T17:52:17Z",
+    "stars": 101,
+    "updated_at": "2025-11-29T07:46:00Z",
     "version": "v3.19"
   },
   "mccloud_command": {
