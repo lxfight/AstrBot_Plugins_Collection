@@ -497,8 +497,8 @@
       "好感度",
       "情感"
     ],
-    "stars": 4,
-    "updated_at": "2025-11-27T18:24:28Z",
+    "stars": 5,
+    "updated_at": "2025-11-29T12:03:57Z",
     "version": "v3.4",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
@@ -843,8 +843,8 @@
     ],
     "social_link": "https://github.com/Him666233",
     "stars": 12,
-    "updated_at": "2025-11-28T00:21:47Z",
-    "version": "v1.1.1",
+    "updated_at": "2025-11-29T11:51:40Z",
+    "version": "v1.1.2",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -2677,8 +2677,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 71,
-    "updated_at": "2025-11-29T05:21:46Z",
+    "stars": 72,
+    "updated_at": "2025-11-29T12:40:05Z",
     "version": "v4.3.0",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
@@ -4905,8 +4905,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 70,
-    "updated_at": "2025-11-26T04:13:51Z",
+    "stars": 71,
+    "updated_at": "2025-11-29T11:45:52Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
@@ -6383,8 +6383,8 @@
     "tags": [
       "DeepSeek"
     ],
-    "stars": 9,
-    "updated_at": "2025-08-18T00:50:13Z",
+    "stars": 10,
+    "updated_at": "2025-11-29T12:53:55Z",
     "version": "v0.1"
   },
   "astrbot_plugin_doro_ending": {
@@ -7082,8 +7082,8 @@
       "开盒"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "stars": 52,
-    "updated_at": "2025-11-24T05:47:05Z",
+    "stars": 53,
+    "updated_at": "2025-11-29T11:56:56Z",
     "version": "v1.2.1",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
