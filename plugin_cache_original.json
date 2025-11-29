@@ -683,8 +683,8 @@
     ],
     "social_link": "https://github.com/SatenShiroya",
     "stars": 5,
-    "updated_at": "2025-11-29T05:02:26Z",
-    "version": "V1.1.0",
+    "updated_at": "2025-11-29T09:43:29Z",
+    "version": "V1.2.0",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_neteasecloud_music/master/logo.png"
   },
   "astrbot_plugin_dailyacmfortune": {
@@ -2779,8 +2779,8 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 24,
-    "updated_at": "2025-11-11T09:11:10Z",
+    "stars": 25,
+    "updated_at": "2025-11-29T09:51:53Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_vtb_adapter": {
