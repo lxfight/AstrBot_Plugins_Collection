@@ -682,8 +682,8 @@
       "网易云"
     ],
     "social_link": "https://github.com/SatenShiroya",
-    "stars": 4,
-    "updated_at": "2025-11-27T08:29:12Z",
+    "stars": 5,
+    "updated_at": "2025-11-29T05:02:26Z",
     "version": "V1.1.0",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_neteasecloud_music/master/logo.png"
   },
@@ -1537,8 +1537,8 @@
       "娱乐"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 8,
-    "updated_at": "2025-11-27T13:32:52Z",
+    "stars": 9,
+    "updated_at": "2025-11-29T04:36:32Z",
     "version": "v2.7",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
@@ -1592,8 +1592,8 @@
     "author": "BGYdook",
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-11-28T23:43:10Z",
+    "stars": 3,
+    "updated_at": "2025-11-29T04:35:09Z",
     "version": "1.6.1"
   },
   "astrbot_plugin_33recognition": {
@@ -1622,8 +1622,8 @@
       "工具",
       "教程"
     ],
-    "stars": 1,
-    "updated_at": "2025-10-21T03:21:13Z",
+    "stars": 2,
+    "updated_at": "2025-11-29T04:38:17Z",
     "version": "v1.4"
   },
   "astrbot_plugin_file_checker": {
@@ -1908,8 +1908,8 @@
       "成员查询"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 8,
-    "updated_at": "2025-11-16T04:47:34Z",
+    "stars": 9,
+    "updated_at": "2025-11-29T04:36:46Z",
     "version": "v0.1.0"
   },
   "qftp": {
@@ -2677,8 +2677,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 70,
-    "updated_at": "2025-11-28T16:19:16Z",
+    "stars": 71,
+    "updated_at": "2025-11-29T05:21:46Z",
     "version": "v4.3.0",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
@@ -2821,8 +2821,8 @@
       "群管"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 7,
-    "updated_at": "2025-11-16T04:49:28Z",
+    "stars": 8,
+    "updated_at": "2025-11-29T04:36:59Z",
     "version": "v1.4"
   },
   "command_to_llm": {
@@ -3999,8 +3999,8 @@
       "工具",
       "娱乐"
     ],
-    "stars": 7,
-    "updated_at": "2025-11-27T11:44:10Z",
+    "stars": 8,
+    "updated_at": "2025-11-29T04:37:07Z",
     "version": "v2.0.6"
   },
   "astrbot_plugin_file": {
