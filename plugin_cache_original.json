@@ -1117,8 +1117,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 34,
-    "updated_at": "2025-11-29T07:14:43Z",
+    "stars": 35,
+    "updated_at": "2025-11-29T10:51:11Z",
     "version": "v1.0.0-beta.4",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -4882,8 +4882,8 @@
     ],
     "social_link": "https://github.com/BB0813",
     "stars": 5,
-    "updated_at": "2025-10-15T13:36:41Z",
-    "version": "v1.0.5"
+    "updated_at": "2025-11-29T11:16:27Z",
+    "version": "v1.1.0"
   },
   "astrbot_dg_lab_plugin": {
     "author": "RC-CHN",
@@ -4977,8 +4977,8 @@
     ],
     "social_link": "https://github.com/tyql688/WutheringWavesUID",
     "stars": 1,
-    "updated_at": "2025-05-28T05:37:18Z",
-    "version": "v1.0"
+    "updated_at": "2025-11-29T11:10:10Z",
+    "version": "v1.1"
   },
   "astrbot_plugin_mrfz_haunting_query": {
     "author": "Ricky",
