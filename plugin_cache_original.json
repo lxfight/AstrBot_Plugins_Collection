@@ -1538,8 +1538,8 @@
       "网络小说"
     ],
     "stars": 2,
-    "updated_at": "2025-11-24T16:49:52Z",
-    "version": "v1.3.1",
+    "updated_at": "2025-11-29T16:53:11Z",
+    "version": "v1.4",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_youshusearch/master/logo.png"
   },
   "astrbot_plugin_persona_plus": {
@@ -3420,7 +3420,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 33,
-    "updated_at": "2025-11-29T16:24:51Z",
+    "updated_at": "2025-11-29T16:35:23Z",
     "version": "v2.2.6",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
