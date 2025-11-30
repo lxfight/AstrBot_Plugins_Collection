@@ -100,8 +100,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 8,
-    "updated_at": "2025-11-30T16:28:37Z",
-    "version": "v1.5.5",
+    "updated_at": "2025-11-30T18:06:05Z",
+    "version": "v1.6.0",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -1558,8 +1558,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 8,
-    "updated_at": "2025-11-30T17:18:13Z",
-    "version": "v2.5.0",
+    "updated_at": "2025-11-30T18:13:25Z",
+    "version": "v3.2.0",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
