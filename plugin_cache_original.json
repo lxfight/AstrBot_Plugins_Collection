@@ -84,8 +84,8 @@
       "nano banana"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 2,
-    "updated_at": "2025-11-30T02:56:24Z",
+    "stars": 3,
+    "updated_at": "2025-11-30T16:57:27Z",
     "version": "v1.2",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_gemini_image/master/logo.png"
   },
@@ -100,8 +100,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 8,
-    "updated_at": "2025-11-30T16:07:10Z",
-    "version": "v1.5.4",
+    "updated_at": "2025-11-30T16:28:37Z",
+    "version": "v1.5.5",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -1558,8 +1558,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 8,
-    "updated_at": "2025-11-30T16:15:15Z",
-    "version": "v2.4.0",
+    "updated_at": "2025-11-30T17:18:13Z",
+    "version": "v2.5.0",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
@@ -5063,8 +5063,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 72,
-    "updated_at": "2025-11-30T14:37:36Z",
+    "stars": 73,
+    "updated_at": "2025-11-30T16:43:43Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
