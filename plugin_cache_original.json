@@ -25,8 +25,8 @@
       "修图"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 6,
-    "updated_at": "2025-11-30T06:36:12Z",
+    "stars": 7,
+    "updated_at": "2025-11-30T08:38:43Z",
     "version": "v1.5.2",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
@@ -38,8 +38,8 @@
     "tags": [
       "原神"
     ],
-    "stars": 0,
-    "updated_at": "2025-11-23T19:20:49Z",
+    "stars": 1,
+    "updated_at": "2025-11-30T08:38:56Z",
     "version": "v1.2",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_genshinimpact/master/logo.png"
   },
@@ -1325,7 +1325,7 @@
     ],
     "social_link": "https://github.com/ovoox",
     "stars": 0,
-    "updated_at": "2025-11-16T02:25:02Z",
+    "updated_at": "2025-11-30T08:58:43Z",
     "version": "v1.0"
   },
   "astrbot_plugin_zhanbu": {
@@ -1473,8 +1473,8 @@
       "梗图",
       "猜词"
     ],
-    "stars": 0,
-    "updated_at": "2025-11-25T00:41:59Z",
+    "stars": 1,
+    "updated_at": "2025-11-30T09:06:10Z",
     "version": "v1.0.1",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_gengtu/main/logo.png"
   },
@@ -2852,8 +2852,8 @@
       "群相册"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 10,
-    "updated_at": "2025-11-28T08:35:19Z",
+    "stars": 11,
+    "updated_at": "2025-11-30T09:22:06Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qun_album/main/logo.png"
   },
@@ -5060,8 +5060,8 @@
       "鸣潮"
     ],
     "social_link": "https://github.com/tyql688/WutheringWavesUID",
-    "stars": 2,
-    "updated_at": "2025-11-30T03:19:06Z",
+    "stars": 3,
+    "updated_at": "2025-11-30T08:39:49Z",
     "version": "v1.1"
   },
   "astrbot_plugin_mrfz_haunting_query": {
@@ -7895,8 +7895,8 @@
     "author": "Flartiny & Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
-    "stars": 35,
-    "updated_at": "2025-11-30T06:46:14Z",
+    "stars": 36,
+    "updated_at": "2025-11-30T09:08:40Z",
     "version": "v1.4.16",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
