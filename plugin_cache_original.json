@@ -1,4 +1,78 @@
 {
+  "astrbot_plugin_vocabularycard": {
+    "display_name": "每日一词 [单词卡片]",
+    "desc": "每日定时推送玻璃拟态风格的英语单词卡片，内置 3722+ 个CET-6 词汇，支持进度追踪和随机学习",
+    "author": "Willixrain",
+    "repo": "https://github.com/itismygo/astrbot_plugin_vocabcard",
+    "tags": [
+      "英语学习",
+      "卡片",
+      "每日一词"
+    ],
+    "social_link": "https://github.com/itismygo",
+    "stars": 0,
+    "updated_at": "2025-11-27T05:02:22Z",
+    "version": "v1.0.0"
+  },
+  "astrbot_plugin_web_analyzer": {
+    "display_name": "网页分析插件",
+    "desc": "自动识别网页链接并进行内容分析和总结",
+    "author": "Sakura520222",
+    "repo": "https://github.com/Sakura520222/astrbot_plugin_web_analyzer",
+    "tags": [
+      "分析",
+      "web",
+      "工具"
+    ],
+    "social_link": "https://box.firefly520.top/",
+    "stars": 4,
+    "updated_at": "2025-11-28T12:26:16Z",
+    "version": "1.2.1",
+    "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
+  },
+  "astrbot_plugin_ComfyUI_promax": {
+    "display_name": "ComfyUI_pro",
+    "desc": "ComfyUI AI 绘画插件-支持文生图、图生图、多服务器轮询、模型选择、LoRA 等高级功能。",
+    "author": "tjc123456",
+    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_ComfyUI_promax",
+    "tags": [
+      "画图",
+      "comfyui"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "updated_at": "2025-11-28T06:03:42Z",
+    "version": "3.2.2"
+  },
+  "astrbot_plugin_timeprogress": {
+    "display_name": "时间可视化",
+    "desc": "用来可视化时间的，查看今年过去了多少时间。",
+    "author": "Willixrain",
+    "repo": "https://github.com/itismygo/astrbot_plugin_timeprogress",
+    "tags": [
+      "time",
+      "图片"
+    ],
+    "social_link": "https://github.com/itismygo",
+    "stars": 0,
+    "updated_at": "2025-11-26T16:58:51Z",
+    "version": "v1.4.0"
+  },
+  "astrbot_plugin_openlistfile": {
+    "display_name": "Openlist 助手",
+    "desc": "Openlist 文件管理插件，支持浏览、搜索、下载 Openlist 上的文件。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_openlistfile",
+    "tags": [
+      "Openlist",
+      "文件管理",
+      "网盘"
+    ],
+    "stars": 0,
+    "updated_at": "2025-11-29T11:59:10Z",
+    "version": "v1.1.2",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_openlistfile/master/logo.png"
+  },
   "astrbot_plugin_gemini_image": {
     "display_name": "Gemini 生图",
     "desc": "基于 Gemini 模型的图像生成插件，支持文生图和图生图，支持自然语言调用和预设提示词",
@@ -1002,8 +1076,8 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_mcgetter_enhanced",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-11-06T06:39:12Z",
+    "stars": 1,
+    "updated_at": "2025-11-30T11:27:48Z",
     "version": "v1.5.0"
   },
   "astrbot_plugin_minecraftskin": {
@@ -3421,8 +3495,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 33,
-    "updated_at": "2025-11-29T16:35:23Z",
-    "version": "v2.2.6",
+    "updated_at": "2025-11-30T12:36:44Z",
+    "version": "v2.2.7",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -4470,8 +4544,8 @@
       "守信",
       "排行榜"
     ],
-    "stars": 4,
-    "updated_at": "2025-09-22T03:21:22Z",
+    "stars": 5,
+    "updated_at": "2025-11-30T11:28:31Z",
     "version": "2.1.2"
   },
   "astrbot_plugin_kook_adapter": {
@@ -5175,8 +5249,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 73,
-    "updated_at": "2025-11-29T03:22:02Z",
+    "stars": 74,
+    "updated_at": "2025-11-30T12:13:32Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -5256,8 +5330,8 @@
       "embedding"
     ],
     "social_link": "https://github.com/TheAnyan",
-    "stars": 11,
-    "updated_at": "2025-09-29T07:45:18Z",
+    "stars": 12,
+    "updated_at": "2025-11-30T12:21:59Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_stock": {
@@ -5289,9 +5363,9 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
     "social_link": "https://github.com/Zhalslar",
     "tags": [],
-    "stars": 34,
-    "updated_at": "2025-11-19T05:04:19Z",
-    "version": "v1.1.0",
+    "stars": 35,
+    "updated_at": "2025-11-30T12:14:41Z",
+    "version": "v1.1.1",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -6554,7 +6628,7 @@
       "QQ群管"
     ],
     "stars": 63,
-    "updated_at": "2025-11-21T09:53:19Z",
+    "updated_at": "2025-11-30T12:00:51Z",
     "version": "v3.2.0",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
@@ -7605,8 +7679,8 @@
     "tags": [
       "功能"
     ],
-    "stars": 18,
-    "updated_at": "2025-11-03T05:01:29Z",
+    "stars": 19,
+    "updated_at": "2025-11-30T12:48:38Z",
     "version": "1.1.0"
   },
   "astrbot_plugin_moyuren": {
