@@ -92,8 +92,8 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 27,
-    "updated_at": "2025-11-29T22:10:01Z",
+    "stars": 28,
+    "updated_at": "2025-11-30T04:40:42Z",
     "version": "v1.8.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
@@ -3137,8 +3137,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 33,
-    "updated_at": "2025-11-19T07:08:28Z",
-    "version": "0.4.3"
+    "updated_at": "2025-11-30T05:21:58Z",
+    "version": "0.4.3",
+    "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
     "desc": "当群里出现关键词时触发自动提醒。",
