@@ -10,8 +10,8 @@
       "nano banana"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 1,
-    "updated_at": "2025-11-29T06:48:09Z",
+    "stars": 2,
+    "updated_at": "2025-11-30T02:56:24Z",
     "version": "v1.2",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_gemini_image/master/logo.png"
   },
@@ -265,8 +265,8 @@
       "llm工具"
     ],
     "social_link": "https://github.com/vmoranv",
-    "stars": 1,
-    "updated_at": "2025-11-26T06:40:05Z",
+    "stars": 2,
+    "updated_at": "2025-11-30T02:59:40Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_whitelistpro": {
@@ -5059,8 +5059,8 @@
       "鸣潮"
     ],
     "social_link": "https://github.com/tyql688/WutheringWavesUID",
-    "stars": 1,
-    "updated_at": "2025-11-29T11:10:10Z",
+    "stars": 2,
+    "updated_at": "2025-11-30T03:19:06Z",
     "version": "v1.1"
   },
   "astrbot_plugin_mrfz_haunting_query": {
@@ -8355,8 +8355,8 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
     "tags": [],
     "stars": 13,
-    "updated_at": "2025-11-25T07:23:22Z",
-    "version": "v1.1.3"
+    "updated_at": "2025-11-30T03:40:31Z",
+    "version": "v2.0.0"
   },
   "astrbot_plugin_AIQTalk": {
     "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
