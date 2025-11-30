@@ -41,7 +41,7 @@
     ],
     "social_link": "",
     "stars": 0,
-    "updated_at": "2025-11-28T06:03:42Z",
+    "updated_at": "2025-11-30T15:12:36Z",
     "version": "3.2.2"
   },
   "astrbot_plugin_timeprogress": {
@@ -100,8 +100,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 7,
-    "updated_at": "2025-11-30T08:38:43Z",
-    "version": "v1.5.2",
+    "updated_at": "2025-11-30T15:00:37Z",
+    "version": "v1.5.4",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -1558,8 +1558,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 8,
-    "updated_at": "2025-11-28T20:20:27Z",
-    "version": "v2.1.0",
+    "updated_at": "2025-11-30T15:05:22Z",
+    "version": "v2.2.0",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
@@ -3495,7 +3495,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 34,
-    "updated_at": "2025-11-30T14:21:48Z",
+    "updated_at": "2025-11-30T14:28:00Z",
     "version": "v2.2.7",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
@@ -4157,8 +4157,8 @@
       "工具",
       "娱乐"
     ],
-    "stars": 8,
-    "updated_at": "2025-11-29T04:37:07Z",
+    "stars": 9,
+    "updated_at": "2025-11-30T14:53:24Z",
     "version": "v2.0.6"
   },
   "astrbot_plugin_file": {
@@ -5063,8 +5063,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 71,
-    "updated_at": "2025-11-29T11:45:52Z",
+    "stars": 72,
+    "updated_at": "2025-11-30T14:37:36Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
@@ -5765,8 +5765,8 @@
     "desc": "[仅 aiocqhttp] 基于 zgojin 的群二次元老婆插件修改版。",
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-11-02T10:53:56Z",
+    "stars": 4,
+    "updated_at": "2025-11-30T14:53:08Z",
     "version": "v1.6.2",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
@@ -7391,8 +7391,8 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 58,
-    "updated_at": "2025-11-27T16:34:04Z",
+    "stars": 59,
+    "updated_at": "2025-11-30T15:14:41Z",
     "version": "v0.2.14"
   },
   "astrbot_plugin_sjzb": {
