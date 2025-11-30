@@ -5701,8 +5701,8 @@
     "desc": "一个用于 AstrBot 的插件，实现类似Google Emoji Kitchen(合成emoji)的效果。",
     "repo": "https://github.com/Flartiny/astrbot_plugin_emojimix",
     "tags": [],
-    "stars": 4,
-    "updated_at": "2025-08-26T17:43:47Z",
+    "stars": 5,
+    "updated_at": "2025-11-30T10:47:09Z",
     "version": "v1.0.2"
   },
   "astrBot_plugin_0721galgame": {
@@ -7670,8 +7670,8 @@
       "webui",
       "图床"
     ],
-    "stars": 101,
-    "updated_at": "2025-11-29T07:46:00Z",
+    "stars": 102,
+    "updated_at": "2025-11-30T11:15:23Z",
     "version": "v3.19"
   },
   "mccloud_command": {
