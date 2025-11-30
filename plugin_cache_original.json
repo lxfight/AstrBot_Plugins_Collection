@@ -654,8 +654,8 @@
       "好感度",
       "情感"
     ],
-    "stars": 6,
-    "updated_at": "2025-11-29T13:34:41Z",
+    "stars": 7,
+    "updated_at": "2025-11-30T14:14:04Z",
     "version": "v3.4",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
@@ -1274,8 +1274,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 37,
-    "updated_at": "2025-11-30T04:25:19Z",
+    "stars": 38,
+    "updated_at": "2025-11-30T14:08:43Z",
     "version": "v1.0.0-beta.6",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -3495,7 +3495,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 34,
-    "updated_at": "2025-11-30T13:22:15Z",
+    "updated_at": "2025-11-30T14:21:48Z",
     "version": "v2.2.7",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
@@ -4120,8 +4120,8 @@
       "工具"
     ],
     "stars": 4,
-    "updated_at": "2025-09-05T03:16:32Z",
-    "version": "v1.0.8"
+    "updated_at": "2025-11-30T14:14:08Z",
+    "version": "v1.1.0"
   },
   "astrbot_plugin_RecallGuard": {
     "name": "astrbot_plugin_RecallGuard",
@@ -5040,8 +5040,8 @@
     ],
     "social_link": "https://github.com/BB0813",
     "stars": 5,
-    "updated_at": "2025-11-29T11:16:27Z",
-    "version": "v1.1.0"
+    "updated_at": "2025-11-30T13:40:03Z",
+    "version": "v1.1.1"
   },
   "astrbot_dg_lab_plugin": {
     "author": "RC-CHN",
@@ -6627,8 +6627,8 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 63,
-    "updated_at": "2025-11-30T12:00:51Z",
+    "stars": 64,
+    "updated_at": "2025-11-30T13:46:41Z",
     "version": "v3.2.0",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
