@@ -20,7 +20,7 @@
     "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
     "social_link": "https://github.com/Huahuatgc",
     "stars": 0,
-    "updated_at": "2025-11-30T12:21:38Z",
+    "updated_at": "2025-12-01T14:54:51Z",
     "version": "2.5.0",
     "logo": "https://raw.githubusercontent.com/Huahuatgc/astrbot_plugin_aicu/master/logo.png"
   },
@@ -91,8 +91,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 5,
-    "updated_at": "2025-12-01T01:17:30Z",
-    "version": "1.2.1",
+    "updated_at": "2025-12-01T14:59:15Z",
+    "version": "1.2.2",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -232,8 +232,8 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "stars": 30,
-    "updated_at": "2025-12-01T13:22:10Z",
-    "version": "v1.8.0",
+    "updated_at": "2025-12-01T15:23:41Z",
+    "version": "v2.0.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -5128,8 +5128,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 73,
-    "updated_at": "2025-11-30T16:43:43Z",
+    "stars": 74,
+    "updated_at": "2025-12-01T14:36:30Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
@@ -5314,8 +5314,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 74,
-    "updated_at": "2025-11-30T12:13:32Z",
+    "stars": 75,
+    "updated_at": "2025-12-01T14:36:11Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
