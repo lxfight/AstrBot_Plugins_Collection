@@ -536,8 +536,8 @@
       "私聊"
     ],
     "stars": 10,
-    "updated_at": "2025-11-27T16:33:53Z",
-    "version": "2.0.0"
+    "updated_at": "2025-12-01T07:18:49Z",
+    "version": "2.1.0"
   },
   "astrbot_plugin_llm_amnesia": {
     "display_name": "LLM 遗忘插件",
@@ -1249,8 +1249,8 @@
       "消息通知",
       "实用"
     ],
-    "stars": 2,
-    "updated_at": "2025-11-18T00:57:12Z",
+    "stars": 3,
+    "updated_at": "2025-12-01T07:01:58Z",
     "version": "1.2.0",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_github_monitor_shell/master/logo.png"
   },
@@ -2256,8 +2256,8 @@
     "author": "EraAsh",
     "repo": "https://github.com/EraAsh/astrbot_plugin_admin_emoji_reply",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-09-17T15:37:44Z",
+    "stars": 1,
+    "updated_at": "2025-12-01T07:04:38Z",
     "version": "v1.7.0"
   },
   "astrbot_plugin_dpcq_game": {
@@ -2598,8 +2598,8 @@
     "tags": [
       "撤回"
     ],
-    "stars": 1,
-    "updated_at": "2025-11-24T10:48:33Z",
+    "stars": 2,
+    "updated_at": "2025-12-01T07:11:35Z",
     "version": "v0.3",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
@@ -2892,8 +2892,8 @@
       "番剧",
       "磁链"
     ],
-    "stars": 6,
-    "updated_at": "2025-09-23T08:10:26Z",
+    "stars": 7,
+    "updated_at": "2025-12-01T07:13:02Z",
     "version": "v1.0"
   },
   "astrbot_plugin_restrict_syscmd": {
@@ -4477,8 +4477,8 @@
     "desc": "三角洲鼠鼠偷吃模拟器（简易）",
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
-    "stars": 27,
-    "updated_at": "2025-11-21T20:52:58Z",
+    "stars": 28,
+    "updated_at": "2025-12-01T07:25:20Z",
     "version": "v2.7.5",
     "logo": "https://raw.githubusercontent.com/sa1guu/astrbot_plugin_touchi/master/logo.png"
   },
@@ -6628,8 +6628,8 @@
       "QQ群管"
     ],
     "stars": 65,
-    "updated_at": "2025-12-01T03:02:00Z",
-    "version": "v3.2.0",
+    "updated_at": "2025-12-01T07:35:10Z",
+    "version": "v3.2.1",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
