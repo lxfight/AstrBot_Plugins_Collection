@@ -232,7 +232,7 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "stars": 30,
-    "updated_at": "2025-12-01T10:45:52Z",
+    "updated_at": "2025-12-01T13:22:10Z",
     "version": "v1.8.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
@@ -600,8 +600,8 @@
       "工具",
       "私聊"
     ],
-    "stars": 10,
-    "updated_at": "2025-12-01T07:18:49Z",
+    "stars": 11,
+    "updated_at": "2025-12-01T13:23:42Z",
     "version": "2.1.0"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -5457,8 +5457,8 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 40,
-    "updated_at": "2025-11-28T08:34:57Z",
+    "stars": 41,
+    "updated_at": "2025-12-01T13:42:39Z",
     "version": "v1.0.5",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
