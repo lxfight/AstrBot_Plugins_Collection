@@ -1339,8 +1339,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 40,
-    "updated_at": "2025-12-01T15:47:59Z",
+    "stars": 41,
+    "updated_at": "2025-12-01T19:48:36Z",
     "version": "v1.0.0-beta.6",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -6546,8 +6546,8 @@
     "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-    "stars": 18,
-    "updated_at": "2025-12-01T12:59:23Z",
+    "stars": 19,
+    "updated_at": "2025-12-01T20:14:55Z",
     "version": "v1.0.8"
   },
   "astrbot_plugin_ehentai_bot": {
@@ -6927,8 +6927,8 @@
       "抽卡"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 17,
-    "updated_at": "2025-11-24T04:01:37Z",
+    "stars": 18,
+    "updated_at": "2025-12-01T20:17:53Z",
     "version": "v1.0.13",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_doro_today/master/logo.png"
   },
@@ -7709,8 +7709,8 @@
       "数据查询",
       "图片"
     ],
-    "stars": 14,
-    "updated_at": "2025-09-28T21:19:24Z",
+    "stars": 15,
+    "updated_at": "2025-12-01T20:35:10Z",
     "version": "v1.8.6"
   },
   "astrbot_plugin_GGAC_Messenger": {
