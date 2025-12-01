@@ -332,18 +332,6 @@
     "updated_at": "2025-11-29T14:22:53Z",
     "version": "1.1.0"
   },
-  "astrbot_plugin_rss_subscribe": {
-    "display_name": "RSS 订阅推送",
-    "desc": "基于 RSS 的主动推送插件，支持监控并推送微博、B 站、小红书等多个社交平台的新动态。",
-    "author": "沐沐沐倾",
-    "repo": "https://github.com/muqing-wx/astrbot_plugin_rss_subscribe",
-    "social_link": "https://jk.muqing.us.kg/status/muqing",
-    "tags": [],
-    "stars": 7,
-    "updated_at": "2025-12-01T11:50:21Z",
-    "version": "1.1.3",
-    "logo": "https://raw.githubusercontent.com/muqing-wx/astrbot_plugin_rss_subscribe/main/logo.png"
-  },
   "astrbot_plugin_hotsearch": {
     "display_name": "实时热搜插件",
     "desc": "实时热搜聚合插件，支持抖音/小红书/知乎/微博/百度/懂车帝/哔哩哔哩/腾讯/头条/猫眼票房，指令无需参数，默认输出图片。",
@@ -7563,8 +7551,8 @@
     "tags": [
       "bilibili"
     ],
-    "stars": 7,
-    "updated_at": "2025-09-17T04:25:51Z",
+    "stars": 8,
+    "updated_at": "2025-12-01T23:25:36Z",
     "version": "v1.0"
   },
   "astrBot_PGR_Dialogue": {
