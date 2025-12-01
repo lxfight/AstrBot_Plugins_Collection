@@ -361,8 +361,8 @@
     "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-11-26T01:29:21Z",
-    "version": "v3.2.0"
+    "updated_at": "2025-12-01T05:23:19Z",
+    "version": "v3.2.1"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -1557,8 +1557,8 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
-    "stars": 8,
-    "updated_at": "2025-12-01T04:01:57Z",
+    "stars": 9,
+    "updated_at": "2025-12-01T05:05:19Z",
     "version": "v3.5.0",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
@@ -1741,7 +1741,7 @@
     "repo": "https://github.com/xiaoxi68/astrbot_quotes_plugin",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-11-25T13:02:02Z",
+    "updated_at": "2025-12-01T05:22:32Z",
     "version": "v1.0.0"
   },
   "astrbot-plugin-tmp-bot": {
@@ -3211,8 +3211,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 33,
-    "updated_at": "2025-11-30T05:21:58Z",
-    "version": "0.4.3",
+    "updated_at": "2025-12-01T05:03:15Z",
+    "version": "0.4.5",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -3494,8 +3494,8 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 34,
-    "updated_at": "2025-11-30T14:28:00Z",
+    "stars": 35,
+    "updated_at": "2025-12-01T04:34:06Z",
     "version": "v2.2.7",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
