@@ -6,7 +6,7 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian",
     "tags": [],
     "stars": 3,
-    "updated_at": "2025-11-28T18:34:04Z",
+    "updated_at": "2025-12-01T12:00:39Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_aicu_analysis": {
@@ -60,7 +60,7 @@
     ],
     "social_link": "https://github.com/Loping151/ScoreEcho",
     "stars": 4,
-    "updated_at": "2025-11-28T14:29:00Z",
+    "updated_at": "2025-12-01T12:09:15Z",
     "version": "3.1.3",
     "logo": "https://raw.githubusercontent.com/timetetng/astrbot_plugin_echoscore/main/logo.png"
   },
@@ -339,8 +339,8 @@
     "repo": "https://github.com/muqing-wx/astrbot_plugin_rss_subscribe",
     "social_link": "https://jk.muqing.us.kg/status/muqing",
     "tags": [],
-    "stars": 6,
-    "updated_at": "2025-11-28T10:15:11Z",
+    "stars": 7,
+    "updated_at": "2025-12-01T11:50:21Z",
     "version": "1.1.3",
     "logo": "https://raw.githubusercontent.com/muqing-wx/astrbot_plugin_rss_subscribe/main/logo.png"
   },
@@ -1340,7 +1340,7 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 39,
-    "updated_at": "2025-12-01T09:24:25Z",
+    "updated_at": "2025-12-01T12:29:19Z",
     "version": "v1.0.0-beta.6",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -2791,8 +2791,8 @@
       "memory",
       "rag"
     ],
-    "stars": 42,
-    "updated_at": "2025-11-27T08:18:01Z",
+    "stars": 43,
+    "updated_at": "2025-12-01T11:45:47Z",
     "version": "1.7.2",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
@@ -5462,18 +5462,6 @@
     "version": "v1.0.5",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
-  "astrbot_plugin_Kanalyse": {
-    "author": "End_Tower",
-    "desc": "[仅 QQ]基于大语言模型的群聊分析插件，提供聊天记录总结和实时分析功能，并将生成的内容转化为一张图片，以AI绝对客观的视角来调停冲突 本意为让AI当判官直接评判对错，后来发现AI无法成为一个裁判判断是非，但AI能以他绝对的客观性，强行把大家拉回观众席上，客观的看待一个事件。部署一个月内累计处理：重大社会热点争议 10+ 次（订婚强奸案被判3年等、胖猫事件重提等）,日常群组冲突 30+ 次,90% 争议在AI介入后停止升级",
-    "repo": "https://github.com/endtower/astrbot_plugin_Kanalyse",
-    "tags": [
-      "教育",
-      "调停"
-    ],
-    "stars": 5,
-    "updated_at": "2025-10-09T13:43:59Z",
-    "version": "v1.01"
-  },
   "astrbot_plugin_prefix_filter": {
     "author": "padoru233",
     "desc": "一个用于过滤特定前缀消息的插件",
@@ -6558,8 +6546,8 @@
     "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-    "stars": 17,
-    "updated_at": "2025-11-24T04:03:39Z",
+    "stars": 18,
+    "updated_at": "2025-12-01T12:59:23Z",
     "version": "v1.0.8"
   },
   "astrbot_plugin_ehentai_bot": {
@@ -8422,8 +8410,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 145,
-    "updated_at": "2025-11-26T18:19:06Z",
+    "stars": 146,
+    "updated_at": "2025-12-01T11:47:24Z",
     "version": "v2.0.11"
   },
   "FateTrial_img_identify": {
