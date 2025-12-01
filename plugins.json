@@ -1,8 +1,15 @@
 {
+	"astrbot_plugin_gifcaijian": {
+	  "display_name": "裁剪和合并 GIF",
+	  "desc": "可以裁剪和合并gif 分解等功能（后续慢慢润化）",
+	  "author": "shskjw",
+	  "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian"
+	},
 	"astrbot_plugin_aicu_analysis": {
 	  "display_name": "aicu-b站评论查询",
 	  "desc": "通过UID查询AICU数据，生成包含B站用户数据、设备型号及近期评论统计的精美图片报表。",
 	  "author": "Huahuatgc",
+	  "tags": ["B站", "playwright"],
 	  "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
 	  "social_link": "https://github.com/Huahuatgc"
 	},
@@ -12,6 +19,13 @@
 	  "author": "协调人",
 	  "repo": "https://github.com/Xie-Tiao/astrbot_plugin_ShareholderPerks",
 	  "social_link": "https://github.com/Xie-Tiao"
+	},
+	"astrbot_plugin_image_generation": {
+	  "display_name": "image_generation",
+	  "desc": "适配图像生成模型，图片编辑，可自定义预设",
+	  "author": "MoonShadow1976",
+	  "repo": "https://github.com/MoonShadow1976/astrbot_plugin_image_generation",
+	  "tags": ["image_generation", "fork"]
 	},
 	"astrbot_plugin_echoscore": {
 	  "display_name": "鸣潮声骸评分插件",
