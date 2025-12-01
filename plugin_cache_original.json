@@ -136,8 +136,8 @@
       "bangdream"
     ],
     "social_link": "https://enldm.cyou/about",
-    "stars": 0,
-    "updated_at": "2025-11-27T07:34:25Z",
+    "stars": 1,
+    "updated_at": "2025-12-01T07:37:14Z",
     "version": "v0.1",
     "logo": "https://raw.githubusercontent.com/enldm/astrbot_plugin_bangmap/master/logo.png"
   },
@@ -384,8 +384,8 @@
     ],
     "social_link": "blog.eeete.fun",
     "stars": 0,
-    "updated_at": "2025-11-27T07:56:34Z",
-    "version": "v0.0.2"
+    "updated_at": "2025-12-01T07:59:27Z",
+    "version": "v0.0.3"
   },
   "astrbot_plugin_rg2": {
     "display_name": "🔫 左轮手枪对决",
@@ -3310,8 +3310,8 @@
       "社交"
     ],
     "social_link": "https://t.me/astrbot_plugin_HINS",
-    "stars": 4,
-    "updated_at": "2025-11-11T14:29:33Z",
+    "stars": 3,
+    "updated_at": "2025-12-01T08:07:51Z",
     "version": "v1.3.6"
   },
   "astrbot_plugin_xfbank": {
@@ -5920,8 +5920,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 104,
-    "updated_at": "2025-11-23T08:10:06Z",
+    "stars": 105,
+    "updated_at": "2025-12-01T08:11:34Z",
     "version": "v2.0.6",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
@@ -7391,8 +7391,8 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 59,
-    "updated_at": "2025-11-30T15:14:41Z",
+    "stars": 60,
+    "updated_at": "2025-12-01T08:21:10Z",
     "version": "v0.2.14"
   },
   "astrbot_plugin_sjzb": {
