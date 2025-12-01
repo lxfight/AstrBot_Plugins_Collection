@@ -1,4 +1,30 @@
 {
+	"astrbot_plugin_aicu_analysis": {
+	  "display_name": "aicu-b站评论查询",
+	  "desc": "通过UID查询AICU数据，生成包含B站用户数据、设备型号及近期评论统计的精美图片报表。",
+	  "author": "Huahuatgc",
+	  "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
+	  "social_link": "https://github.com/Huahuatgc"
+	},
+	"astrbot_plugin_ShareholderPerks": {
+	  "display_name": "股东薅羊毛资讯",
+	  "desc": "股东回馈信息取自巨潮资讯网，帮助各位股东们或是潜在股东们薅羊毛。",
+	  "author": "协调人",
+	  "repo": "https://github.com/Xie-Tiao/astrbot_plugin_ShareholderPerks",
+	  "social_link": "https://github.com/Xie-Tiao"
+	},
+	"astrbot_plugin_echoscore": {
+	  "display_name": "鸣潮声骸评分插件",
+	  "desc": "通过小维 API 提供快速的鸣潮声骸评分，支持图文、引用、LLM 工具调用。",
+	  "author": "Loping151 & timetetng",
+	  "repo": "https://github.com/timetetng/astrbot_plugin_echoscore",
+	  "tags": [
+	    "鸣潮",
+	    "声骸",
+	    "游戏"
+	  ],
+	  "social_link": "https://github.com/Loping151/ScoreEcho"
+	},
 	"astrbot_plugin_vocabularycard": {
 	  "display_name": "每日一词 [单词卡片]",
 	  "desc": "每日定时推送玻璃拟态风格的英语单词卡片，内置 3722+ 个CET-6 词汇，支持进度追踪和随机学习",
