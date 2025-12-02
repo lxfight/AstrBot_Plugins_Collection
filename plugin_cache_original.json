@@ -46,8 +46,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian",
     "tags": [],
     "stars": 3,
-    "updated_at": "2025-12-01T12:00:39Z",
-    "version": "1.0.0"
+    "updated_at": "2025-12-02T11:13:43Z",
+    "version": "v1.3.5"
   },
   "astrbot_plugin_AtTool": {
     "display_name": "@工具（艾特工具）",
@@ -61,7 +61,7 @@
     ],
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
     "stars": 2,
-    "updated_at": "2025-11-30T02:29:39Z",
+    "updated_at": "2025-12-02T10:36:57Z",
     "version": "v2.0",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
