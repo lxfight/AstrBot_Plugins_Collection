@@ -20,7 +20,7 @@
     "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
     "social_link": "https://github.com/Huahuatgc",
     "stars": 0,
-    "updated_at": "2025-12-01T14:54:51Z",
+    "updated_at": "2025-12-02T02:21:06Z",
     "version": "2.5.0",
     "logo": "https://raw.githubusercontent.com/Huahuatgc/astrbot_plugin_aicu/master/logo.png"
   },
@@ -105,8 +105,8 @@
       "comfyui"
     ],
     "social_link": "",
-    "stars": 0,
-    "updated_at": "2025-11-30T15:12:36Z",
+    "stars": 1,
+    "updated_at": "2025-12-02T03:18:50Z",
     "version": "3.2.2"
   },
   "astrbot_plugin_timeprogress": {
@@ -306,8 +306,8 @@
       "AI"
     ],
     "stars": 0,
-    "updated_at": "2025-11-19T09:21:12Z",
-    "version": "v1.0.0",
+    "updated_at": "2025-12-02T02:49:21Z",
+    "version": "v1.0.1",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_nyscheduler/main/logo.png"
   },
   "astrbot_plugin_api_fetcher": {
@@ -8066,8 +8066,8 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
     "tags": [],
     "stars": 18,
-    "updated_at": "2025-11-26T00:40:14Z",
-    "version": "v1.2.0"
+    "updated_at": "2025-12-02T02:32:25Z",
+    "version": "v1.2.1"
   },
   "astrbot_plugin_sysinfo": {
     "desc": "获取当前系统状态",
