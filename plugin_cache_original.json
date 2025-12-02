@@ -231,8 +231,8 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 32,
-    "updated_at": "2025-12-02T01:28:15Z",
+    "stars": 33,
+    "updated_at": "2025-12-02T04:05:29Z",
     "version": "v2.0.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
@@ -2887,8 +2887,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 76,
-    "updated_at": "2025-12-01T09:44:18Z",
+    "stars": 77,
+    "updated_at": "2025-12-02T04:35:29Z",
     "version": "v4.3.0",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
@@ -6668,9 +6668,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 65,
-    "updated_at": "2025-12-01T07:35:10Z",
-    "version": "v3.2.1",
+    "stars": 66,
+    "updated_at": "2025-12-02T04:41:30Z",
+    "version": "v3.2.2",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
