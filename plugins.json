@@ -1,4 +1,16 @@
 {
+	"astrbot_plugin_markdown_killer": {
+	  "name": "",
+	  "display_name": "Markdown 杀手",
+	  "desc": "移除 LLM 输出中的 Markdown 格式",
+	  "author": "AlanBacker",
+	  "repo": "https://github.com/AlanBacker/astrbot_plugin_markdown_killer",
+	  "tags": [
+	    "Markdown",
+	    "格式"
+	  ],
+	  "social_link": "https://space.bilibili.com/702922307"
+	},
 	"astrbot_plugin_fox_status": {
 	  "display_name": "Fox 状态监控",
 	  "desc": "一个用于获取 AstrBot 服务器状态的插件。",
