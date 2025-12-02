@@ -1,9 +1,39 @@
 {
+	"astrbot_plugin_fox_status": {
+	  "display_name": "Fox 状态监控",
+	  "desc": "一个用于获取 AstrBot 服务器状态的插件。",
+	  "author": "GoodBoyboy",
+	  "repo": "https://github.com/GoodBoyboy666/astrbot_plugin_fox_status",
+	  "tags": [
+	    "工具",
+	    "状态",
+	    "服务器"
+	  ],
+	  "social_link": "https://github.com/GoodBoyboy666"
+	},
+	"astrbot_plugin_ojs": {
+	  "display_name": "ojisan",
+	  "desc": "在特定群聊某人发言后概率触发列表内的回复。",
+	  "author": "Tedi-Dino",
+	  "repo": "https://github.com/Tedi-Dino/astrbot_plugin_ojs"
+	},
 	"astrbot_plugin_gifcaijian": {
 	  "display_name": "裁剪和合并 GIF",
 	  "desc": "可以裁剪和合并gif 分解等功能（后续慢慢润化）",
 	  "author": "shskjw",
 	  "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian"
+	},
+	"astrbot_plugin_AtTool": {
+	  "display_name": "@工具（艾特工具）",
+	  "desc": "提供给LLM自然使用的@工具",
+	  "author": "糯米茨",
+	  "repo": "https://github.com/nuomicici/astrbot_plugin_AtTool",
+	  "tags": [
+	    "工具",
+	    "tool",
+	    "@"
+	  ],
+	  "social_link": "https://qm.qq.com/q/RMjGPizOAm"
 	},
 	"astrbot_plugin_aicu_analysis": {
 	  "display_name": "aicu-b站评论查询",
@@ -19,6 +49,17 @@
 	  "author": "协调人",
 	  "repo": "https://github.com/Xie-Tiao/astrbot_plugin_ShareholderPerks",
 	  "social_link": "https://github.com/Xie-Tiao"
+	},
+	"astrbot_plugin_video_analysis": {
+	  "display_name": "Video Analysis",
+	  "desc": "支持对来自视频平台的分享进行解析并以视频形式发送。",
+	  "author": "Foolllll",
+	  "repo": "https://github.com/Foolllll-J/astrbot_plugin_video_analysis",
+	  "tags": [
+	    "视频解析",
+	    "B站",
+	    "抖音"
+	  ]
 	},
 	"astrbot_plugin_image_generation": {
 	  "display_name": "image_generation",
