@@ -147,7 +147,7 @@
     ],
     "social_link": "https://github.com/itismygo",
     "stars": 0,
-    "updated_at": "2025-12-02T13:23:36Z",
+    "updated_at": "2025-12-02T13:40:32Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_web_analyzer": {
@@ -400,7 +400,7 @@
       "ftp"
     ],
     "stars": 0,
-    "updated_at": "2025-12-02T13:28:20Z",
+    "updated_at": "2025-12-02T14:16:11Z",
     "version": "1.1.0"
   },
   "astrbot_plugin_hotsearch": {
@@ -2509,8 +2509,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 18,
-    "updated_at": "2025-12-02T06:58:27Z",
-    "version": "0.7.5"
+    "updated_at": "2025-12-02T14:30:11Z",
+    "version": "0.7.6"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -4305,7 +4305,7 @@
     ],
     "author": null,
     "stars": 16,
-    "updated_at": "2025-11-28T16:50:20Z",
+    "updated_at": "2025-12-02T14:15:52Z",
     "version": "2.3.0"
   },
   "astrbot_plugin_group_sign": {
@@ -5086,8 +5086,8 @@
     "desc": "Bilibili视频字幕总结插件，获取B站视频字幕并使用LLM生成内容总结",
     "repo": "https://github.com/VincenttHo/astrbot_plugin_bilibili_summary",
     "tags": [],
-    "stars": 4,
-    "updated_at": "2025-11-18T06:33:51Z",
+    "stars": 5,
+    "updated_at": "2025-12-02T14:25:54Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_steam_status_monitor": {
