@@ -1414,8 +1414,9 @@
     ],
     "social_link": "https://github.com/oyxning",
     "stars": 6,
-    "updated_at": "2025-11-10T09:15:08Z",
-    "version": "0.3.0"
+    "updated_at": "2025-12-03T16:42:18Z",
+    "version": "0.3.0",
+    "logo": "https://raw.githubusercontent.com/oyxning/astrbot-plugin-moremorelove/main/logo.png"
   },
   "astrbot_plugin_genie-tts": {
     "desc": "基于 Genie TTS 的语音合成插件",
@@ -3335,7 +3336,7 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 33,
-    "updated_at": "2025-12-03T16:08:01Z",
+    "updated_at": "2025-12-03T17:11:04Z",
     "version": "0.5.0",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
@@ -3723,8 +3724,9 @@
       "增强"
     ],
     "stars": 16,
-    "updated_at": "2025-11-29T12:48:26Z",
-    "version": "3.0.0"
+    "updated_at": "2025-12-03T17:00:07Z",
+    "version": "3.0.1",
+    "logo": "https://raw.githubusercontent.com/muyouzhi6/astrabot_plugin_retry/main/logo.png"
   },
   "astrbot_plugin_Group-Verification_PRO": {
     "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
@@ -4496,8 +4498,9 @@
     "author": "oyxning",
     "social_link": "https://github.com/oyxning/",
     "stars": 4,
-    "updated_at": "2025-10-16T00:50:08Z",
-    "version": "1.0.0"
+    "updated_at": "2025-12-03T16:43:06Z",
+    "version": "1.0.0",
+    "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_decision_roulette/master/logo.png"
   },
   "astrbot_plugin_top_chehui": {
     "author": "mingrixiangnai",
@@ -4594,8 +4597,9 @@
       "随机人格"
     ],
     "stars": 2,
-    "updated_at": "2025-10-16T00:49:48Z",
-    "version": "1.0.0"
+    "updated_at": "2025-12-03T16:43:21Z",
+    "version": "1.0.0",
+    "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_dynamic_persona/master/logo.png"
   },
   "astrbot_plugin_touchi": {
     "author": "sa1guu",
@@ -4707,8 +4711,9 @@
       "文字游戏"
     ],
     "stars": 13,
-    "updated_at": "2025-11-19T07:08:30Z",
-    "version": "v1.0.0"
+    "updated_at": "2025-12-03T16:39:42Z",
+    "version": "v1.0.0",
+    "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_textadventure/master/logo.png"
   },
   "astrbot_plugin_llmAtTool": {
     "author": "LumineStory",
@@ -6818,8 +6823,8 @@
     "author": "lm379",
     "repo": "https://github.com/lm379/astrbot_plugin_quarksave",
     "tags": [],
-    "stars": 9,
-    "updated_at": "2025-10-29T08:57:51Z",
+    "stars": 10,
+    "updated_at": "2025-12-03T17:00:43Z",
     "version": "v1.0.4"
   },
   "astrbot_plugins_ConvetPicture": {
