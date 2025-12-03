@@ -1804,8 +1804,8 @@
     ],
     "social_link": "https://gbkgov.cn",
     "stars": 6,
-    "updated_at": "2025-11-25T03:37:59Z",
-    "version": "v1.2.0"
+    "updated_at": "2025-12-03T10:40:17Z",
+    "version": "v1.3.0"
   },
   "astrbot_plugin_Favour_Ultra": {
     "desc": "更加完善的好感度判断插件，配合LLM和自定义 Prompt 进行使用，效果显著。该插件使用与现有好感度插件不同的判断、写入方法，以及扩展更多的自定义内容，允许更加自由地定义好感度规则。",
