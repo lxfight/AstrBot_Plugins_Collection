@@ -2509,8 +2509,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 18,
-    "updated_at": "2025-12-03T11:47:06Z",
-    "version": "0.7.8"
+    "updated_at": "2025-12-03T12:52:01Z",
+    "version": "0.7.9"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
