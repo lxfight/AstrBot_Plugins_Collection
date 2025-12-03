@@ -659,8 +659,8 @@
       "工具",
       "私聊"
     ],
-    "stars": 11,
-    "updated_at": "2025-12-01T13:23:42Z",
+    "stars": 12,
+    "updated_at": "2025-12-03T04:54:05Z",
     "version": "2.1.0"
   },
   "astrbot_plugin_llm_amnesia": {
@@ -1123,8 +1123,8 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 13,
-    "updated_at": "2025-12-01T13:52:09Z",
+    "stars": 14,
+    "updated_at": "2025-12-03T05:04:48Z",
     "version": "v1.1.2",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
@@ -4528,8 +4528,9 @@
     "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
     "tags": [],
     "stars": 3,
-    "updated_at": "2025-10-19T09:49:02Z",
-    "version": "v3.5"
+    "updated_at": "2025-12-03T05:20:39Z",
+    "version": "v3.6",
+    "logo": "https://raw.githubusercontent.com/Aurora-xk/astrbot_plugin_shitu/main/logo.png"
   },
   "astrbot_plugin_cheru": {
     "author": "irs",
@@ -6739,8 +6740,8 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 67,
-    "updated_at": "2025-12-02T22:30:57Z",
+    "stars": 68,
+    "updated_at": "2025-12-03T04:58:15Z",
     "version": "v3.2.2",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
