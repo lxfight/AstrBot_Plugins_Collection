@@ -235,8 +235,8 @@
       "修图"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 8,
-    "updated_at": "2025-12-01T15:54:35Z",
+    "stars": 9,
+    "updated_at": "2025-12-03T10:01:48Z",
     "version": "v1.6.1",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
@@ -318,8 +318,8 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "stars": 4,
-    "updated_at": "2025-12-03T09:16:56Z",
-    "version": "1.5.0",
+    "updated_at": "2025-12-03T09:33:53Z",
+    "version": "1.6.0",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_steamgame/master/logo.png"
   },
   "astrbot_plugin_gloryofkings": {
@@ -1915,7 +1915,7 @@
       "群文件"
     ],
     "stars": 0,
-    "updated_at": "2025-12-03T05:30:08Z",
+    "updated_at": "2025-12-03T10:06:31Z",
     "version": "v1.7",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
