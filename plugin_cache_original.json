@@ -1436,8 +1436,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_plugin_jimengapi",
     "tags": [],
     "stars": 4,
-    "updated_at": "2025-11-17T10:24:06Z",
-    "version": "v0.2.0"
+    "updated_at": "2025-12-03T06:50:56Z",
+    "version": "v0.3.0"
   },
   "astrbot_plugin_LLMPerception": {
     "desc": "增强 LLM 环境感知能力：时间、节假日、平台环境感知",
