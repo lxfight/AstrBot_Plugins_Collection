@@ -177,8 +177,8 @@
     ],
     "social_link": "",
     "stars": 4,
-    "updated_at": "2025-12-03T15:24:28Z",
-    "version": "3.2.3"
+    "updated_at": "2025-12-03T16:17:45Z",
+    "version": "3.2.4"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
@@ -236,8 +236,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 9,
-    "updated_at": "2025-12-03T10:01:48Z",
-    "version": "v1.6.1",
+    "updated_at": "2025-12-03T16:29:05Z",
+    "version": "v1.6.2",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -1537,8 +1537,8 @@
       "小六壬",
       "梅花易数"
     ],
-    "stars": 0,
-    "updated_at": "2025-10-25T11:00:39Z",
+    "stars": 1,
+    "updated_at": "2025-12-03T16:04:34Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_rvc_svc": {
@@ -3248,8 +3248,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 144,
-    "updated_at": "2025-12-03T04:34:53Z",
+    "stars": 145,
+    "updated_at": "2025-12-03T15:58:24Z",
     "version": "v2.1.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lmarena/main/logo.png"
   },
@@ -3335,8 +3335,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 33,
-    "updated_at": "2025-12-01T05:03:15Z",
-    "version": "0.4.5",
+    "updated_at": "2025-12-03T16:08:01Z",
+    "version": "0.5.0",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
