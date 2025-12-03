@@ -146,8 +146,8 @@
       "每日一词"
     ],
     "social_link": "https://github.com/itismygo",
-    "stars": 0,
-    "updated_at": "2025-12-02T15:25:04Z",
+    "stars": 1,
+    "updated_at": "2025-12-03T12:47:24Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_web_analyzer": {
@@ -730,8 +730,8 @@
     "repo": "https://github.com/Butterblock233/astrbot_plugin_decision",
     "social_link": "https://github.com/Butterblok233/",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-11-27T09:33:50Z",
+    "stars": 1,
+    "updated_at": "2025-12-03T12:40:59Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_newapi_checkin": {
@@ -1436,7 +1436,7 @@
     "repo": "https://github.com/xiaoxi68/astrbot_plugin_jimengapi",
     "tags": [],
     "stars": 4,
-    "updated_at": "2025-12-03T06:50:56Z",
+    "updated_at": "2025-12-03T12:26:19Z",
     "version": "v0.3.0"
   },
   "astrbot_plugin_LLMPerception": {
@@ -2509,8 +2509,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 18,
-    "updated_at": "2025-12-02T14:31:33Z",
-    "version": "0.7.6"
+    "updated_at": "2025-12-03T11:47:06Z",
+    "version": "0.7.8"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -3457,8 +3457,8 @@
       "运势"
     ],
     "stars": 10,
-    "updated_at": "2025-11-28T18:53:26Z",
-    "version": "v1.0.2"
+    "updated_at": "2025-12-03T11:52:12Z",
+    "version": "v1.0.3"
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
