@@ -1091,8 +1091,8 @@
       "图片处理"
     ],
     "stars": 2,
-    "updated_at": "2025-11-22T08:48:03Z",
-    "version": "v1.2.1"
+    "updated_at": "2025-12-04T11:13:57Z",
+    "version": "v1.2.2"
   },
   "astrbot_plugin_stockgame": {
     "display_name": "模拟炒股游戏",
@@ -1194,8 +1194,8 @@
       "排行榜",
       "发言统计"
     ],
-    "stars": 7,
-    "updated_at": "2025-11-30T16:06:57Z",
+    "stars": 8,
+    "updated_at": "2025-12-04T10:36:08Z",
     "version": "1.6.7",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
@@ -2501,8 +2501,8 @@
     "tags": [
       "galgame"
     ],
-    "stars": 4,
-    "updated_at": "2025-11-27T06:09:07Z",
+    "stars": 5,
+    "updated_at": "2025-12-04T10:50:31Z",
     "version": "v1.2"
   },
   "astrbot_plugins_steam_shop_price": {
@@ -3674,8 +3674,8 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 36,
-    "updated_at": "2025-12-02T12:28:27Z",
+    "stars": 37,
+    "updated_at": "2025-12-04T10:49:06Z",
     "version": "v2.2.7",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
