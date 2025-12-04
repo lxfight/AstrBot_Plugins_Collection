@@ -2851,8 +2851,8 @@
       "memory",
       "rag"
     ],
-    "stars": 43,
-    "updated_at": "2025-12-01T11:45:47Z",
+    "stars": 44,
+    "updated_at": "2025-12-04T04:33:15Z",
     "version": "1.7.2",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
@@ -7760,8 +7760,8 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 82,
-    "updated_at": "2025-11-28T14:20:35Z",
+    "stars": 83,
+    "updated_at": "2025-12-04T04:17:28Z",
     "version": "v2.1.7"
   },
   "astrbot_plugin_steamshot": {
