@@ -1737,8 +1737,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 9,
-    "updated_at": "2025-12-01T05:05:19Z",
-    "version": "v3.5.0",
+    "updated_at": "2025-12-04T07:12:31Z",
+    "version": "v3.6.0",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
@@ -5434,9 +5434,9 @@
       "RAG",
       "知识库"
     ],
-    "stars": 75,
-    "updated_at": "2025-12-01T14:36:11Z",
-    "version": "v0.5.9"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
@@ -5446,9 +5446,9 @@
       "监控",
       "服务器"
     ],
-    "stars": 5,
-    "updated_at": "2025-10-30T20:55:34Z",
-    "version": "0.1.0"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_mcmod_modsearch": {
     "author": "mmyddd",
@@ -5456,7 +5456,7 @@
     "repo": "https://github.com/mmyddd/astrbot_plugin_mcmod_modsearch",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-05-25T20:58:13Z",
+    "updated_at": "",
     "version": "1.0.0"
   },
   "astrbot_plugin_doro": {
@@ -5466,10 +5466,9 @@
     "tags": [
       "doro"
     ],
-    "stars": 4,
-    "updated_at": "2025-11-07T01:50:18Z",
-    "version": "0.0.6",
-    "logo": "https://raw.githubusercontent.com/2356820887/astrbot_plugin_doro/master/logo.png"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_LatexPlotter": {
     "author": "xunxi",
@@ -5479,8 +5478,8 @@
       "latex",
       "渲染"
     ],
-    "stars": 3,
-    "updated_at": "2025-11-25T15:16:32Z",
+    "stars": 0,
+    "updated_at": "",
     "version": "1.0.0"
   },
   "astrbot_plugin_qrcode": {
@@ -5491,8 +5490,8 @@
       "工具"
     ],
     "stars": 0,
-    "updated_at": "2025-05-17T16:23:08Z",
-    "version": "v1.1"
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_babirthday": {
     "author": "laopanmemz",
@@ -5503,9 +5502,9 @@
       "游戏"
     ],
     "social_link": "https://space.bilibili.com/447591776",
-    "stars": 2,
-    "updated_at": "2025-11-11T08:09:57Z",
-    "version": "v1.2.0"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_embedding_adapter": {
     "author": "AnYan",
@@ -5515,9 +5514,9 @@
       "embedding"
     ],
     "social_link": "https://github.com/TheAnyan",
-    "stars": 12,
-    "updated_at": "2025-11-30T12:21:59Z",
-    "version": "v1.1.0"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_stock": {
     "author": "anchor",
@@ -5526,9 +5525,9 @@
     "tags": [
       "股市"
     ],
-    "stars": 2,
-    "updated_at": "2025-10-06T05:13:42Z",
-    "version": "v1.2.2"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_kfc_thursday": {
     "author": "和泉智宏",
@@ -5537,9 +5536,9 @@
     "tags": [
       "疯狂星期四"
     ],
-    "stars": 2,
-    "updated_at": "2025-05-24T15:52:50Z",
-    "version": "v1.2"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_search_video": {
     "display_name": "搜索视频",
@@ -5548,10 +5547,9 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
     "social_link": "https://github.com/Zhalslar",
     "tags": [],
-    "stars": 35,
-    "updated_at": "2025-11-30T12:14:41Z",
-    "version": "v1.1.1",
-    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_zt": {
     "display_name": "简易状态",
@@ -5562,10 +5560,9 @@
       "状态"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 9,
-    "updated_at": "2025-11-27T16:34:05Z",
-    "version": "v1.0.2",
-    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_zt/main/logo.png"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_portrayal": {
     "display_name": "人物画像",
@@ -5577,10 +5574,21 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 42,
-    "updated_at": "2025-12-02T01:33:59Z",
-    "version": "v1.0.5",
-    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
+  },
+  "astrbot_plugin_Kanalyse": {
+    "author": "End_Tower",
+    "desc": "[仅 QQ]基于大语言模型的群聊分析插件，提供聊天记录总结和实时分析功能，并将生成的内容转化为一张图片，以AI绝对客观的视角来调停冲突 本意为让AI当判官直接评判对错，后来发现AI无法成为一个裁判判断是非，但AI能以他绝对的客观性，强行把大家拉回观众席上，客观的看待一个事件。部署一个月内累计处理：重大社会热点争议 10+ 次（订婚强奸案被判3年等、胖猫事件重提等）,日常群组冲突 30+ 次,90% 争议在AI介入后停止升级",
+    "repo": "https://github.com/endtower/astrbot_plugin_Kanalyse",
+    "tags": [
+      "教育",
+      "调停"
+    ],
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_prefix_filter": {
     "author": "padoru233",
@@ -5593,9 +5601,9 @@
       "前缀"
     ],
     "social_link": "https://github.com/padoru233",
-    "stars": 2,
-    "updated_at": "2025-06-11T07:13:45Z",
-    "version": "v0.1.0"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_cyber_archaeology": {
     "author": "AnYan",
@@ -5607,9 +5615,9 @@
       "搜索"
     ],
     "social_link": "https://github.com/TheAnyan",
-    "stars": 4,
-    "updated_at": "2025-05-23T08:04:50Z",
-    "version": "v4.0.1"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_QQgal": {
     "author": "和泉智宏",
@@ -5618,9 +5626,9 @@
     "tags": [
       "Galgame"
     ],
-    "stars": 3,
-    "updated_at": "2025-09-04T03:24:15Z",
-    "version": "v1.3"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_llm_poke": {
     "author": "和泉智宏",
@@ -5629,18 +5637,18 @@
     "tags": [
       "戳"
     ],
-    "stars": 3,
-    "updated_at": "2025-09-10T08:07:21Z",
-    "version": "v1.3"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_sql_history": {
     "author": "LW",
     "desc": "MySQL存储聊天记录",
     "repo": "https://github.com/LWWD/astrbot_plugin_sql_history",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-08-01T13:02:12Z",
-    "version": "v1.0"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_error_notice": {
     "author": "DragonEmpery",
