@@ -361,8 +361,8 @@
       "VIP自动化"
     ],
     "social_link": "https://github.com/magisk317",
-    "stars": 1,
-    "updated_at": "2025-11-27T12:10:33Z",
+    "stars": 2,
+    "updated_at": "2025-12-04T01:06:27Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_nyscheduler": {
@@ -427,8 +427,8 @@
       "Chat"
     ],
     "social_link": "https://space.bilibili.com/702922307",
-    "stars": 3,
-    "updated_at": "2025-11-24T04:25:38Z",
+    "stars": 4,
+    "updated_at": "2025-12-04T01:10:23Z",
     "version": "1.0.9"
   },
   "astrbot_plugin_pig": {
@@ -494,8 +494,8 @@
     "author": "cube-lover",
     "repo": "https://github.com/cube-lover/doubao",
     "tags": [],
-    "stars": 8,
-    "updated_at": "2025-12-01T16:15:22Z",
+    "stars": 9,
+    "updated_at": "2025-12-04T01:18:56Z",
     "version": "v2.1"
   },
   "astrbot_plugin_daliy_news": {
@@ -6039,8 +6039,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 107,
-    "updated_at": "2025-12-02T08:29:06Z",
+    "stars": 108,
+    "updated_at": "2025-12-04T01:03:03Z",
     "version": "v2.0.6",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
@@ -7302,8 +7302,8 @@
       "撤回",
       "禁言"
     ],
-    "stars": 2,
-    "updated_at": "2025-11-20T10:39:22Z",
+    "stars": 3,
+    "updated_at": "2025-12-04T00:57:38Z",
     "version": "v0.1.7"
   },
   "astrbot_plugin_custom_menu": {
@@ -8305,8 +8305,8 @@
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_anti_porn",
     "tags": [],
-    "stars": 6,
-    "updated_at": "2025-06-09T02:15:56Z",
+    "stars": 7,
+    "updated_at": "2025-12-04T00:57:06Z",
     "version": "v1.0.5"
   },
   "FateTrial_zhipu_video": {
