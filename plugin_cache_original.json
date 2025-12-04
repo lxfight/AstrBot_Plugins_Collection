@@ -2454,8 +2454,8 @@
     "author": "ctrlkk",
     "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
     "tags": [],
-    "stars": 7,
-    "updated_at": "2025-11-25T09:33:03Z",
+    "stars": 8,
+    "updated_at": "2025-12-04T16:59:38Z",
     "version": "v1.3"
   },
   "astrbot_plugin_festival_greeter": {
@@ -2906,8 +2906,8 @@
       "memory",
       "rag"
     ],
-    "stars": 44,
-    "updated_at": "2025-12-04T04:33:15Z",
+    "stars": 43,
+    "updated_at": "2025-12-04T16:48:53Z",
     "version": "1.7.2",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
