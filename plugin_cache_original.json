@@ -1123,8 +1123,8 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 14,
-    "updated_at": "2025-12-03T05:04:48Z",
+    "stars": 15,
+    "updated_at": "2025-12-04T02:22:35Z",
     "version": "v1.1.2",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
@@ -1661,8 +1661,8 @@
       "sora"
     ],
     "stars": 27,
-    "updated_at": "2025-12-02T10:01:06Z",
-    "version": "v1.3.0"
+    "updated_at": "2025-12-04T03:05:47Z",
+    "version": "v1.3.1"
   },
   "astrbot_gengtu": {
     "desc": "梗图抽象猜词插件，获取图片题目并校验答案。",
@@ -2373,8 +2373,8 @@
       "备货"
     ],
     "stars": 2,
-    "updated_at": "2025-11-20T02:33:32Z",
-    "version": "v0.4.8"
+    "updated_at": "2025-12-04T01:58:56Z",
+    "version": "v0.4.9"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -3408,8 +3408,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 49,
-    "updated_at": "2025-11-28T00:21:51Z",
+    "stars": 50,
+    "updated_at": "2025-12-04T02:22:23Z",
     "version": "1.6.1"
   },
   "astrbot_plugin_baiduocr": {
@@ -6409,8 +6409,8 @@
     "social_link": "https://github.com/ttq7/meanig",
     "desc": "大锅里炖（小游戏等等超 25 个功能！）",
     "tags": [],
-    "stars": 9,
-    "updated_at": "2025-09-22T07:39:54Z",
+    "stars": 10,
+    "updated_at": "2025-12-04T02:55:38Z",
     "version": "v2.0.1"
   },
   "astrbot_plugin_openweaponscase": {
@@ -6747,7 +6747,7 @@
       "QQ群管"
     ],
     "stars": 69,
-    "updated_at": "2025-12-03T09:27:36Z",
+    "updated_at": "2025-12-04T02:54:57Z",
     "version": "v3.2.2",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
@@ -7510,8 +7510,8 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 60,
-    "updated_at": "2025-12-01T08:21:10Z",
+    "stars": 61,
+    "updated_at": "2025-12-04T03:15:21Z",
     "version": "v0.2.14"
   },
   "astrbot_plugin_sjzb": {
