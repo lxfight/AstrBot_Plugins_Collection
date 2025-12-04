@@ -1921,8 +1921,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_quotes_plugin",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-12-04T12:21:54Z",
-    "version": "v1.2.0"
+    "updated_at": "2025-12-04T13:39:20Z",
+    "version": "v1.3.0"
   },
   "astrbot-plugin-tmp-bot": {
     "desc": "欧洲卡车模拟2 TMP查询机器人 - 支持玩家信息查询、位置查询、服务器状态查询、里程排行榜等功能",
@@ -6197,8 +6197,8 @@
       "osu!track"
     ],
     "social_link": "https://github.com/gameswu",
-    "stars": 10,
-    "updated_at": "2025-11-22T11:29:09Z",
+    "stars": 11,
+    "updated_at": "2025-12-04T13:05:40Z",
     "version": "v0.2.2",
     "logo": "https://raw.githubusercontent.com/gameswu/astrbot_plugin_osutrack/master/logo.png"
   },
