@@ -1,4 +1,44 @@
 {
+  "astrbot_plugin_AIpaper": {
+    "name": "",
+    "display_name": "AI 论文推送",
+    "desc": "每日定时向指定群聊推送最新随机 AI 领域论文图片与讲解",
+    "author": "落叶凌小秋",
+    "repo": "https://github.com/MaybePass/astrbot_plugin_AIpaper",
+    "tags": [
+      "AI",
+      "论文",
+      "推送"
+    ],
+    "stars": 0,
+    "updated_at": "2025-12-03T12:14:12Z",
+    "version": "v1.3.0"
+  },
+  "astrbot_plugin_comfyui_pro": {
+    "display_name": "高级 ComfyUI 绘图插件",
+    "desc": "AstrBot 的高级 ComfyUI 连接插件，支持多工作流热切换、LLM 智能绘图、自定义系统提示词及敏感词过滤。",
+    "author": "lumingya",
+    "repo": "https://github.com/lumingya/astrbot_plugin_comfyui_pro",
+    "tags": [
+      "画图",
+      "comfyui"
+    ],
+    "stars": 1,
+    "updated_at": "2025-12-03T12:53:06Z",
+    "version": "1.2.0"
+  },
+  "astrbot_plugin_customized_active_reply_prompt": {
+    "display_name": "自定义主动回复提示词",
+    "desc": "AstrBot 框架群聊上下文感知中，主动回复提示词默认不可修改且为英文。本插件可由用户自定义群聊主动回复提示词。",
+    "author": "zz6zz666",
+    "repo": "https://github.com/zz6zz666/astrbot_plugin_customized_active_reply_prompt",
+    "tags": [
+      "1.0.0"
+    ],
+    "stars": 0,
+    "updated_at": "2025-12-02T06:34:39Z",
+    "version": "v1.0.0"
+  },
   "astrbot_plugin_markdown_killer": {
     "name": "",
     "display_name": "Markdown 杀手",
@@ -64,6 +104,20 @@
     "updated_at": "2025-12-03T19:04:02Z",
     "version": "v2.0",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
+  },
+  "astrbot_plugin_CloudImg": {
+    "name": "",
+    "display_name": "Cloud Image",
+    "desc": "从图床获取随机图片。使用 /img 获取一张随机图片。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_CloudImg",
+    "tags": [
+      "图床"
+    ],
+    "stars": 0,
+    "updated_at": "2025-11-23T19:21:37Z",
+    "version": "v1.0",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_CloudImg/master/logo.png"
   },
   "astrbot_plugin_aicu_analysis": {
     "display_name": "aicu-b站评论查询",
@@ -4597,8 +4651,8 @@
     "tags": [
       "随机人格"
     ],
-    "stars": 2,
-    "updated_at": "2025-12-03T16:43:21Z",
+    "stars": 3,
+    "updated_at": "2025-12-04T04:45:32Z",
     "version": "1.0.0",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_dynamic_persona/master/logo.png"
   },
