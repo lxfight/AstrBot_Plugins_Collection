@@ -2755,7 +2755,7 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 29,
-    "updated_at": "2025-12-02T12:44:48Z",
+    "updated_at": "2025-12-05T10:36:11Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_group_chat": {
@@ -4363,7 +4363,7 @@
     ],
     "author": null,
     "stars": 16,
-    "updated_at": "2025-12-02T14:15:52Z",
+    "updated_at": "2025-12-05T11:08:43Z",
     "version": "2.3.0"
   },
   "astrbot_plugin_group_sign": {
