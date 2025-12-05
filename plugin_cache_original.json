@@ -1454,8 +1454,8 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 44,
-    "updated_at": "2025-12-04T09:47:07Z",
-    "version": "v1.0.0-beta.6",
+    "updated_at": "2025-12-05T16:05:39Z",
+    "version": "v1.0.0-beta.7",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -7731,8 +7731,8 @@
     "author": "NEST",
     "repo": "https://github.com/4Nest/astrbot_plugin_mp_sub",
     "tags": [],
-    "stars": 16,
-    "updated_at": "2025-05-27T17:55:58Z",
+    "stars": 17,
+    "updated_at": "2025-12-05T16:41:49Z",
     "version": "v1.1.1"
   },
   "astrbot_plugin_nofap": {
@@ -8043,8 +8043,8 @@
     "author": "MC云-小馒头",
     "repo": "https://github.com/MCYUNIDC/mccloud_deepseek",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-05-02T07:48:44Z",
+    "stars": 2,
+    "updated_at": "2025-12-05T15:49:56Z",
     "version": "v1.0"
   },
   "mccloud_site": {
