@@ -932,8 +932,8 @@
     "tags": [
       "指令"
     ],
-    "stars": 3,
-    "updated_at": "2025-11-26T15:17:50Z",
+    "stars": 4,
+    "updated_at": "2025-12-05T14:20:10Z",
     "version": "1.1.3",
     "logo": "https://raw.githubusercontent.com/TenmaGabriel0721/astrbot_plugin_permission-manager/main/logo.png"
   },
@@ -2552,8 +2552,8 @@
       "TTS"
     ],
     "stars": 5,
-    "updated_at": "2025-10-23T13:12:07Z",
-    "version": "1.2.0"
+    "updated_at": "2025-12-05T14:01:39Z",
+    "version": "1.2.1"
   },
   "astrbot_plugin_angel_heart": {
     "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让 AI 成为懂分寸、有眼色的聊天伙伴。",
