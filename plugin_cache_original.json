@@ -101,7 +101,7 @@
     ],
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
     "stars": 3,
-    "updated_at": "2025-12-03T19:04:02Z",
+    "updated_at": "2025-12-05T01:27:56Z",
     "version": "v2.0",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
@@ -431,8 +431,8 @@
       "AI"
     ],
     "stars": 0,
-    "updated_at": "2025-12-02T02:49:21Z",
-    "version": "v1.0.1",
+    "updated_at": "2025-12-05T00:37:49Z",
+    "version": "v1.0.2",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_nyscheduler/main/logo.png"
   },
   "astrbot_plugin_api_fetcher": {
@@ -6802,7 +6802,7 @@
       "QQ群管"
     ],
     "stars": 69,
-    "updated_at": "2025-12-04T14:33:32Z",
+    "updated_at": "2025-12-05T01:56:40Z",
     "version": "v3.2.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
@@ -8521,8 +8521,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 146,
-    "updated_at": "2025-12-01T11:47:24Z",
+    "stars": 147,
+    "updated_at": "2025-12-05T01:02:46Z",
     "version": "v2.0.11"
   },
   "FateTrial_img_identify": {
