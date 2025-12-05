@@ -11,8 +11,8 @@
       "推送"
     ],
     "stars": 0,
-    "updated_at": "2025-12-04T22:19:47Z",
-    "version": "v1.4.0"
+    "updated_at": "2025-12-05T23:18:04Z",
+    "version": "v1.4.1"
   },
   "astrbot_plugin_comfyui_pro": {
     "display_name": "高级 ComfyUI 绘图插件",
@@ -290,8 +290,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 11,
-    "updated_at": "2025-12-05T17:43:25Z",
-    "version": "v1.6.4",
+    "updated_at": "2025-12-05T22:34:55Z",
+    "version": "v1.6.5",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
