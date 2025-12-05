@@ -953,10 +953,10 @@
     "desc": "接入硅基流动画图，图片编辑，可自定义预设",
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_siliconflow-shouban",
-    "version": "v1.0.0",
+    "version": "v1.3.5",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-11-16T02:13:39Z"
+    "updated_at": "2025-12-05T12:41:01Z"
   },
   "astrbot_plugin_eatdrink": {
     "display_name": "吃喝什么呢？",
@@ -2755,8 +2755,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 29,
-    "updated_at": "2025-12-05T10:36:11Z",
-    "version": "v1.6.3"
+    "updated_at": "2025-12-05T11:58:42Z",
+    "version": "v1.6.8"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -3034,8 +3034,8 @@
     "author": "furryhm",
     "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_dsgg",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-08-25T11:19:53Z",
+    "stars": 1,
+    "updated_at": "2025-12-05T12:50:18Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_mememaker_api": {
