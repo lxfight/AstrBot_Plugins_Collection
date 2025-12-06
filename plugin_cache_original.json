@@ -12,8 +12,9 @@
     ],
     "social_link": "https://github.com/sl251",
     "stars": 0,
-    "updated_at": "2025-12-06T12:33:28Z",
-    "version": "1.0.0"
+    "updated_at": "2025-12-06T13:12:13Z",
+    "version": "1.0.1",
+    "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
     "display_name": "灾害预警",
@@ -66,7 +67,7 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 7,
-    "updated_at": "2025-12-06T07:08:43Z",
+    "updated_at": "2025-12-06T13:07:51Z",
     "version": "v1.1"
   },
   "astrbot_plugin_bananic_ninjutsu": {
@@ -113,7 +114,7 @@
     ],
     "social_link": "https://qm.qq.com/q/d4lwUp9ap4",
     "stars": 0,
-    "updated_at": "2025-12-03T00:55:10Z",
+    "updated_at": "2025-12-06T12:50:09Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_AIpaper": {
@@ -2888,7 +2889,7 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 30,
-    "updated_at": "2025-12-06T05:27:40Z",
+    "updated_at": "2025-12-06T13:16:55Z",
     "version": "v1.6.8"
   },
   "astrbot_plugin_group_chat": {
@@ -6935,7 +6936,7 @@
       "QQ群管"
     ],
     "stars": 70,
-    "updated_at": "2025-12-06T12:10:40Z",
+    "updated_at": "2025-12-06T13:03:44Z",
     "version": "v3.2.5",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
