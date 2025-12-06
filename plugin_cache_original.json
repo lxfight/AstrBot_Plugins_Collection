@@ -1,4 +1,121 @@
 {
+  "astrbot_plugin_e2b_sandbox": {
+    "display_name": "AstrBot E2B 云沙箱插件",
+    "desc": "使用 E2B 云沙箱安全执行 Python 代码，支持通过 LLM 自然语言调用",
+    "author": "sl251",
+    "repo": "https://github.com/sl251/astrbot_plugin_e2b_sandbox",
+    "tags": [
+      "e2b",
+      "Python 执行器",
+      "沙箱",
+      "LLM 工具"
+    ],
+    "social_link": "https://github.com/sl251",
+    "stars": 0,
+    "updated_at": "2025-12-06T08:08:24Z",
+    "version": "1.0.0"
+  },
+  "astrbot_plugin_disaster_warning": {
+    "display_name": "灾害预警",
+    "desc": "多数据源灾害预警插件，支持地震、海啸、气象预警实时推送。集成中国地震台网、中国气象局气象预警、台湾中央气象署、日本气象厅、USGS、Global Quake 等多个数据源。",
+    "author": "DBJD-CR",
+    "repo": "https://github.com/DBJD-CR/astrbot_plugin_disaster_warning",
+    "tags": [
+      "灾害预警",
+      "EEW",
+      "防灾减灾",
+      "气象预警",
+      "海啸预警"
+    ],
+    "social_link": "https://github.com/DBJD-CR",
+    "stars": 1,
+    "updated_at": "2025-12-06T06:42:38Z",
+    "version": "v1.0.0",
+    "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
+  },
+  "astrbot_plugin_1panel": {
+    "name": "",
+    "display_name": "1Panel 服务器管理",
+    "desc": "通过聊天管理 1Panel 面板，支持查看系统状态、容器管理、定时任务等",
+    "author": "Haitun",
+    "repo": "https://github.com/onniemi/astrbot_plugin_1panel",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-12-05T16:28:29Z",
+    "version": "v1.0.1"
+  },
+  "astrbot_plugin_gif_vision_helper": {
+    "display_name": "GIF Vision Helper",
+    "desc": "将QQ GIF动图拆成多帧静态图，让多模态模型真正看懂动图",
+    "author": "YanL",
+    "repo": "https://github.com/Yanlyn/astrbot_plugin_gif_vision_helper",
+    "tags": [
+      "优化"
+    ],
+    "stars": 0,
+    "updated_at": "2025-12-03T06:11:56Z",
+    "version": "0.6.1"
+  },
+  "astrbot_plugin_gitee_aiimg": {
+    "display_name": "GiteeAI 图像生成插件",
+    "desc": "可以使用 aiimg 生成图片或通过自然语言让 LLM 生成，让 bot 自拍给你看。",
+    "author": "木有知",
+    "repo": "https://github.com/muyouzhi6/astrbot_plugin_gitee_aiimg",
+    "tags": [
+      "画图"
+    ],
+    "social_link": "https://github.com/muyouzhi6",
+    "stars": 7,
+    "updated_at": "2025-12-06T07:08:43Z",
+    "version": "v1.1"
+  },
+  "astrbot_plugin_bananic_ninjutsu": {
+    "display_name": "香蕉忍法帖",
+    "desc": "适配 Napcat 的 AstrBot 插件，用于 🍌（nano banana），先进的变量 & 参数系统",
+    "author": "bylkuse",
+    "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-12-06T01:06:56Z",
+    "version": "v0.0.9",
+    "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
+  },
+  "astrbot_plugin_ASCII": {
+    "display_name": "图片转 ASCII",
+    "desc": "引用图片，插件将使用设定的字符内容绘制图片",
+    "author": "Mlies-mik",
+    "repo": "https://github.com/Mlies-mik/astrbot_ASCII_se",
+    "tags": [
+      "图片转换"
+    ],
+    "stars": 0,
+    "updated_at": "2025-12-05T14:53:47Z",
+    "version": "1.2.0"
+  },
+  "astrbot_plugin_smart_translator": {
+    "display_name": "Smart Translator",
+    "desc": "基于 LLM 的自然语言翻译插件，支持 50+ 语言、二次翻译和多种输出格式",
+    "author": "YanL",
+    "repo": "https://github.com/Yanlyn/astrbot_plugin_smart_translator",
+    "tags": [
+      "翻译"
+    ],
+    "stars": 0,
+    "updated_at": "2025-12-04T12:34:24Z",
+    "version": "0.1.0"
+  },
+  "undercover": {
+    "desc": "一个谁是卧底游戏插件，支持多人在线游戏。",
+    "author": "BB0813",
+    "repo": "https://github.com/BB0813/astrbot_plugin_undercover",
+    "tags": [
+      "Game"
+    ],
+    "social_link": "https://qm.qq.com/q/d4lwUp9ap4",
+    "stars": 0,
+    "updated_at": "2025-12-03T00:55:10Z",
+    "version": "v1.0.0"
+  },
   "astrbot_plugin_AIpaper": {
     "name": "",
     "display_name": "AI 论文推送",
@@ -172,6 +289,22 @@
     "stars": 0,
     "updated_at": "2025-11-27T14:46:00Z",
     "version": "v2.0.0"
+  },
+  "astrbot_plugin_image_editor": {
+    "display_name": "图片编辑",
+    "desc": "使用第三方 API，实现图片编辑功能",
+    "author": "jengaklll-a11y",
+    "repo": "https://github.com/jengaklll-a11y/astrbot_plugin_image_editor",
+    "tags": [
+      "模型",
+      "文生图",
+      "图生图",
+      "图片编辑"
+    ],
+    "social_link": "https://github.com/jengaklll-a11y",
+    "stars": 0,
+    "updated_at": "2025-11-23T02:12:04Z",
+    "version": "v1.2.0"
   },
   "astrbot_plugin_echoscore": {
     "display_name": "鸣潮声骸评分插件",
@@ -3015,8 +3148,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 80,
-    "updated_at": "2025-12-05T18:03:03Z",
+    "stars": 82,
+    "updated_at": "2025-12-06T11:04:02Z",
     "version": "v4.3.0",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
