@@ -85,8 +85,8 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian",
     "tags": [],
-    "stars": 4,
-    "updated_at": "2025-12-04T11:51:22Z",
+    "stars": 5,
+    "updated_at": "2025-12-06T05:28:02Z",
     "version": "v1.3.5"
   },
   "astrbot_plugin_AtTool": {
@@ -200,8 +200,8 @@
       "每日一词"
     ],
     "social_link": "https://github.com/itismygo",
-    "stars": 2,
-    "updated_at": "2025-12-05T21:21:33Z",
+    "stars": 3,
+    "updated_at": "2025-12-06T06:05:41Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_web_analyzer": {
@@ -230,8 +230,8 @@
       "comfyui"
     ],
     "social_link": "",
-    "stars": 4,
-    "updated_at": "2025-12-04T15:56:17Z",
+    "stars": 5,
+    "updated_at": "2025-12-06T05:29:12Z",
     "version": "3.2.5"
   },
   "astrbot_plugin_timeprogress": {
@@ -955,8 +955,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_siliconflow-shouban",
     "version": "v1.3.5",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-12-05T12:41:01Z"
+    "stars": 2,
+    "updated_at": "2025-12-06T05:27:28Z"
   },
   "astrbot_plugin_eatdrink": {
     "display_name": "吃喝什么呢？",
@@ -994,8 +994,8 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_vangonography",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-11-09T09:45:48Z",
+    "stars": 1,
+    "updated_at": "2025-12-06T05:31:19Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_bolatuship": {
@@ -2047,8 +2047,8 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_guijishiping",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-10-09T06:22:45Z",
+    "stars": 2,
+    "updated_at": "2025-12-06T05:32:01Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_user_inject": {
@@ -2754,8 +2754,8 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 29,
-    "updated_at": "2025-12-05T11:58:42Z",
+    "stars": 30,
+    "updated_at": "2025-12-06T05:27:40Z",
     "version": "v1.6.8"
   },
   "astrbot_plugin_group_chat": {
@@ -3047,8 +3047,8 @@
       "api",
       "表情包"
     ],
-    "stars": 11,
-    "updated_at": "2025-11-04T13:15:48Z",
+    "stars": 12,
+    "updated_at": "2025-12-06T05:49:36Z",
     "version": "v1.0.1"
   },
   "wxauto_repost": {
