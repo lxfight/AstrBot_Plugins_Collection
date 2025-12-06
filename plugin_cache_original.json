@@ -219,8 +219,8 @@
     ],
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
     "stars": 4,
-    "updated_at": "2025-12-06T16:22:55Z",
-    "version": "v2.1",
+    "updated_at": "2025-12-06T16:33:02Z",
+    "version": "v2.2",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
   "astrbot_plugin_CloudImg": {
@@ -365,7 +365,7 @@
     ],
     "social_link": "",
     "stars": 6,
-    "updated_at": "2025-12-06T16:16:36Z",
+    "updated_at": "2025-12-06T16:52:28Z",
     "version": "3.2.6"
   },
   "astrbot_plugin_timeprogress": {
@@ -423,8 +423,8 @@
       "修图"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 11,
-    "updated_at": "2025-12-06T08:23:37Z",
+    "stars": 12,
+    "updated_at": "2025-12-06T16:56:22Z",
     "version": "v1.6.8",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
@@ -1503,7 +1503,7 @@
       "修仙"
     ],
     "stars": 2,
-    "updated_at": "2025-12-06T16:20:39Z",
+    "updated_at": "2025-12-06T16:39:22Z",
     "version": "v1.0.0dev"
   },
   "astrbot_plugin_invitecount": {
@@ -1587,8 +1587,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 44,
-    "updated_at": "2025-12-05T16:05:39Z",
+    "stars": 45,
+    "updated_at": "2025-12-06T17:07:28Z",
     "version": "v1.0.0-beta.7",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
@@ -2888,8 +2888,8 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 30,
-    "updated_at": "2025-12-06T13:48:41Z",
+    "stars": 31,
+    "updated_at": "2025-12-06T16:53:18Z",
     "version": "v1.6.9"
   },
   "astrbot_plugin_group_chat": {
@@ -3149,8 +3149,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 83,
-    "updated_at": "2025-12-06T14:50:40Z",
+    "stars": 84,
+    "updated_at": "2025-12-06T16:41:32Z",
     "version": "v4.3.0",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
@@ -6624,8 +6624,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
     "stars": 22,
-    "updated_at": "2025-12-02T07:04:54Z",
-    "version": "v2.0.3",
+    "updated_at": "2025-12-06T16:56:25Z",
+    "version": "v2.1.0",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_gallery/main/logo.png"
   },
   "astrbot_plugin_sensoji_pro": {
@@ -7939,8 +7939,8 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 84,
-    "updated_at": "2025-12-05T05:31:45Z",
+    "stars": 85,
+    "updated_at": "2025-12-06T16:55:23Z",
     "version": "v2.1.7"
   },
   "astrbot_plugin_steamshot": {
