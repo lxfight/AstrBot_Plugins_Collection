@@ -29,8 +29,8 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 1,
-    "updated_at": "2025-12-06T06:42:38Z",
+    "stars": 2,
+    "updated_at": "2025-12-06T13:34:18Z",
     "version": "v1.0.0",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
@@ -113,8 +113,8 @@
       "Game"
     ],
     "social_link": "https://qm.qq.com/q/d4lwUp9ap4",
-    "stars": 0,
-    "updated_at": "2025-12-06T12:50:09Z",
+    "stars": 1,
+    "updated_at": "2025-12-06T13:39:43Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_AIpaper": {
@@ -408,8 +408,8 @@
       "nano banana"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 3,
-    "updated_at": "2025-11-30T16:57:27Z",
+    "stars": 4,
+    "updated_at": "2025-12-06T13:42:06Z",
     "version": "v1.2",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_gemini_image/master/logo.png"
   },
@@ -520,8 +520,8 @@
       "王者"
     ],
     "social_link": "https://github.com/sangjie-stack",
-    "stars": 0,
-    "updated_at": "2025-11-20T12:41:11Z",
+    "stars": 1,
+    "updated_at": "2025-12-06T13:39:10Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_canvas_steve": {
@@ -2889,8 +2889,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 30,
-    "updated_at": "2025-12-06T13:16:55Z",
-    "version": "v1.6.8"
+    "updated_at": "2025-12-06T13:48:41Z",
+    "version": "v1.6.9"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -8062,25 +8062,25 @@
     "tags": [],
     "stars": 12,
     "updated_at": "2025-10-05T14:51:46Z",
-    "version": "v1.0.2"
+    "version": "1.0.0"
   },
   "astrbot_plugin_wake_enhance": {
     "desc": "【唤醒增强】让 AstrBot 支持通过正则匹配唤醒机器人、唤醒后持续与机器人对话交互。",
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_wake_enhance",
     "tags": [],
-    "stars": 7,
-    "updated_at": "2025-08-24T16:24:17Z",
-    "version": "v1.0.2"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_safebooru": {
     "desc": "/safebooru + tag = 好看的图，",
     "author": "w33d",
     "repo": "https://github.com/Last-emo-boy/astrbot_plugin_safebooru",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-02-23T12:46:04Z",
-    "version": "v1.1.3"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_uptime": {
     "desc": "Uptime bot. 监测所订阅的站点是否可正常访问，异常时发出警报。",
@@ -8088,44 +8088,44 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_uptime",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-02-23T12:56:12Z",
-    "version": "v1.0.2"
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_flux": {
     "desc": "硅基流动文生图-支持OpenAI标准的格式接入，支持Flux.1-dev模型",
     "author": "七七七七",
     "repo": "https://github.com/18005575/astrbot_plugin_flux",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-08-01T21:01:40Z",
-    "version": "v1.5"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "mccloud_meme_sender": {
     "desc": "这是一个表情包发送插件，可以识别AI回复中的表情符号并发送对应的表情包。记得看帮助需要配置人格 地址：https://github.com/MCYUNIDC/mccloud_meme_sender",
     "author": "MC云-小馒头",
     "repo": "https://github.com/MCYUNIDC/mccloud_meme_sender",
     "tags": [],
-    "stars": 5,
-    "updated_at": "2025-05-20T08:10:01Z",
-    "version": "v2.0"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "sauceno_search": {
     "desc": "Sauceno搜图插件，使用/搜图 指令搜图",
     "author": "榛子小猹猹",
     "repo": "https://github.com/Hazellol/astrbot_plugin_sauceno",
     "tags": [],
-    "stars": 16,
-    "updated_at": "2025-09-16T10:52:25Z",
-    "version": "v1.0.0"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "lottery": {
     "desc": "抓阄插件，使用/抓阄 指令抓阄，教程https://github.com/MashiroSaber03/lottery",
     "author": "ましろSaber",
     "repo": "https://github.com/MashiroSaber03/lottery",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-02-08T05:26:10Z",
-    "version": "v1.3"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "genshinimpact": {
     "desc": "原神关键词检测插件，检测到`原神`关键词自动发送一条圣经",
@@ -8133,35 +8133,35 @@
     "repo": "https://github.com/MashiroSaber03/genshinimpact",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-02-08T07:09:40Z",
-    "version": "v1.3"
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_blacklist": {
     "desc": "黑名单插件，禁止用户和 AstrBot 交互，适用于 aiocqhttp, gewechat",
     "author": "水蜜桃",
     "repo": "https://github.com/dahetaoa/AstrBot-ban-Plugins",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-05-25T06:18:42Z",
-    "version": "1.2.0"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "mccloud_zhipu_img": {
     "desc": "使用智谱AI生成图片。使用 /aimg <提示词> [大小] 生成图片。需要配置哦！",
     "author": "MC云-小馒头",
     "repo": "https://github.com/MCYUNIDC/mccloud_zhipu_img",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-08-11T14:40:11Z",
-    "version": "v2.0"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "mccloud_img": {
     "desc": "一个从API获取图片的插件，支持自定义API地址。使用 /img 获取图片。配置可填https://api.lolicon.app/setu/v2 *图二次元的获取。 ",
     "author": "MC云-小馒头",
     "repo": "https://github.com/MCYUNIDC/mccloud_img",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-05-02T07:48:44Z",
-    "version": "v1.0"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "r1-filter": {
     "desc": "过滤 DeepSeek R1 推理模型的思维链内容 [版本要求 >= v3.4.17]",
