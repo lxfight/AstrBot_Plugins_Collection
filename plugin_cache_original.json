@@ -100,9 +100,9 @@
       "@"
     ],
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
-    "stars": 3,
-    "updated_at": "2025-12-06T07:27:52Z",
-    "version": "v2.0",
+    "stars": 4,
+    "updated_at": "2025-12-06T09:10:16Z",
+    "version": "v2.1",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
   "astrbot_plugin_CloudImg": {
@@ -200,8 +200,8 @@
       "每日一词"
     ],
     "social_link": "https://github.com/itismygo",
-    "stars": 3,
-    "updated_at": "2025-12-06T06:05:41Z",
+    "stars": 4,
+    "updated_at": "2025-12-06T09:10:26Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_web_analyzer": {
@@ -215,8 +215,8 @@
       "工具"
     ],
     "social_link": "https://box.firefly520.top/",
-    "stars": 8,
-    "updated_at": "2025-12-05T06:01:43Z",
+    "stars": 9,
+    "updated_at": "2025-12-06T09:06:52Z",
     "version": "1.2.3",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
@@ -1875,8 +1875,8 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "stars": 10,
-    "updated_at": "2025-12-05T10:18:39Z",
-    "version": "v2.7",
+    "updated_at": "2025-12-06T09:02:29Z",
+    "version": "v3.0.0",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -5833,7 +5833,7 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot",
     "stars": 7,
-    "updated_at": "2025-11-24T04:29:06Z",
+    "updated_at": "2025-12-06T09:08:31Z",
     "version": "v1.0.4",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_nobot/main/logo.png"
   },
