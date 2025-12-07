@@ -11,8 +11,8 @@
       "LLM 工具"
     ],
     "social_link": "https://github.com/sl251",
-    "stars": 0,
-    "updated_at": "2025-12-06T13:12:13Z",
+    "stars": 1,
+    "updated_at": "2025-12-07T04:38:34Z",
     "version": "1.0.1",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
@@ -67,8 +67,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 8,
-    "updated_at": "2025-12-07T04:21:06Z",
-    "version": "v1.1",
+    "updated_at": "2025-12-07T04:58:06Z",
+    "version": "v1.1.1",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_bananic_ninjutsu": {
@@ -967,8 +967,8 @@
       "好感度",
       "情感"
     ],
-    "stars": 8,
-    "updated_at": "2025-11-30T15:43:38Z",
+    "stars": 7,
+    "updated_at": "2025-12-07T05:04:40Z",
     "version": "v3.4",
     "logo": "https://raw.githubusercontent.com/tengtian3/astrbot-plugin-emotionai/main/logo.png"
   },
@@ -2065,7 +2065,7 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 3,
-    "updated_at": "2025-12-05T14:37:07Z",
+    "updated_at": "2025-12-07T04:40:43Z",
     "version": "1.6.1"
   },
   "astrbot_plugin_33recognition": {
