@@ -11,8 +11,8 @@
       "LLM 工具"
     ],
     "social_link": "https://github.com/sl251",
-    "stars": 1,
-    "updated_at": "2025-12-07T13:00:45Z",
+    "stars": 3,
+    "updated_at": "2025-12-07T13:31:29Z",
     "version": "1.0.2",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
@@ -66,8 +66,8 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 9,
-    "updated_at": "2025-12-07T09:24:42Z",
+    "stars": 10,
+    "updated_at": "2025-12-07T14:03:10Z",
     "version": "v1.1.1",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
@@ -1504,8 +1504,9 @@
       "修仙"
     ],
     "stars": 2,
-    "updated_at": "2025-12-06T16:39:22Z",
-    "version": "v1.0.0dev"
+    "updated_at": "2025-12-07T14:11:46Z",
+    "version": "v1.0.1dev",
+    "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
     "display_name": "群邀请统计",
@@ -1588,8 +1589,8 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 45,
-    "updated_at": "2025-12-07T09:30:50Z",
+    "stars": 46,
+    "updated_at": "2025-12-07T13:52:20Z",
     "version": "v1.0.0-beta.7",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
