@@ -67,8 +67,9 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 8,
-    "updated_at": "2025-12-07T02:47:29Z",
-    "version": "v1.1"
+    "updated_at": "2025-12-07T04:21:06Z",
+    "version": "v1.1",
+    "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_bananic_ninjutsu": {
     "display_name": "香蕉忍法帖",
@@ -334,8 +335,8 @@
       "每日一词"
     ],
     "social_link": "https://github.com/itismygo",
-    "stars": 4,
-    "updated_at": "2025-12-06T09:10:26Z",
+    "stars": 5,
+    "updated_at": "2025-12-07T03:43:00Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_web_analyzer": {
@@ -4320,8 +4321,8 @@
       "拟人"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 57,
-    "updated_at": "2025-12-06T10:07:41Z",
+    "stars": 58,
+    "updated_at": "2025-12-07T03:55:58Z",
     "version": "1.3.0"
   },
   "cngal_search": {
