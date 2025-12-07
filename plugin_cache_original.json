@@ -115,8 +115,8 @@
     ],
     "social_link": "https://qm.qq.com/q/d4lwUp9ap4",
     "stars": 1,
-    "updated_at": "2025-12-06T13:39:43Z",
-    "version": "v1.0.0"
+    "updated_at": "2025-12-07T07:13:47Z",
+    "version": "V1.0.1"
   },
   "astrbot_plugin_AIpaper": {
     "name": "",
@@ -1873,8 +1873,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 10,
-    "updated_at": "2025-12-04T08:37:21Z",
-    "version": "v3.6.0",
+    "updated_at": "2025-12-07T06:58:22Z",
+    "version": "v3.7.0",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
@@ -8206,8 +8206,8 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 27,
-    "updated_at": "2025-11-17T11:50:06Z",
-    "version": "v1.3.9"
+    "updated_at": "2025-12-07T07:07:50Z",
+    "version": "v1.4.0"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
