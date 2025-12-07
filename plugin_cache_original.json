@@ -66,8 +66,8 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 8,
-    "updated_at": "2025-12-07T04:58:06Z",
+    "stars": 9,
+    "updated_at": "2025-12-07T07:52:07Z",
     "version": "v1.1.1",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
@@ -78,8 +78,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-12-07T03:13:25Z",
-    "version": "v0.0.9",
+    "updated_at": "2025-12-07T08:13:12Z",
+    "version": "v0.1.0",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -351,7 +351,7 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 9,
-    "updated_at": "2025-12-06T09:06:52Z",
+    "updated_at": "2025-12-07T08:19:44Z",
     "version": "1.2.3",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
@@ -3573,7 +3573,7 @@
     "repo": "https://github.com/caqingtgas/astrbot_plugin_provider_ark_ResponsesAPI",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-08-19T01:53:24Z",
+    "updated_at": "2025-12-07T08:18:12Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_meme_generator": {
@@ -8629,8 +8629,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_memeify",
     "tags": [],
-    "stars": 18,
-    "updated_at": "2025-10-18T14:18:45Z",
+    "stars": 19,
+    "updated_at": "2025-12-07T07:50:36Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_DailyWife": {
@@ -8656,8 +8656,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 147,
-    "updated_at": "2025-12-05T01:02:46Z",
+    "stars": 148,
+    "updated_at": "2025-12-07T07:50:50Z",
     "version": "v2.0.11"
   },
   "FateTrial_img_identify": {
