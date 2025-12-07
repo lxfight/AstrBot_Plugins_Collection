@@ -12,8 +12,8 @@
     ],
     "social_link": "https://github.com/sl251",
     "stars": 1,
-    "updated_at": "2025-12-07T12:38:28Z",
-    "version": "1.0.1",
+    "updated_at": "2025-12-07T13:00:45Z",
+    "version": "1.0.2",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -288,8 +288,8 @@
       "image_generation",
       "fork"
     ],
-    "stars": 0,
-    "updated_at": "2025-11-27T14:46:00Z",
+    "stars": 1,
+    "updated_at": "2025-12-07T13:22:50Z",
     "version": "v2.0.0"
   },
   "astrbot_plugin_image_editor": {
@@ -1815,7 +1815,7 @@
       "nobroswer"
     ],
     "stars": 15,
-    "updated_at": "2025-12-07T10:00:46Z",
+    "updated_at": "2025-12-07T12:44:43Z",
     "version": "v1.3.0"
   },
   "astrbot_plugin_fetch_summary": {
