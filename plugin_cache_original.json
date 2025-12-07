@@ -12,7 +12,7 @@
     ],
     "social_link": "https://github.com/sl251",
     "stars": 1,
-    "updated_at": "2025-12-07T04:38:34Z",
+    "updated_at": "2025-12-07T12:38:28Z",
     "version": "1.0.1",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
@@ -143,8 +143,8 @@
       "comfyui"
     ],
     "stars": 2,
-    "updated_at": "2025-12-07T11:15:40Z",
-    "version": "1.2.0"
+    "updated_at": "2025-12-07T12:35:59Z",
+    "version": "1.2.1"
   },
   "astrbot_plugin_customized_active_reply_prompt": {
     "display_name": "自定义主动回复提示词",
@@ -2056,8 +2056,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_quotes_plugin",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-12-04T13:39:20Z",
-    "version": "v1.3.0"
+    "updated_at": "2025-12-07T12:17:41Z",
+    "version": "v1.4.0"
   },
   "astrbot-plugin-tmp-bot": {
     "desc": "欧洲卡车模拟2 TMP查询机器人 - 支持玩家信息查询、位置查询、服务器状态查询、里程排行榜等功能",
@@ -2562,8 +2562,8 @@
       "坐标",
       "备货"
     ],
-    "stars": 2,
-    "updated_at": "2025-12-04T01:58:56Z",
+    "stars": 3,
+    "updated_at": "2025-12-07T11:37:03Z",
     "version": "v0.4.9"
   },
   "astrbot_plugin_admin_emoji_reply": {
@@ -3810,8 +3810,8 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 36,
-    "updated_at": "2025-12-06T10:23:11Z",
+    "stars": 37,
+    "updated_at": "2025-12-07T11:31:23Z",
     "version": "v2.2.8",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
