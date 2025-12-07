@@ -2890,8 +2890,8 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 31,
-    "updated_at": "2025-12-06T16:53:18Z",
+    "stars": 32,
+    "updated_at": "2025-12-07T15:49:08Z",
     "version": "v1.6.9"
   },
   "astrbot_plugin_group_chat": {
@@ -3030,8 +3030,8 @@
       "QQ群打卡"
     ],
     "social_link": "https://github.com/EraAsh",
-    "stars": 3,
-    "updated_at": "2025-11-15T03:02:53Z",
+    "stars": 4,
+    "updated_at": "2025-12-07T16:05:04Z",
     "version": "v2.1.0"
   },
   "astrbot_plugin_livingmemory": {
