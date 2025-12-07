@@ -476,8 +476,8 @@
       "跨客户端"
     ],
     "social_link": "https://github.com/Siaospeed",
-    "stars": 5,
-    "updated_at": "2025-12-04T09:28:32Z",
+    "stars": 6,
+    "updated_at": "2025-12-07T14:33:07Z",
     "version": "v0.1.0",
     "logo": "https://raw.githubusercontent.com/Siaospeed/astrbot_plugin_msg_transfer/main/logo.png"
   },
@@ -1874,8 +1874,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 11,
-    "updated_at": "2025-12-07T09:46:23Z",
-    "version": "v3.7.0",
+    "updated_at": "2025-12-07T14:59:31Z",
+    "version": "v3.8.0",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
@@ -3100,8 +3100,8 @@
       "消息"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 3,
-    "updated_at": "2025-12-04T18:17:00Z",
+    "stars": 4,
+    "updated_at": "2025-12-07T14:33:03Z",
     "version": "v1.0.3",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_multimsg/main/logo.png"
   },
