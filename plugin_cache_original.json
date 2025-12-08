@@ -1169,7 +1169,7 @@
       "打卡"
     ],
     "stars": 2,
-    "updated_at": "2025-11-28T13:00:59Z",
+    "updated_at": "2025-12-08T16:08:50Z",
     "version": "v1.0.1",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_dailyacmfortune/main/logo.png"
   },
@@ -8044,8 +8044,8 @@
       "webui",
       "图床"
     ],
-    "stars": 104,
-    "updated_at": "2025-12-04T10:12:30Z",
+    "stars": 103,
+    "updated_at": "2025-12-08T16:07:14Z",
     "version": "v3.19"
   },
   "mccloud_command": {
