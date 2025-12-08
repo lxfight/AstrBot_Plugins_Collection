@@ -425,8 +425,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 13,
-    "updated_at": "2025-12-08T09:26:25Z",
-    "version": "v1.6.8",
+    "updated_at": "2025-12-08T10:53:19Z",
+    "version": "v1.6.9",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -2010,8 +2010,8 @@
       "娱乐"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 11,
-    "updated_at": "2025-12-08T04:28:47Z",
+    "stars": 12,
+    "updated_at": "2025-12-08T10:48:40Z",
     "version": "v3.0.0",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
@@ -3253,8 +3253,8 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 25,
-    "updated_at": "2025-11-29T09:51:53Z",
+    "stars": 26,
+    "updated_at": "2025-12-08T11:11:16Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_vtb_adapter": {
@@ -4190,8 +4190,8 @@
       "用户信息",
       "主动回复"
     ],
-    "stars": 3,
-    "updated_at": "2025-11-27T12:22:30Z",
+    "stars": 4,
+    "updated_at": "2025-12-08T11:16:10Z",
     "version": "v1.2.0",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
