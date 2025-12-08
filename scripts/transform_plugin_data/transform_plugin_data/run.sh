@@ -9,7 +9,11 @@ cleanup_existing_cache="false"
 # 如果没有历史缓存，为jq提供一个空对象以便统一逻辑
 if [ ! -f "$existing_cache_file" ]; then
   existing_cache_file=$(mktemp)
-  echo "{}" > "$existing_cache_file"
+  if [ -f "plugin_cache_original.json" ]; then
+    cp plugin_cache_original.json "$existing_cache_file"
+  else
+    echo "{}" > "$existing_cache_file"
+  fi
   cleanup_existing_cache="true"
 fi
 
@@ -21,27 +25,17 @@ jq --slurpfile repo_info repo_info.json --slurpfile existing_cache "$existing_ca
  else {}
  end) as $cache |
 to_entries |
-# 只过滤掉确认已删除(404)的仓库，保留网络错误的仓库
-map(select(
-  if .value.repo and ($repos[.value.repo]) then
-    ($repos[.value.repo].status != "deleted") and (
-      if $repos[.value.repo].status == "success" then
-        true
-      else
-        ($cache | has(.key))
-      end
-    )
-  else
-    true
-  end
-)) |
 map(
   . as $plugin |
   ($repos[$plugin.value.repo] // null) as $repo_entry |
   ($cache[$plugin.key] // {}) as $cache_entry |
+  ($repo_entry | if . then .status else "" end) as $repo_status |
+  # 403 等非 success 且没有缓存的仓库直接丢弃，保持缓存一致性
+  if ($repo_entry and ($repo_status == "deleted" or ($repo_status != "success" and ($cache_entry | length) == 0))) then
+    empty
+  else
   ($repo_entry | if . then .version else "" end) as $repo_version |
   ($cache_entry.version // "") as $cache_version |
-  ($repo_entry | if . then .status else "" end) as $repo_status |
   ($repo_entry | if . then .stars else null end) as $repo_stars |
   ($cache_entry.stars // 0) as $cache_stars |
   ($repo_entry | if . then .updated_at else "" end) as $repo_updated |
@@ -81,6 +75,7 @@ map(
         + (if ($final_logo // "") != "" then { logo: $final_logo } else {} end)
       )
   }
+  end
 ) | from_entries' original_plugins.json > temp_plugin_cache_original.json
 
 if [ "$cleanup_existing_cache" = "true" ]; then
@@ -136,4 +131,5 @@ if [ "$redirected_repos" -gt 0 ]; then
   echo "🔄 发生重定向的仓库列表（已保留）:"
   jq -r 'to_entries[] | select(.value.status == "redirected") | "  - " + .key' repo_info.json
 fi
+
 
