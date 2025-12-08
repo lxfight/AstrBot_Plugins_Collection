@@ -66,8 +66,8 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 10,
-    "updated_at": "2025-12-07T14:03:10Z",
+    "stars": 11,
+    "updated_at": "2025-12-08T04:22:05Z",
     "version": "v1.1.1",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
@@ -219,9 +219,9 @@
       "@"
     ],
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
-    "stars": 5,
-    "updated_at": "2025-12-07T08:32:57Z",
-    "version": "v2.2",
+    "stars": 6,
+    "updated_at": "2025-12-08T04:29:24Z",
+    "version": "v2.2.1",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
   "astrbot_plugin_CloudImg": {
@@ -2010,8 +2010,8 @@
       "娱乐"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 10,
-    "updated_at": "2025-12-06T09:02:29Z",
+    "stars": 11,
+    "updated_at": "2025-12-08T04:28:47Z",
     "version": "v3.0.0",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
@@ -2381,8 +2381,8 @@
       "成员查询"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 9,
-    "updated_at": "2025-11-29T04:36:46Z",
+    "stars": 10,
+    "updated_at": "2025-12-08T04:29:31Z",
     "version": "v0.1.0"
   },
   "qftp": {
@@ -3295,8 +3295,8 @@
       "群管"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 8,
-    "updated_at": "2025-11-29T04:36:59Z",
+    "stars": 9,
+    "updated_at": "2025-12-08T04:29:38Z",
     "version": "v1.4"
   },
   "command_to_llm": {
@@ -4476,7 +4476,7 @@
       "娱乐"
     ],
     "stars": 9,
-    "updated_at": "2025-11-30T14:53:24Z",
+    "updated_at": "2025-12-08T04:30:58Z",
     "version": "v2.0.6"
   },
   "astrbot_plugin_file": {
