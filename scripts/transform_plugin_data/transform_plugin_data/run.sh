@@ -3,45 +3,89 @@
 echo "开始转换插件数据格式..."
 
 # 使用jq转换数据格式，增加容错处理，并过滤掉404的仓库
-jq --slurpfile repo_info repo_info.json '
-to_entries | 
+existing_cache_file="existing_cache.json"
+cleanup_existing_cache="false"
+
+# 如果没有历史缓存，为jq提供一个空对象以便统一逻辑
+if [ ! -f "$existing_cache_file" ]; then
+  existing_cache_file=$(mktemp)
+  echo "{}" > "$existing_cache_file"
+  cleanup_existing_cache="true"
+fi
+
+jq --slurpfile repo_info repo_info.json --slurpfile existing_cache "$existing_cache_file" '
+($repo_info | if length > 0 then .[0] else {} end) as $repos |
+($existing_cache | if length > 0 then .[0] else {} end) as $raw_cache |
+(if ($raw_cache | type) == "object" and ($raw_cache | has("data")) and (($raw_cache.data | type) == "object") then $raw_cache.data
+ elif ($raw_cache | type) == "object" then $raw_cache
+ else {}
+ end) as $cache |
+to_entries |
 # 只过滤掉确认已删除(404)的仓库，保留网络错误的仓库
 map(select(
-  if .value.repo and ($repo_info[0][.value.repo]) then
-    ($repo_info[0][.value.repo].status != "deleted")
+  if .value.repo and ($repos[.value.repo]) then
+    ($repos[.value.repo].status != "deleted") and (
+      if $repos[.value.repo].status == "success" then
+        true
+      else
+        ($cache | has(.key))
+      end
+    )
   else
     true
   end
 )) |
-map({
-  key: .key,
-  value: (
-    .value + {
-      # 保持原有字段
-      desc: .value.desc,
-      author: .value.author,
-      repo: .value.repo,
-      tags: (.value.tags // [])
-    } +
-    # 仅当social_link存在且不为空时添加
-    (if .value.social_link then { social_link: .value.social_link } else {} end) + 
-    # 添加新字段，从repo_info中获取
-    (if .value.repo and ($repo_info[0][.value.repo]) then
-      ($repo_info[0][.value.repo] | {
-        stars: .stars,
-        updated_at: .updated_at,
-        version: (if .version != "" then .version else "1.0.0" end)
-      } +
-      # 仅当logo存在且不为空时添加logo字段
-      (if .logo and .logo != "" then { logo: .logo } else {} end))
-    else
-      {
-        stars: 0,
-        version: "1.0.0"
-      }
-    end)
-  )
-}) | from_entries' original_plugins.json > temp_plugin_cache_original.json
+map(
+  . as $plugin |
+  ($repos[$plugin.value.repo] // null) as $repo_entry |
+  ($cache[$plugin.key] // {}) as $cache_entry |
+  ($repo_entry | if . then .version else "" end) as $repo_version |
+  ($cache_entry.version // "") as $cache_version |
+  ($repo_entry | if . then .status else "" end) as $repo_status |
+  ($repo_entry | if . then .stars else null end) as $repo_stars |
+  ($cache_entry.stars // 0) as $cache_stars |
+  ($repo_entry | if . then .updated_at else "" end) as $repo_updated |
+  ($cache_entry.updated_at // "") as $cache_updated |
+  ($repo_entry | if . then .logo else "" end) as $repo_logo |
+  ($cache_entry.logo // "") as $cache_logo |
+  (if ($repo_version // "") != "" then $repo_version
+   elif ($cache_version // "") != "" then $cache_version
+   else "1.0.0"
+   end) as $final_version |
+  (if ($repo_status == "success") and ($repo_stars != null) then $repo_stars else $cache_stars end) as $final_stars |
+  (if ($repo_updated // "") != "" then $repo_updated
+   elif ($cache_updated // "") != "" then $cache_updated
+   else ""
+   end) as $final_updated |
+  (if ($repo_logo // "") != "" then $repo_logo
+   elif ($cache_logo // "") != "" then $cache_logo
+   else ""
+   end) as $final_logo |
+  {
+    key: $plugin.key,
+    value:
+      (
+        $plugin.value + {
+          # 保持原有字段
+          desc: $plugin.value.desc,
+          author: $plugin.value.author,
+          repo: $plugin.value.repo,
+          tags: ($plugin.value.tags // [])
+        }
+        + (if $plugin.value.social_link then { social_link: $plugin.value.social_link } else {} end)
+        + {
+          stars: ($final_stars // 0),
+          version: $final_version
+        }
+        + (if ($final_updated // "") != "" then { updated_at: $final_updated } else {} end)
+        + (if ($final_logo // "") != "" then { logo: $final_logo } else {} end)
+      )
+  }
+) | from_entries' original_plugins.json > temp_plugin_cache_original.json
+
+if [ "$cleanup_existing_cache" = "true" ]; then
+  rm -f "$existing_cache_file"
+fi
 
 # 格式化JSON使其更易读
 jq . temp_plugin_cache_original.json > plugin_cache_original.json
@@ -92,5 +136,4 @@ if [ "$redirected_repos" -gt 0 ]; then
   echo "🔄 发生重定向的仓库列表（已保留）:"
   jq -r 'to_entries[] | select(.value.status == "redirected") | "  - " + .key' repo_info.json
 fi
-
 
