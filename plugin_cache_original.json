@@ -1390,7 +1390,7 @@
     ],
     "stars": 9,
     "version": "1.6.7",
-    "updated_at": "2025-12-05T04:39:00Z",
+    "updated_at": "2025-12-09T16:46:28Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -2924,7 +2924,7 @@
     "tags": [],
     "stars": 33,
     "version": "v1.7.3",
-    "updated_at": "2025-12-09T14:53:13Z"
+    "updated_at": "2025-12-09T17:26:01Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
