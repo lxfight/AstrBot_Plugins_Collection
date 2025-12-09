@@ -13,7 +13,7 @@
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "stars": 4,
     "version": "v1.1.1",
-    "updated_at": "2025-12-09T12:15:47Z",
+    "updated_at": "2025-12-09T13:06:34Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -424,7 +424,7 @@
     "social_link": "https://github.com/itismygo",
     "stars": 6,
     "version": "v1.0.1",
-    "updated_at": "2025-12-09T12:17:36Z"
+    "updated_at": "2025-12-09T13:01:55Z"
   },
   "astrbot_plugin_web_analyzer": {
     "display_name": "网页分析插件",
@@ -1696,8 +1696,8 @@
     "social_link": "https://github.com/miaoxutao123",
     "tags": [],
     "stars": 10,
-    "version": "v1.1.0",
-    "updated_at": "2025-11-10T13:32:51Z"
+    "version": "v1.2.0",
+    "updated_at": "2025-12-09T13:23:34Z"
   },
   "astrbot_plugin_furry_zan": {
     "display_name": "爱点赞",
@@ -3559,9 +3559,9 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 35,
+    "stars": 36,
     "version": "0.5.0",
-    "updated_at": "2025-12-08T06:33:14Z",
+    "updated_at": "2025-12-09T13:06:26Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -3831,9 +3831,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 37,
+    "stars": 38,
     "version": "v2.2.8",
-    "updated_at": "2025-12-07T11:31:23Z",
+    "updated_at": "2025-12-09T13:01:26Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
