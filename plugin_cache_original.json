@@ -28,9 +28,9 @@
       "LLM 工具"
     ],
     "social_link": "https://github.com/sl251",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.3",
-    "updated_at": "2025-12-08T14:51:06Z",
+    "updated_at": "2025-12-09T05:55:20Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -1961,8 +1961,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 11,
-    "version": "v3.8.0",
-    "updated_at": "2025-12-07T14:59:31Z",
+    "version": "v3.9.0",
+    "updated_at": "2025-12-09T05:52:00Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
@@ -3790,7 +3790,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 7,
     "version": "v1.0.3",
-    "updated_at": "2025-11-24T01:38:51Z",
+    "updated_at": "2025-12-09T06:38:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
