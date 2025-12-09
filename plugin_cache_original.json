@@ -13,7 +13,7 @@
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "stars": 5,
     "version": "v1.1.1",
-    "updated_at": "2025-12-09T08:54:52Z",
+    "updated_at": "2025-12-09T11:05:51Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -423,8 +423,8 @@
     ],
     "social_link": "https://github.com/itismygo",
     "stars": 6,
-    "version": "v1.1.0",
-    "updated_at": "2025-12-09T10:26:38Z"
+    "version": "v1.0.1",
+    "updated_at": "2025-12-09T11:16:25Z"
   },
   "astrbot_plugin_web_analyzer": {
     "display_name": "网页分析插件",
@@ -1440,7 +1440,7 @@
     ],
     "stars": 3,
     "version": "v1.0",
-    "updated_at": "2025-11-23T09:08:52Z"
+    "updated_at": "2025-12-09T11:10:42Z"
   },
   "astrbot_plugin_mcgetter_enhanced": {
     "display_name": "mcgetter-enhanced",
