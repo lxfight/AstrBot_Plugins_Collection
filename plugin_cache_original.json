@@ -11,9 +11,9 @@
       "分段"
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-    "stars": 5,
+    "stars": 4,
     "version": "v1.1.1",
-    "updated_at": "2025-12-09T11:05:51Z",
+    "updated_at": "2025-12-09T12:15:47Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -424,7 +424,7 @@
     "social_link": "https://github.com/itismygo",
     "stars": 6,
     "version": "v1.0.1",
-    "updated_at": "2025-12-09T11:16:25Z"
+    "updated_at": "2025-12-09T12:17:36Z"
   },
   "astrbot_plugin_web_analyzer": {
     "display_name": "网页分析插件",
@@ -1084,9 +1084,9 @@
       "视频生成"
     ],
     "social_link": "https://www.functen.cn/",
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.0",
-    "updated_at": "2025-11-16T02:12:41Z"
+    "updated_at": "2025-12-09T12:46:05Z"
   },
   "astrbot_plugin_http_adapter": {
     "display_name": "HTTP 消息设配器",
@@ -1874,8 +1874,8 @@
       "nobroswer"
     ],
     "stars": 15,
-    "version": "v1.3.0",
-    "updated_at": "2025-12-07T12:44:43Z"
+    "version": "v1.4.0",
+    "updated_at": "2025-12-09T12:41:20Z"
   },
   "astrbot_plugin_fetch_summary": {
     "desc": "根据 URL 获取网站摘要",
@@ -2924,7 +2924,7 @@
     "tags": [],
     "stars": 33,
     "version": "v1.6.9",
-    "updated_at": "2025-12-09T07:33:31Z"
+    "updated_at": "2025-12-09T11:46:47Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
