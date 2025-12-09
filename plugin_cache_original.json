@@ -11,9 +11,9 @@
       "分段"
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-    "stars": 3,
+    "stars": 5,
     "version": "v1.1.0",
-    "updated_at": "2025-12-09T02:13:02Z",
+    "updated_at": "2025-12-09T04:56:54Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -3723,9 +3723,9 @@
     "tags": [
       "运势"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.3",
-    "updated_at": "2025-12-03T11:52:12Z"
+    "updated_at": "2025-12-09T05:16:10Z"
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
