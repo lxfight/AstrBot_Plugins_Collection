@@ -46,9 +46,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2025-12-09T03:19:03Z",
+    "updated_at": "2025-12-09T06:42:52Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -3789,8 +3789,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 7,
-    "version": "v1.0.3",
-    "updated_at": "2025-12-09T06:38:47Z",
+    "version": "v1.0.4",
+    "updated_at": "2025-12-09T07:08:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
