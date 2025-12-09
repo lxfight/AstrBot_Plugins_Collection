@@ -1,4 +1,17 @@
 {
+	"astrbot_plugin_splitter": {
+	  "display_name": "对话分段Pro",
+	  "desc": "代替框架分段，方便小白操作，添加更多人性化配置项，优化体验",
+	  "author": "糯米茨",
+	  "repo": "https://github.com/nuomicici/astrbot_plugin_splitter",
+	  "tags": [
+	    "工具",
+	    "对话",
+	    "llm",
+	    "分段"
+	  ],
+	  "social_link": "https://qm.qq.com/q/LSxHQZtEC4"
+	},
 	"astrbot_plugin_e2b_sandbox": {
 	  "display_name": "AstrBot E2B 云沙箱插件",
 	  "desc": "使用 E2B 云沙箱安全执行 Python 代码，支持通过 LLM 自然语言调用",
@@ -26,8 +39,27 @@
 	  ],
 	  "social_link": "https://github.com/DBJD-CR"
 	},
+	"astrbot_plugin_lofter_parser": {
+	  "display_name": "Lofter自动解析",
+	  "desc": "支持 Lofter（乐乎）平台分享链接的自动解析",
+	  "author": "SrakhiuMeow",
+	  "repo": "https://github.com/SrakhiuMeow/astrbot_plugin_lofter_parser"
+	},
+	"astrbot_plugin_douyu_live": {
+	  "display_name": "斗鱼管家",
+	  "desc": "全自动监控多房间开播、推送通知与礼物播报",
+	  "author": "GEMILUXVII",
+	  "repo": "https://github.com/GEMILUXVII/astrbot_plugin_douyu_live",
+	  "tags": ["douyu"],
+	  "social_link": "https://github.com/GEMILUXVII"
+	},
+	"astrbot_plugin_qinglong": {
+	  "display_name": "青龙面板管理",
+	  "desc": "通过聊天管理青龙面板，支持任务管理、环境变量、日志查看等",
+	  "author": "Haitun",
+	  "repo": "https://github.com/onniemi/astrbot_plugin_qinglong"
+	},
 	"astrbot_plugin_1panel": {
-	  "name": "",
 	  "display_name": "1Panel 服务器管理",
 	  "desc": "通过聊天管理 1Panel 面板，支持查看系统状态、容器管理、定时任务等",
 	  "author": "Haitun",
@@ -49,6 +81,16 @@
 	  "repo": "https://github.com/muyouzhi6/astrbot_plugin_gitee_aiimg",
 	  "tags": ["画图"],
 	  "social_link": "https://github.com/muyouzhi6"
+	},
+	"astrbot_plugin_chatsummary_v2": {
+	  "display_name": "群聊消息总结v2",
+	  "desc": "基于 LLM 实现群聊消息总结，支持自动总结和手动总结，手动总结支持传入提示词。",
+	  "author": "sinkinrin",
+	  "repo": "https://github.com/sinkinrin/astrbot_plugin_chatsummary_v2",
+	  "tags": [
+	    "群聊",
+	    "消息总结"
+	  ]
 	},
 	"astrbot_plugin_bananic_ninjutsu": {
 	  "display_name": "香蕉忍法帖",
@@ -73,6 +115,12 @@
 	  "tags": [
 	    "翻译"
 	  ]
+	},
+	"astrbot_plugin_tool_use_cleaner": {
+	  "display_name": "历史工具调用清除",
+	  "desc": "在 LLM 请求前，将先前轮请求中 LLM 发出的工具调用请求以及调用返回结果从请求体中移除，减少 token 浪费，提高对话效率",
+	  "author": "zz6zz666",
+	  "repo": "https://github.com/zz6zz666/astrbot_plugin_tool_use_cleaner"
 	},
 	"undercover": {
 	  "desc": "一个谁是卧底游戏插件，支持多人在线游戏。",
@@ -109,6 +157,18 @@
 	  "author": "zz6zz666",
 	  "repo": "https://github.com/zz6zz666/astrbot_plugin_customized_active_reply_prompt",
 	  "tags": ["1.0.0"]
+	},
+	"astrbot_plugin_emotionaipro": {
+	  "display_name": "情感智能插件",
+	  "desc": "融合 EmotionAI 与 FavourPro 的新一代高级情感智能插件。 新增「智能更新机制」「辅助 LLM 情感分析」「长期记忆系统」「负好感支持」「关系阶段过渡保护」， 让 AI 拥有真实、渐进、可养成的内心世界，支持多维情感建模、AI 自主文本生成、动态权重与隐私控制。",
+	  "author": "asakiyoshi",
+	  "repo": "https://github.com/asakiyoshi/EmotionAI-Pro",
+	  "tags": [
+	    "情感交互",
+	    "好感度",
+	    "记忆"
+	  ],
+	  "social_link": "https://github.com/asakiyoshi"
 	},
 	"astrbot_plugin_markdown_killer": {
 	  "name": "",
