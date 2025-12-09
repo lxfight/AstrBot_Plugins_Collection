@@ -13,7 +13,7 @@
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "stars": 4,
     "version": "v1.1.1",
-    "updated_at": "2025-12-09T13:06:34Z",
+    "updated_at": "2025-12-09T16:03:07Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -525,8 +525,8 @@
       "原神"
     ],
     "stars": 1,
-    "version": "v1.2",
-    "updated_at": "2025-11-30T08:38:56Z",
+    "version": "v1.3",
+    "updated_at": "2025-12-09T15:54:04Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_genshinimpact/master/logo.png"
   },
   "astrbot_plugin_parse_hub": {
@@ -1099,8 +1099,8 @@
     ],
     "social_link": "https://github.com/fluidcat/astrbot_plugin_http_adapter/issues",
     "stars": 5,
-    "version": "1.1.1",
-    "updated_at": "2025-12-08T02:40:04Z"
+    "version": "1.2.0",
+    "updated_at": "2025-12-09T15:39:18Z"
   },
   "astrbot_plugin_nyweather": {
     "display_name": "天气查询插件",
@@ -1275,8 +1275,8 @@
     ],
     "social_link": "https://github.com/Ryan7t",
     "stars": 2,
-    "version": "v1.0.1",
-    "updated_at": "2025-12-09T15:23:01Z"
+    "version": "v1.0.2",
+    "updated_at": "2025-12-09T15:40:29Z"
   },
   "astrbot_plugin_blue_archive_auto_calendar": {
     "desc": "Blue Archive 蔚蓝档案定时发送活动日历以及活动结束提醒插件",
@@ -4368,9 +4368,9 @@
       "工具"
     ],
     "social_link": "https://github.com/EIA2024",
-    "stars": 5,
+    "stars": 7,
     "version": "v1.0",
-    "updated_at": "2025-11-02T07:55:16Z"
+    "updated_at": "2025-12-09T16:32:58Z"
   },
   "astrbot_plugin_deer_check": {
     "desc": "一个发送'🦌'进行打卡并生成月度日历的插件",
