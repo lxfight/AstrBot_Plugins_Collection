@@ -12,8 +12,8 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "stars": 5,
-    "version": "v1.1.0",
-    "updated_at": "2025-12-09T04:56:54Z",
+    "version": "v1.1.1",
+    "updated_at": "2025-12-09T08:54:52Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -29,8 +29,8 @@
     ],
     "social_link": "https://github.com/sl251",
     "stars": 4,
-    "version": "1.0.3",
-    "updated_at": "2025-12-09T08:27:29Z",
+    "version": "1.0.5",
+    "updated_at": "2025-12-09T08:37:39Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -663,9 +663,9 @@
     "author": "贝浦熙",
     "repo": "https://github.com/thnf/get_api",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.4",
-    "updated_at": "2025-11-07T16:02:26Z"
+    "updated_at": "2025-12-09T09:20:37Z"
   },
   "astrbot_plugin_ftp_control": {
     "display_name": "ftp_manager",
@@ -3870,7 +3870,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 6,
     "version": "v1.0.2",
-    "updated_at": "2025-11-14T11:55:35Z",
+    "updated_at": "2025-12-09T08:42:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
