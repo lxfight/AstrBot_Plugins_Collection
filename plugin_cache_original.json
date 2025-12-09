@@ -1647,9 +1647,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 47,
+    "stars": 48,
     "version": "v1.0.0-beta.7",
-    "updated_at": "2025-12-09T01:03:47Z",
+    "updated_at": "2025-12-09T13:49:13Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -3746,9 +3746,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 7,
-    "version": "v1.0.5",
-    "updated_at": "2025-12-09T09:32:54Z",
+    "stars": 8,
+    "version": "v1.0.6",
+    "updated_at": "2025-12-09T14:01:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
