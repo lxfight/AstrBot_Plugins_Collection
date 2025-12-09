@@ -48,7 +48,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2025-12-09T06:42:52Z",
+    "updated_at": "2025-12-09T14:58:55Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -241,9 +241,9 @@
       "记忆"
     ],
     "social_link": "https://github.com/asakiyoshi",
-    "stars": 0,
+    "stars": 1,
     "version": "v4.0.0",
-    "updated_at": "2025-12-04T09:52:57Z"
+    "updated_at": "2025-12-09T15:04:03Z"
   },
   "astrbot_plugin_markdown_killer": {
     "name": "",
@@ -1276,7 +1276,7 @@
     "social_link": "https://github.com/Ryan7t",
     "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2025-11-14T12:47:35Z"
+    "updated_at": "2025-12-09T15:23:01Z"
   },
   "astrbot_plugin_blue_archive_auto_calendar": {
     "desc": "Blue Archive 蔚蓝档案定时发送活动日历以及活动结束提醒插件",
@@ -2923,8 +2923,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 33,
-    "version": "v1.6.9",
-    "updated_at": "2025-12-09T11:46:47Z"
+    "version": "v1.7.3",
+    "updated_at": "2025-12-09T14:53:13Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -5950,9 +5950,9 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 65,
+    "stars": 66,
     "version": "1.1.0",
-    "updated_at": "2025-12-08T12:52:47Z"
+    "updated_at": "2025-12-09T15:20:27Z"
   },
   "astrbot_plugin_combine-messages": {
     "author": "FreeDivers",
