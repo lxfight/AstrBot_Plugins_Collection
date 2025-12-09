@@ -30,7 +30,7 @@
     "social_link": "https://github.com/sl251",
     "stars": 4,
     "version": "1.0.3",
-    "updated_at": "2025-12-09T05:55:20Z",
+    "updated_at": "2025-12-09T08:27:29Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -729,20 +729,6 @@
     "version": "v0.0.7",
     "updated_at": "2025-11-28T06:07:30Z"
   },
-  "astrbot_plugin_command2llm": {
-    "display_name": "Command2LLM",
-    "desc": "让大模型能够调用所有插件命令的智能聊天插件。",
-    "author": "vmoranv",
-    "repo": "https://github.com/vmoranv/astrbot_plugin_command2llm",
-    "tags": [
-      "命令",
-      "llm工具"
-    ],
-    "social_link": "https://github.com/vmoranv",
-    "stars": 3,
-    "version": "v1.0.0",
-    "updated_at": "2025-12-02T10:10:45Z"
-  },
   "astrbot_plugin_whitelistpro": {
     "display_name": "白名单拓展",
     "desc": "支持临时会话、好友私聊、群聊的白名单独立控制和全局白名单黑名单",
@@ -1332,21 +1318,6 @@
     "version": "v1.0.2",
     "updated_at": "2025-11-07T04:15:54Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_stockgame/master/logo.png"
-  },
-  "astrbot_plugin_cryptocurrency": {
-    "display_name": "基于 LLM 的加密货币模拟交易",
-    "desc": "加密货币模拟交易插件具备实时价格、市场数据和AI投资模拟功能",
-    "author": "vmoranv",
-    "repo": "https://github.com/vmoranv/astrbot_plugin_cryptocurrency",
-    "tags": [
-      "加密货币",
-      "AI 投资模拟"
-    ],
-    "social_link": "https://github.com/vmoranv",
-    "stars": 3,
-    "version": "v2.0.0",
-    "updated_at": "2025-11-12T11:53:55Z",
-    "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_cryptocurrency/master/logo.png"
   },
   "astrbot_plugin_qqgal": {
     "display_name": "Gal 风格图片生成",
@@ -2869,19 +2840,6 @@
     "version": "v1.1",
     "updated_at": "2025-10-06T13:57:10Z"
   },
-  "astrbot_plugin_move3d": {
-    "desc": "将用户引用的图片转换为简笔画风格裸眼3D图的 AstrBot 插件。",
-    "author": "vmoranv",
-    "repo": "https://github.com/vmoranv/astrbot_plugin_move3d",
-    "tags": [
-      "简笔画",
-      "裸眼3d"
-    ],
-    "social_link": "https://github.com/vmoranv",
-    "stars": 0,
-    "version": "v1.0",
-    "updated_at": "2025-09-13T04:34:57Z"
-  },
   "astrbot_plugin_poker_game": {
     "desc": "德州扑克游戏插件 - 支持私聊发牌、多人游戏、积分系统、房间管理、管理员控制等完整功能",
     "author": "山萘",
@@ -2964,9 +2922,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 32,
+    "stars": 33,
     "version": "v1.6.9",
-    "updated_at": "2025-12-08T14:58:15Z"
+    "updated_at": "2025-12-09T07:33:31Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -3789,8 +3747,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 7,
-    "version": "v1.0.4",
-    "updated_at": "2025-12-09T07:08:09Z",
+    "version": "v1.0.5",
+    "updated_at": "2025-12-09T08:24:38Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -3852,18 +3810,6 @@
     "stars": 0,
     "version": "v1.0.4",
     "updated_at": "2025-09-27T08:56:51Z"
-  },
-  "astrbot_plugin_aolastar": {
-    "desc": "通过Aolarhapsody后端 API 解析奥拉星游戏内容",
-    "author": "vmoranv",
-    "repo": "https://github.com/vmoranv/astrbot_plugin_aolastar",
-    "tags": [
-      "奥拉星"
-    ],
-    "social_link": "https://github.com/vmoranv",
-    "stars": 1,
-    "version": "1.0.3",
-    "updated_at": "2025-10-17T00:35:08Z"
   },
   "astrbot_plugin_identity_strategy": {
     "desc": "为群聊/私聊注入指定的应对提示词（纯配置，无命令；支持特殊ID与空白策略）",
@@ -4436,9 +4382,9 @@
       "健康",
       "娱乐"
     ],
-    "stars": 4,
+    "stars": 3,
     "version": "v1.2",
-    "updated_at": "2025-11-04T08:11:28Z"
+    "updated_at": "2025-12-09T07:57:46Z"
   },
   "astrbot_plugin_pet": {
     "desc": "一个简单的的群内宠物养成插件，支持LLM随机事件、PVP对决和图片状态卡。",
@@ -6061,16 +6007,6 @@
     "version": "v1.5.1",
     "updated_at": "2025-11-28T01:33:54Z"
   },
-  "astrbot_plugin_yinlish": {
-    "author": "vmoranv",
-    "desc": "普通文本转换为'*语',支持自定义*乱度,*语字典",
-    "repo": "https://github.com/vmoranv/astrbot_plugin_yinlish",
-    "social_link": "https://github.com/vmoranv",
-    "tags": [],
-    "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2025-09-26T08:34:50Z"
-  },
   "astrbot_plugin_voiceprint": {
     "author": "hello七七",
     "desc": "活字印刷（文本转语音）",
@@ -6469,15 +6405,6 @@
     "updated_at": "2025-12-07T11:21:20Z",
     "logo": "https://raw.githubusercontent.com/ZvZPvz/astrbot_plugin_a2s/main/logo.png"
   },
-  "astrbot_plugin_fuck": {
-    "author": "vmoranv",
-    "desc": "一个为 AstrBot 设计的命令纠错插件，灵感来源于著名的命令行工具 thefuck。当你不小心输错了一个命令时（例如 /pixic 而不是 /pixiv），只需紧接着发送 /fuck，此插件就会尝试找出你可能想输入的正确命令，并给出建议。",
-    "repo": "https://github.com/vmoranv/astrbot_plugin_fuck",
-    "tags": [],
-    "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2025-04-22T02:35:45Z"
-  },
   "astrbot_plugin_wuziqi": {
     "author": "大沙北",
     "desc": "简单的五子棋对战游戏",
@@ -6575,18 +6502,6 @@
     "stars": 0,
     "version": "v1.0",
     "updated_at": "2025-04-17T07:11:08Z"
-  },
-  "astrbot_plugin_pixiv_search": {
-    "repo": "https://github.com/vmoranv/astrbot_plugin_pixiv_search",
-    "author": "vmoranv",
-    "desc": "通过 Pixiv API 搜索插画、小说、用户、排行榜等。支持不适宜内容过滤、代理和随机结果。",
-    "tags": [
-      "pixiv"
-    ],
-    "stars": 31,
-    "version": "1.4.3",
-    "updated_at": "2025-11-26T11:16:48Z",
-    "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_pixiv_search/master/logo.png"
   },
   "astrbot_plugin_gotify": {
     "repo": "https://github.com/BetaCatX/astrbot_plugin_gotify",
@@ -7589,9 +7504,9 @@
     "tags": [
       "nsfw"
     ],
-    "stars": 11,
+    "stars": 10,
     "version": "v1.3",
-    "updated_at": "2025-09-04T13:09:18Z"
+    "updated_at": "2025-12-09T07:57:46Z"
   },
   "astrbot_plugin_Translation": {
     "desc": "通过调用百度翻译 API 接口实现翻译文本",
