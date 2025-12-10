@@ -511,9 +511,9 @@
       "修图"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.6.9",
-    "updated_at": "2025-12-08T14:01:54Z",
+    "updated_at": "2025-12-10T02:09:07Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -982,7 +982,7 @@
     ],
     "stars": 8,
     "version": "v3.2.0",
-    "updated_at": "2025-12-09T21:09:02Z",
+    "updated_at": "2025-12-10T03:10:10Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -3681,9 +3681,9 @@
     "tags": [
       "运势"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.0.3",
-    "updated_at": "2025-12-09T05:16:10Z"
+    "updated_at": "2025-12-10T03:13:44Z"
   },
   "astrbot_plugin_wakepro": {
     "display_name": "唤醒增强",
@@ -3746,9 +3746,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.6",
-    "updated_at": "2025-12-09T14:01:09Z",
+    "updated_at": "2025-12-10T02:25:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -7856,9 +7856,9 @@
     "author": "NEST",
     "repo": "https://github.com/4Nest/astrbot_plugin_mp_sub",
     "tags": [],
-    "stars": 17,
+    "stars": 16,
     "version": "v1.1.1",
-    "updated_at": "2025-12-05T16:41:49Z"
+    "updated_at": "2025-12-10T02:08:37Z"
   },
   "astrbot_plugin_nofap": {
     "desc": "一个用于戒 🦌 记录打卡和查看群内戒 🦌 榜的插件",
