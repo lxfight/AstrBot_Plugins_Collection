@@ -140,8 +140,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 2,
-    "version": "v0.1.5",
-    "updated_at": "2025-12-10T01:13:10Z",
+    "version": "v0.1.6",
+    "updated_at": "2025-12-10T04:58:08Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -8033,9 +8033,9 @@
       "webui",
       "图床"
     ],
-    "stars": 103,
+    "stars": 104,
     "version": "v3.19",
-    "updated_at": "2025-12-08T16:07:14Z"
+    "updated_at": "2025-12-10T05:32:16Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
