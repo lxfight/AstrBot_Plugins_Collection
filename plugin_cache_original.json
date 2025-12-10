@@ -211,9 +211,9 @@
     "author": "bylkuse",
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.2.0",
-    "updated_at": "2025-12-10T06:51:40Z",
+    "updated_at": "2025-12-10T14:26:50Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -585,7 +585,7 @@
     "social_link": "https://github.com/piexian",
     "stars": 14,
     "version": "v1.7.0",
-    "updated_at": "2025-12-10T13:46:59Z",
+    "updated_at": "2025-12-10T15:27:25Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -4742,7 +4742,7 @@
     "author": "UyNewNas",
     "stars": 11,
     "version": "v1.2",
-    "updated_at": "2025-11-03T17:06:00Z"
+    "updated_at": "2025-12-10T15:12:32Z"
   },
   "astrbot_plugin_LetAI_sendemojis": {
     "desc": "智能分析AI对话内容并发送匹配表情包，支持情感识别、历史记录和多数据源，让聊天更生动有趣",
@@ -7601,9 +7601,9 @@
       "开盒"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "stars": 53,
+    "stars": 54,
     "version": "v1.2.1",
-    "updated_at": "2025-12-10T06:13:07Z",
+    "updated_at": "2025-12-10T15:09:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
