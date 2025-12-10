@@ -11,9 +11,9 @@
       "分段"
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-    "stars": 5,
+    "stars": 7,
     "version": "v1.1.1",
-    "updated_at": "2025-12-10T04:09:56Z",
+    "updated_at": "2025-12-10T07:13:30Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -28,9 +28,9 @@
       "LLM 工具"
     ],
     "social_link": "https://github.com/sl251",
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.5",
-    "updated_at": "2025-12-09T08:37:39Z",
+    "updated_at": "2025-12-10T06:54:12Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -140,8 +140,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 2,
-    "version": "v0.1.6",
-    "updated_at": "2025-12-10T04:58:08Z",
+    "version": "v0.2.0",
+    "updated_at": "2025-12-10T06:51:40Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -653,8 +653,8 @@
       "AI"
     ],
     "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2025-12-05T00:37:49Z",
+    "version": "v1.0.3",
+    "updated_at": "2025-12-10T07:05:14Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_nyscheduler/main/logo.png"
   },
   "astrbot_plugin_api_fetcher": {
