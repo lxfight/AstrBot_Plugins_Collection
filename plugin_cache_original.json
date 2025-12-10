@@ -437,9 +437,9 @@
       "工具"
     ],
     "social_link": "https://box.firefly520.top/",
-    "stars": 9,
+    "stars": 10,
     "version": "1.2.4",
-    "updated_at": "2025-12-10T01:20:58Z",
+    "updated_at": "2025-12-10T05:57:13Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -3473,9 +3473,9 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 148,
+    "stars": 149,
     "version": "v2.1.3",
-    "updated_at": "2025-12-06T06:49:43Z",
+    "updated_at": "2025-12-10T05:59:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lmarena/main/logo.png"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -6926,9 +6926,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 71,
+    "stars": 72,
     "version": "v3.2.5",
-    "updated_at": "2025-12-09T10:25:07Z",
+    "updated_at": "2025-12-10T05:45:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -7531,7 +7531,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
     "stars": 53,
     "version": "v1.2.1",
-    "updated_at": "2025-11-29T11:56:56Z",
+    "updated_at": "2025-12-10T06:13:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
