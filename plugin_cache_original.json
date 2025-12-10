@@ -335,9 +335,9 @@
     ],
     "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
     "social_link": "https://github.com/Huahuatgc",
-    "stars": 0,
+    "stars": 1,
     "version": "2.5.0",
-    "updated_at": "2025-12-02T02:21:06Z",
+    "updated_at": "2025-12-10T10:13:19Z",
     "logo": "https://raw.githubusercontent.com/Huahuatgc/astrbot_plugin_aicu/master/logo.png"
   },
   "astrbot_plugin_ShareholderPerks": {
@@ -3183,9 +3183,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 85,
+    "stars": 86,
     "version": "v4.3.0",
-    "updated_at": "2025-12-08T00:43:54Z",
+    "updated_at": "2025-12-10T09:58:45Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -3473,9 +3473,9 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 149,
+    "stars": 150,
     "version": "v2.1.3",
-    "updated_at": "2025-12-10T05:59:34Z",
+    "updated_at": "2025-12-10T09:43:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lmarena/main/logo.png"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -4999,7 +4999,7 @@
     "social_link": "https://github.com/oyxning",
     "stars": 35,
     "version": "v3.4.0",
-    "updated_at": "2025-12-02T07:28:32Z",
+    "updated_at": "2025-12-10T09:45:19Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
