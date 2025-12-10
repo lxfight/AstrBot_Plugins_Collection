@@ -24,9 +24,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 5,
+    "stars": 6,
     "version": "0.1.1",
-    "updated_at": "2025-12-08T07:53:03Z",
+    "updated_at": "2025-12-10T13:55:47Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -37,9 +37,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.1",
-    "updated_at": "2025-12-10T13:13:05Z",
+    "updated_at": "2025-12-10T13:51:15Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -585,7 +585,7 @@
     "social_link": "https://github.com/piexian",
     "stars": 14,
     "version": "v1.7.0",
-    "updated_at": "2025-12-10T13:33:47Z",
+    "updated_at": "2025-12-10T13:46:59Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -7483,9 +7483,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 68,
+    "stars": 69,
     "version": "v3.0.3",
-    "updated_at": "2025-12-02T16:58:14Z",
+    "updated_at": "2025-12-10T14:37:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
