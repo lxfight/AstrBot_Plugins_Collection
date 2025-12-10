@@ -38,8 +38,8 @@
       "表情"
     ],
     "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2025-12-10T07:26:42Z",
+    "version": "1.0.1",
+    "updated_at": "2025-12-10T13:13:05Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -160,9 +160,9 @@
       "即梦",
       "适配器"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2025-12-06T16:57:05Z",
+    "updated_at": "2025-12-10T12:54:47Z",
     "logo": "https://raw.githubusercontent.com/xunxiing/astrbot_plugin_imgtool/main/logo.png"
   },
   "astrbot_plugin_gitee_aiimg": {
@@ -584,8 +584,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 14,
-    "version": "v1.6.9",
-    "updated_at": "2025-12-10T02:09:07Z",
+    "version": "v1.7.0",
+    "updated_at": "2025-12-10T13:33:47Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -828,9 +828,9 @@
     "author": "cube-lover",
     "repo": "https://github.com/cube-lover/doubao",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v2.1",
-    "updated_at": "2025-12-10T12:40:10Z"
+    "updated_at": "2025-12-10T13:16:27Z"
   },
   "astrbot_plugin_daliy_news": {
     "display_name": "每日 60s 新闻",
