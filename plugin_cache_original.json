@@ -584,8 +584,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 14,
-    "version": "v1.7.0",
-    "updated_at": "2025-12-10T15:27:25Z",
+    "version": "v1.7.1",
+    "updated_at": "2025-12-10T15:49:54Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -1635,7 +1635,7 @@
     ],
     "stars": 2,
     "version": "v1.0.1dev",
-    "updated_at": "2025-12-07T14:11:46Z",
+    "updated_at": "2025-12-10T15:43:55Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
