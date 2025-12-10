@@ -6949,9 +6949,9 @@
     "tags": [
       "消息伪造"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.1.0",
-    "updated_at": "2025-12-01T15:36:13Z"
+    "updated_at": "2025-12-10T08:56:54Z"
   },
   "astrbot_plugin_douniuniu": {
     "desc": "QQ 群小游戏，培养你的牛牛，然后塔塔开！",
@@ -7992,9 +7992,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 479,
+    "stars": 480,
     "version": "v0.915",
-    "updated_at": "2025-12-08T09:30:25Z"
+    "updated_at": "2025-12-10T09:10:29Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
