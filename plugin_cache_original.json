@@ -583,9 +583,9 @@
       "修图"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.7.1",
-    "updated_at": "2025-12-10T15:49:54Z",
+    "updated_at": "2025-12-11T09:51:25Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -8511,9 +8511,9 @@
     "author": "长安某",
     "repo": "https://github.com/zgojin/astrbot_plugin_niuniu",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v4.7.2",
-    "updated_at": "2025-11-10T09:26:31Z"
+    "updated_at": "2025-12-11T10:25:30Z"
   },
   "astrbot_plugin_mohoyo_cos": {
     "desc": "获取米游社社区cos插件，支持LLM自识别",
