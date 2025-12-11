@@ -569,8 +569,8 @@
     ],
     "social_link": "https://www.misakanet.site",
     "stars": 4,
-    "version": "v1.2",
-    "updated_at": "2025-12-06T19:04:22Z",
+    "version": "v1.3.0",
+    "updated_at": "2025-12-11T04:37:55Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_gemini_image/master/logo.png"
   },
   "astrbot_plugin_gemini_image_generation": {
@@ -3255,9 +3255,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 86,
+    "stars": 87,
     "version": "v4.3.0",
-    "updated_at": "2025-12-10T09:58:45Z",
+    "updated_at": "2025-12-11T05:28:50Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -4414,9 +4414,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 58,
+    "stars": 59,
     "version": "1.3.0",
-    "updated_at": "2025-12-07T03:55:58Z"
+    "updated_at": "2025-12-11T05:23:22Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -4765,9 +4765,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "author": "Zhalslar",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.3",
-    "updated_at": "2025-11-20T23:25:18Z",
+    "updated_at": "2025-12-11T05:23:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_monitor/main/logo.png"
   },
   "astrbot_plugin_decision_roulette": {
@@ -6912,9 +6912,9 @@
     "tags": [
       "DeepSeek"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "v0.1",
-    "updated_at": "2025-12-08T17:21:27Z"
+    "updated_at": "2025-12-11T05:34:43Z"
   },
   "astrbot_plugin_doro_ending": {
     "desc": "[QQ]doro互动故事",
@@ -7289,9 +7289,9 @@
     "author": "Lonelysky",
     "repo": "https://github.com/LonelySky7490/astrbot_plugin_vv_pic",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.7",
-    "updated_at": "2025-11-02T09:02:05Z"
+    "updated_at": "2025-12-11T05:20:32Z"
   },
   "astrbot_plugin_file_reader": {
     "desc": "一个识别文件内容的插件",
@@ -7860,9 +7860,9 @@
     ],
     "social_link": "https://space.bilibili.com/447591776",
     "repo": "https://github.com/laopanmemz/astrbot_plugin_chatsummary",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2025-09-30T02:45:45Z"
+    "updated_at": "2025-12-11T05:31:52Z"
   },
   "astrbot_plugin_bv": {
     "desc": "解析群内 https://www.bilibili.com/video/BV号/ 的链接并获取视频数据与视频文件，以合并转发方式发送",
@@ -8105,9 +8105,9 @@
       "webui",
       "图床"
     ],
-    "stars": 104,
+    "stars": 105,
     "version": "v3.19",
-    "updated_at": "2025-12-10T05:32:16Z"
+    "updated_at": "2025-12-11T05:27:55Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
