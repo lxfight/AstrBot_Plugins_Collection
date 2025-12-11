@@ -54,9 +54,9 @@
       "分段"
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.1.1",
-    "updated_at": "2025-12-10T17:09:30Z",
+    "updated_at": "2025-12-11T03:29:15Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -91,7 +91,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 8,
     "version": "v1.0.0",
-    "updated_at": "2025-12-10T03:48:10Z",
+    "updated_at": "2025-12-11T04:11:04Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -2225,7 +2225,7 @@
     ],
     "stars": 0,
     "version": "v1.7",
-    "updated_at": "2025-12-03T10:06:31Z",
+    "updated_at": "2025-12-11T03:55:50Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_JMCOMIC": {
