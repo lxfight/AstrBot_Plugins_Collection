@@ -211,9 +211,9 @@
     "author": "bylkuse",
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v0.2.1",
-    "updated_at": "2025-12-11T08:55:15Z",
+    "updated_at": "2025-12-11T13:24:44Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -1403,7 +1403,7 @@
     "social_link": "https://github.com/bvzrays",
     "stars": 22,
     "version": "v2.0.0",
-    "updated_at": "2025-12-01T09:09:35Z",
+    "updated_at": "2025-12-11T13:40:47Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_qqgal/master/logo.png"
   },
   "astrbot_plugin_Conversa": {
@@ -7592,9 +7592,9 @@
       "开盒"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "stars": 54,
+    "stars": 55,
     "version": "v1.2.1",
-    "updated_at": "2025-12-10T15:09:18Z",
+    "updated_at": "2025-12-11T13:09:14Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
@@ -8055,9 +8055,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 481,
+    "stars": 480,
     "version": "v0.915",
-    "updated_at": "2025-12-11T02:05:22Z"
+    "updated_at": "2025-12-11T13:32:37Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
