@@ -2943,15 +2943,6 @@
     "version": "2.0.0",
     "updated_at": "2025-10-29T14:23:27Z"
   },
-  "astrbot_plugin_bilibili_up_notifier": {
-    "desc": "这是一个AstrBot的插件，用于检测B站UP主发布的新视频并自动发送通知给订阅的用户",
-    "author": "CN-CQ-Z",
-    "repo": "https://github.com/CN-CQ-Z/astrbot_plugin_bilibili_up_notifier",
-    "tags": [],
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2025-09-06T08:45:18Z"
-  },
   "persistent_history": {
     "desc": "基本无需设置的简单永久记忆插件",
     "author": "komeiji_shiki",
