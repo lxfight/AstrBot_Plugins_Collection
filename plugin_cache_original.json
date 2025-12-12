@@ -38,8 +38,8 @@
       "表情"
     ],
     "stars": 4,
-    "version": "1.0.2",
-    "updated_at": "2025-12-12T14:00:07Z",
+    "version": "1.0.3",
+    "updated_at": "2025-12-12T14:45:35Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -211,9 +211,9 @@
     "author": "bylkuse",
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v0.2.5",
-    "updated_at": "2025-12-12T12:23:38Z",
+    "updated_at": "2025-12-12T15:12:34Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -246,9 +246,9 @@
     "author": "zz6zz666",
     "repo": "https://github.com/zz6zz666/astrbot_plugin_tool_use_cleaner",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2025-12-02T05:44:43Z"
+    "updated_at": "2025-12-12T14:58:57Z"
   },
   "undercover": {
     "desc": "一个谁是卧底游戏插件，支持多人在线游戏。",
@@ -3246,9 +3246,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 87,
+    "stars": 88,
     "version": "v4.3.0",
-    "updated_at": "2025-12-11T05:28:50Z",
+    "updated_at": "2025-12-12T14:45:34Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
