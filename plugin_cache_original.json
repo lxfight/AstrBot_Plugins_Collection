@@ -176,7 +176,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 14,
     "version": "v1.1.1",
-    "updated_at": "2025-12-10T00:13:38Z",
+    "updated_at": "2025-12-12T06:13:33Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -212,8 +212,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 4,
-    "version": "v0.2.2",
-    "updated_at": "2025-12-12T05:00:08Z",
+    "version": "v0.2.3",
+    "updated_at": "2025-12-12T05:38:48Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -818,9 +818,9 @@
     "author": "GuJi08233",
     "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v3.2.1",
-    "updated_at": "2025-12-02T19:10:05Z"
+    "updated_at": "2025-12-12T06:03:44Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -1553,9 +1553,9 @@
     "author": "SatenShiroya",
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "V1.1.3",
-    "updated_at": "2025-11-29T13:40:40Z",
+    "updated_at": "2025-12-12T05:38:46Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -5797,9 +5797,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 42,
+    "stars": 43,
     "version": "v1.0.5",
-    "updated_at": "2025-12-12T02:43:59Z",
+    "updated_at": "2025-12-12T06:05:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -5985,9 +5985,9 @@
       "通知"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.2",
-    "updated_at": "2025-11-17T09:34:33Z",
+    "updated_at": "2025-12-12T05:38:39Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_notice/main/logo.png"
   },
   "astrbot_plugin_pokepro": {
@@ -6305,7 +6305,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "stars": 111,
     "version": "v2.0.6",
-    "updated_at": "2025-12-12T05:30:36Z",
+    "updated_at": "2025-12-12T05:38:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
