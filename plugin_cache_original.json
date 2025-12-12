@@ -54,9 +54,9 @@
       "分段"
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.1.1",
-    "updated_at": "2025-12-11T18:49:46Z",
+    "updated_at": "2025-12-12T04:43:47Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -89,9 +89,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.0.0",
-    "updated_at": "2025-12-11T04:11:04Z",
+    "updated_at": "2025-12-12T04:47:09Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -212,8 +212,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 4,
-    "version": "v0.2.1",
-    "updated_at": "2025-12-12T04:22:20Z",
+    "version": "v0.2.2",
+    "updated_at": "2025-12-12T05:00:08Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -510,8 +510,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 10,
-    "version": "1.2.4",
-    "updated_at": "2025-12-10T05:57:13Z",
+    "version": "1.2.5",
+    "updated_at": "2025-12-12T04:48:10Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -6305,7 +6305,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "stars": 111,
     "version": "v2.0.6",
-    "updated_at": "2025-12-12T03:10:08Z",
+    "updated_at": "2025-12-12T05:30:36Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
