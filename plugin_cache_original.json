@@ -201,9 +201,9 @@
       "群聊",
       "消息总结"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.3.0",
-    "updated_at": "2025-12-12T08:02:21Z"
+    "updated_at": "2025-12-12T11:13:07Z"
   },
   "astrbot_plugin_bananic_ninjutsu": {
     "display_name": "香蕉忍法帖",
@@ -8781,9 +8781,9 @@
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v2.0.0",
-    "updated_at": "2025-12-09T01:04:23Z"
+    "updated_at": "2025-12-12T11:34:25Z"
   },
   "astrbot_plugin_AIQTalk": {
     "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
