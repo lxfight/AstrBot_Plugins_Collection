@@ -212,8 +212,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 4,
-    "version": "v0.2.3",
-    "updated_at": "2025-12-12T05:38:48Z",
+    "version": "v0.2.4",
+    "updated_at": "2025-12-12T09:14:08Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -3757,9 +3757,9 @@
       "唤醒增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 25,
+    "stars": 26,
     "version": "v1.1.7",
-    "updated_at": "2025-12-12T08:20:20Z",
+    "updated_at": "2025-12-12T08:56:44Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -7474,9 +7474,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 69,
+    "stars": 70,
     "version": "v3.0.3",
-    "updated_at": "2025-12-10T14:37:29Z",
+    "updated_at": "2025-12-12T09:27:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -8709,9 +8709,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 150,
+    "stars": 151,
     "version": "v2.0.11",
-    "updated_at": "2025-12-12T08:37:55Z"
+    "updated_at": "2025-12-12T08:50:12Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
