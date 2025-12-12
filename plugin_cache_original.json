@@ -213,7 +213,7 @@
     "tags": [],
     "stars": 4,
     "version": "v0.2.1",
-    "updated_at": "2025-12-11T13:24:44Z",
+    "updated_at": "2025-12-12T04:22:20Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -2003,9 +2003,9 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v3.9.1",
-    "updated_at": "2025-12-09T09:41:20Z",
+    "updated_at": "2025-12-12T03:45:37Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
@@ -4275,7 +4275,7 @@
     ],
     "stars": 4,
     "version": "v1.2.0",
-    "updated_at": "2025-12-12T03:00:22Z",
+    "updated_at": "2025-12-12T04:19:14Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -7592,9 +7592,9 @@
       "开盒"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "stars": 55,
+    "stars": 56,
     "version": "v1.2.2",
-    "updated_at": "2025-12-12T02:37:58Z",
+    "updated_at": "2025-12-12T04:38:22Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
@@ -7745,7 +7745,7 @@
     "social_link": "https://github.com/miaoxutao123/",
     "stars": 60,
     "version": "v0.2.14",
-    "updated_at": "2025-12-09T02:22:36Z"
+    "updated_at": "2025-12-12T04:33:54Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
