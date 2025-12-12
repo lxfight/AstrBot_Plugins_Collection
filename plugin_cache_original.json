@@ -201,9 +201,9 @@
       "群聊",
       "消息总结"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.3.0",
-    "updated_at": "2025-12-10T01:11:06Z"
+    "updated_at": "2025-12-12T08:02:21Z"
   },
   "astrbot_plugin_bananic_ninjutsu": {
     "display_name": "香蕉忍法帖",
@@ -596,9 +596,9 @@
     "tags": [
       "原神"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.3",
-    "updated_at": "2025-12-11T16:52:46Z",
+    "updated_at": "2025-12-12T08:18:13Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_genshinimpact/master/logo.png"
   },
   "astrbot_plugin_parse_hub": {
@@ -3521,9 +3521,9 @@
     "author": "idk114-514",
     "repo": "https://github.com/idk114-514/should_I_respond",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.0.1",
-    "updated_at": "2025-10-06T13:27:22Z"
+    "updated_at": "2025-12-12T08:19:51Z"
   },
   "astrbot_plugin_lmarena": {
     "display_name": "模型竞技场",
@@ -3622,9 +3622,9 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 36,
+    "stars": 37,
     "version": "0.5.0",
-    "updated_at": "2025-12-09T13:06:26Z",
+    "updated_at": "2025-12-12T08:18:31Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -3757,9 +3757,9 @@
       "唤醒增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 24,
+    "stars": 25,
     "version": "v1.1.7",
-    "updated_at": "2025-12-10T19:48:18Z",
+    "updated_at": "2025-12-12T08:20:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -4274,8 +4274,8 @@
       "主动回复"
     ],
     "stars": 4,
-    "version": "v1.2.0",
-    "updated_at": "2025-12-12T07:30:30Z",
+    "version": "v1.2.1",
+    "updated_at": "2025-12-12T07:39:38Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -5060,9 +5060,9 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 35,
+    "stars": 36,
     "version": "v3.4.0",
-    "updated_at": "2025-12-10T09:45:19Z",
+    "updated_at": "2025-12-12T08:29:33Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -5849,9 +5849,9 @@
     "tags": [
       "戳"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.4",
-    "updated_at": "2025-12-08T01:50:42Z"
+    "updated_at": "2025-12-12T08:29:52Z"
   },
   "astrbot_plugin_sql_history": {
     "author": "LW",
@@ -7671,8 +7671,8 @@
       "刺猬猫"
     ],
     "stars": 0,
-    "version": "v1.0.3",
-    "updated_at": "2025-12-12T07:20:00Z"
+    "version": "v1.0.8",
+    "updated_at": "2025-12-12T08:09:16Z"
   },
   "astrbot_plugin_majsoul-master": {
     "desc": "一个雀魂多功能插件",
@@ -8574,9 +8574,9 @@
     "author": "rinen0721",
     "repo": "https://github.com/rinen0721/astrbot_plugin_token_calculator",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2025-02-11T00:58:22Z"
+    "updated_at": "2025-12-12T08:40:47Z"
   },
   "astrbot_plugin_qna": {
     "desc": "自动识别群聊提问并解答",
@@ -8709,9 +8709,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 149,
+    "stars": 150,
     "version": "v2.0.11",
-    "updated_at": "2025-12-10T07:41:20Z"
+    "updated_at": "2025-12-12T08:37:55Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
