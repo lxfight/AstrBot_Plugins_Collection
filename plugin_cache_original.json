@@ -73,7 +73,7 @@
     "social_link": "https://github.com/sl251",
     "stars": 7,
     "version": "1.0.5",
-    "updated_at": "2025-12-11T17:24:30Z",
+    "updated_at": "2025-12-12T02:04:01Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -584,8 +584,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 15,
-    "version": "v1.7.1",
-    "updated_at": "2025-12-11T09:51:25Z",
+    "version": "v1.7.2",
+    "updated_at": "2025-12-12T03:12:24Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -2140,9 +2140,9 @@
       "娱乐"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 13,
+    "stars": 14,
     "version": "v3.0.0",
-    "updated_at": "2025-12-11T14:53:46Z",
+    "updated_at": "2025-12-12T03:06:48Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -2399,7 +2399,7 @@
     ],
     "stars": 3,
     "version": "v0.9",
-    "updated_at": "2025-11-23T20:59:11Z",
+    "updated_at": "2025-12-12T02:57:18Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_GroupFS/master/logo.png"
   },
   "group_notice_manager": {
@@ -3536,9 +3536,9 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 150,
+    "stars": 152,
     "version": "v2.1.3",
-    "updated_at": "2025-12-10T09:43:17Z",
+    "updated_at": "2025-12-12T03:09:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lmarena/main/logo.png"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -4275,7 +4275,7 @@
     ],
     "stars": 4,
     "version": "v1.2.0",
-    "updated_at": "2025-12-11T16:01:25Z",
+    "updated_at": "2025-12-12T03:00:22Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -5468,9 +5468,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 78,
+    "stars": 79,
     "version": "v1.0.3",
-    "updated_at": "2025-12-11T11:27:41Z",
+    "updated_at": "2025-12-12T03:09:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -5654,9 +5654,9 @@
       "RAG",
       "知识库"
     ],
-    "stars": 75,
+    "stars": 76,
     "version": "v0.5.9",
-    "updated_at": "2025-12-01T14:36:11Z"
+    "updated_at": "2025-12-12T03:07:22Z"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
@@ -5799,7 +5799,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 42,
     "version": "v1.0.5",
-    "updated_at": "2025-12-02T01:33:59Z",
+    "updated_at": "2025-12-12T02:43:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -6303,9 +6303,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 110,
+    "stars": 111,
     "version": "v2.0.6",
-    "updated_at": "2025-12-09T10:28:37Z",
+    "updated_at": "2025-12-12T03:10:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -7594,7 +7594,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
     "stars": 55,
     "version": "v1.2.2",
-    "updated_at": "2025-12-12T01:59:46Z",
+    "updated_at": "2025-12-12T02:37:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
@@ -8096,9 +8096,9 @@
       "webui",
       "图床"
     ],
-    "stars": 105,
+    "stars": 106,
     "version": "v3.19",
-    "updated_at": "2025-12-11T05:27:55Z"
+    "updated_at": "2025-12-12T03:02:23Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
