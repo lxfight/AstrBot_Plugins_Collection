@@ -408,9 +408,9 @@
     ],
     "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
     "social_link": "https://github.com/Huahuatgc",
-    "stars": 2,
+    "stars": 3,
     "version": "2.5.0",
-    "updated_at": "2025-12-13T05:37:26Z",
+    "updated_at": "2025-12-13T08:52:48Z",
     "logo": "https://raw.githubusercontent.com/Huahuatgc/astrbot_plugin_aicu/master/logo.png"
   },
   "astrbot_plugin_ShareholderPerks": {
@@ -1720,9 +1720,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 48,
+    "stars": 49,
     "version": "v1.0.0-beta.7",
-    "updated_at": "2025-12-09T13:49:13Z",
+    "updated_at": "2025-12-13T09:02:38Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -3315,8 +3315,8 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
     "tags": [],
     "stars": 6,
-    "version": "0.2.0",
-    "updated_at": "2025-11-28T15:41:00Z"
+    "version": "0.2.1",
+    "updated_at": "2025-12-13T08:45:00Z"
   },
   "astrbot_plugin_jojo_stand_panel": {
     "desc": "一个用于 AstrBot 的 JOJO 替身面板生成插件，调用 TripleYing 的 API 生成 JOJO 风格替身面板图片。支持随机生成、自定义设置、替身系统等功能。",
@@ -3812,7 +3812,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 9,
     "version": "v1.0.7",
-    "updated_at": "2025-12-13T05:41:47Z",
+    "updated_at": "2025-12-13T09:25:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -5038,7 +5038,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 5,
     "version": "v1.0.1",
-    "updated_at": "2025-10-31T06:00:05Z",
+    "updated_at": "2025-12-13T09:26:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_afdian/main/logo.png"
   },
   "astrbot_plugin_runes": {
@@ -6040,7 +6040,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 8,
     "version": "v1.0.4",
-    "updated_at": "2025-11-22T23:34:52Z",
+    "updated_at": "2025-12-13T09:27:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_broadcast/main/logo.png"
   },
   "astrbot_plugin_nobot": {
@@ -6306,7 +6306,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "stars": 111,
     "version": "v2.0.6",
-    "updated_at": "2025-12-12T05:38:40Z",
+    "updated_at": "2025-12-13T09:26:29Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -6978,7 +6978,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "stars": 19,
     "version": "v1.1.4",
-    "updated_at": "2025-11-17T04:32:11Z",
+    "updated_at": "2025-12-13T09:28:10Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -7595,7 +7595,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
     "stars": 57,
     "version": "v1.2.2",
-    "updated_at": "2025-12-12T14:22:18Z",
+    "updated_at": "2025-12-13T09:26:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
