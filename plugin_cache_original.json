@@ -90,9 +90,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 9,
-    "version": "v1.0.0",
-    "updated_at": "2025-12-12T04:47:09Z",
+    "stars": 10,
+    "version": "v1.1.0",
+    "updated_at": "2025-12-13T15:17:03Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -511,8 +511,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 10,
-    "version": "1.2.5",
-    "updated_at": "2025-12-12T04:48:10Z",
+    "version": "1.2.6",
+    "updated_at": "2025-12-13T14:56:13Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -653,7 +653,7 @@
     "social_link": "https://github.com/bvzrays",
     "stars": 39,
     "version": "v2.2.0",
-    "updated_at": "2025-12-13T14:19:52Z",
+    "updated_at": "2025-12-13T14:58:20Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
