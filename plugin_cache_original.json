@@ -13,7 +13,7 @@
     "social_link": "https://github.com/Xbodwf",
     "stars": 2,
     "version": "1.4.5",
-    "updated_at": "2025-12-13T04:43:33Z",
+    "updated_at": "2025-12-13T06:22:20Z",
     "logo": "https://raw.githubusercontent.com/Xbodwf/astrbot_plugin_code_renderer/master/logo.png"
   },
   "astrbot_plugin_life_scheduler": {
@@ -379,9 +379,9 @@
       "@"
     ],
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
-    "stars": 7,
+    "stars": 8,
     "version": "v2.2.1",
-    "updated_at": "2025-12-10T04:17:21Z",
+    "updated_at": "2025-12-13T06:11:25Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
   "astrbot_plugin_CloudImg": {
@@ -408,9 +408,9 @@
     ],
     "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
     "social_link": "https://github.com/Huahuatgc",
-    "stars": 1,
+    "stars": 2,
     "version": "2.5.0",
-    "updated_at": "2025-12-10T10:13:19Z",
+    "updated_at": "2025-12-13T05:37:26Z",
     "logo": "https://raw.githubusercontent.com/Huahuatgc/astrbot_plugin_aicu/master/logo.png"
   },
   "astrbot_plugin_ShareholderPerks": {
@@ -2141,9 +2141,9 @@
       "娱乐"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 14,
+    "stars": 15,
     "version": "v3.0.0",
-    "updated_at": "2025-12-12T03:06:48Z",
+    "updated_at": "2025-12-13T06:13:06Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -2499,9 +2499,9 @@
       "成员查询"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 10,
+    "stars": 11,
     "version": "v0.1.0",
-    "updated_at": "2025-12-08T04:29:31Z"
+    "updated_at": "2025-12-13T06:13:30Z"
   },
   "qftp": {
     "desc": "一个基于 astrbot 的文件管理插件，支持文件下载、搜索等功能。只在napcat+linux下尝试",
@@ -3391,9 +3391,9 @@
       "群管"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.4",
-    "updated_at": "2025-12-08T04:29:38Z"
+    "updated_at": "2025-12-13T06:14:13Z"
   },
   "command_to_llm": {
     "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
@@ -3811,8 +3811,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 9,
-    "version": "v1.0.6",
-    "updated_at": "2025-12-10T02:25:10Z",
+    "version": "v1.0.7",
+    "updated_at": "2025-12-13T05:41:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -6076,9 +6076,9 @@
     "desc": "活字印刷（文本转语音）",
     "repo": "https://github.com/ttq7/astrbot_plugin_voiceprint",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2025-07-14T11:49:10Z"
+    "updated_at": "2025-12-13T05:46:29Z"
   },
   "astrbot_plugin_mrfz": {
     "author": "bushikq",
@@ -7744,9 +7744,9 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 60,
+    "stars": 61,
     "version": "v0.2.14",
-    "updated_at": "2025-12-12T13:12:25Z"
+    "updated_at": "2025-12-13T05:46:26Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
