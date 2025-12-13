@@ -1171,9 +1171,9 @@
       "HTTP"
     ],
     "social_link": "https://github.com/fluidcat/astrbot_plugin_http_adapter/issues",
-    "stars": 5,
+    "stars": 6,
     "version": "1.2.0",
-    "updated_at": "2025-12-09T15:39:18Z"
+    "updated_at": "2025-12-13T17:44:02Z"
   },
   "astrbot_plugin_nyweather": {
     "display_name": "天气查询插件",
@@ -4936,9 +4936,9 @@
     "repo": "https://github.com/HakimYu/astrbot_plugin_solve_longmsg",
     "desc": "撤回并合并转发群员或者机器人的长消息",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.2",
-    "updated_at": "2025-06-21T12:22:51Z"
+    "updated_at": "2025-12-13T17:55:42Z"
   },
   "astrbot_plugin_promise_keeper": {
     "author": "xunxi",
