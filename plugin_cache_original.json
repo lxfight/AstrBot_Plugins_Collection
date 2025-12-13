@@ -2557,9 +2557,9 @@
       "game",
       "fishing"
     ],
-    "stars": 22,
+    "stars": 23,
     "version": "2.4.7",
-    "updated_at": "2025-12-12T15:28:08Z",
+    "updated_at": "2025-12-13T20:31:04Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
