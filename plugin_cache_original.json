@@ -2820,7 +2820,7 @@
     "social_link": "https://github.com/kawayiYokami",
     "stars": 18,
     "version": "0.8.3",
-    "updated_at": "2025-12-13T11:19:36Z"
+    "updated_at": "2025-12-13T11:38:33Z"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -7593,9 +7593,9 @@
       "开盒"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "stars": 57,
+    "stars": 58,
     "version": "v1.2.2",
-    "updated_at": "2025-12-13T09:26:48Z",
+    "updated_at": "2025-12-13T11:57:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
