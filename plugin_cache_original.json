@@ -652,8 +652,8 @@
     ],
     "social_link": "https://github.com/bvzrays",
     "stars": 39,
-    "version": "v2.0.0",
-    "updated_at": "2025-12-09T21:35:51Z",
+    "version": "v2.2.0",
+    "updated_at": "2025-12-13T14:19:52Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -1444,9 +1444,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.1.2",
-    "updated_at": "2025-12-13T10:15:50Z",
+    "updated_at": "2025-12-13T13:52:42Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -7594,8 +7594,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
     "stars": 58,
-    "version": "v1.2.2",
-    "updated_at": "2025-12-13T11:57:43Z",
+    "version": "v1.2.4",
+    "updated_at": "2025-12-13T14:18:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
