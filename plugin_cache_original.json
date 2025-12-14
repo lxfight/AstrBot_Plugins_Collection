@@ -90,9 +90,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1.0",
-    "updated_at": "2025-12-13T15:20:12Z",
+    "updated_at": "2025-12-14T05:04:58Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -408,9 +408,9 @@
     ],
     "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
     "social_link": "https://github.com/Huahuatgc",
-    "stars": 3,
+    "stars": 4,
     "version": "2.5.0",
-    "updated_at": "2025-12-13T08:52:48Z",
+    "updated_at": "2025-12-14T05:14:46Z",
     "logo": "https://raw.githubusercontent.com/Huahuatgc/astrbot_plugin_aicu/master/logo.png"
   },
   "astrbot_plugin_ShareholderPerks": {
@@ -6991,8 +6991,8 @@
       "QQ群管"
     ],
     "stars": 72,
-    "version": "v3.2.5",
-    "updated_at": "2025-12-13T10:56:09Z",
+    "version": "v3.2.6",
+    "updated_at": "2025-12-14T05:26:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
