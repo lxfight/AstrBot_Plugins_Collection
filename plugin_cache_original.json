@@ -5469,9 +5469,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 79,
+    "stars": 80,
     "version": "v1.0.3",
-    "updated_at": "2025-12-12T03:09:45Z",
+    "updated_at": "2025-12-14T09:29:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -7608,8 +7608,8 @@
       "实用工具"
     ],
     "stars": 22,
-    "version": "v2.0.3",
-    "updated_at": "2025-12-14T03:27:31Z",
+    "version": "v2.1.0",
+    "updated_at": "2025-12-14T09:13:44Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
