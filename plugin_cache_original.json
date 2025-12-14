@@ -64,9 +64,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.3",
-    "updated_at": "2025-12-13T11:44:53Z",
+    "updated_at": "2025-12-14T12:10:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -497,7 +497,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.3.0",
-    "updated_at": "2025-12-14T11:17:35Z"
+    "updated_at": "2025-12-14T11:22:23Z"
   },
   "astrbot_plugin_gifcaijian": {
     "display_name": "裁剪和合并 GIF",
