@@ -1,4 +1,104 @@
 {
+	"astrbot_plugin_wca": {
+	  "display_name": "WCA 查询",
+	  "desc": "包含个人最佳成绩查询以及选手 PK。",
+	  "author": "huizhiLLL",
+	  "repo": "https://github.com/huizhiLLL/astrbot_plugin_wca",
+	  "tags": [
+	    "魔方", "WCA"
+	  ],
+	  "social_link": "https://github.com/huizhiLLL"
+	},
+	"astrbot_plugin_memos_integrator": {
+	  "display_name": "MemOS 记忆集成插件",
+	  "desc": "为 AstrBot 提供 MemOS 记忆功能，实现持久化对话记忆和智能检索",
+	  "author": "zz6zz666",
+	  "repo": "https://github.com/zz6zz666/astrbot_plugin_memos_integrator",
+	  "tags": ["memory"]
+	},
+	"astrbot_plugin_fortnue": {
+	  "display_name": "fortnue_image",
+	  "desc": "生成一张包含多种信息的二次元今日运势图片",
+	  "author": "Xbodw",
+	  "repo": "https://github.com/Xbodwf/astrbot_plugin_fortnue",
+	  "tags": [
+	    "今日运势",
+	    "二次元",
+	    "图片"
+	  ],
+	  "social_link": "https://github.com/Xbodwf"
+	},
+	"astrbot_plugin_QQbox": {
+	  "display_name": "QQbox",
+	  "desc": "仿 QQ 聊天气泡生成。可将文字转换为高度还原的 QQ 风格聊天图片。支持自定义用户头衔、颜色和备注名，自动获取QQ头像与昵称，生成气泡消息。如有问题，请先尝试重载插件。",
+	  "author": "lishining",
+	  "repo": "https://github.com/Li-shi-ling/astrbot_plugin_QQbox",
+	  "tags": [
+	    "恶搞",
+	    "迫害群友"
+	  ]
+	},
+	"astrbot_plugin_parser": {
+	  "display_name": "万能解析器",
+	  "desc": "高性能低耦合的万能链接解析器。支持视频、图集、音频类型和 A站、B站、抖音、TikTok、微博、小红书、快手、Youtube、X 等平台",
+	  "author": "Zhalslar",
+	  "repo": "https://github.com/Zhalslar/astrbot_plugin_parser",
+	  "tags": [
+	    "解析",
+	    "链接"
+	  ],
+	  "social_link": "https://github.com/Zhalslar"
+	},
+	"astrbot_plugin_transport": {
+	  "display_name": "综合交通查询",
+	  "desc": "综合交通查询插件，支持车站大屏信息查询、地铁换乘路线查询和最低机票查询。",
+	  "author": "柠柚",
+	  "repo": "https://github.com/ningyou8023/astrbot_plugin_transport",
+	  "tags": [
+	    "火车",
+	    "地铁",
+	    "机票"
+	  ]
+	},
+	"astrbot_plugin_tsserver_relay": {
+	  "display_name": "TSRealy",
+	  "desc": "TeamSpeak 3 服务器监控 - 实时推送用户进出、服务器状态到群消息",
+	  "author": "GEMILUXVII",
+	  "repo": "https://github.com/GEMILUXVII/astrbot_plugin_tsserver_relay",
+	  "tags": ["teamspeak"],
+	  "social_link": "https://github.com/GEMILUXVII"
+	},
+	"astrbot_plugin_duel_galatea": {
+	  "display_name": "游戏王工具箱",
+	  "desc": "一个游戏王全能工具箱,基于百鸽API提供游戏王卡片查询，卡图下载功能，基于duelmeta网站对当期DL/MD T表进行查询，并返回关键卡片，查询ROTK网站爬取当期OCG饼图和示例卡组,接收ourocg/ydke链接或ydk文本发送卡组图片，并提供随机一卡，发动王牌圣杯等娱乐功能",
+	  "author": "Noctfom",
+	  "repo": "https://github.com/Noctfom/astrbot-plugin-duel-galatea",
+	  "tags": [
+	    "游戏王",
+	    "卡牌"
+	  ]
+	},
+	"astrbot_plugin_epic_free_games_notice": {
+	  "display_name": "Epic 免费游戏提醒",
+	  "desc": "一个为AstrBot设计的 Epic 喜加一游戏提醒插件。该插件可自动或手动推送本周的 Epic 免费游戏信息到指定群组，帮助群成员及时领取免费游戏。理论上支持所有客户端。",
+	  "author": "CJSen",
+	  "repo": "https://github.com/CJSen/astrbot_plugin_epic_free_games_notice",
+	  "social_link": "https://chjs.936668.xyz/"
+	},
+	"astrbot_plugin_be_checker": {
+	  "display_name": "封禁检查",
+	  "desc": "查询 GTA Online 玩家的 BattlEye 封禁状态。支持通过用户名或 RID 查询，自动缓存 RID 信息提高查询效率，支持强制重新查询。",
+	  "author": "oakboat",
+	  "repo": "https://github.com/oakboat/astrbot_plugin_be_checker",
+	  "tags": [
+	    "GTA",
+	    "封禁查询",
+	    "BattlEye",
+	    "游戏工具",
+	    "查询工具"
+	  ],
+	  "social_link": "https://github.com/oakboat"
+	},
 	"astrbot_plugin_code_renderer": {
 	  "display_name": "Code-Renderer",
 	  "desc": "将代码信息或者代码文件渲染为带有语法高亮的图片",
@@ -8,7 +108,8 @@
 	    "代码",
 	    "渲染",
 	    "语法高亮",
-	    "图片"
+	    "图片",
+		"playwright"
 	  ],
 	  "social_link": "https://github.com/Xbodwf"
 	},
@@ -1326,6 +1427,14 @@
 			"sora"
 		],
 		"social_link": "https://github.com/CCYellowStar2"
+	},
+	"astrbot_plugin_video_sora2": {
+	  "name": "",
+	  "display_name": "sora2",
+	  "desc": "astrbot_plugin_video_sora的 fork 版本支持自动获取 ChatGPT AccessToken",
+	  "author": "maimai",
+	  "repo": "https://github.com/maimai993/astrbot_plugin_video_sora2",
+	  "social_link": "https://github.com/maimai993"
 	},
 	"astrbot_plugin_video_sora": {
 		"desc": "使用 OpenAI Sora 模型生成视频",
