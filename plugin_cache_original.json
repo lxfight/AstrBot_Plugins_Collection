@@ -213,8 +213,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 5,
-    "version": "v0.2.9",
-    "updated_at": "2025-12-13T15:59:26Z",
+    "version": "v0.3.0",
+    "updated_at": "2025-12-14T07:18:40Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -3811,8 +3811,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 9,
-    "version": "v1.0.8",
-    "updated_at": "2025-12-14T06:08:58Z",
+    "version": "v1.0.9",
+    "updated_at": "2025-12-14T06:44:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
