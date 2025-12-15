@@ -119,8 +119,8 @@
     "social_link": "https://chjs.936668.xyz/",
     "tags": [],
     "stars": 0,
-    "version": "v0.0.2",
-    "updated_at": "2025-12-12T09:58:29Z"
+    "version": "v0.0.3",
+    "updated_at": "2025-12-15T05:33:43Z"
   },
   "astrbot_plugin_be_checker": {
     "display_name": "封禁检查",
@@ -520,9 +520,9 @@
       "@"
     ],
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
-    "stars": 8,
+    "stars": 9,
     "version": "v2.2.2",
-    "updated_at": "2025-12-15T01:21:45Z",
+    "updated_at": "2025-12-15T05:33:57Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
   "astrbot_plugin_CloudImg": {
