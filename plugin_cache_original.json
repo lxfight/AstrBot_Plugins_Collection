@@ -11,7 +11,7 @@
     "social_link": "https://github.com/huizhiLLL",
     "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2025-12-15T07:36:39Z",
+    "updated_at": "2025-12-15T15:21:37Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -505,9 +505,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.5",
-    "updated_at": "2025-12-06T05:28:02Z"
+    "updated_at": "2025-12-15T15:18:48Z"
   },
   "astrbot_plugin_AtTool": {
     "display_name": "@工具（艾特工具）",
@@ -1030,8 +1030,8 @@
     ],
     "social_link": "https://github.com/HSOS6",
     "stars": 1,
-    "version": "1.1.18.beta",
-    "updated_at": "2025-12-15T14:26:01Z",
+    "version": "2.0.25.WNMCNXM",
+    "updated_at": "2025-12-15T15:02:21Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
   },
   "astrbot_plugin_minecraft_adapter": {
@@ -1377,8 +1377,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_siliconflow-shouban",
     "version": "v1.3.5",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-12-11T05:38:08Z"
+    "stars": 4,
+    "updated_at": "2025-12-15T15:18:47Z"
   },
   "astrbot_plugin_eatdrink": {
     "display_name": "吃喝什么呢？",
@@ -1416,9 +1416,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_vangonography",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2025-12-06T05:31:19Z"
+    "updated_at": "2025-12-15T15:18:52Z"
   },
   "astrbot_plugin_bolatuship": {
     "desc": "使用柏拉图API接口和Sora 2等模型生成视频。",
@@ -1426,8 +1426,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_bolatuship",
     "version": "v1.0.0",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-11-19T14:30:43Z"
+    "stars": 3,
+    "updated_at": "2025-12-15T15:18:51Z"
   },
   "astrbot_plugin_NetEaseCloud_Music": {
     "display_name": "网易云点歌",
@@ -2454,9 +2454,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_guijishiping",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.0",
-    "updated_at": "2025-12-06T05:32:01Z"
+    "updated_at": "2025-12-15T15:18:56Z"
   },
   "astrbot_plugin_user_inject": {
     "desc": "根据用户id动态注入system_prompt",
@@ -3139,9 +3139,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 33,
+    "stars": 34,
     "version": "v1.7.6",
-    "updated_at": "2025-12-10T04:15:50Z"
+    "updated_at": "2025-12-15T15:18:46Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -4048,9 +4048,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 40,
+    "stars": 41,
     "version": "v2.2.8",
-    "updated_at": "2025-12-15T13:50:26Z",
+    "updated_at": "2025-12-15T15:09:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
