@@ -522,7 +522,7 @@
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
     "stars": 8,
     "version": "v2.2.2",
-    "updated_at": "2025-12-14T08:17:52Z",
+    "updated_at": "2025-12-15T01:21:45Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
   "astrbot_plugin_CloudImg": {
@@ -1044,9 +1044,9 @@
       "Minecraft"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 0,
+    "stars": 1,
     "version": "1.2.0",
-    "updated_at": "2025-11-12T15:33:32Z",
+    "updated_at": "2025-12-15T01:48:16Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_minecraft_monitor": {
@@ -1837,8 +1837,8 @@
       "实用"
     ],
     "stars": 3,
-    "version": "1.2.0",
-    "updated_at": "2025-12-01T07:01:58Z",
+    "version": "1.2.1",
+    "updated_at": "2025-12-15T01:23:45Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_github_monitor_shell/master/logo.png"
   },
   "astrbot_plugin_ragflow_adapter": {
