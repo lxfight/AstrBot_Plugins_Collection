@@ -318,7 +318,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 14,
     "version": "v1.1.1",
-    "updated_at": "2025-12-14T16:09:45Z",
+    "updated_at": "2025-12-15T14:22:04Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -1031,7 +1031,7 @@
     "social_link": "https://github.com/HSOS6",
     "stars": 1,
     "version": "1.1.18.beta",
-    "updated_at": "2025-12-11T06:37:06Z",
+    "updated_at": "2025-12-15T14:26:01Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
   },
   "astrbot_plugin_minecraft_adapter": {
@@ -3778,7 +3778,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 38,
     "version": "0.5.0",
-    "updated_at": "2025-12-14T13:54:05Z",
+    "updated_at": "2025-12-15T14:24:09Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -4048,9 +4048,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 39,
+    "stars": 40,
     "version": "v2.2.8",
-    "updated_at": "2025-12-15T03:56:49Z",
+    "updated_at": "2025-12-15T13:50:26Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -7763,7 +7763,7 @@
     ],
     "stars": 22,
     "version": "v2.2.0",
-    "updated_at": "2025-12-15T12:21:39Z",
+    "updated_at": "2025-12-15T14:25:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
@@ -8210,9 +8210,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 481,
+    "stars": 482,
     "version": "v0.915",
-    "updated_at": "2025-12-14T14:16:52Z"
+    "updated_at": "2025-12-15T14:38:12Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
