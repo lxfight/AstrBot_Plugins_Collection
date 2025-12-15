@@ -79,9 +79,9 @@
       "地铁",
       "机票"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2025-12-10T07:07:03Z",
+    "updated_at": "2025-12-15T09:51:29Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_transport/main/logo.png"
   },
   "astrbot_plugin_tsserver_relay": {
@@ -233,7 +233,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 12,
     "version": "v1.1.0",
-    "updated_at": "2025-12-14T14:11:06Z",
+    "updated_at": "2025-12-15T09:42:31Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -652,8 +652,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 10,
-    "version": "1.2.7",
-    "updated_at": "2025-12-14T08:11:49Z",
+    "version": "1.2.8",
+    "updated_at": "2025-12-15T09:44:51Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -1560,8 +1560,8 @@
     ],
     "social_link": "https://github.com/Luna-channel",
     "stars": 8,
-    "version": "1.4.1",
-    "updated_at": "2025-12-09T10:24:33Z",
+    "version": "1.4.2",
+    "updated_at": "2025-12-15T09:51:45Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
