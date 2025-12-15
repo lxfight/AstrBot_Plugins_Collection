@@ -10,8 +10,8 @@
     ],
     "social_link": "https://github.com/huizhiLLL",
     "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2025-12-13T15:04:20Z",
+    "version": "v1.0.1",
+    "updated_at": "2025-12-15T07:07:58Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -344,8 +344,8 @@
       "消息总结"
     ],
     "stars": 2,
-    "version": "v1.3.0",
-    "updated_at": "2025-12-15T02:44:59Z"
+    "version": "v1.3.1",
+    "updated_at": "2025-12-15T07:20:39Z"
   },
   "astrbot_plugin_bananic_ninjutsu": {
     "display_name": "香蕉忍法帖",
@@ -2039,8 +2039,8 @@
       "实用"
     ],
     "stars": 8,
-    "version": "v2.8.3",
-    "updated_at": "2025-12-11T10:54:53Z",
+    "version": "v2.8.4",
+    "updated_at": "2025-12-15T07:18:58Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -3400,9 +3400,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 90,
+    "stars": 91,
     "version": "v4.3.0",
-    "updated_at": "2025-12-14T15:31:16Z",
+    "updated_at": "2025-12-15T07:20:57Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -7307,8 +7307,8 @@
       "安全"
     ],
     "stars": 8,
-    "version": "v2.8.3",
-    "updated_at": "2025-12-11T10:54:53Z",
+    "version": "v2.8.4",
+    "updated_at": "2025-12-15T07:18:58Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "JmCli": {
