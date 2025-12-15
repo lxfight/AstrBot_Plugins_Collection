@@ -10,8 +10,8 @@
     ],
     "social_link": "https://github.com/huizhiLLL",
     "stars": 1,
-    "version": "v1.0.1",
-    "updated_at": "2025-12-15T15:21:37Z",
+    "version": "v1.0.2",
+    "updated_at": "2025-12-15T15:31:20Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -153,8 +153,8 @@
     ],
     "social_link": "https://github.com/Xbodwf",
     "stars": 2,
-    "version": "1.4.7",
-    "updated_at": "2025-12-14T04:17:30Z",
+    "version": "1.5.0",
+    "updated_at": "2025-12-15T16:20:08Z",
     "logo": "https://raw.githubusercontent.com/Xbodwf/astrbot_plugin_code_renderer/master/logo.png"
   },
   "astrbot_plugin_life_scheduler": {
@@ -389,8 +389,8 @@
     "repo": "https://github.com/zz6zz666/astrbot_plugin_tool_use_cleaner",
     "tags": [],
     "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2025-12-12T14:58:57Z"
+    "version": "v1.3.0",
+    "updated_at": "2025-12-15T15:33:39Z"
   },
   "undercover": {
     "desc": "一个谁是卧底游戏插件，支持多人在线游戏。",
@@ -970,9 +970,9 @@
     "author": "cube-lover",
     "repo": "https://github.com/cube-lover/doubao",
     "tags": [],
-    "stars": 12,
+    "stars": 13,
     "version": "v2.1",
-    "updated_at": "2025-12-10T13:16:27Z"
+    "updated_at": "2025-12-15T16:05:44Z"
   },
   "astrbot_plugin_daliy_news": {
     "display_name": "每日 60s 新闻",
@@ -2319,8 +2319,8 @@
       "审查"
     ],
     "stars": 1,
-    "version": "v1.1.1",
-    "updated_at": "2025-12-11T06:01:45Z"
+    "version": "v1.2.0",
+    "updated_at": "2025-12-15T16:18:58Z"
   },
   "astrbot_quotes_plugin": {
     "desc": "语录插件。记录 QQ 群友说过的话。",
@@ -3776,9 +3776,9 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 38,
+    "stars": 39,
     "version": "0.5.0",
-    "updated_at": "2025-12-15T14:24:09Z",
+    "updated_at": "2025-12-15T15:54:48Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
