@@ -1561,7 +1561,7 @@
     "social_link": "https://github.com/Luna-channel",
     "stars": 8,
     "version": "1.4.2",
-    "updated_at": "2025-12-15T09:51:45Z",
+    "updated_at": "2025-12-15T11:03:29Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -3445,9 +3445,9 @@
       "wxauto"
     ],
     "social_link": "blog.isla.ltd",
-    "stars": 14,
+    "stars": 15,
     "version": "1.2.0",
-    "updated_at": "2025-12-11T06:10:47Z"
+    "updated_at": "2025-12-15T11:12:19Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
@@ -7144,9 +7144,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 72,
+    "stars": 73,
     "version": "v3.2.6",
-    "updated_at": "2025-12-14T10:45:15Z",
+    "updated_at": "2025-12-15T10:50:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -7629,9 +7629,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 70,
+    "stars": 71,
     "version": "v3.0.3",
-    "updated_at": "2025-12-13T10:52:33Z",
+    "updated_at": "2025-12-15T10:57:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
@@ -7762,8 +7762,8 @@
       "实用工具"
     ],
     "stars": 22,
-    "version": "v2.1.0",
-    "updated_at": "2025-12-15T03:29:56Z",
+    "version": "v2.2.0",
+    "updated_at": "2025-12-15T11:19:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
