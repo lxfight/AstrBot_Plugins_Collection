@@ -118,9 +118,9 @@
     "repo": "https://github.com/CJSen/astrbot_plugin_epic_free_games_notice",
     "social_link": "https://chjs.936668.xyz/",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v0.0.3",
-    "updated_at": "2025-12-15T05:33:43Z"
+    "updated_at": "2025-12-15T11:28:21Z"
   },
   "astrbot_plugin_be_checker": {
     "display_name": "封禁检查",
@@ -343,9 +343,9 @@
       "群聊",
       "消息总结"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.3.1",
-    "updated_at": "2025-12-15T07:20:39Z"
+    "updated_at": "2025-12-15T11:28:15Z"
   },
   "astrbot_plugin_bananic_ninjutsu": {
     "display_name": "香蕉忍法帖",
@@ -1652,9 +1652,9 @@
       "bilibili",
       "视频链接解析"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0",
-    "updated_at": "2025-12-09T11:10:42Z"
+    "updated_at": "2025-12-15T11:23:40Z"
   },
   "astrbot_plugin_mcgetter_enhanced": {
     "display_name": "mcgetter-enhanced",
@@ -1863,7 +1863,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 49,
     "version": "v1.0.0-beta.7",
-    "updated_at": "2025-12-14T14:51:09Z",
+    "updated_at": "2025-12-15T11:38:26Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -5622,9 +5622,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 80,
+    "stars": 81,
     "version": "v1.0.3",
-    "updated_at": "2025-12-14T09:29:12Z",
+    "updated_at": "2025-12-15T12:48:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -6220,9 +6220,9 @@
       "我的世界"
     ],
     "social_link": "https://github.com/QiChenSn",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.5.1",
-    "updated_at": "2025-11-28T01:33:54Z"
+    "updated_at": "2025-12-15T12:49:18Z"
   },
   "astrbot_plugin_voiceprint": {
     "author": "hello七七",
@@ -7763,7 +7763,7 @@
     ],
     "stars": 22,
     "version": "v2.2.0",
-    "updated_at": "2025-12-15T11:19:40Z",
+    "updated_at": "2025-12-15T12:21:39Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
