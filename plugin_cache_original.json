@@ -11,7 +11,7 @@
     "social_link": "https://github.com/huizhiLLL",
     "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2025-12-15T07:07:58Z",
+    "updated_at": "2025-12-15T07:36:39Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -7747,9 +7747,9 @@
       "开盒"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "stars": 58,
+    "stars": 59,
     "version": "v1.2.4",
-    "updated_at": "2025-12-15T03:23:09Z",
+    "updated_at": "2025-12-15T08:29:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
