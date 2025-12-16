@@ -51,8 +51,8 @@
       "迫害群友"
     ],
     "stars": 0,
-    "version": "v1.1.6",
-    "updated_at": "2025-12-15T02:48:51Z"
+    "version": "v1.1.7",
+    "updated_at": "2025-12-16T06:29:47Z"
   },
   "astrbot_plugin_parser": {
     "display_name": "万能解析器",
@@ -65,8 +65,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 13,
-    "version": "v1.0.4",
-    "updated_at": "2025-12-16T04:46:41Z",
+    "version": "v1.0.5",
+    "updated_at": "2025-12-16T06:24:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
