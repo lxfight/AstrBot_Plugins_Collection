@@ -1210,7 +1210,7 @@
     ],
     "stars": 8,
     "version": "v3.2.0",
-    "updated_at": "2025-12-11T19:41:00Z",
+    "updated_at": "2025-12-16T18:22:55Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -9009,9 +9009,9 @@
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
     "tags": [],
-    "stars": 14,
+    "stars": 15,
     "version": "v2.0.0",
-    "updated_at": "2025-12-12T11:34:25Z"
+    "updated_at": "2025-12-16T18:00:04Z"
   },
   "astrbot_plugin_AIQTalk": {
     "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
