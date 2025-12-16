@@ -64,9 +64,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.5",
-    "updated_at": "2025-12-16T06:24:11Z",
+    "updated_at": "2025-12-16T08:27:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -135,9 +135,9 @@
       "查询工具"
     ],
     "social_link": "https://github.com/oakboat",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2025-12-10T03:58:43Z"
+    "updated_at": "2025-12-16T07:34:24Z"
   },
   "astrbot_plugin_code_renderer": {
     "display_name": "Code-Renderer",
@@ -1585,9 +1585,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.1.2",
-    "updated_at": "2025-12-13T18:39:51Z",
+    "updated_at": "2025-12-16T07:35:20Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -3848,9 +3848,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 51,
+    "stars": 53,
     "version": "1.6.1",
-    "updated_at": "2025-12-12T20:58:18Z"
+    "updated_at": "2025-12-16T08:17:14Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
