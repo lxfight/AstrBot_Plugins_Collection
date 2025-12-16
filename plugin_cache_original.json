@@ -10,8 +10,8 @@
     ],
     "social_link": "https://github.com/huizhiLLL",
     "stars": 1,
-    "version": "v1.0.2",
-    "updated_at": "2025-12-15T15:31:20Z",
+    "version": "v1.0.3",
+    "updated_at": "2025-12-16T09:54:44Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -66,7 +66,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 14,
     "version": "v1.0.6",
-    "updated_at": "2025-12-16T09:16:12Z",
+    "updated_at": "2025-12-16T10:24:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -3558,9 +3558,9 @@
       "function"
     ],
     "social_link": "https://github.com/kjqwer",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.1",
-    "updated_at": "2025-12-01T14:24:39Z"
+    "updated_at": "2025-12-16T09:59:11Z"
   },
   "astrbot_plugin_lark_send_patcher": {
     "desc": "通过猴子补丁的方式，优化了飞书Lark适配器下，机器人发送的消息引用太频繁的问题。现在飞书下所有的机器人回复从引用消息变更为直接发送。插件可能会随着astrbot本体版本更新，涉及到lark_adapter和lark_event重大更新时失效。",
@@ -4659,9 +4659,9 @@
       "模仿"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1.0",
-    "updated_at": "2025-10-16T00:48:05Z"
+    "updated_at": "2025-12-16T09:53:47Z"
   },
   "EmailNotixion": {
     "name": "EmailNotixion",
