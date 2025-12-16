@@ -4007,7 +4007,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 10,
     "version": "v1.0.9",
-    "updated_at": "2025-12-14T18:31:24Z",
+    "updated_at": "2025-12-16T13:33:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -4356,9 +4356,9 @@
     "tags": [
       "点赞"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0",
-    "updated_at": "2025-07-29T12:55:25Z"
+    "updated_at": "2025-12-16T13:32:50Z"
   },
   "astrbot_plugin_image_censor": {
     "desc": "AstrBot 图片审查插件",
@@ -7219,7 +7219,7 @@
     ],
     "stars": 73,
     "version": "v3.2.6",
-    "updated_at": "2025-12-15T10:50:27Z",
+    "updated_at": "2025-12-16T13:49:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
