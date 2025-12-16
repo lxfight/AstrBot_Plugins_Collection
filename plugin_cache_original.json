@@ -316,9 +316,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 14,
+    "stars": 15,
     "version": "v1.1.1",
-    "updated_at": "2025-12-15T14:22:04Z",
+    "updated_at": "2025-12-16T16:29:27Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -1632,8 +1632,8 @@
       "发言统计"
     ],
     "stars": 9,
-    "version": "1.6.9",
-    "updated_at": "2025-12-16T11:05:41Z",
+    "version": "1.7.0",
+    "updated_at": "2025-12-16T16:01:36Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -2254,8 +2254,8 @@
     ],
     "social_link": "https://www.misakanet.site",
     "stars": 8,
-    "version": "v1.3",
-    "updated_at": "2025-11-29T14:15:18Z",
+    "version": "v1.3.1",
+    "updated_at": "2025-12-16T16:15:45Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -2323,9 +2323,9 @@
       "娱乐"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 15,
+    "stars": 16,
     "version": "v3.0.0",
-    "updated_at": "2025-12-13T06:13:06Z",
+    "updated_at": "2025-12-16T15:43:09Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -3442,9 +3442,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 92,
+    "stars": 93,
     "version": "v4.3.0",
-    "updated_at": "2025-12-16T02:23:39Z",
+    "updated_at": "2025-12-16T16:12:09Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
