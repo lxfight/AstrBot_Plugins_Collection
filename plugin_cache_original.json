@@ -118,9 +118,9 @@
     "repo": "https://github.com/CJSen/astrbot_plugin_epic_free_games_notice",
     "social_link": "https://chjs.936668.xyz/",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.0.3",
-    "updated_at": "2025-12-15T11:28:21Z"
+    "updated_at": "2025-12-16T01:21:13Z"
   },
   "astrbot_plugin_be_checker": {
     "display_name": "封禁检查",
@@ -3925,9 +3925,9 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 20,
+    "stars": 21,
     "version": "v0.2.6",
-    "updated_at": "2025-12-11T05:38:46Z"
+    "updated_at": "2025-12-16T01:40:10Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -7763,7 +7763,7 @@
     ],
     "stars": 22,
     "version": "v2.2.0",
-    "updated_at": "2025-12-15T14:25:02Z",
+    "updated_at": "2025-12-16T01:05:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
