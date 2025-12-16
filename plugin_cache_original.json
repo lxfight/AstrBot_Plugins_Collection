@@ -118,9 +118,9 @@
     "repo": "https://github.com/CJSen/astrbot_plugin_epic_free_games_notice",
     "social_link": "https://chjs.936668.xyz/",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.0.3",
-    "updated_at": "2025-12-16T01:21:13Z"
+    "updated_at": "2025-12-16T02:10:50Z"
   },
   "astrbot_plugin_be_checker": {
     "display_name": "封禁检查",
@@ -2946,9 +2946,9 @@
       "重启"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.3",
-    "updated_at": "2025-12-13T11:03:17Z",
+    "updated_at": "2025-12-16T02:30:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
   "astrbot_plugin_tts_llm": {
@@ -3400,9 +3400,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 91,
+    "stars": 92,
     "version": "v4.3.0",
-    "updated_at": "2025-12-15T07:20:57Z",
+    "updated_at": "2025-12-16T02:23:39Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
