@@ -507,7 +507,7 @@
     "tags": [],
     "stars": 6,
     "version": "v1.3.5",
-    "updated_at": "2025-12-15T15:18:48Z"
+    "updated_at": "2025-12-17T13:37:41Z"
   },
   "astrbot_plugin_AtTool": {
     "display_name": "@工具（艾特工具）",
@@ -1754,7 +1754,7 @@
     ],
     "stars": 2,
     "version": "v1.0",
-    "updated_at": "2025-11-01T09:05:04Z"
+    "updated_at": "2025-12-17T14:13:01Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
@@ -3442,9 +3442,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 93,
+    "stars": 94,
     "version": "v4.3.0",
-    "updated_at": "2025-12-16T16:12:09Z",
+    "updated_at": "2025-12-17T14:05:17Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -5089,9 +5089,9 @@
     "desc": "三角洲鼠鼠偷吃模拟器（简易）",
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
-    "stars": 29,
+    "stars": 30,
     "version": "v2.7.7",
-    "updated_at": "2025-12-08T02:04:43Z",
+    "updated_at": "2025-12-17T13:51:27Z",
     "logo": "https://raw.githubusercontent.com/sa1guu/astrbot_plugin_touchi/master/logo.png"
   },
   "astrbot_plugin_Astrsupermarket": {
@@ -7084,7 +7084,7 @@
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
     "stars": 20,
     "version": "v1.0.9",
-    "updated_at": "2025-12-17T09:49:33Z",
+    "updated_at": "2025-12-17T13:47:29Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_zanwo/master/logo.png"
   },
   "astrbot_plugin_ehentai_bot": {
@@ -7203,9 +7203,9 @@
       "浏览器"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.1.4",
-    "updated_at": "2025-12-13T09:28:10Z",
+    "updated_at": "2025-12-17T13:49:14Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -7836,7 +7836,7 @@
     ],
     "stars": 22,
     "version": "v2.2.0",
-    "updated_at": "2025-12-16T01:05:57Z",
+    "updated_at": "2025-12-17T14:31:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
