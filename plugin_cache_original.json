@@ -1766,9 +1766,9 @@
       "告警"
     ],
     "social_link": "https://gbkgov.cn",
-    "stars": 5,
+    "stars": 4,
     "version": "v1.1.0",
-    "updated_at": "2025-11-15T12:46:28Z"
+    "updated_at": "2025-12-17T11:23:01Z"
   },
   "astrbot_plugin_onelastimage": {
     "display_name": "One Last Kiss 图片生成器",
@@ -2976,8 +2976,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 6,
-    "version": "v1.0.4",
-    "updated_at": "2025-12-17T04:50:59Z",
+    "version": "v1.0.5",
+    "updated_at": "2025-12-17T11:08:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
   "astrbot_plugin_tts_llm": {
