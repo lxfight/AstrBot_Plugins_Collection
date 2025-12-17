@@ -976,7 +976,7 @@
     "tags": [],
     "stars": 4,
     "version": "v3.2.1",
-    "updated_at": "2025-12-12T17:41:12Z"
+    "updated_at": "2025-12-17T09:59:40Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -7082,9 +7082,9 @@
     "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.0.9",
-    "updated_at": "2025-12-15T03:12:26Z",
+    "updated_at": "2025-12-17T09:49:33Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_zanwo/master/logo.png"
   },
   "astrbot_plugin_ehentai_bot": {
