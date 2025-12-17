@@ -66,7 +66,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 16,
     "version": "v1.0.6",
-    "updated_at": "2025-12-17T03:43:24Z",
+    "updated_at": "2025-12-17T06:30:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -4819,9 +4819,9 @@
     "author": "Chris",
     "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v1.5.0",
-    "updated_at": "2025-11-23T09:43:46Z"
+    "updated_at": "2025-12-17T06:39:23Z"
   },
   "astrbot_plugin_mp": {
     "desc": "一个适用于最新版本moviepilot的小工具，支持搜索、订阅、消息转发等功能",
@@ -4847,9 +4847,9 @@
       "aiocqhttp"
     ],
     "social_link": "https://blog.jojo.host/",
-    "stars": 4,
+    "stars": 5,
     "version": "v0.0.5",
-    "updated_at": "2025-11-06T02:47:12Z"
+    "updated_at": "2025-12-17T05:58:53Z"
   },
   "astrbot_plugin_ip_proxy": {
     "desc": "一个将HTTP代理API转换为本地代理的AstrBot插件",
