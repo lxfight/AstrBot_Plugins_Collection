@@ -1210,7 +1210,7 @@
     ],
     "stars": 8,
     "version": "v3.2.0",
-    "updated_at": "2025-12-16T18:40:09Z",
+    "updated_at": "2025-12-17T02:04:34Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -2505,9 +2505,9 @@
       "视奸"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 12,
+    "stars": 13,
     "version": "1.1.5",
-    "updated_at": "2025-12-04T15:04:53Z"
+    "updated_at": "2025-12-17T03:23:49Z"
   },
   "bmtxt2img": {
     "desc": "通过/bmimg指令调用智谱文生图模型",
@@ -2976,8 +2976,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 6,
-    "version": "v1.0.3",
-    "updated_at": "2025-12-16T02:30:04Z",
+    "version": "v1.0.4",
+    "updated_at": "2025-12-17T02:47:57Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
   "astrbot_plugin_tts_llm": {
@@ -7821,8 +7821,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
     "stars": 59,
-    "version": "v1.2.4",
-    "updated_at": "2025-12-15T08:29:45Z",
+    "version": "v1.2.5",
+    "updated_at": "2025-12-17T02:22:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
