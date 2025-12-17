@@ -65,8 +65,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 17,
-    "version": "v1.0.6",
-    "updated_at": "2025-12-17T07:15:24Z",
+    "version": "v1.0.7",
+    "updated_at": "2025-12-17T17:12:16Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -976,7 +976,7 @@
     "tags": [],
     "stars": 4,
     "version": "v3.2.1",
-    "updated_at": "2025-12-17T11:36:23Z"
+    "updated_at": "2025-12-17T16:32:55Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -1890,9 +1890,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 49,
+    "stars": 50,
     "version": "v1.0.0-beta.7",
-    "updated_at": "2025-12-17T11:41:00Z",
+    "updated_at": "2025-12-17T16:59:55Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -6221,9 +6221,9 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 66,
+    "stars": 67,
     "version": "1.1.0",
-    "updated_at": "2025-12-09T15:20:27Z"
+    "updated_at": "2025-12-17T16:58:52Z"
   },
   "astrbot_plugin_combine-messages": {
     "author": "FreeDivers",
