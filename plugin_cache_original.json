@@ -3953,9 +3953,9 @@
       "唤醒增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 26,
+    "stars": 27,
     "version": "v1.1.7",
-    "updated_at": "2025-12-13T23:35:18Z",
+    "updated_at": "2025-12-17T18:03:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -8221,9 +8221,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 85,
+    "stars": 86,
     "version": "v2.1.7",
-    "updated_at": "2025-12-06T16:55:23Z"
+    "updated_at": "2025-12-17T17:59:48Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
