@@ -3967,9 +3967,9 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 21,
+    "stars": 22,
     "version": "v0.2.6",
-    "updated_at": "2025-12-16T01:40:10Z"
+    "updated_at": "2025-12-17T21:16:47Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -7217,9 +7217,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 73,
+    "stars": 74,
     "version": "v3.2.6",
-    "updated_at": "2025-12-16T13:49:17Z",
+    "updated_at": "2025-12-17T21:27:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
