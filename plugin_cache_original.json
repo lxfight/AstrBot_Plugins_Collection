@@ -106,9 +106,9 @@
       "游戏王",
       "卡牌"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "1.3.0",
-    "updated_at": "2025-12-14T14:12:08Z",
+    "updated_at": "2025-12-17T04:54:35Z",
     "logo": "https://raw.githubusercontent.com/Noctfom/astrbot-plugin-duel-galatea/main/logo.png"
   },
   "astrbot_plugin_epic_free_games_notice": {
@@ -118,9 +118,9 @@
     "repo": "https://github.com/CJSen/astrbot_plugin_epic_free_games_notice",
     "social_link": "https://chjs.936668.xyz/",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v0.0.3",
-    "updated_at": "2025-12-16T02:10:50Z"
+    "updated_at": "2025-12-17T04:53:59Z"
   },
   "astrbot_plugin_be_checker": {
     "display_name": "封禁检查",
@@ -2761,9 +2761,9 @@
     "repo": "https://github.com/Chris95743/astrbot_plugin_VITS_pro",
     "social_link": "https://voice.gbkgov.cn",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v1.9.0",
-    "updated_at": "2025-11-22T07:31:15Z"
+    "updated_at": "2025-12-17T04:55:16Z"
   },
   "astrbot_plugin_blacklist_tools": {
     "desc": "允许管理员和 LLM 将用户添加到黑名单中，阻止他们的消息，自动拉黑！",
@@ -2829,9 +2829,9 @@
       "搜消息"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.2",
-    "updated_at": "2025-12-13T10:53:42Z",
+    "updated_at": "2025-12-17T05:08:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_msg_search/main/logo.png"
   },
   "scheduled_reply": {
@@ -2977,7 +2977,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 6,
     "version": "v1.0.4",
-    "updated_at": "2025-12-17T04:06:51Z",
+    "updated_at": "2025-12-17T04:50:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
   "astrbot_plugin_tts_llm": {
@@ -6005,9 +6005,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 44,
+    "stars": 43,
     "version": "v1.0.5",
-    "updated_at": "2025-12-13T10:56:31Z",
+    "updated_at": "2025-12-17T05:10:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
