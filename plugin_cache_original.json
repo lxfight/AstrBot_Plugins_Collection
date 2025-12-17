@@ -976,7 +976,7 @@
     "tags": [],
     "stars": 4,
     "version": "v3.2.1",
-    "updated_at": "2025-12-17T09:59:40Z"
+    "updated_at": "2025-12-17T11:36:23Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -1892,7 +1892,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 49,
     "version": "v1.0.0-beta.7",
-    "updated_at": "2025-12-15T11:38:26Z",
+    "updated_at": "2025-12-17T11:41:00Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -4103,8 +4103,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 41,
-    "version": "v2.2.8",
-    "updated_at": "2025-12-15T15:09:42Z",
+    "version": "v2.2.9",
+    "updated_at": "2025-12-17T12:41:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -5676,9 +5676,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 81,
+    "stars": 82,
     "version": "v1.0.3",
-    "updated_at": "2025-12-15T12:48:02Z",
+    "updated_at": "2025-12-17T12:08:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
