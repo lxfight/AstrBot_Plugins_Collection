@@ -1,4 +1,43 @@
 {
+	"astrbot_plugin_model_router": {
+	  "display_name": "智能模型路由器",
+	  "desc": "基于意图识别的多模型路由插件，支持根据任务难度自动切换模型",
+	  "author": "yukikazechan",
+	  "repo": "https://github.com/yukikazechan/astrbot_plugin_model_router",
+	  "tags": [
+		"modelrouter"
+	  ]
+	},
+	"astrbot_plugin_anuneko": {
+	  "display_name": "anuneko对话插件",
+	  "desc": "基于 anuneko.com 的 AI 对话插件，支持橘猫/黑猫模式切换",
+	  "author": "mkroen",
+	  "repo": "https://github.com/mkroen/astrbot_plugin_anuneko",
+	  "tags": [
+	    "anuneko",
+	    "chat"
+	  ],
+	  "social_link": "https://github.com/mkroen"
+	},
+	"astrbot_plugin_maskoff": {
+	  "display_name": "识人术",
+	  "desc": "防止你的小 LLM 因为别人把名字改成你的就认错人",
+	  "author": "Moncak",
+	  "repo": "https://github.com/Yue-bin/astrbot_plugin_maskoff",
+	  "tags": [
+	    "llm",
+	    "多人聊天",
+	    "用户识别"
+	  ],
+	  "social_link": "https://github.com/Yue-bin"
+	},
+	"astrbot_plugin_color_converter": {
+	  "display_name": "颜色格式转换",
+	  "desc": "实现RGB、CMYK、16进制颜色格式互转",
+	  "author": "CecilyGao",
+	  "repo": "https://github.com/CecilyGao/astrbot_plugin_color_converter",
+	  "social_link": "https://github.com/CecilyGao"
+	},
 	"astrbot_plugin_wca": {
 	  "display_name": "WCA 查询",
 	  "desc": "包含个人最佳成绩查询以及选手 PK。",
