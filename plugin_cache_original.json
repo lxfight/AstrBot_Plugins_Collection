@@ -283,9 +283,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.1.0",
-    "updated_at": "2025-12-18T11:30:04Z",
+    "updated_at": "2025-12-18T15:59:10Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -720,7 +720,7 @@
     "social_link": "",
     "stars": 6,
     "version": "3.5.0",
-    "updated_at": "2025-12-12T11:36:54Z"
+    "updated_at": "2025-12-18T16:10:04Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
@@ -1684,8 +1684,8 @@
       "发言统计"
     ],
     "stars": 9,
-    "version": "1.7.2",
-    "updated_at": "2025-12-18T15:19:51Z",
+    "version": "1.7.3",
+    "updated_at": "2025-12-18T15:30:11Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -1942,9 +1942,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 50,
+    "stars": 49,
     "version": "v1.0.1",
-    "updated_at": "2025-12-18T12:22:52Z",
+    "updated_at": "2025-12-18T15:36:06Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -1990,9 +1990,9 @@
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
     "social_link": "https://github.com/miaoxutao123",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v1.2.0",
-    "updated_at": "2025-12-09T13:23:34Z"
+    "updated_at": "2025-12-18T16:17:53Z"
   },
   "astrbot_plugin_furry_zan": {
     "display_name": "爱点赞",
@@ -5914,9 +5914,9 @@
       "RAG",
       "知识库"
     ],
-    "stars": 76,
+    "stars": 77,
     "version": "v0.5.9",
-    "updated_at": "2025-12-12T03:07:22Z"
+    "updated_at": "2025-12-18T16:20:48Z"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
@@ -6284,9 +6284,9 @@
     "tags": [
       "主动回复"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.3",
-    "updated_at": "2025-11-26T11:03:19Z"
+    "updated_at": "2025-12-18T16:16:38Z"
   },
   "astrbot_plugin_broadcast": {
     "display_name": "广播助手",
@@ -7887,8 +7887,8 @@
       "实用工具"
     ],
     "stars": 22,
-    "version": "v2.2.0",
-    "updated_at": "2025-12-17T14:31:08Z",
+    "version": "v2.2.1",
+    "updated_at": "2025-12-18T16:37:35Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
