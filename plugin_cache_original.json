@@ -64,9 +64,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 18,
+    "stars": 19,
     "version": "v1.1.0",
-    "updated_at": "2025-12-18T06:04:54Z",
+    "updated_at": "2025-12-18T06:40:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -198,7 +198,7 @@
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "stars": 9,
     "version": "v1.1.1",
-    "updated_at": "2025-12-12T04:43:47Z",
+    "updated_at": "2025-12-18T07:01:04Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -792,9 +792,9 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 39,
+    "stars": 40,
     "version": "v2.2.0",
-    "updated_at": "2025-12-14T13:42:29Z",
+    "updated_at": "2025-12-18T06:40:47Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -807,9 +807,9 @@
       "游戏"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 5,
+    "stars": 6,
     "version": "1.6.0",
-    "updated_at": "2025-12-06T22:08:04Z",
+    "updated_at": "2025-12-18T06:41:06Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_steamgame/master/logo.png"
   },
   "astrbot_plugin_gloryofkings": {
@@ -1502,9 +1502,9 @@
       "AI"
     ],
     "social_link": "https://github.com/Ryan7t",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2025-12-09T15:40:29Z"
+    "updated_at": "2025-12-18T07:25:02Z"
   },
   "astrbot_plugin_blue_archive_auto_calendar": {
     "desc": "Blue Archive 蔚蓝档案定时发送活动日历以及活动结束提醒插件",
@@ -1572,9 +1572,9 @@
       "二次元"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 23,
+    "stars": 24,
     "version": "v2.0.0",
-    "updated_at": "2025-12-11T16:05:47Z",
+    "updated_at": "2025-12-18T06:40:57Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_qqgal/master/logo.png"
   },
   "astrbot_plugin_Conversa": {
@@ -1683,7 +1683,7 @@
     ],
     "stars": 4,
     "version": "v1.0",
-    "updated_at": "2025-12-15T11:23:40Z"
+    "updated_at": "2025-12-18T06:38:07Z"
   },
   "astrbot_plugin_mcgetter_enhanced": {
     "display_name": "mcgetter-enhanced",
@@ -3334,8 +3334,8 @@
       "rag"
     ],
     "stars": 46,
-    "version": "2.0.1",
-    "updated_at": "2025-12-18T05:58:28Z",
+    "version": "2.0.2",
+    "updated_at": "2025-12-18T06:54:35Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -7052,9 +7052,9 @@
     "tags": [
       "AGE"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.0",
-    "updated_at": "2025-11-27T05:27:00Z"
+    "updated_at": "2025-12-18T07:31:26Z"
   },
   "astrbot_plugin_media302-save": {
     "author": "Qoo",
