@@ -36,9 +36,9 @@
       "用户识别"
     ],
     "social_link": "https://github.com/Yue-bin",
-    "stars": 3,
+    "stars": 4,
     "version": "v0.0.1",
-    "updated_at": "2025-12-18T17:19:15Z"
+    "updated_at": "2025-12-18T18:33:06Z"
   },
   "astrbot_plugin_color_converter": {
     "display_name": "颜色格式转换",
@@ -171,8 +171,8 @@
     "social_link": "https://chjs.936668.xyz/",
     "tags": [],
     "stars": 5,
-    "version": "v0.0.3",
-    "updated_at": "2025-12-17T14:25:30Z"
+    "version": "v0.0.4",
+    "updated_at": "2025-12-18T18:01:33Z"
   },
   "astrbot_plugin_be_checker": {
     "display_name": "封禁检查",
@@ -1805,8 +1805,8 @@
       "战绩"
     ],
     "stars": 2,
-    "version": "v1.0",
-    "updated_at": "2025-12-17T14:13:01Z"
+    "version": "v1.1",
+    "updated_at": "2025-12-18T18:03:38Z"
   },
   "astrbot_plugin_email_tool": {
     "display_name": "SMTP 邮件小工具",
@@ -2239,8 +2239,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 12,
-    "version": "v3.9.1",
-    "updated_at": "2025-12-12T03:45:37Z",
+    "version": "v3.9.8",
+    "updated_at": "2025-12-18T18:24:02Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
