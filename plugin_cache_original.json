@@ -36,9 +36,9 @@
       "用户识别"
     ],
     "social_link": "https://github.com/Yue-bin",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.0.1",
-    "updated_at": "2025-12-17T17:38:44Z"
+    "updated_at": "2025-12-18T17:19:15Z"
   },
   "astrbot_plugin_color_converter": {
     "display_name": "颜色格式转换",
@@ -7888,7 +7888,7 @@
     ],
     "stars": 22,
     "version": "v2.2.1",
-    "updated_at": "2025-12-18T16:37:35Z",
+    "updated_at": "2025-12-18T17:33:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
