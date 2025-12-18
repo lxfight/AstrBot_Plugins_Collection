@@ -1097,7 +1097,7 @@
     "social_link": "https://github.com/HSOS6",
     "stars": 1,
     "version": "2.0.25.12.WNMCNXM",
-    "updated_at": "2025-12-18T12:48:04Z",
+    "updated_at": "2025-12-18T12:48:27Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
   },
   "astrbot_plugin_minecraft_adapter": {
@@ -2883,7 +2883,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 5,
     "version": "v1.0.2",
-    "updated_at": "2025-12-17T05:08:53Z",
+    "updated_at": "2025-12-18T13:07:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_msg_search/main/logo.png"
   },
   "scheduled_reply": {
@@ -3235,7 +3235,7 @@
     "tags": [],
     "stars": 34,
     "version": "v1.7.6",
-    "updated_at": "2025-12-15T15:18:46Z"
+    "updated_at": "2025-12-18T13:09:46Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -4007,7 +4007,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 27,
     "version": "v1.1.7",
-    "updated_at": "2025-12-17T18:03:55Z",
+    "updated_at": "2025-12-18T13:11:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -4193,7 +4193,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 7,
     "version": "v1.0.2",
-    "updated_at": "2025-12-16T09:12:03Z",
+    "updated_at": "2025-12-18T13:06:23Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
@@ -6044,7 +6044,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 9,
     "version": "v1.0.2",
-    "updated_at": "2025-12-13T11:05:09Z",
+    "updated_at": "2025-12-18T13:03:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_zt/main/logo.png"
   },
   "astrbot_plugin_portrayal": {
@@ -6575,7 +6575,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
     "stars": 113,
     "version": "v2.0.6",
-    "updated_at": "2025-12-16T14:47:57Z",
+    "updated_at": "2025-12-18T13:04:52Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -6910,7 +6910,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_password",
     "stars": 7,
     "version": "v1.0.1",
-    "updated_at": "2025-12-13T10:55:07Z",
+    "updated_at": "2025-12-18T13:27:18Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_password/main/logo.png"
   },
   "astrbot_plugin_douyin_bot": {
