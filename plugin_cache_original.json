@@ -66,7 +66,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 18,
     "version": "v1.1.0",
-    "updated_at": "2025-12-18T02:58:42Z",
+    "updated_at": "2025-12-18T03:22:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -1209,8 +1209,8 @@
       "推特"
     ],
     "stars": 8,
-    "version": "v3.2.0",
-    "updated_at": "2025-12-17T02:04:34Z",
+    "version": "v4.0.0",
+    "updated_at": "2025-12-18T04:34:11Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -2505,9 +2505,9 @@
       "视奸"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 13,
+    "stars": 14,
     "version": "1.1.5",
-    "updated_at": "2025-12-17T03:23:49Z"
+    "updated_at": "2025-12-18T03:36:41Z"
   },
   "bmtxt2img": {
     "desc": "通过/bmimg指令调用智谱文生图模型",
