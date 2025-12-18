@@ -65,8 +65,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 18,
-    "version": "v1.0.7",
-    "updated_at": "2025-12-18T01:35:34Z",
+    "version": "v1.1.0",
+    "updated_at": "2025-12-18T02:58:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -1867,7 +1867,7 @@
     ],
     "stars": 3,
     "version": "1.2.2",
-    "updated_at": "2025-12-17T08:33:01Z",
+    "updated_at": "2025-12-18T03:16:25Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_github_monitor_shell/master/logo.png"
   },
   "astrbot_plugin_ragflow_adapter": {
