@@ -1,4 +1,56 @@
 {
+  "astrbot_plugin_model_router": {
+    "display_name": "智能模型路由器",
+    "desc": "基于意图识别的多模型路由插件，支持根据任务难度自动切换模型",
+    "author": "yukikazechan",
+    "repo": "https://github.com/yukikazechan/astrbot_plugin_model_router",
+    "tags": [
+      "modelrouter"
+    ],
+    "stars": 0,
+    "version": "v0.6.0",
+    "updated_at": "2025-12-15T03:05:38Z"
+  },
+  "astrbot_plugin_anuneko": {
+    "display_name": "anuneko对话插件",
+    "desc": "基于 anuneko.com 的 AI 对话插件，支持橘猫/黑猫模式切换",
+    "author": "mkroen",
+    "repo": "https://github.com/mkroen/astrbot_plugin_anuneko",
+    "tags": [
+      "anuneko",
+      "chat"
+    ],
+    "social_link": "https://github.com/mkroen",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2025-12-10T06:51:17Z"
+  },
+  "astrbot_plugin_maskoff": {
+    "display_name": "识人术",
+    "desc": "防止你的小 LLM 因为别人把名字改成你的就认错人",
+    "author": "Moncak",
+    "repo": "https://github.com/Yue-bin/astrbot_plugin_maskoff",
+    "tags": [
+      "llm",
+      "多人聊天",
+      "用户识别"
+    ],
+    "social_link": "https://github.com/Yue-bin",
+    "stars": 2,
+    "version": "v0.0.1",
+    "updated_at": "2025-12-17T17:38:44Z"
+  },
+  "astrbot_plugin_color_converter": {
+    "display_name": "颜色格式转换",
+    "desc": "实现RGB、CMYK、16进制颜色格式互转",
+    "author": "CecilyGao",
+    "repo": "https://github.com/CecilyGao/astrbot_plugin_color_converter",
+    "social_link": "https://github.com/CecilyGao",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2025-12-18T12:42:27Z"
+  },
   "astrbot_plugin_wca": {
     "display_name": "WCA 查询",
     "desc": "包含个人最佳成绩查询以及选手 PK。",
@@ -233,7 +285,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 12,
     "version": "v1.1.0",
-    "updated_at": "2025-12-15T09:42:31Z",
+    "updated_at": "2025-12-18T11:30:04Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -928,9 +980,9 @@
     "repo": "https://github.com/wuxinTLH/astrbot_plugin_pig",
     "social_link": "https://github.com/wuxinTLH",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v0.0.9",
-    "updated_at": "2025-11-28T01:16:22Z"
+    "updated_at": "2025-12-18T11:25:33Z"
   },
   "astrbot_plugin_hardwareinfo": {
     "display_name": "硬件信息查询",
@@ -1045,7 +1097,7 @@
     "social_link": "https://github.com/HSOS6",
     "stars": 1,
     "version": "2.0.25.12.WNMCNXM",
-    "updated_at": "2025-12-18T09:46:27Z",
+    "updated_at": "2025-12-18T12:48:04Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
   },
   "astrbot_plugin_minecraft_adapter": {
@@ -1891,8 +1943,8 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 50,
-    "version": "v1.0.0",
-    "updated_at": "2025-12-18T11:14:41Z",
+    "version": "v1.0.1",
+    "updated_at": "2025-12-18T12:22:52Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -2928,7 +2980,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 4,
     "version": "v1.0.4",
-    "updated_at": "2025-12-13T10:51:54Z",
+    "updated_at": "2025-12-18T11:48:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_lottery/main/logo.png"
   },
   "astrbot_plugin_touchgal": {
@@ -3001,8 +3053,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 18,
-    "version": "0.8.4",
-    "updated_at": "2025-12-15T17:56:17Z"
+    "version": "0.8.5",
+    "updated_at": "2025-12-18T12:31:35Z"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -3205,9 +3257,9 @@
     "tags": [
       "撤回"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v0.3",
-    "updated_at": "2025-12-01T07:11:35Z",
+    "updated_at": "2025-12-18T12:47:42Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -3393,7 +3445,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 4,
     "version": "v1.0.3",
-    "updated_at": "2025-12-13T10:54:00Z",
+    "updated_at": "2025-12-18T11:52:32Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_multimsg/main/logo.png"
   },
   "astrbot_plugin_keywordsreply": {
@@ -4127,7 +4179,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 12,
     "version": "v1.0.2",
-    "updated_at": "2025-12-14T07:30:52Z",
+    "updated_at": "2025-12-18T12:42:28Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_recall/main/logo.png"
   },
   "astrbot_plugin_record_converter": {
@@ -5245,7 +5297,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 5,
     "version": "v1.0.1",
-    "updated_at": "2025-12-13T09:26:06Z",
+    "updated_at": "2025-12-18T12:26:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_afdian/main/logo.png"
   },
   "astrbot_plugin_runes": {
@@ -5438,7 +5490,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 3,
     "version": "v1.0.2",
-    "updated_at": "2025-12-13T10:44:48Z",
+    "updated_at": "2025-12-18T12:12:39Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_cube/main/logo.png"
   },
   "astrbot_plugin_constellation": {
@@ -5772,7 +5824,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 6,
     "version": "v1.0.2",
-    "updated_at": "2025-12-13T10:45:06Z",
+    "updated_at": "2025-12-18T12:13:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_deepwiki/main/logo.png"
   },
   "astrbot_plugin_delete_and_block_filter": {
@@ -5978,7 +6030,7 @@
     "tags": [],
     "stars": 36,
     "version": "v1.1.1",
-    "updated_at": "2025-12-13T10:45:58Z",
+    "updated_at": "2025-12-18T12:38:30Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_search_video/main/logo.png"
   },
   "astrbot_plugin_zt": {
@@ -6247,7 +6299,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 8,
     "version": "v1.0.4",
-    "updated_at": "2025-12-13T09:27:23Z",
+    "updated_at": "2025-12-18T12:13:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_broadcast/main/logo.png"
   },
   "astrbot_plugin_nobot": {
@@ -6904,9 +6956,9 @@
       "图库"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
-    "stars": 22,
+    "stars": 23,
     "version": "v2.1.0",
-    "updated_at": "2025-12-13T10:47:36Z",
+    "updated_at": "2025-12-18T12:05:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_gallery/main/logo.png"
   },
   "astrbot_plugin_sensoji_pro": {
@@ -7109,7 +7161,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "stars": 21,
     "version": "v1.1.5",
-    "updated_at": "2025-12-18T11:26:28Z",
+    "updated_at": "2025-12-18T11:32:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -7342,7 +7394,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 8,
     "version": "v1.1.3",
-    "updated_at": "2025-12-13T10:56:56Z",
+    "updated_at": "2025-12-18T12:52:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqprofile/main/logo.png"
   },
   "astrbot_plugin_mcping": {
