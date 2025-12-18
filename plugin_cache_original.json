@@ -93,9 +93,9 @@
       "teamspeak"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.8",
-    "updated_at": "2025-12-15T04:22:50Z"
+    "updated_at": "2025-12-18T09:21:40Z"
   },
   "astrbot_plugin_duel_galatea": {
     "display_name": "游戏王工具箱",
@@ -712,7 +712,7 @@
     "social_link": "https://www.misakanet.site",
     "stars": 5,
     "version": "v1.3.0",
-    "updated_at": "2025-12-17T07:44:28Z",
+    "updated_at": "2025-12-18T08:46:14Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_gemini_image/master/logo.png"
   },
   "astrbot_plugin_gemini_image_generation": {
@@ -792,9 +792,9 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 40,
+    "stars": 41,
     "version": "v2.2.0",
-    "updated_at": "2025-12-18T06:40:47Z",
+    "updated_at": "2025-12-18T09:08:06Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -953,9 +953,9 @@
       "llm工具"
     ],
     "social_link": "https://github.com/vmoranv",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2025-12-02T10:10:45Z"
+    "updated_at": "2025-12-18T09:29:31Z"
   },
   "astrbot_plugin_whitelistpro": {
     "display_name": "白名单拓展",
@@ -1044,8 +1044,8 @@
     ],
     "social_link": "https://github.com/HSOS6",
     "stars": 1,
-    "version": "2.0.25.WNMCNXM",
-    "updated_at": "2025-12-15T15:02:21Z",
+    "version": "2.0.25.12.WNMCNXM",
+    "updated_at": "2025-12-18T09:17:02Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
   },
   "astrbot_plugin_minecraft_adapter": {
@@ -1060,7 +1060,7 @@
     "social_link": "https://www.misakanet.site",
     "stars": 1,
     "version": "1.2.0",
-    "updated_at": "2025-12-15T01:48:16Z",
+    "updated_at": "2025-12-18T08:48:30Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_minecraft_monitor": {
@@ -2255,7 +2255,7 @@
     "social_link": "https://www.misakanet.site",
     "stars": 8,
     "version": "v1.3.1",
-    "updated_at": "2025-12-16T16:15:45Z",
+    "updated_at": "2025-12-18T08:44:33Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_persona_plus/master/logo.png"
   },
   "astrbot_plugin_sticker": {
@@ -3890,9 +3890,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 53,
+    "stars": 54,
     "version": "1.6.1",
-    "updated_at": "2025-12-16T08:17:14Z"
+    "updated_at": "2025-12-18T09:22:11Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -4006,8 +4006,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 10,
-    "version": "v1.0.9",
-    "updated_at": "2025-12-16T13:33:15Z",
+    "version": "v1.1.0",
+    "updated_at": "2025-12-18T09:30:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -7518,9 +7518,9 @@
     "repo": "https://github.com/xiewoc/astrbot_plugin_file_reader",
     "social_link": "https://github.com/xiewoc",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.2",
-    "updated_at": "2025-10-28T10:09:28Z"
+    "updated_at": "2025-12-18T08:58:46Z"
   },
   "astrbot_plugin_CounterStrikle": {
     "desc": "Blast-TV 上的 Counter-Strikle 小游戏，图片卡片渲染。",
@@ -7681,7 +7681,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_history_day",
     "stars": 4,
     "version": "v1.0.8",
-    "updated_at": "2025-11-17T05:40:53Z",
+    "updated_at": "2025-12-18T09:33:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_history_day/main/logo.png"
   },
   "astrbot_plugin_PockAttack": {
