@@ -1891,8 +1891,8 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 50,
-    "version": "v1.0.0-beta.7",
-    "updated_at": "2025-12-17T16:59:55Z",
+    "version": "v1.0.0",
+    "updated_at": "2025-12-18T11:14:41Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -7108,8 +7108,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
     "stars": 21,
-    "version": "v1.1.4",
-    "updated_at": "2025-12-13T11:02:41Z",
+    "version": "v1.1.5",
+    "updated_at": "2025-12-18T11:26:28Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
@@ -8739,9 +8739,9 @@
     "author": "长安某",
     "repo": "https://github.com/zgojin/astrbot_plugin_niuniu",
     "tags": [],
-    "stars": 14,
+    "stars": 13,
     "version": "v4.7.2",
-    "updated_at": "2025-12-11T10:25:30Z"
+    "updated_at": "2025-12-18T10:41:09Z"
   },
   "astrbot_plugin_mohoyo_cos": {
     "desc": "获取米游社社区cos插件，支持LLM自识别",
