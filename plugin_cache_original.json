@@ -64,9 +64,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.0.7",
-    "updated_at": "2025-12-17T17:12:16Z",
+    "updated_at": "2025-12-18T01:35:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -725,9 +725,9 @@
       "修图"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.7.5",
-    "updated_at": "2025-12-12T18:46:10Z",
+    "updated_at": "2025-12-17T23:24:44Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -2975,9 +2975,9 @@
       "重启"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.5",
-    "updated_at": "2025-12-17T11:08:48Z",
+    "updated_at": "2025-12-18T01:17:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
   "astrbot_plugin_tts_llm": {
@@ -3487,9 +3487,9 @@
       "wxauto"
     ],
     "social_link": "blog.isla.ltd",
-    "stars": 15,
+    "stars": 16,
     "version": "1.2.0",
-    "updated_at": "2025-12-15T11:12:19Z"
+    "updated_at": "2025-12-18T00:50:13Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
