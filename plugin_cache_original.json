@@ -117,8 +117,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 21,
-    "version": "v1.1.0",
-    "updated_at": "2025-12-19T02:21:25Z",
+    "version": "v1.1.1",
+    "updated_at": "2025-12-19T16:24:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -4451,8 +4451,8 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "stars": 4,
-    "version": "v2.2.1",
-    "updated_at": "2025-11-01T15:37:23Z",
+    "version": "v2.2.2",
+    "updated_at": "2025-12-19T16:18:53Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_update_manager/main/logo.png"
   },
   "astrbot_plugins_canvas": {
