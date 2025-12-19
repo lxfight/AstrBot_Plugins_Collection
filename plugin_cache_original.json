@@ -219,8 +219,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 6,
-    "version": "0.1.1",
-    "updated_at": "2025-12-10T13:55:47Z",
+    "version": "0.1.2",
+    "updated_at": "2025-12-19T04:08:34Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -4058,8 +4058,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 10,
-    "version": "v1.1.0",
-    "updated_at": "2025-12-18T09:30:49Z",
+    "version": "v1.1.1",
+    "updated_at": "2025-12-19T04:29:39Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -6059,7 +6059,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 44,
     "version": "v1.0.5",
-    "updated_at": "2025-12-17T08:39:29Z",
+    "updated_at": "2025-12-19T03:45:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
