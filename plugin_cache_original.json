@@ -21,9 +21,9 @@
       "chat"
     ],
     "social_link": "https://github.com/mkroen",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-12-10T06:51:17Z"
+    "updated_at": "2025-12-19T01:21:05Z"
   },
   "astrbot_plugin_maskoff": {
     "display_name": "识人术",
@@ -1918,8 +1918,8 @@
       "实用"
     ],
     "stars": 3,
-    "version": "1.2.2",
-    "updated_at": "2025-12-18T03:16:25Z",
+    "version": "1.2.3",
+    "updated_at": "2025-12-19T01:44:56Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_github_monitor_shell/master/logo.png"
   },
   "astrbot_plugin_ragflow_adapter": {
@@ -4191,9 +4191,9 @@
       "语音转化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.2",
-    "updated_at": "2025-12-18T13:06:23Z",
+    "updated_at": "2025-12-18T23:38:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
