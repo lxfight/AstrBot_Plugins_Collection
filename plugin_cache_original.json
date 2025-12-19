@@ -2418,8 +2418,8 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 3,
-    "version": "1.6.1",
-    "updated_at": "2025-12-07T04:40:43Z"
+    "version": "1.6.2",
+    "updated_at": "2025-12-19T13:26:47Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -3054,7 +3054,7 @@
     "social_link": "https://github.com/kawayiYokami",
     "stars": 18,
     "version": "0.8.6",
-    "updated_at": "2025-12-19T11:39:52Z"
+    "updated_at": "2025-12-19T13:36:18Z"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
