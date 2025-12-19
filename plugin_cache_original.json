@@ -145,9 +145,9 @@
       "teamspeak"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.8",
-    "updated_at": "2025-12-18T09:21:40Z"
+    "updated_at": "2025-12-19T06:05:29Z"
   },
   "astrbot_plugin_duel_galatea": {
     "display_name": "游戏王工具箱",
@@ -307,9 +307,9 @@
       "douyu"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 0,
+    "stars": 1,
     "version": "1.4.0",
-    "updated_at": "2025-12-10T08:28:37Z"
+    "updated_at": "2025-12-19T06:05:56Z"
   },
   "astrbot_plugin_qinglong": {
     "display_name": "青龙面板管理",
@@ -3928,9 +3928,9 @@
       "表情包"
     ],
     "social_link": "https://github.com/SodaSizzle",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.0",
-    "updated_at": "2025-11-08T17:59:59Z"
+    "updated_at": "2025-12-19T06:11:21Z"
   },
   "astrbot_plugin_self_learning": {
     "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
@@ -6713,9 +6713,9 @@
       "信息",
       "监控面板"
     ],
-    "stars": 1,
+    "stars": 0,
     "version": "1.0.0",
-    "updated_at": "2025-10-13T14:31:15Z"
+    "updated_at": "2025-12-19T06:16:30Z"
   },
   "astrbot_plugin_tarot": {
     "author": "XziXmn",
@@ -8538,9 +8538,9 @@
     "author": "kjqwdw",
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
-    "stars": 27,
+    "stars": 28,
     "version": "v1.4.0",
-    "updated_at": "2025-12-07T07:07:50Z"
+    "updated_at": "2025-12-19T06:23:55Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
