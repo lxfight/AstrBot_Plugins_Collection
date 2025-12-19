@@ -49,7 +49,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.0.2",
-    "updated_at": "2025-12-19T08:08:06Z"
+    "updated_at": "2025-12-19T10:23:23Z"
   },
   "astrbot_plugin_wca": {
     "display_name": "WCA 查询",
@@ -2239,8 +2239,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_zssm_explain",
     "tags": [],
     "stars": 12,
-    "version": "v3.9.8",
-    "updated_at": "2025-12-18T18:24:02Z",
+    "version": "v3.9.10",
+    "updated_at": "2025-12-19T10:02:49Z",
     "logo": "https://raw.githubusercontent.com/xiaoxi68/astrbot_zssm_explain/main/logo.png"
   },
   "astrbot_plugin_timeline": {
@@ -3174,23 +3174,6 @@
     "version": "1.1.0",
     "updated_at": "2025-11-19T07:08:28Z"
   },
-  "astrbot_plugin_context_enhancer": {
-    "desc": "智能上下文增强插件，它能让您的机器人在群聊中“知晓前文，见机行事”，实现真正意义上的流畅对话。",
-    "author": "木有知",
-    "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_enhancer",
-    "tags": [
-      "上下文增强",
-      "群聊分析",
-      "读空气",
-      "角色扮演",
-      "智能对话",
-      "LLM增强"
-    ],
-    "social_link": "https://github.com/muyouzhi6",
-    "stars": 6,
-    "version": "2.0.0",
-    "updated_at": "2025-12-19T09:30:28Z"
-  },
   "persistent_history": {
     "desc": "基本无需设置的简单永久记忆插件",
     "author": "komeiji_shiki",
@@ -3928,9 +3911,9 @@
       "表情包"
     ],
     "social_link": "https://github.com/SodaSizzle",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.0.0",
-    "updated_at": "2025-12-19T06:11:21Z"
+    "updated_at": "2025-12-19T10:25:28Z"
   },
   "astrbot_plugin_self_learning": {
     "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
