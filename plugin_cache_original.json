@@ -48,8 +48,8 @@
     "social_link": "https://github.com/CecilyGao",
     "tags": [],
     "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2025-12-19T07:22:16Z"
+    "version": "v1.0.2",
+    "updated_at": "2025-12-19T08:08:06Z"
   },
   "astrbot_plugin_wca": {
     "display_name": "WCA 查询",
@@ -63,7 +63,7 @@
     "social_link": "https://github.com/huizhiLLL",
     "stars": 1,
     "version": "v1.0.3",
-    "updated_at": "2025-12-16T09:54:44Z",
+    "updated_at": "2025-12-19T07:56:48Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -762,9 +762,9 @@
       "nano banana"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.0",
-    "updated_at": "2025-12-18T08:46:14Z",
+    "updated_at": "2025-12-19T08:31:46Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_gemini_image/master/logo.png"
   },
   "astrbot_plugin_gemini_image_generation": {
@@ -3189,7 +3189,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 6,
     "version": "2.0.0",
-    "updated_at": "2025-10-29T14:23:27Z"
+    "updated_at": "2025-12-19T08:36:59Z"
   },
   "persistent_history": {
     "desc": "基本无需设置的简单永久记忆插件",
@@ -3942,9 +3942,9 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 54,
+    "stars": 55,
     "version": "1.6.1",
-    "updated_at": "2025-12-18T09:22:11Z"
+    "updated_at": "2025-12-19T08:26:56Z"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -6387,8 +6387,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 8,
-    "version": "v1.0.2",
-    "updated_at": "2025-12-13T11:04:04Z",
+    "version": "v1.0.3",
+    "updated_at": "2025-12-19T07:24:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_supervisor/main/logo.png"
   },
   "astrbot_plugin_primermath": {
@@ -8539,8 +8539,8 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 28,
-    "version": "v1.4.0",
-    "updated_at": "2025-12-19T06:23:55Z"
+    "version": "v1.4.1",
+    "updated_at": "2025-12-19T07:21:19Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
