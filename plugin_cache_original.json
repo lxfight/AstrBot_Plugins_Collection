@@ -265,9 +265,9 @@
       "LLM 工具"
     ],
     "social_link": "https://github.com/sl251",
-    "stars": 7,
+    "stars": 8,
     "version": "1.0.5",
-    "updated_at": "2025-12-12T02:04:01Z",
+    "updated_at": "2025-12-19T08:35:16Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -3189,7 +3189,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 6,
     "version": "2.0.0",
-    "updated_at": "2025-12-19T08:36:59Z"
+    "updated_at": "2025-12-19T09:30:28Z"
   },
   "persistent_history": {
     "desc": "基本无需设置的简单永久记忆插件",
@@ -7269,9 +7269,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 74,
+    "stars": 73,
     "version": "v3.2.7",
-    "updated_at": "2025-12-19T05:04:15Z",
+    "updated_at": "2025-12-19T09:42:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -8989,9 +8989,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 152,
+    "stars": 153,
     "version": "v2.0.11",
-    "updated_at": "2025-12-12T18:42:15Z"
+    "updated_at": "2025-12-19T08:55:40Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
