@@ -49,7 +49,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.0.3",
-    "updated_at": "2025-12-19T10:43:02Z"
+    "updated_at": "2025-12-19T11:43:57Z"
   },
   "astrbot_plugin_wca": {
     "display_name": "WCA 查询",
@@ -265,9 +265,9 @@
       "LLM 工具"
     ],
     "social_link": "https://github.com/sl251",
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.5",
-    "updated_at": "2025-12-19T08:35:16Z",
+    "updated_at": "2025-12-19T11:56:15Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -405,9 +405,9 @@
     "author": "bylkuse",
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v0.3.1",
-    "updated_at": "2025-12-16T21:07:16Z",
+    "updated_at": "2025-12-19T11:52:42Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -3053,8 +3053,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 18,
-    "version": "0.8.5",
-    "updated_at": "2025-12-18T12:31:35Z"
+    "version": "0.8.6",
+    "updated_at": "2025-12-19T11:39:52Z"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
