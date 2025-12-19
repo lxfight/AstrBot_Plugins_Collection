@@ -48,8 +48,8 @@
     "social_link": "https://github.com/CecilyGao",
     "tags": [],
     "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2025-12-19T10:23:23Z"
+    "version": "v1.0.3",
+    "updated_at": "2025-12-19T10:43:02Z"
   },
   "astrbot_plugin_wca": {
     "display_name": "WCA 查询",
@@ -2258,8 +2258,8 @@
     "repo": "https://github.com/xiaoxi68/astrbot_plugin_blessingholidays",
     "tags": [],
     "stars": 0,
-    "version": "1.2",
-    "updated_at": "2025-10-16T12:16:22Z"
+    "version": "v1.3",
+    "updated_at": "2025-12-19T10:53:28Z"
   },
   "astrbot_plugin_image_replay": {
     "name": "astrbot_plugin_image_replay",
