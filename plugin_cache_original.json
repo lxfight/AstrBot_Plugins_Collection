@@ -231,9 +231,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.4",
-    "updated_at": "2025-12-16T14:51:35Z",
+    "updated_at": "2025-12-20T02:18:12Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -3054,7 +3054,7 @@
     "social_link": "https://github.com/kawayiYokami",
     "stars": 18,
     "version": "0.8.6",
-    "updated_at": "2025-12-19T13:36:18Z"
+    "updated_at": "2025-12-20T03:08:43Z"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -3988,9 +3988,9 @@
       "唤醒增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.1.7",
-    "updated_at": "2025-12-18T13:11:01Z",
+    "updated_at": "2025-12-20T01:51:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
