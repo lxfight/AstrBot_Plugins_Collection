@@ -1,4 +1,109 @@
 {
+  "astrbot_plugin_file_reader_pro": {
+    "display_name": "文件读取插件（File Reader Pro）",
+    "desc": "读取各类文件内容的同时，采用现代 RAG（检索增强生成）架构，通过【语义分块 + 向量嵌入 + 智能检索】的方式，实现对文件内容的高效利用",
+    "author": "zz6zz666",
+    "repo": "https://github.com/zz6zz666/astrbot_plugin_file_reader_pro",
+    "tags": [
+      "文件解析"
+    ],
+    "stars": 0,
+    "version": "v3.1.0",
+    "updated_at": "2025-12-15T15:36:58Z"
+  },
+  "astrbot_plugin_qbittorrent_bridge": {
+    "display_name": "qBittorrent 桥接器",
+    "desc": "qBittorrent 桥接器",
+    "author": "棒棒糖",
+    "repo": "https://github.com/zhoufan47/astrbot_plugin_qbittorrent_bridge",
+    "tags": [
+      "bt",
+      "qbit"
+    ],
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2025-12-19T17:55:22Z",
+    "logo": "https://raw.githubusercontent.com/zhoufan47/astrbot_plugin_qbittorrent_bridge/master/logo.png"
+  },
+  "astrbot_plugin_group_context": {
+    "display_name": "优化群聊上下文感知",
+    "desc": "优化群聊上下文增强功能，提供user/agent对形式的上下文、合并转发消息分析、自定义提示词、图片描述与原生图片URL支持等功能（请关闭内置的聊天上下文增强功能）",
+    "author": "zz6zz666",
+    "repo": "https://github.com/zz6zz666/astrbot_plugin_group_context",
+    "tags": [
+      "v1.0.0"
+    ],
+    "stars": 0,
+    "version": "v1.4.0",
+    "updated_at": "2025-12-15T15:32:43Z"
+  },
+  "astrbot_plugin_web_analysis": {
+    "display_name": "网页解析",
+    "desc": "深度网页解析插件。支持静态抓取/动态渲染/自动截图，集成自定义 LLM 进行内容摘要与安全评估。",
+    "author": "YEZI",
+    "repo": "https://github.com/zhyx111999/astrbot_plugin_web_analysis",
+    "tags": [
+      "playwright",
+      "解析",
+      "网页"
+    ],
+    "social_link": "3268514224",
+    "stars": 0,
+    "version": "0.4.3",
+    "updated_at": "2025-12-19T13:49:06Z"
+  },
+  "astrbot_plugin_img_rev_searcher_Ver2": {
+    "display_name": "图片反搜聚合Ver2",
+    "desc": "图片反搜聚合插件，支持多种图片反向搜索引擎",
+    "author": "YanL",
+    "repo": "https://github.com/Yanlyn/astrbot_plugin_img_rev_searcher_Ver2",
+    "tags": [
+      "图片反搜",
+      "以图搜图",
+      "工具"
+    ],
+    "stars": 0,
+    "version": "2.0.0",
+    "updated_at": "2025-12-15T07:46:01Z"
+  },
+  "astrbot_plugin_uni_nickname": {
+    "display_name": "Uni-nickname 统一昵称插件",
+    "desc": "让 AI 始终使用管理员设定的昵称称呼群友（群聊和私聊均生效）",
+    "author": "Hakuin123",
+    "repo": "https://github.com/Hakuin123/astrbot_plugin_uni_nickname",
+    "tags": [
+      "AI",
+      "昵称"
+    ],
+    "social_link": "https://github.com/Hakuin123",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2025-12-20T03:16:25Z"
+  },
+  "astrbot_plugin_yoimg": {
+    "display_name": "Gitee 图系模型文生图，图生图",
+    "desc": "本插件提供多样化图片生成 Webui 面板，支持自定义多种参数，支持 llm 自然调用，支持提取人设和聊天记录，支持使用润色模型和自定义润色词来优化你的生图命令，支持 Gitee 模力方舟图片全模型文生图，图生图。",
+    "author": "梦千秋",
+    "repo": "https://github.com/WangYi82909/astrbot_plugin_yoimg",
+    "tags": [],
+    "stars": 1,
+    "version": "v1.0.2",
+    "updated_at": "2025-12-19T21:16:28Z",
+    "logo": "https://raw.githubusercontent.com/WangYi82909/astrbot_plugin_yoimg/main/logo.png"
+  },
+  "astrbot_plugin_ronghedraw": {
+    "display_name": "FLOW-官方-第三渠道聚合绘图",
+    "desc": "RongheDraw 多模式绘图插件 - 支持 Flow/Generic/Gemini 三种 API 模式",
+    "author": "Antigravity",
+    "repo": "https://github.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw",
+    "tags": [
+      "绘图",
+      "大香蕉"
+    ],
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2025-12-16T09:27:31Z"
+  },
   "astrbot_plugin_model_router": {
     "display_name": "智能模型路由器",
     "desc": "基于意图识别的多模型路由插件，支持根据任务难度自动切换模型",
@@ -10,6 +115,20 @@
     "stars": 0,
     "version": "v0.6.0",
     "updated_at": "2025-12-15T03:05:38Z"
+  },
+  "astrbot_plugin_pet_market": {
+    "display_name": "宠物市场",
+    "desc": "群聊宠物互动游戏 - 购买、训练、打工、银行、PK决斗、进化、抢劫等系统",
+    "author": "Antigravity AI",
+    "repo": "https://github.com/wangyingxuan383-ai/astrbot_plugin_pet_market",
+    "tags": [
+      "奴隶市场",
+      "群内互动"
+    ],
+    "stars": 1,
+    "version": "v2.3.0",
+    "updated_at": "2025-12-15T06:19:17Z",
+    "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_pet_market/main/logo.png"
   },
   "astrbot_plugin_anuneko": {
     "display_name": "anuneko对话插件",
@@ -25,6 +144,34 @@
     "version": "v1.0.0",
     "updated_at": "2025-12-19T01:21:05Z"
   },
+  "astrbot_plugin_pixiv_yuki": {
+    "display_name": "pixiv 第三方图床",
+    "desc": "Pixiv 第三方图床插件，运行在 i.yuki.sh 上，由 xueelf 提供，能够随机获得经过筛选的 Pixiv 图源。",
+    "author": "NightDust981989 & xueelf",
+    "repo": "https://github.com/NightDust981989/astrbot_plugin_pixiv_yuki",
+    "tags": [
+      "Pixiv",
+      "图床"
+    ],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2025-12-13T15:37:24Z",
+    "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_pixiv_yuki/main/logo.png"
+  },
+  "astrbot_plugin_qwen_codeimage": {
+    "display_name": "qwen_codeimage",
+    "desc": "日志代码截图分析，发送给bot图片用来识别图片内容，日志代码分析，提取图片内容。",
+    "author": "variant305-glitch",
+    "repo": "https://github.com/variant305-glitch/astrbot-qwen-image-code",
+    "tags": [
+      "日志代码截图分析",
+      "提取图中文字"
+    ],
+    "social_link": "https://github.com/variant305-glitch",
+    "stars": 1,
+    "version": "v1.1",
+    "updated_at": "2025-12-13T13:45:04Z"
+  },
   "astrbot_plugin_maskoff": {
     "display_name": "识人术",
     "desc": "防止你的小 LLM 因为别人把名字改成你的就认错人",
@@ -39,6 +186,21 @@
     "stars": 4,
     "version": "v0.0.1",
     "updated_at": "2025-12-18T18:33:06Z"
+  },
+  "astrbot_plugin_plugins_summary": {
+    "name": "",
+    "display_name": "插件目录查询",
+    "desc": "一款查询当前安装插件目录并以图片返回的插件",
+    "author": "飞翔的死猪",
+    "repo": "https://github.com/1-20182/astrbot_plugin_plugins_summary/tree/main",
+    "tags": [
+      "功能",
+      "汇总"
+    ],
+    "social_link": "https://github.com/1-20182",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2025-12-15T13:58:06Z"
   },
   "astrbot_plugin_color_converter": {
     "display_name": "颜色格式转换",
@@ -6256,9 +6418,9 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 67,
+    "stars": 68,
     "version": "1.1.0",
-    "updated_at": "2025-12-17T16:58:52Z"
+    "updated_at": "2025-12-20T04:22:07Z"
   },
   "astrbot_plugin_combine-messages": {
     "author": "FreeDivers",
@@ -6720,6 +6882,20 @@
     "version": "v2.1.3",
     "updated_at": "2025-12-07T11:21:20Z",
     "logo": "https://raw.githubusercontent.com/ZvZPvz/astrbot_plugin_a2s/main/logo.png"
+  },
+  "astrbot_plugin_pixiv_reborn": {
+    "display_name": "pixiv_search",
+    "desc": "通过标签在 Pixiv 上搜索插画。用法 /pixiv tag1,tag2,... 可在配置中设置认证信息、返回数量和 R18 过滤模式。",
+    "author": "vmoranv-reborn",
+    "repo": "https://github.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn",
+    "tags": [
+      "pixiv"
+    ],
+    "social_link": "https://github.com/vmoranv-reborn",
+    "stars": 1,
+    "version": "1.4.3",
+    "updated_at": "2025-12-17T05:03:39Z",
+    "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
     "author": "vmoranv",
