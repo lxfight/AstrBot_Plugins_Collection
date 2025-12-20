@@ -236,9 +236,9 @@
     "tags": [
       "memory"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "v1.6.0",
-    "updated_at": "2025-12-16T17:16:22Z"
+    "updated_at": "2025-12-20T07:40:02Z"
   },
   "astrbot_plugin_fortnue": {
     "display_name": "fortnue_image",
@@ -763,9 +763,9 @@
     ],
     "repo": "https://github.com/Huahuatgc/astrbot_plugin_aicu",
     "social_link": "https://github.com/Huahuatgc",
-    "stars": 4,
+    "stars": 5,
     "version": "2.5.0",
-    "updated_at": "2025-12-14T05:14:46Z",
+    "updated_at": "2025-12-20T08:06:52Z",
     "logo": "https://raw.githubusercontent.com/Huahuatgc/astrbot_plugin_aicu/master/logo.png"
   },
   "astrbot_plugin_ShareholderPerks": {
@@ -4810,9 +4810,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 60,
+    "stars": 61,
     "version": "1.3.0",
-    "updated_at": "2025-12-12T20:57:53Z"
+    "updated_at": "2025-12-20T08:25:03Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -5873,9 +5873,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 82,
+    "stars": 83,
     "version": "v1.0.3",
-    "updated_at": "2025-12-18T05:40:07Z",
+    "updated_at": "2025-12-20T08:25:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -6718,9 +6718,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 113,
+    "stars": 114,
     "version": "v2.0.6",
-    "updated_at": "2025-12-18T13:04:52Z",
+    "updated_at": "2025-12-20T08:25:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -8432,9 +8432,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 86,
+    "stars": 87,
     "version": "v2.1.7",
-    "updated_at": "2025-12-17T17:59:48Z"
+    "updated_at": "2025-12-20T08:25:08Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -8535,9 +8535,9 @@
       "webui",
       "图床"
     ],
-    "stars": 108,
+    "stars": 109,
     "version": "v3.19",
-    "updated_at": "2025-12-19T18:18:59Z"
+    "updated_at": "2025-12-20T08:25:10Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
@@ -8742,9 +8742,9 @@
     "author": "Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_essential",
     "tags": [],
-    "stars": 32,
+    "stars": 33,
     "version": "v1.1.0",
-    "updated_at": "2025-12-18T07:57:25Z"
+    "updated_at": "2025-12-20T08:25:12Z"
   },
   "astrbot_plugin_rss": {
     "desc": "支持通过 RSSHub 路由和直接 URL 订阅 RSS 源，并定时获取最新的 RSS 内容，如推特、B站、油管、博客等任何支持 RSS 2.0 的网站。",
