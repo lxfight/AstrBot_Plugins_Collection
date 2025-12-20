@@ -126,8 +126,8 @@
       "群内互动"
     ],
     "stars": 2,
-    "version": "v2.3.0",
-    "updated_at": "2025-12-20T14:28:47Z",
+    "version": "v2.3.1",
+    "updated_at": "2025-12-20T16:13:07Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_pet_market/main/logo.png"
   },
   "astrbot_plugin_anuneko": {
@@ -1189,8 +1189,8 @@
     "repo": "https://github.com/GuJi08233/astrbot_plugin_val_shop",
     "tags": [],
     "stars": 4,
-    "version": "v3.2.1",
-    "updated_at": "2025-12-17T16:32:55Z"
+    "version": "v3.2.2",
+    "updated_at": "2025-12-20T16:23:58Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -4151,8 +4151,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 28,
-    "version": "v1.1.7",
-    "updated_at": "2025-12-20T13:16:45Z",
+    "version": "v1.1.8",
+    "updated_at": "2025-12-20T16:05:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
