@@ -644,7 +644,7 @@
     ],
     "stars": 4,
     "version": "1.2.1",
-    "updated_at": "2025-12-16T15:15:36Z"
+    "updated_at": "2025-12-20T13:15:51Z"
   },
   "astrbot_plugin_customized_active_reply_prompt": {
     "display_name": "自定义主动回复提示词",
@@ -3640,8 +3640,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 94,
-    "version": "v4.3.0",
-    "updated_at": "2025-12-20T12:42:14Z",
+    "version": "v4.4.0",
+    "updated_at": "2025-12-20T13:11:13Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -4152,7 +4152,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 28,
     "version": "v1.1.7",
-    "updated_at": "2025-12-20T01:51:13Z",
+    "updated_at": "2025-12-20T13:16:45Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
