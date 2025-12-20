@@ -1272,9 +1272,9 @@
       "Minecraft"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 1,
+    "stars": 2,
     "version": "1.2.0",
-    "updated_at": "2025-12-18T08:48:30Z",
+    "updated_at": "2025-12-20T06:40:28Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_minecraft_monitor": {
@@ -1285,9 +1285,9 @@
     "tags": [
       "MC"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v2.0",
-    "updated_at": "2025-12-14T11:06:00Z"
+    "updated_at": "2025-12-20T06:40:35Z"
   },
   "astrbot_plugin_temp-email": {
     "display_name": "临时邮箱",
@@ -1338,9 +1338,9 @@
     "tags": [
       "MC"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.2",
-    "updated_at": "2025-11-28T15:38:12Z",
+    "updated_at": "2025-12-20T06:39:55Z",
     "logo": "https://raw.githubusercontent.com/SatellIta/astrbot_plugin_minecraft_skin_render/master/logo.png"
   },
   "astrbot_plugin_picstatus": {
@@ -1365,7 +1365,7 @@
     ],
     "stars": 12,
     "version": "2.1.0",
-    "updated_at": "2025-12-03T04:54:05Z"
+    "updated_at": "2025-12-20T06:48:04Z"
   },
   "astrbot_plugin_llm_amnesia": {
     "display_name": "LLM 遗忘插件",
@@ -1771,9 +1771,9 @@
       "AI 投资模拟"
     ],
     "social_link": "https://github.com/vmoranv",
-    "stars": 3,
+    "stars": 4,
     "version": "v2.0.0",
-    "updated_at": "2025-11-12T11:53:55Z",
+    "updated_at": "2025-12-20T06:38:49Z",
     "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_cryptocurrency/master/logo.png"
   },
   "astrbot_plugin_qqgal": {
@@ -1802,9 +1802,9 @@
       "自动续聊"
     ],
     "social_link": "https://github.com/Luna-channel",
-    "stars": 8,
+    "stars": 9,
     "version": "1.4.2",
-    "updated_at": "2025-12-15T11:03:29Z",
+    "updated_at": "2025-12-20T06:38:23Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -4073,9 +4073,9 @@
       "表情包"
     ],
     "social_link": "https://github.com/SodaSizzle",
-    "stars": 12,
+    "stars": 13,
     "version": "v1.0.0",
-    "updated_at": "2025-12-19T10:25:28Z"
+    "updated_at": "2025-12-20T06:46:09Z"
   },
   "astrbot_plugin_self_learning": {
     "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
@@ -7913,9 +7913,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 71,
+    "stars": 72,
     "version": "v3.0.3",
-    "updated_at": "2025-12-15T10:57:15Z",
+    "updated_at": "2025-12-20T06:49:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
