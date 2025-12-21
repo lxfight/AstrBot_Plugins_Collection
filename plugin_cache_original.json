@@ -1422,9 +1422,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "v4.1.0",
-    "updated_at": "2025-12-20T21:06:56Z",
+    "updated_at": "2025-12-21T05:46:46Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -1582,9 +1582,9 @@
     "tags": [
       "指令"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "1.1.3",
-    "updated_at": "2025-12-11T05:37:48Z",
+    "updated_at": "2025-12-21T05:40:52Z",
     "logo": "https://raw.githubusercontent.com/TenmaGabriel0721/astrbot_plugin_permission-manager/main/logo.png"
   },
   "astrbot_plugin_whatslinkInfo": {
@@ -1685,7 +1685,7 @@
     ],
     "stars": 2,
     "version": "v1.0.2",
-    "updated_at": "2025-12-21T01:50:39Z",
+    "updated_at": "2025-12-21T05:35:19Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_dailyacmfortune/main/logo.png"
   },
   "astrbot_plugin_idgen": {
@@ -2354,9 +2354,9 @@
       "sora"
     ],
     "social_link": "https://github.com/CCYellowStar2",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2025-12-20T01:33:45Z"
+    "updated_at": "2025-12-21T05:42:42Z"
   },
   "astrbot_plugin_video_sora2": {
     "name": "",
@@ -7729,9 +7729,9 @@
     "repo": "https://github.com/xiewoc/astrbot_plugin_file_reader",
     "social_link": "https://github.com/xiewoc",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.2",
-    "updated_at": "2025-12-18T08:58:46Z"
+    "updated_at": "2025-12-21T05:11:42Z"
   },
   "astrbot_plugin_CounterStrikle": {
     "desc": "Blast-TV 上的 Counter-Strikle 小游戏，图片卡片渲染。",
