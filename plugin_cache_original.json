@@ -1422,9 +1422,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "v4.1.0",
-    "updated_at": "2025-12-21T05:46:46Z",
+    "updated_at": "2025-12-21T15:56:09Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -2020,7 +2020,7 @@
     ],
     "stars": 3,
     "version": "v1.0.1dev",
-    "updated_at": "2025-12-16T07:16:42Z",
+    "updated_at": "2025-12-21T16:23:15Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
