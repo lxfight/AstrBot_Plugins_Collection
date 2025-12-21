@@ -1828,9 +1828,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 19,
+    "stars": 20,
     "version": "v1.1.2",
-    "updated_at": "2025-12-16T07:35:20Z",
+    "updated_at": "2025-12-21T17:20:17Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -3189,9 +3189,9 @@
       "重启"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.0.5",
-    "updated_at": "2025-12-18T01:17:42Z",
+    "updated_at": "2025-12-21T16:47:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_restart/main/logo.png"
   },
   "astrbot_plugin_tts_llm": {
