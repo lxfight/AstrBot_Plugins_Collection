@@ -86,9 +86,9 @@
     "author": "梦千秋",
     "repo": "https://github.com/WangYi82909/astrbot_plugin_yoimg",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.3",
-    "updated_at": "2025-12-21T04:24:33Z",
+    "updated_at": "2025-12-21T13:17:13Z",
     "logo": "https://raw.githubusercontent.com/WangYi82909/astrbot_plugin_yoimg/main/logo.png"
   },
   "astrbot_plugin_ronghedraw": {
@@ -9329,7 +9329,7 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
     "tags": [],
     "stars": 5,
-    "version": "v1.4.1",
-    "updated_at": "2025-09-16T10:52:23Z"
+    "version": "v1.4.2",
+    "updated_at": "2025-12-21T13:30:29Z"
   }
 }
