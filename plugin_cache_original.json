@@ -101,8 +101,8 @@
       "大香蕉"
     ],
     "stars": 3,
-    "version": "1.1.3",
-    "updated_at": "2025-12-21T09:44:42Z"
+    "version": "1.1.5",
+    "updated_at": "2025-12-21T12:15:37Z"
   },
   "astrbot_plugin_model_router": {
     "display_name": "智能模型路由器",
@@ -447,7 +447,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 13,
     "version": "v1.2.0",
-    "updated_at": "2025-12-20T12:18:57Z",
+    "updated_at": "2025-12-21T11:48:01Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -1259,7 +1259,7 @@
     "social_link": "https://github.com/HSOS6",
     "stars": 1,
     "version": "2.0.25.12.WNMCNXM",
-    "updated_at": "2025-12-18T12:48:27Z",
+    "updated_at": "2025-12-21T11:53:49Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
   },
   "astrbot_plugin_minecraft_adapter": {
@@ -2104,9 +2104,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 51,
+    "stars": 52,
     "version": "v1.0.2",
-    "updated_at": "2025-12-21T09:56:20Z",
+    "updated_at": "2025-12-21T11:43:38Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -2871,9 +2871,9 @@
       "信息"
     ],
     "social_link": " https://github.com/ovoox",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0",
-    "updated_at": "2025-11-16T02:21:47Z"
+    "updated_at": "2025-12-21T11:57:57Z"
   },
   "弗一把": {
     "desc": "仿blast.tv猜csplayer",
@@ -4417,9 +4417,9 @@
       "群审核"
     ],
     "social_link": "https://github.com/huntuo146",
-    "stars": 5,
+    "stars": 6,
     "version": "2.1.0",
-    "updated_at": "2025-12-21T10:45:51Z"
+    "updated_at": "2025-12-21T12:09:14Z"
   },
   "pokemon_fusion": {
     "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
