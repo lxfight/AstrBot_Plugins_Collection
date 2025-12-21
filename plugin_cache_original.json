@@ -224,8 +224,8 @@
     ],
     "social_link": "https://github.com/huizhiLLL",
     "stars": 1,
-    "version": "v1.0.3",
-    "updated_at": "2025-12-19T07:56:48Z",
+    "version": "v1.0.4",
+    "updated_at": "2025-12-21T07:08:35Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -1144,7 +1144,7 @@
     "tags": [],
     "stars": 1,
     "version": "v0.0.9",
-    "updated_at": "2025-12-18T11:25:33Z"
+    "updated_at": "2025-12-21T06:53:50Z"
   },
   "astrbot_plugin_hardwareinfo": {
     "display_name": "硬件信息查询",
@@ -5163,7 +5163,7 @@
     "author": "Zhalslar",
     "stars": 8,
     "version": "v1.0.3",
-    "updated_at": "2025-12-14T11:15:50Z",
+    "updated_at": "2025-12-21T07:05:56Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_monitor/main/logo.png"
   },
   "astrbot_plugin_decision_roulette": {
@@ -6458,7 +6458,7 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot",
     "stars": 7,
     "version": "v1.0.4",
-    "updated_at": "2025-12-13T10:54:14Z",
+    "updated_at": "2025-12-21T07:04:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_nobot/main/logo.png"
   },
   "astrbot_plugin_mcgetter": {
@@ -7915,7 +7915,7 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "stars": 72,
     "version": "v3.0.3",
-    "updated_at": "2025-12-20T06:49:24Z",
+    "updated_at": "2025-12-21T07:07:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
