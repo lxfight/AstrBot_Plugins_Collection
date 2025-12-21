@@ -101,8 +101,8 @@
       "大香蕉"
     ],
     "stars": 3,
-    "version": "1.1.0",
-    "updated_at": "2025-12-21T01:52:57Z"
+    "version": "1.1.2",
+    "updated_at": "2025-12-21T09:11:42Z"
   },
   "astrbot_plugin_model_router": {
     "display_name": "智能模型路由器",
@@ -643,8 +643,8 @@
       "comfyui"
     ],
     "stars": 4,
-    "version": "1.2.1",
-    "updated_at": "2025-12-20T13:15:51Z"
+    "version": "2.0",
+    "updated_at": "2025-12-21T08:48:06Z"
   },
   "astrbot_plugin_customized_active_reply_prompt": {
     "display_name": "自定义主动回复提示词",
@@ -866,8 +866,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 11,
-    "version": "1.2.8",
-    "updated_at": "2025-12-21T08:26:44Z",
+    "version": "1.2.9",
+    "updated_at": "2025-12-21T09:12:41Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
