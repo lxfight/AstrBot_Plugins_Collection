@@ -1728,9 +1728,9 @@
       "蔚蓝档案",
       "Blue Archive"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.14",
-    "updated_at": "2025-11-16T13:47:35Z"
+    "updated_at": "2025-12-21T18:14:41Z"
   },
   "astrbot_plugin_mirage_tank": {
     "desc": "用于生成幻影坦克图片的插件，支持黑白和彩色两种模式",
@@ -3906,8 +3906,8 @@
     "tags": "娱乐",
     "social_link": "astrbot.uk",
     "stars": 14,
-    "version": "v1.4.0",
-    "updated_at": "2025-11-28T07:01:17Z"
+    "version": "v1.4.1",
+    "updated_at": "2025-12-21T17:55:18Z"
   },
   "should_I_respond": {
     "desc": "“我要回复这条消息吗？”当打开主动回复时，LLM 可能傻傻的就部分上下文一直回复。这个插件没准能解决这个问题。（在 aiocqhttp 平台测试，需要搭配主动回复功能使用）",
@@ -8952,7 +8952,7 @@
     "tags": [],
     "stars": 13,
     "version": "v4.7.2",
-    "updated_at": "2025-12-18T10:41:09Z"
+    "updated_at": "2025-12-21T18:09:05Z"
   },
   "astrbot_plugin_mohoyo_cos": {
     "desc": "获取米游社社区cos插件，支持LLM自识别",
