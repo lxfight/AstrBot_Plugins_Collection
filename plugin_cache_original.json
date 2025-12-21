@@ -77,8 +77,8 @@
     ],
     "social_link": "https://github.com/Hakuin123",
     "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2025-12-20T14:27:04Z"
+    "version": "v1.0.3",
+    "updated_at": "2025-12-21T14:36:32Z"
   },
   "astrbot_plugin_yoimg": {
     "display_name": "Gitee 图系模型文生图，图生图",
@@ -644,7 +644,7 @@
     ],
     "stars": 4,
     "version": "2.1",
-    "updated_at": "2025-12-21T14:17:56Z"
+    "updated_at": "2025-12-21T14:21:54Z"
   },
   "astrbot_plugin_customized_active_reply_prompt": {
     "display_name": "自定义主动回复提示词",
