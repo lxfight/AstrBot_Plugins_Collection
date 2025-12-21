@@ -7,9 +7,9 @@
     "tags": [
       "文件解析"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v3.1.0",
-    "updated_at": "2025-12-15T15:36:58Z"
+    "updated_at": "2025-12-21T08:19:26Z"
   },
   "astrbot_plugin_qbittorrent_bridge": {
     "display_name": "qBittorrent 桥接器",
@@ -489,9 +489,9 @@
     "author": "Haitun",
     "repo": "https://github.com/onniemi/astrbot_plugin_1panel",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2025-12-05T16:28:29Z"
+    "updated_at": "2025-12-21T07:26:27Z"
   },
   "astrbot_plugin_gif_vision_helper": {
     "display_name": "GIF Vision Helper",
@@ -867,7 +867,7 @@
     "social_link": "https://box.firefly520.top/",
     "stars": 11,
     "version": "1.2.8",
-    "updated_at": "2025-12-15T13:33:50Z",
+    "updated_at": "2025-12-21T08:26:44Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
