@@ -86,9 +86,9 @@
     "author": "梦千秋",
     "repo": "https://github.com/WangYi82909/astrbot_plugin_yoimg",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.3",
-    "updated_at": "2025-12-21T03:33:42Z",
+    "updated_at": "2025-12-21T04:24:33Z",
     "logo": "https://raw.githubusercontent.com/WangYi82909/astrbot_plugin_yoimg/main/logo.png"
   },
   "astrbot_plugin_ronghedraw": {
@@ -7415,8 +7415,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
     "stars": 21,
-    "version": "v1.1.5",
-    "updated_at": "2025-12-21T00:10:59Z",
+    "version": "v2.0.0",
+    "updated_at": "2025-12-21T03:58:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -8432,9 +8432,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 87,
+    "stars": 88,
     "version": "v2.1.7",
-    "updated_at": "2025-12-20T08:25:08Z"
+    "updated_at": "2025-12-21T04:51:48Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
