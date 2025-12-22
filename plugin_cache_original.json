@@ -3404,7 +3404,7 @@
     ],
     "stars": 3,
     "version": "v0.3",
-    "updated_at": "2025-12-18T12:47:42Z",
+    "updated_at": "2025-12-22T15:57:27Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -3530,9 +3530,9 @@
       "memory",
       "rag"
     ],
-    "stars": 46,
+    "stars": 47,
     "version": "2.0.2",
-    "updated_at": "2025-12-18T06:54:35Z",
+    "updated_at": "2025-12-22T15:51:46Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -4017,7 +4017,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 39,
     "version": "0.5.0",
-    "updated_at": "2025-12-15T15:54:48Z",
+    "updated_at": "2025-12-22T15:54:59Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -4680,7 +4680,7 @@
     ],
     "stars": 4,
     "version": "v1.2.1",
-    "updated_at": "2025-12-12T07:39:38Z",
+    "updated_at": "2025-12-22T15:45:15Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -4784,7 +4784,7 @@
     ],
     "stars": 11,
     "version": "v2.1.4",
-    "updated_at": "2025-12-11T11:32:20Z",
+    "updated_at": "2025-12-22T15:33:43Z",
     "logo": "https://raw.githubusercontent.com/SHOOTING-STAR-C/astrbot_plugin_battlefield_tool/master/logo.png"
   },
   "astrbot_plugin_SteamSaleTracker": {
