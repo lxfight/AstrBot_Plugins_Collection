@@ -4724,13 +4724,6 @@
 		"author": "Futureppo",
 		"repo": "https://github.com/Futureppo/astrbot_plugin_custom_menu"
 	},
-	"astrbot_plugin_liferestart": {
-		"desc": "人生重启模拟器。输入「重开」来重开你的沟槽人生吧！",
-		"author": "kterna",
-		"tags": ["游戏"],
-		"social_link": "https://github.com/kterna/astrbot_plugin_liferestart",
-		"repo": "https://github.com/kterna/astrbot_plugin_liferestart"
-	},
 	"astrbot_plugin_Lolicon": {
 		"author": "hello七七",
 		"repo": "https://github.com/ttq7/astrbot_plugin_Lolicon",
