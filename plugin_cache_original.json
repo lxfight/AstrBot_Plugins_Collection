@@ -3214,9 +3214,9 @@
       "主动应答"
     ],
     "social_link": "https://github.com/kawayiYokami",
-    "stars": 18,
+    "stars": 19,
     "version": "0.8.6",
-    "updated_at": "2025-12-20T03:08:43Z"
+    "updated_at": "2025-12-22T11:59:50Z"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -4150,9 +4150,9 @@
       "唤醒增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 28,
+    "stars": 29,
     "version": "v1.1.8",
-    "updated_at": "2025-12-20T16:05:55Z",
+    "updated_at": "2025-12-22T12:51:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -7986,18 +7986,6 @@
     "stars": 4,
     "version": "v2.0.1",
     "updated_at": "2025-10-24T08:53:16Z"
-  },
-  "astrbot_plugin_liferestart": {
-    "desc": "人生重启模拟器。输入「重开」来重开你的沟槽人生吧！",
-    "author": "kterna",
-    "tags": [
-      "游戏"
-    ],
-    "social_link": "https://github.com/kterna/astrbot_plugin_liferestart",
-    "repo": "https://github.com/kterna/astrbot_plugin_liferestart",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2025-03-24T15:23:26Z"
   },
   "astrbot_plugin_Lolicon": {
     "author": "hello七七",
