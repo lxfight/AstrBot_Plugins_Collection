@@ -867,7 +867,7 @@
     "social_link": "https://box.firefly520.top/",
     "stars": 11,
     "version": "1.2.9",
-    "updated_at": "2025-12-21T09:31:40Z",
+    "updated_at": "2025-12-22T01:27:03Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -3639,9 +3639,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 94,
+    "stars": 95,
     "version": "v4.4.0",
-    "updated_at": "2025-12-20T13:11:13Z",
+    "updated_at": "2025-12-22T01:35:08Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -5999,9 +5999,9 @@
     "desc": "DZMM聊天插件，适配了DZMM返回的格式，并避免与AstrBot的模型混用，可用特别命令唤起DZMM的模型进行\"有趣生动\"的互动聊天。",
     "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
     "tags": [],
-    "stars": 16,
+    "stars": 15,
     "version": "v1.1.0",
-    "updated_at": "2025-11-26T07:37:37Z"
+    "updated_at": "2025-12-22T01:38:47Z"
   },
   "astrbot_plugin_text2image": {
     "author": "wuyan1003",
