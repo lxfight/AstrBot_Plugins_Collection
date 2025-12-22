@@ -102,7 +102,7 @@
     ],
     "stars": 3,
     "version": "1.1.6",
-    "updated_at": "2025-12-22T17:15:54Z"
+    "updated_at": "2025-12-22T17:21:28Z"
   },
   "astrbot_plugin_model_router": {
     "display_name": "智能模型路由器",
@@ -3403,8 +3403,8 @@
       "撤回"
     ],
     "stars": 3,
-    "version": "v0.3",
-    "updated_at": "2025-12-22T15:57:27Z",
+    "version": "v1.0",
+    "updated_at": "2025-12-22T18:32:59Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
