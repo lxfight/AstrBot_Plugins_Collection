@@ -2019,8 +2019,8 @@
       "修仙"
     ],
     "stars": 3,
-    "version": "v1.0.1dev",
-    "updated_at": "2025-12-21T16:23:15Z",
+    "version": "v1.0.2dev",
+    "updated_at": "2025-12-22T14:08:51Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -3706,9 +3706,9 @@
     "author": "木有知",
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "0.2.1",
-    "updated_at": "2025-12-13T08:45:00Z"
+    "updated_at": "2025-12-22T14:21:37Z"
   },
   "astrbot_plugin_jojo_stand_panel": {
     "desc": "一个用于 AstrBot 的 JOJO 替身面板生成插件，调用 TripleYing 的 API 生成 JOJO 风格替身面板图片。支持随机生成、自定义设置、替身系统等功能。",
