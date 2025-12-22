@@ -77,8 +77,8 @@
     ],
     "social_link": "https://github.com/Hakuin123",
     "stars": 0,
-    "version": "v1.0.3",
-    "updated_at": "2025-12-21T14:36:32Z"
+    "version": "v1.0.4",
+    "updated_at": "2025-12-22T15:06:56Z"
   },
   "astrbot_plugin_yoimg": {
     "display_name": "Gitee 图系模型文生图，图生图",
@@ -1378,9 +1378,9 @@
       "遗忘"
     ],
     "social_link": "https://github.com/SinkAbyss",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.5",
-    "updated_at": "2025-12-13T11:15:30Z"
+    "updated_at": "2025-12-22T14:40:54Z"
   },
   "astrbot_plugin_Furimg_Cloud": {
     "display_name": "兽云祭(兽兽图片/图鉴)",
