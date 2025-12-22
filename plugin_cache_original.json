@@ -278,9 +278,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.1.1",
-    "updated_at": "2025-12-19T16:33:51Z",
+    "updated_at": "2025-12-22T05:17:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -1582,9 +1582,9 @@
     "tags": [
       "指令"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "1.1.3",
-    "updated_at": "2025-12-21T10:27:13Z",
+    "updated_at": "2025-12-22T05:20:50Z",
     "logo": "https://raw.githubusercontent.com/TenmaGabriel0721/astrbot_plugin_permission-manager/main/logo.png"
   },
   "astrbot_plugin_whatslinkInfo": {
@@ -8045,9 +8045,9 @@
     "tags": [
       "实用工具"
     ],
-    "stars": 22,
+    "stars": 23,
     "version": "v2.2.3",
-    "updated_at": "2025-12-20T12:16:52Z",
+    "updated_at": "2025-12-22T04:56:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
