@@ -278,9 +278,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 25,
+    "stars": 26,
     "version": "v1.1.2",
-    "updated_at": "2025-12-23T07:22:27Z",
+    "updated_at": "2025-12-23T11:23:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -1008,7 +1008,7 @@
     "social_link": "https://github.com/bvzrays",
     "stars": 41,
     "version": "v2.2.0",
-    "updated_at": "2025-12-18T09:08:06Z",
+    "updated_at": "2025-12-23T12:48:23Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -1259,7 +1259,7 @@
     "social_link": "https://github.com/HSOS6",
     "stars": 1,
     "version": "2.0.25.12.WNMCNXM",
-    "updated_at": "2025-12-21T11:53:49Z",
+    "updated_at": "2025-12-23T12:16:29Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
   },
   "astrbot_plugin_minecraft_adapter": {
@@ -2018,9 +2018,9 @@
     "tags": [
       "修仙"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.2dev",
-    "updated_at": "2025-12-22T14:08:51Z",
+    "updated_at": "2025-12-23T11:45:28Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -4417,9 +4417,9 @@
       "群审核"
     ],
     "social_link": "https://github.com/huntuo146",
-    "stars": 6,
+    "stars": 7,
     "version": "2.1.0",
-    "updated_at": "2025-12-21T12:09:14Z"
+    "updated_at": "2025-12-23T12:28:27Z"
   },
   "pokemon_fusion": {
     "desc": "宝可梦融合插件，支持指定宝可梦融合和随机融合。",
@@ -6404,9 +6404,9 @@
       "戳一戳"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 39,
+    "stars": 40,
     "version": "v1.1.7",
-    "updated_at": "2025-12-18T13:59:14Z",
+    "updated_at": "2025-12-23T12:28:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_pokepro/main/logo.png"
   },
   "astrbot_plugin_jm_cosmos": {
@@ -6781,9 +6781,9 @@
       "成员审核"
     ],
     "social_link": "https://github.com/huntuo146",
-    "stars": 4,
+    "stars": 5,
     "version": "1.2.1",
-    "updated_at": "2025-12-15T02:48:25Z"
+    "updated_at": "2025-12-23T12:28:27Z"
   },
   "astrbot_plugin_Volcengine-Text-to-image": {
     "author": "wayzinx",
