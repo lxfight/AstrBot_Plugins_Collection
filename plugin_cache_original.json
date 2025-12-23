@@ -153,9 +153,9 @@
       "Pixiv",
       "图床"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2025-12-13T15:37:24Z",
+    "updated_at": "2025-12-23T04:56:37Z",
     "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_pixiv_yuki/main/logo.png"
   },
   "astrbot_plugin_qwen_codeimage": {
@@ -2955,7 +2955,7 @@
     ],
     "stars": 23,
     "version": "2.4.7",
-    "updated_at": "2025-12-13T20:31:04Z",
+    "updated_at": "2025-12-23T04:51:00Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
