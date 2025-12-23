@@ -400,9 +400,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 26,
+    "stars": 27,
     "version": "v1.1.2",
-    "updated_at": "2025-12-23T11:23:47Z",
+    "updated_at": "2025-12-23T16:44:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -1002,9 +1002,9 @@
       "comfyui"
     ],
     "social_link": "",
-    "stars": 6,
+    "stars": 7,
     "version": "3.5.0",
-    "updated_at": "2025-12-18T16:10:04Z"
+    "updated_at": "2025-12-23T17:03:57Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
