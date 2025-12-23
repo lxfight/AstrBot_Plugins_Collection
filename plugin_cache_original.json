@@ -531,8 +531,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 15,
-    "version": "v1.1.1",
-    "updated_at": "2025-12-16T16:29:27Z",
+    "version": "v1.2.1",
+    "updated_at": "2025-12-23T02:31:32Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -6202,9 +6202,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 44,
+    "stars": 45,
     "version": "v1.0.5",
-    "updated_at": "2025-12-19T03:45:53Z",
+    "updated_at": "2025-12-23T02:26:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
