@@ -10,7 +10,8 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 6,
     "version": "1.0.0",
-    "updated_at": "2025-12-23T13:10:16Z"
+    "updated_at": "2025-12-23T14:04:58Z",
+    "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
     "display_name": "天使之魂",
@@ -2155,8 +2156,8 @@
       "修仙"
     ],
     "stars": 4,
-    "version": "v1.0.2dev",
-    "updated_at": "2025-12-23T11:45:28Z",
+    "version": "v1.0.3dev",
+    "updated_at": "2025-12-23T14:17:21Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -2241,8 +2242,8 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 52,
-    "version": "v1.0.2",
-    "updated_at": "2025-12-21T11:43:38Z",
+    "version": "v1.1.0",
+    "updated_at": "2025-12-23T14:23:30Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
