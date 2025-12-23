@@ -1,4 +1,84 @@
 {
+  "astrbot_plugin_desktop_assistant": {
+    "display_name": "AstrBot 桌面助手",
+    "desc": "AstrBot 桌面悬浮球助手（兼容云服务器 AstrBot 配合本地客户端使用）- 提供可拖拽的悬浮球界面、多模态对话窗口、桌面感知和主动对话功能",
+    "author": "木有知",
+    "repo": "https://github.com/muyouzhi6/astrbot_plugin_desktop_assistant",
+    "tags": [
+      "桌面客户端"
+    ],
+    "social_link": "https://github.com/muyouzhi6",
+    "stars": 6,
+    "version": "1.0.0",
+    "updated_at": "2025-12-23T13:10:16Z"
+  },
+  "astrbot_plugin_angel_memory": {
+    "display_name": "天使之魂",
+    "desc": "赋予AI动态演化的人格、长期记忆与自主学习能力，将聊天工具升级为有生命感的AI伙伴。",
+    "author": "kawayiYokami",
+    "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_memory",
+    "tags": [
+      "RAG",
+      "学习",
+      "人格"
+    ],
+    "stars": 10,
+    "version": "0.9.99",
+    "updated_at": "2025-12-22T16:59:57Z"
+  },
+  "astrbot_plugin_angel_heart": {
+    "display_name": "天使之心",
+    "desc": "告别“人工智障”式群聊！本插件用【4状态机】教会AI观察时机、判断气氛，实现真人般社交直觉；再以【轻重双AI核】分离思考与决策，保证回复质量的同时大幅降低API成本。",
+    "version": "0.8.6",
+    "author": "kawayiYokami",
+    "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_heart",
+    "tags": [
+      "拟人",
+      "主动应答",
+      "群聊优化"
+    ],
+    "stars": 19,
+    "updated_at": "2025-12-22T11:59:50Z"
+  },
+  "astrbot_plugin_angel_eye": {
+    "display_name": "天使之眼",
+    "desc": "一个为 AstrBot 设计的函数工具插件，允许大语言模型（LLM）直接查询当前群聊的聊天记录。",
+    "author": "kawayiYokami",
+    "version": "1.0.3",
+    "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_eye",
+    "tags": [
+      "工具",
+      "记录查询",
+      "聊天记录"
+    ],
+    "stars": 7,
+    "updated_at": "2025-11-21T07:11:52Z"
+  },
+  "lumingya/astrbot_plugin_regex_filter": {
+    "display_name": "通用正则后处理",
+    "desc": "允许你自定义正则",
+    "author": "lumingya",
+    "repo": "https://github.com/lumingya/astrbot_plugin_regex_filter",
+    "tags": [
+      "正则"
+    ],
+    "stars": 1,
+    "version": "v1.0",
+    "updated_at": "2025-12-21T15:01:58Z"
+  },
+  "astrbot_plugin_image_guard": {
+    "display_name": "图片审核",
+    "desc": "基于多模态 LLM 的图片内容审查卫士。v1.6.4 新增智能过滤器，自动忽略 GIF 动图和 QQ 表情包，只审查普通静态图片。",
+    "author": "YEZI",
+    "repo": "https://github.com/zhyx111999/astrbot_plugin_image_guard",
+    "tags": [
+      "图片"
+    ],
+    "social_link": "3268514224",
+    "stars": 0,
+    "version": "1.6.6",
+    "updated_at": "2025-12-19T13:27:08Z"
+  },
   "astrbot_plugin_file_reader_pro": {
     "display_name": "文件读取插件（File Reader Pro）",
     "desc": "读取各类文件内容的同时，采用现代 RAG（检索增强生成）架构，通过【语义分块 + 向量嵌入 + 智能检索】的方式，实现对文件内容的高效利用",
@@ -10,6 +90,31 @@
     "stars": 1,
     "version": "v3.1.0",
     "updated_at": "2025-12-21T08:19:26Z"
+  },
+  "astrbot_plugin_reminder": {
+    "display_name": "定时提醒插件",
+    "desc": "支持定时发送消息到群组或私聊，支持 cron 表达式、富媒体消息",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_reminder",
+    "tags": [
+      "定时",
+      "提醒",
+      "通知"
+    ],
+    "stars": 0,
+    "version": "v0.1",
+    "updated_at": "2025-12-08T15:40:35Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
+  },
+  "astrbot_plugin_binance": {
+    "display_name": "Binance",
+    "desc": "币安查询，交易等...",
+    "author": "三月",
+    "repo": "https://github.com/ASanYueA/astrbot_plugin_binance",
+    "tags": [],
+    "stars": 0,
+    "version": "v0.2.1",
+    "updated_at": "2025-12-17T13:15:46Z"
   },
   "astrbot_plugin_qbittorrent_bridge": {
     "display_name": "qBittorrent 桥接器",
@@ -239,6 +344,22 @@
     "stars": 11,
     "version": "v1.6.0",
     "updated_at": "2025-12-22T17:01:13Z"
+  },
+  "astrbot_plugin_echo": {
+    "display_name": "echo",
+    "desc": "/echo 指令返回 PONG。用于验证 AstrBot 是否正常。",
+    "author": "ocetars",
+    "repo": "https://github.com/ocetars/astrbot_plugin_echo",
+    "tags": [
+      "复读",
+      "连通性",
+      "检查"
+    ],
+    "social_link": "https://github.com/ocetars",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2025-11-25T12:11:18Z",
+    "logo": "https://raw.githubusercontent.com/ocetars/astrbot_plugin_echo/master/logo.png"
   },
   "astrbot_plugin_fortnue": {
     "display_name": "fortnue_image",
@@ -940,8 +1061,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 17,
-    "version": "v1.7.5",
-    "updated_at": "2025-12-17T23:24:44Z",
+    "version": "v1.7.6",
+    "updated_at": "2025-12-23T13:00:54Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -1053,6 +1174,21 @@
     "stars": 2,
     "version": "v1.1",
     "updated_at": "2025-11-27T07:24:45Z"
+  },
+  "astrbot_plugin_ zxs60s": {
+    "display_name": "走小散每日 60 秒晨报",
+    "desc": "基于走小散远程API接口开发的直接显示晨报图的一款插件。",
+    "author": "走小散",
+    "repo": "https://github.com/by-029/zxs60s",
+    "tags": [
+      "走小散",
+      "60秒新闻API"
+    ],
+    "social_link": "www.zousanzy.cn",
+    "stars": 0,
+    "version": "v2.1",
+    "updated_at": "2025-11-29T11:03:59Z",
+    "logo": "https://raw.githubusercontent.com/by-029/zxs60s/main/logo.png"
   },
   "astrbot_plugin_slave_market": {
     "display_name": "大牛马时代",
@@ -3204,32 +3340,6 @@
     "stars": 6,
     "version": "1.3.1",
     "updated_at": "2025-12-07T09:57:02Z"
-  },
-  "astrbot_plugin_angel_heart": {
-    "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让 AI 成为懂分寸、有眼色的聊天伙伴。",
-    "author": "kawayiYokami",
-    "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_heart",
-    "tags": [
-      "群聊",
-      "主动应答"
-    ],
-    "social_link": "https://github.com/kawayiYokami",
-    "stars": 19,
-    "version": "0.8.6",
-    "updated_at": "2025-12-22T11:59:50Z"
-  },
-  "astrbot_plugin_angel_eye": {
-    "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
-    "author": "kawayiYokami",
-    "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_eye",
-    "tags": [
-      "搜索",
-      "知识"
-    ],
-    "social_link": "https://github.com/kawayiYokami",
-    "stars": 7,
-    "version": "1.0.3",
-    "updated_at": "2025-11-21T07:11:52Z"
   },
   "astrbot_plugin_pollinations_images": {
     "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
