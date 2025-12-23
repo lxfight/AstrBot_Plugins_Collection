@@ -8,9 +8,9 @@
       "桌面客户端"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.0",
-    "updated_at": "2025-12-23T14:04:58Z",
+    "updated_at": "2025-12-23T15:26:13Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -23,9 +23,9 @@
       "学习",
       "人格"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "0.9.99",
-    "updated_at": "2025-12-22T16:59:57Z"
+    "updated_at": "2025-12-23T15:26:11Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -1327,7 +1327,7 @@
     "tags": [],
     "stars": 4,
     "version": "v3.2.2",
-    "updated_at": "2025-12-20T16:23:58Z"
+    "updated_at": "2025-12-23T16:12:41Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -1677,9 +1677,9 @@
       "HTTP"
     ],
     "social_link": "https://github.com/fluidcat/astrbot_plugin_http_adapter/issues",
-    "stars": 6,
+    "stars": 7,
     "version": "1.2.0",
-    "updated_at": "2025-12-13T17:44:02Z"
+    "updated_at": "2025-12-23T15:30:02Z"
   },
   "astrbot_plugin_nyweather": {
     "display_name": "天气查询插件",
@@ -2156,8 +2156,8 @@
       "修仙"
     ],
     "stars": 4,
-    "version": "v1.0.4dev",
-    "updated_at": "2025-12-23T15:25:20Z",
+    "version": "v1.0.5dev",
+    "updated_at": "2025-12-23T15:49:54Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -3985,9 +3985,9 @@
     "tags": [
       "typst"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2025-08-22T17:06:40Z"
+    "updated_at": "2025-12-23T16:04:08Z"
   },
   "astrbot_plugin_retry_v2": {
     "desc": "一个基于事件钩子的、处理空回复和截断等非完整响应的重试插件",
@@ -6374,9 +6374,9 @@
     "desc": "MySQL存储聊天记录",
     "repo": "https://github.com/LWWD/astrbot_plugin_sql_history",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.0",
-    "updated_at": "2025-12-23T10:02:18Z"
+    "updated_at": "2025-12-23T16:14:26Z"
   },
   "astrbot_plugin_error_notice": {
     "author": "DragonEmpery",
@@ -8024,9 +8024,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 73,
+    "stars": 74,
     "version": "v3.0.3",
-    "updated_at": "2025-12-23T06:46:41Z",
+    "updated_at": "2025-12-23T16:01:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
