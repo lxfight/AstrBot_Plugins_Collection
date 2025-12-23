@@ -2080,8 +2080,8 @@
       "实用"
     ],
     "stars": 3,
-    "version": "1.2.3",
-    "updated_at": "2025-12-19T01:44:56Z",
+    "version": "1.2.4",
+    "updated_at": "2025-12-23T08:03:18Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_github_monitor_shell/master/logo.png"
   },
   "astrbot_plugin_ragflow_adapter": {
@@ -3784,8 +3784,8 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "stars": 10,
-    "version": "v1.4",
-    "updated_at": "2025-12-13T06:14:13Z"
+    "version": "v1.5",
+    "updated_at": "2025-12-23T08:33:17Z"
   },
   "command_to_llm": {
     "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
