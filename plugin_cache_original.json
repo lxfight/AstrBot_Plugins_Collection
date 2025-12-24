@@ -8,9 +8,9 @@
       "举报",
       "审查"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0",
-    "updated_at": "2025-11-25T17:45:43Z",
+    "updated_at": "2025-12-24T09:15:39Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_admin_notifier/master/logo.png"
   },
   "astrbot_plugin_qymusic": {
@@ -977,7 +977,7 @@
     ],
     "stars": 5,
     "version": "1.0.4",
-    "updated_at": "2025-12-22T05:39:04Z",
+    "updated_at": "2025-12-24T08:52:33Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -6656,9 +6656,9 @@
     "tags": [
       "doro"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "0.0.6",
-    "updated_at": "2025-11-07T01:50:18Z",
+    "updated_at": "2025-12-24T09:24:10Z",
     "logo": "https://raw.githubusercontent.com/2356820887/astrbot_plugin_doro/master/logo.png"
   },
   "astrbot_plugin_LatexPlotter": {
@@ -9047,9 +9047,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 482,
+    "stars": 483,
     "version": "v0.915",
-    "updated_at": "2025-12-15T14:38:12Z"
+    "updated_at": "2025-12-24T09:08:02Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -9701,9 +9701,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 153,
+    "stars": 154,
     "version": "v2.0.11",
-    "updated_at": "2025-12-19T08:55:40Z"
+    "updated_at": "2025-12-24T09:28:21Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
