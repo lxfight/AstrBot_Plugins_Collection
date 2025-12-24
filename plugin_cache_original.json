@@ -317,7 +317,7 @@
     "tags": [],
     "stars": 0,
     "version": "v1.0.3",
-    "updated_at": "2025-12-19T11:43:57Z"
+    "updated_at": "2025-12-24T02:31:34Z"
   },
   "astrbot_plugin_wca": {
     "display_name": "WCA 查询",
@@ -1500,9 +1500,9 @@
       "工具",
       "私聊"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "2.1.0",
-    "updated_at": "2025-12-20T06:48:04Z"
+    "updated_at": "2025-12-24T02:55:35Z"
   },
   "astrbot_plugin_llm_amnesia": {
     "display_name": "LLM 遗忘插件",
@@ -1515,9 +1515,9 @@
       "遗忘"
     ],
     "social_link": "https://github.com/SinkAbyss",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.1.5",
-    "updated_at": "2025-12-22T14:40:54Z"
+    "updated_at": "2025-12-24T02:56:15Z"
   },
   "astrbot_plugin_Furimg_Cloud": {
     "display_name": "兽云祭(兽兽图片/图鉴)",
@@ -2241,9 +2241,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 52,
+    "stars": 53,
     "version": "v1.1.0",
-    "updated_at": "2025-12-23T14:23:30Z",
+    "updated_at": "2025-12-24T02:50:30Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -3090,9 +3090,9 @@
       "game",
       "fishing"
     ],
-    "stars": 24,
+    "stars": 25,
     "version": "2.4.7",
-    "updated_at": "2025-12-23T06:53:45Z",
+    "updated_at": "2025-12-24T03:12:22Z",
     "logo": "https://raw.githubusercontent.com/xxlemon-io/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_astrmetry": {
@@ -3525,9 +3525,9 @@
     "tags": [
       "napcat"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.2",
-    "updated_at": "2025-10-12T02:32:53Z"
+    "updated_at": "2025-12-24T02:55:45Z"
   },
   "model_mcp_bridge": {
     "desc": "用于为不支持tool_use的模型提供一个调用MCP的途径的插件。",
@@ -3685,9 +3685,9 @@
       "OneBot"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.1.1",
-    "updated_at": "2025-12-03T18:41:23Z",
+    "updated_at": "2025-12-24T02:56:04Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_recall_cancel/main/logo.png"
   },
   "astrbot_plugin_multimsg": {
