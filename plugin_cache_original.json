@@ -90,9 +90,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 7,
+    "stars": 9,
     "version": "v1.1",
-    "updated_at": "2025-12-24T10:06:14Z"
+    "updated_at": "2025-12-24T11:09:57Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -1223,9 +1223,9 @@
       "画图",
       "comfyui"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "2.1",
-    "updated_at": "2025-12-21T14:21:54Z"
+    "updated_at": "2025-12-24T10:55:11Z"
   },
   "astrbot_plugin_customized_active_reply_prompt": {
     "display_name": "自定义主动回复提示词",
@@ -6983,9 +6983,9 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 68,
+    "stars": 69,
     "version": "1.1.0",
-    "updated_at": "2025-12-20T04:22:07Z"
+    "updated_at": "2025-12-24T11:28:43Z"
   },
   "astrbot_plugin_combine-messages": {
     "author": "FreeDivers",
@@ -8584,9 +8584,9 @@
       "开盒"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
-    "stars": 60,
+    "stars": 61,
     "version": "v1.2.5",
-    "updated_at": "2025-12-22T06:49:46Z",
+    "updated_at": "2025-12-24T10:51:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_box/main/logo.png"
   },
   "astrbot_plugin_relationship": {
