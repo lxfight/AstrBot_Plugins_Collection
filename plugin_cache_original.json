@@ -24,9 +24,9 @@
       "青云"
     ],
     "social_link": "https://github.com/pmh1314520",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2025-11-28T13:59:47Z",
+    "updated_at": "2025-12-24T17:54:47Z",
     "logo": "https://raw.githubusercontent.com/pmh1314520/astrbot_plugin_qymusic/master/logo.png"
   },
   "astrbot_plugin_copymanga": {
@@ -1459,9 +1459,9 @@
       "画图",
       "comfyui"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "3.5.0",
-    "updated_at": "2025-12-24T14:28:17Z"
+    "updated_at": "2025-12-24T17:36:20Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
@@ -1784,7 +1784,7 @@
     "tags": [],
     "stars": 4,
     "version": "v3.2.3",
-    "updated_at": "2025-12-23T17:58:55Z"
+    "updated_at": "2025-12-24T17:36:36Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -1957,9 +1957,9 @@
       "工具",
       "私聊"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "2.1.0",
-    "updated_at": "2025-12-24T02:55:35Z"
+    "updated_at": "2025-12-24T18:18:30Z"
   },
   "astrbot_plugin_llm_amnesia": {
     "display_name": "LLM 遗忘插件",
