@@ -438,9 +438,10 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "1.6.5",
-    "updated_at": "2025-12-24T13:31:13Z"
+    "updated_at": "2025-12-24T13:54:10Z",
+    "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
     "display_name": "网文信息搜索助手",
@@ -2610,9 +2611,9 @@
     "tags": [
       "修仙"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.5dev",
-    "updated_at": "2025-12-23T15:49:54Z",
+    "updated_at": "2025-12-24T14:13:56Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
