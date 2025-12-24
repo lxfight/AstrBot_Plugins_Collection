@@ -325,7 +325,7 @@
     "social_link": "https://github.com/WhiteCloudOL",
     "stars": 0,
     "version": "v1.1.2",
-    "updated_at": "2025-12-24T07:02:48Z",
+    "updated_at": "2025-12-24T08:04:48Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_joinmanager/master/logo.png"
   },
   "astrbot_plugin_group_signin": {
@@ -2132,9 +2132,9 @@
       "HTTP"
     ],
     "social_link": "https://github.com/fluidcat/astrbot_plugin_http_adapter/issues",
-    "stars": 7,
+    "stars": 6,
     "version": "1.2.0",
-    "updated_at": "2025-12-23T15:30:02Z"
+    "updated_at": "2025-12-24T08:05:46Z"
   },
   "astrbot_plugin_nyweather": {
     "display_name": "天气查询插件",
@@ -6438,9 +6438,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 84,
+    "stars": 85,
     "version": "v1.0.3",
-    "updated_at": "2025-12-20T14:06:14Z",
+    "updated_at": "2025-12-24T08:00:17Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -9503,9 +9503,9 @@
     "author": "长安某",
     "repo": "https://github.com/zgojin/astrbot_plugin_niuniu",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v4.7.2",
-    "updated_at": "2025-12-21T18:09:05Z"
+    "updated_at": "2025-12-24T08:48:12Z"
   },
   "astrbot_plugin_mohoyo_cos": {
     "desc": "获取米游社社区cos插件，支持LLM自识别",
