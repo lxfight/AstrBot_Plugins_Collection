@@ -4307,9 +4307,9 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 28,
+    "stars": 29,
     "version": "v1.0.4",
-    "updated_at": "2025-12-14T21:01:09Z"
+    "updated_at": "2025-12-24T16:58:53Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
