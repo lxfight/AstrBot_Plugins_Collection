@@ -439,8 +439,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
     "stars": 6,
-    "version": "1.6.4",
-    "updated_at": "2025-12-24T05:36:56Z"
+    "version": "1.6.5",
+    "updated_at": "2025-12-24T13:31:13Z"
   },
   "astrbot_plugin_webnovel_info": {
     "display_name": "网文信息搜索助手",
@@ -1517,9 +1517,9 @@
       "修图"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 17,
+    "stars": 16,
     "version": "v1.7.6",
-    "updated_at": "2025-12-23T13:00:54Z",
+    "updated_at": "2025-12-24T13:29:05Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -2696,9 +2696,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 54,
+    "stars": 53,
     "version": "v1.1.0",
-    "updated_at": "2025-12-24T07:10:01Z",
+    "updated_at": "2025-12-24T13:29:04Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -3945,7 +3945,7 @@
     "tags": [],
     "stars": 35,
     "version": "v1.7.6",
-    "updated_at": "2025-12-24T04:09:48Z"
+    "updated_at": "2025-12-24T13:29:48Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -6768,8 +6768,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 45,
-    "version": "v1.0.5",
-    "updated_at": "2025-12-23T02:26:06Z",
+    "version": "v1.0.6",
+    "updated_at": "2025-12-24T13:37:43Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
@@ -8985,9 +8985,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 88,
+    "stars": 87,
     "version": "v2.1.7",
-    "updated_at": "2025-12-21T04:51:48Z"
+    "updated_at": "2025-12-24T13:29:50Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
