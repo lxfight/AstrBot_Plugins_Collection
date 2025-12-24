@@ -3489,9 +3489,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 34,
+    "stars": 35,
     "version": "v1.7.6",
-    "updated_at": "2025-12-18T13:09:46Z"
+    "updated_at": "2025-12-24T04:09:48Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
