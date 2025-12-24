@@ -439,8 +439,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
     "stars": 7,
-    "version": "1.6.5",
-    "updated_at": "2025-12-24T13:54:10Z",
+    "version": "1.6.7",
+    "updated_at": "2025-12-24T15:05:38Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -1459,9 +1459,9 @@
       "画图",
       "comfyui"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "3.5.0",
-    "updated_at": "2025-12-23T17:03:57Z"
+    "updated_at": "2025-12-24T14:28:17Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
@@ -4903,8 +4903,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 9,
-    "version": "v1.0.2",
-    "updated_at": "2025-12-19T07:18:03Z",
+    "version": "v1.0.3",
+    "updated_at": "2025-12-24T13:48:14Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
@@ -7994,9 +7994,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 74,
+    "stars": 75,
     "version": "v3.2.7",
-    "updated_at": "2025-12-23T01:24:44Z",
+    "updated_at": "2025-12-24T15:22:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -9024,9 +9024,9 @@
     "tags": [
       "功能"
     ],
-    "stars": 22,
+    "stars": 23,
     "version": "1.1.0",
-    "updated_at": "2025-12-22T07:40:10Z"
+    "updated_at": "2025-12-24T15:08:04Z"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
