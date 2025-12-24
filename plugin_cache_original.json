@@ -642,8 +642,8 @@
     ],
     "social_link": "https://github.com/Hakuin123",
     "stars": 0,
-    "version": "v1.0.4",
-    "updated_at": "2025-12-22T15:06:56Z"
+    "version": "v1.1.0",
+    "updated_at": "2025-12-24T12:10:57Z"
   },
   "astrbot_plugin_yoimg": {
     "display_name": "Gitee 图系模型文生图，图生图",
@@ -790,8 +790,8 @@
     ],
     "social_link": "https://github.com/huizhiLLL",
     "stars": 1,
-    "version": "v1.0.4",
-    "updated_at": "2025-12-21T07:08:35Z",
+    "version": "v1.0.5",
+    "updated_at": "2025-12-24T11:40:24Z",
     "logo": "https://raw.githubusercontent.com/huizhiLLL/astrbot_plugin_wca/master/logo.png"
   },
   "astrbot_plugin_memos_integrator": {
@@ -1028,8 +1028,8 @@
     ],
     "social_link": "https://github.com/DBJD-CR",
     "stars": 13,
-    "version": "v1.2.0",
-    "updated_at": "2025-12-21T11:48:01Z",
+    "version": "v1.2.2",
+    "updated_at": "2025-12-24T12:08:29Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -3153,8 +3153,8 @@
       "审查"
     ],
     "stars": 1,
-    "version": "v1.2.0",
-    "updated_at": "2025-12-15T16:18:58Z"
+    "version": "v1.2.1",
+    "updated_at": "2025-12-24T12:28:12Z"
   },
   "astrbot_quotes_plugin": {
     "desc": "语录插件。记录 QQ 群友说过的话。",
@@ -9088,9 +9088,9 @@
       "webui",
       "图床"
     ],
-    "stars": 110,
+    "stars": 111,
     "version": "v3.19",
-    "updated_at": "2025-12-24T10:11:19Z"
+    "updated_at": "2025-12-24T12:03:06Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
