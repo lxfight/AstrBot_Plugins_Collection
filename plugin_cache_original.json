@@ -6101,9 +6101,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "desc": "动态词库，自定义回复词",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.4",
-    "updated_at": "2025-12-13T11:04:49Z",
+    "updated_at": "2025-12-24T19:51:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wbank/main/logo.png"
   },
   "astrbot_plugin_lyricnext": {
