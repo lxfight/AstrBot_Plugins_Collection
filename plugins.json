@@ -423,12 +423,12 @@
     "tags": ["功能", "汇总"],
     "social_link": "https://github.com/1-20182"
   },
-  "astrbot_plugin_color_converter": {
-    "display_name": "颜色格式转换",
-    "desc": "实现RGB、CMYK、16进制颜色格式互转",
+  "astrbot_plugin_color": {
+    "display_name": "颜色转换器",
+    "desc": "实现颜色格式互转、图片按坐标取色等颜色分析功能",
     "author": "CecilyGao",
-    "repo": "https://github.com/CecilyGao/astrbot_plugin_color_converter",
-    "social_link": "https://github.com/CecilyGao"
+    "repo": "https://github.com/CecilyGao/astrbot_plugin_color",
+    "tags": ["视觉", "颜色"]
   },
   "astrbot_plugin_wca": {
     "display_name": "WCA 查询",
