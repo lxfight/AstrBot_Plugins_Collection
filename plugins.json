@@ -299,14 +299,6 @@
     "repo": "https://github.com/zz6zz666/astrbot_plugin_file_reader_pro",
     "tags": ["文件解析"]
   },
-  "astrbot_plugin_web_analyzer_plus": {
-    "display_name": "网页搜索",
-    "desc": "网页分析插件：尽可能提取未登录可浏览网站内容（Readability/JSON-LD/meta/框架数据/Playwright渲染兜底），并支持缓存、域名规则与LLM总结。",
-    "author": "YEZI",
-    "repo": "https://github.com/zhyx111999/astrbot-plugin-web-analyzer-plus",
-    "tags": ["网页", "工具", "自动"],
-    "social_link": "3268514224"
-  },
   "astrbot_plugin_reminder": {
     "display_name": "定时提醒插件",
     "desc": "支持定时发送消息到群组或私聊，支持 cron 表达式、富媒体消息",
@@ -923,13 +915,6 @@
     "repo": "https://github.com/luosheng520qaq/astrbot_ftp_manager",
     "tags": ["ftp"]
   },
-  "astrbot_plugin_rss_subscribe": {
-    "display_name": "RSS 订阅推送",
-    "desc": "基于 RSS 的主动推送插件，支持监控并推送微博、B 站、小红书等多个社交平台的新动态。",
-    "author": "沐沐沐倾",
-    "repo": "https://github.com/muqing-wx/astrbot_plugin_rss_subscribe",
-    "social_link": "https://jk.muqing.us.kg/status/muqing"
-  },
   "astrbot_plugin_hotsearch": {
     "display_name": "实时热搜插件",
     "desc": "实时热搜聚合插件，支持抖音/小红书/知乎/微博/百度/懂车帝/哔哩哔哩/腾讯/头条/猫眼票房，指令无需参数，默认输出图片。",
@@ -1496,13 +1481,6 @@
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_LLMPerception",
     "social_link": "https://github.com/miaoxutao123"
   },
-  "astrbot_plugin_jietu": {
-    "desc": "戳一戳截图，适用于win直接部署，可用作状态监控",
-    "author": "BvzRays",
-    "repo": "https://github.com/bvzrays/astrbot_plugin_jietu",
-    "tags": ["QQ", "status"],
-    "social_link": "https://github.com/bvzrays"
-  },
   "astrbot_plugin_furry_zan": {
     "display_name": "爱点赞",
     "desc": "【仅QQ】智能点赞，支持每日定时自动点赞和赞我等功能。",
@@ -1710,12 +1688,6 @@
     "author": "tzyc",
     "repo": "https://github.com/TZYCeng/astrbot_plugin_owcx",
     "social_link": "https://space.bilibili.com/1482890426?spm_id_from=333.1007.0.0"
-  },
-  "astrbot_plugin_SendBlessings": {
-    "desc": "在节假日自动送上祝福并配图",
-    "author": "Cheng-MaoMao",
-    "repo": "https://github.com/Cheng-MaoMao/astrbot_plugin_SendBlessings",
-    "tags": ["图片生成", "节日", "信息"]
   },
   "astrbot_plugin_hapemxg_Inspect": {
     "desc": "LLM 内容审查插件，集成了正则表达式与 AI 模型双重审查机制。当回复不合规时，能自动重试并智能引导模型修正，确保内容安全合规。",
@@ -2111,25 +2083,6 @@
     "repo": "https://github.com/shannai37/astrbot_plugin_poker_game",
     "tags": ["游戏", "德州扑克", "多人", "积分系统"]
   },
-  "astrbot_plugin_context_enhancer": {
-    "desc": "智能上下文增强插件，它能让您的机器人在群聊中“知晓前文，见机行事”，实现真正意义上的流畅对话。",
-    "author": "木有知",
-    "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_enhancer",
-    "tags": [
-      "上下文增强",
-      "群聊分析",
-      "读空气",
-      "角色扮演",
-      "智能对话",
-      "LLM增强"
-    ],
-    "social_link": "https://github.com/muyouzhi6"
-  },
-  "astrbot_plugin_bilibili_up_notifier": {
-    "desc": "这是一个AstrBot的插件，用于检测B站UP主发布的新视频并自动发送通知给订阅的用户",
-    "author": "CN-CQ-Z",
-    "repo": "https://github.com/CN-CQ-Z/astrbot_plugin_bilibili_up_notifier"
-  },
   "persistent_history": {
     "desc": "基本无需设置的简单永久记忆插件",
     "author": "komeiji_shiki",
@@ -2159,13 +2112,6 @@
     "repo": "https://github.com/qa296/astrbot_plugin_group_chat",
     "tags": ["主动回复", "拟人"],
     "social_link": "https://github.com/qa296/"
-  },
-  "astrbot_plugin_sha": {
-    "desc": "获取GitHub仓库最后5次提交SHA的插件",
-    "author": "IGCrystal",
-    "repo": "https://github.com/IGCrystal-NEO/astrbot_plugin_sha",
-    "tags": ["工具", "GitHub"],
-    "social_link": "https://wenturc.com"
   },
   "astrbot_plugin_anti_revoke": {
     "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
@@ -2967,11 +2913,6 @@
     "author": "logicat",
     "repo": "https://github.com/logicat-123/astrbot_plugin_eat_history"
   },
-  "astrbot_plugin_rg": {
-    "desc": "群聊左轮手枪游戏插件，玩家可以在群聊中进行左轮手枪射击游戏，支持随机走火事件。",
-    "author": "piexian",
-    "repo": "https://github.com/piexian/astrbot_plugin_rg"
-  },
   "echo_avatar": {
     "desc": "学习指定用户的说话方式并生成专业的Prompt，仅限全局管理员使用。",
     "author": "LumineStory",
@@ -3674,12 +3615,6 @@
     "tags": ["性格", "画像"],
     "social_link": "https://github.com/Zhalslar"
   },
-  "astrbot_plugin_Kanalyse": {
-    "author": "End_Tower",
-    "desc": "[仅 QQ]基于大语言模型的群聊分析插件，提供聊天记录总结和实时分析功能，并将生成的内容转化为一张图片，以AI绝对客观的视角来调停冲突 本意为让AI当判官直接评判对错，后来发现AI无法成为一个裁判判断是非，但AI能以他绝对的客观性，强行把大家拉回观众席上，客观的看待一个事件。部署一个月内累计处理：重大社会热点争议 10+ 次（订婚强奸案被判3年等、胖猫事件重提等）,日常群组冲突 30+ 次,90% 争议在AI介入后停止升级",
-    "repo": "https://github.com/endtower/astrbot_plugin_Kanalyse",
-    "tags": ["教育", "调停"]
-  },
   "astrbot_plugin_prefix_filter": {
     "author": "padoru233",
     "desc": "一个用于过滤特定前缀消息的插件",
@@ -3724,13 +3659,6 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_emoji_like",
     "tags": ["贴表情"],
     "social_link": "https://github.com/Zhalslar"
-  },
-  "astrbot_plugin_pock_mini": {
-    "author": "IGCrystal",
-    "desc": "[仅 aiocqhttp] 依据长安某的“戳一戳”插件修改而来。本插件新增了调用大语言模型回复。但是也删除了表情包的制作。",
-    "repo": "https://github.com/IGCrystal/astrbot_plugin_pock_omini",
-    "tags": ["聊天体验增强"],
-    "social_link": "https://wenturc.com/"
   },
   "astrbot_plugin_lanraragi": {
     "author": "Putarku",
@@ -4076,13 +4004,6 @@
     "author": "wayzinx",
     "desc": "食物推荐插件，可以根据时间、天气和季节智能推荐食物，并使用 AI 生成食物图片和描述",
     "social_link": "https://github.com/Wayzinx"
-  },
-  "astrbot_plugin_turnrig": {
-    "author": "WentUrc",
-    "desc": "[仅 aiocqhttp]监听不同会话，并转发至另一个会话，你也可以当作反撤回使用。更多请阅读仓库文档。",
-    "repo": "https://github.com/WentUrc/astrbot_plugin_turnrig",
-    "tags": ["工具"],
-    "social_link": "https://wenturc.com/"
   },
   "astrbot_plugin_status-pro": {
     "author": "tiker",
@@ -4468,12 +4389,6 @@
     "repo": "https://github.com/lyjlyjlyjly/astrbot_plugin_search_pic",
     "tags": ["搜图"]
   },
-  "astrbot_plugin_timtip": {
-    "desc": "设置定时任务，有（间隔时间）（固定时间）（一次时间），适用于不同群聊，一个群聊可创建多个任务。",
-    "author": "IGCrystal",
-    "repo": "https://github.com/IGCrystal/astrbot_plugin_timtip",
-    "tags": ["工具"]
-  },
   "astrbot_plugin_encipherer": {
     "desc": "集合包括Base64、URLencode、Punycode编码加解密工具的astrbot插件",
     "author": "Yuki Soffd",
@@ -4499,13 +4414,6 @@
     "repo": "https://github.com/kterna/astrbot_plugin_litematic",
     "tags": ["Minecraft", "游戏"]
   },
-  "AstrBot_plugin_Ewords": {
-    "desc": "一起来记单词吧喵~",
-    "author": "IGCrystal",
-    "repo": "https://github.com/IGCrystal/AstrBot_plugin_Ewords",
-    "social_link": "https://github.com/IGCrystal/AstrBot_plugin_Ewords",
-    "tags": ["CET-4", "英语"]
-  },
   "astrbot_plugin_weather_wttr_in": {
     "desc": "使用 wttr.in 查询天气（llm工具）",
     "author": "xiewoc",
@@ -4518,12 +4426,6 @@
     "author": "AraragiEro",
     "repo": "https://github.com/AraragiEro/astrbot_plugin_kahunabot"
   },
-  "astrbot_plugin_qqpock": {
-    "desc": "QQ 代戳",
-    "repo": "https://github.com/791819/astrbot_plugin_qqpock",
-    "author": "huanyan434",
-    "social_link": "https://space.bilibili.com/1032860513"
-  },
   "astrbot_plugin_vv_pic": {
     "desc": "发送最符合关键词的 vv 表情包",
     "author": "Lonelysky",
@@ -4534,12 +4436,6 @@
     "author": "xiewoc",
     "repo": "https://github.com/xiewoc/astrbot_plugin_file_reader",
     "social_link": "https://github.com/xiewoc"
-  },
-  "encrypt-and-decrypt": {
-    "desc": "将明文加密为我要吃饭四个字组成的密文",
-    "author": "Yuki Soffd",
-    "repo": "https://github.com/Soffd/encrypt-and-decrypt",
-    "tags": ["工具"]
   },
   "astrbot_plugin_CounterStrikle": {
     "desc": "Blast-TV 上的 Counter-Strikle 小游戏，图片卡片渲染。",
@@ -4571,11 +4467,6 @@
     "author": "城城",
     "tags": ["游戏", "钓鱼"],
     "repo": "https://github.com/chengcheng0325/astrbot_plugin_saris_fish"
-  },
-  "astrbot_plugin_rdimage": {
-    "desc": "从 wenturc 获取随机图片的插件（无 HTML 解析）",
-    "author": "IGCrystal",
-    "repo": "https://github.com/IGCrystal/astrbot_plugin_rdimage"
   },
   "astrbot_plugin_gewe_chatsummary": {
     "desc": "[仅 gewechat] 用来对最近消息调用 LLM 进行总结的插件",
