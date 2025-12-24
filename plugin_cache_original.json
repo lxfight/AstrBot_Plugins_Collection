@@ -402,7 +402,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 27,
     "version": "v1.1.2",
-    "updated_at": "2025-12-23T16:44:21Z",
+    "updated_at": "2025-12-24T01:29:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -3157,9 +3157,9 @@
       "赛博修仙",
       "小游戏"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "v2.1.0",
-    "updated_at": "2025-12-18T07:28:59Z"
+    "updated_at": "2025-12-24T01:02:38Z"
   },
   "astrbot_plugin_admin_tools": {
     "desc": "允许LLM禁言、踢出用户",
@@ -8797,8 +8797,8 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 28,
-    "version": "v1.4.1",
-    "updated_at": "2025-12-19T07:21:19Z"
+    "version": "v1.4.2",
+    "updated_at": "2025-12-24T01:55:20Z"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
