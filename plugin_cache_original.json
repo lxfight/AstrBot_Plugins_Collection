@@ -308,8 +308,8 @@
     "repo": "https://github.com/Luna-channel/astrbot_plugin_hangout",
     "tags": "统计调用",
     "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2025-12-22T05:35:45Z",
+    "version": "v1.0.1",
+    "updated_at": "2025-12-24T06:34:22Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_hangout/main/logo.png"
   },
   "astrbot_plugin_joinmanager": {
@@ -440,7 +440,7 @@
     "tags": [],
     "stars": 6,
     "version": "1.6.4",
-    "updated_at": "2025-12-24T04:56:46Z"
+    "updated_at": "2025-12-24T05:36:56Z"
   },
   "astrbot_plugin_webnovel_info": {
     "display_name": "网文信息搜索助手",
@@ -860,9 +860,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.1.2",
-    "updated_at": "2025-12-24T01:29:31Z",
+    "updated_at": "2025-12-24T06:14:01Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -7979,9 +7979,9 @@
       "浏览器"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
-    "stars": 21,
+    "stars": 22,
     "version": "v2.0.0",
-    "updated_at": "2025-12-22T09:20:17Z",
+    "updated_at": "2025-12-24T05:53:26Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
