@@ -469,8 +469,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 8,
-    "version": "1.0.0",
-    "updated_at": "2025-12-25T05:37:19Z",
+    "version": "1.0.1",
+    "updated_at": "2025-12-25T07:15:20Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -4205,9 +4205,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 97,
+    "stars": 98,
     "version": "v4.4.0",
-    "updated_at": "2025-12-25T02:11:38Z",
+    "updated_at": "2025-12-25T06:49:08Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
