@@ -427,9 +427,9 @@
       "BT",
       "磁力"
     ],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2025-12-23T08:25:34Z",
+    "updated_at": "2025-12-25T03:57:38Z",
     "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_BitTorrent/master/logo.png"
   },
   "astrbot_plugin_custom_menu_1": {
@@ -6032,8 +6032,8 @@
     ],
     "social_link": "https://github.com/oyxning",
     "stars": 37,
-    "version": "v3.4.0",
-    "updated_at": "2025-12-25T02:02:01Z",
+    "version": "v3.5.1",
+    "updated_at": "2025-12-25T03:47:06Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -9702,9 +9702,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 154,
+    "stars": 155,
     "version": "v2.0.11",
-    "updated_at": "2025-12-24T09:28:21Z"
+    "updated_at": "2025-12-25T03:50:38Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
