@@ -92,7 +92,7 @@
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "stars": 9,
     "version": "v1.1",
-    "updated_at": "2025-12-24T11:09:57Z"
+    "updated_at": "2025-12-25T11:48:25Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -470,7 +470,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 8,
     "version": "1.0.1",
-    "updated_at": "2025-12-25T08:06:04Z",
+    "updated_at": "2025-12-25T12:19:31Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -564,7 +564,7 @@
     ],
     "stars": 0,
     "version": "v0.1",
-    "updated_at": "2025-12-25T07:34:58Z",
+    "updated_at": "2025-12-25T11:49:51Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -2697,9 +2697,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 55,
+    "stars": 56,
     "version": "v1.1.0",
-    "updated_at": "2025-12-25T09:28:03Z",
+    "updated_at": "2025-12-25T12:46:37Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8017,9 +8017,9 @@
     "tags": [
       "消息伪造"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.1.0",
-    "updated_at": "2025-12-10T08:56:54Z"
+    "updated_at": "2025-12-25T11:35:41Z"
   },
   "astrbot_plugin_douniuniu": {
     "desc": "QQ 群小游戏，培养你的牛牛，然后塔塔开！",
