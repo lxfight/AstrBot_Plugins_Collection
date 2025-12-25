@@ -438,9 +438,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
-    "stars": 9,
-    "version": "1.6.8",
-    "updated_at": "2025-12-25T08:29:15Z",
+    "stars": 10,
+    "version": "1.6.9",
+    "updated_at": "2025-12-25T08:58:54Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -1459,9 +1459,9 @@
       "画图",
       "comfyui"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "3.5.0",
-    "updated_at": "2025-12-24T17:36:20Z"
+    "updated_at": "2025-12-25T08:55:29Z"
   },
   "astrbot_plugin_timeprogress": {
     "display_name": "时间可视化",
@@ -2673,8 +2673,8 @@
       "实用"
     ],
     "stars": 3,
-    "version": "1.2.4",
-    "updated_at": "2025-12-23T08:03:18Z",
+    "version": "1.2.5",
+    "updated_at": "2025-12-25T09:13:08Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_github_monitor_shell/master/logo.png"
   },
   "astrbot_plugin_ragflow_adapter": {
@@ -2697,9 +2697,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 54,
+    "stars": 55,
     "version": "v1.1.0",
-    "updated_at": "2025-12-25T01:45:24Z",
+    "updated_at": "2025-12-25T09:28:03Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
