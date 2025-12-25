@@ -2874,9 +2874,9 @@
     "tags": [
       "实用"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "v2.8.4",
-    "updated_at": "2025-12-15T13:33:39Z",
+    "updated_at": "2025-12-25T02:06:03Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -4205,9 +4205,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 96,
+    "stars": 97,
     "version": "v4.4.0",
-    "updated_at": "2025-12-22T05:39:55Z",
+    "updated_at": "2025-12-25T02:11:38Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -6031,9 +6031,9 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 36,
+    "stars": 37,
     "version": "v3.4.0",
-    "updated_at": "2025-12-12T08:29:33Z",
+    "updated_at": "2025-12-25T02:02:01Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -7284,9 +7284,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 115,
+    "stars": 116,
     "version": "v2.0.6",
-    "updated_at": "2025-12-21T01:51:57Z",
+    "updated_at": "2025-12-25T02:55:50Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -8156,9 +8156,9 @@
       "工具",
       "安全"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "v2.8.4",
-    "updated_at": "2025-12-15T13:33:39Z",
+    "updated_at": "2025-12-25T02:06:03Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "JmCli": {
@@ -8352,9 +8352,9 @@
       "钓鱼"
     ],
     "repo": "https://github.com/chengcheng0325/astrbot_plugin_saris_fish",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.5.0",
-    "updated_at": "2025-04-09T16:09:30Z"
+    "updated_at": "2025-12-25T03:38:33Z"
   },
   "astrbot_plugin_gewe_chatsummary": {
     "desc": "[仅 gewechat] 用来对最近消息调用 LLM 进行总结的插件",
