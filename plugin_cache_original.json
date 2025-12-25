@@ -438,9 +438,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_custom_menu",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "1.6.7",
-    "updated_at": "2025-12-24T15:05:38Z",
+    "updated_at": "2025-12-25T00:43:55Z",
     "logo": "https://raw.githubusercontent.com/shskjw/astrbot_plugin_custom_menu/master/logo.png"
   },
   "astrbot_plugin_webnovel_info": {
@@ -1028,9 +1028,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 14,
+    "stars": 16,
     "version": "v1.2.2",
-    "updated_at": "2025-12-24T15:31:45Z",
+    "updated_at": "2025-12-25T00:42:01Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -1198,8 +1198,8 @@
     ],
     "social_link": "https://qm.qq.com/q/d4lwUp9ap4",
     "stars": 1,
-    "version": "V1.0.1",
-    "updated_at": "2025-12-07T07:13:47Z"
+    "version": "v1.1.0",
+    "updated_at": "2025-12-25T01:20:18Z"
   },
   "astrbot_plugin_AIpaper": {
     "display_name": "AI 论文推送",
@@ -2015,9 +2015,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 10,
+    "stars": 11,
     "version": "v4.1.0",
-    "updated_at": "2025-12-21T15:56:09Z",
+    "updated_at": "2025-12-25T01:36:04Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -2697,9 +2697,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 53,
+    "stars": 54,
     "version": "v1.1.0",
-    "updated_at": "2025-12-24T13:29:04Z",
+    "updated_at": "2025-12-25T01:45:24Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -4001,9 +4001,9 @@
       "命令执行",
       "docker"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.1.0",
-    "updated_at": "2025-12-24T16:28:39Z"
+    "updated_at": "2025-12-25T00:19:02Z"
   },
   "textToImg": {
     "desc": "修改自 薄暝(二创)和喵喵的 OpenRouter 生图插件(原创)。使用 OpenAI 格式的免费 API 生成图片兼容硅基流动生图",
@@ -9048,9 +9048,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 483,
+    "stars": 484,
     "version": "v0.915",
-    "updated_at": "2025-12-24T09:08:02Z"
+    "updated_at": "2025-12-25T01:50:59Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
