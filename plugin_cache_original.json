@@ -384,9 +384,9 @@
       "小游戏"
     ],
     "social_link": "https://github.com/MegSopern",
-    "stars": 2,
+    "stars": 3,
     "version": "1.1.0",
-    "updated_at": "2025-12-22T13:39:41Z",
+    "updated_at": "2025-12-26T11:41:46Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_portrayal_core": {
@@ -861,9 +861,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 29,
+    "stars": 30,
     "version": "v1.1.2",
-    "updated_at": "2025-12-25T05:39:36Z",
+    "updated_at": "2025-12-26T12:38:02Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -6986,7 +6986,8 @@
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 69,
     "version": "v2.0.1",
-    "updated_at": "2025-12-26T11:08:15Z"
+    "updated_at": "2025-12-26T11:49:59Z",
+    "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_jm_cosmos/v2-refactor/logo.png"
   },
   "astrbot_plugin_combine-messages": {
     "author": "FreeDivers",
