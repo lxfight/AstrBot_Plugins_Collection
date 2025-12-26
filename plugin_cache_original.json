@@ -994,8 +994,8 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "stars": 10,
-    "version": "v1.1.1",
-    "updated_at": "2025-12-20T11:48:10Z",
+    "version": "v1.1.2",
+    "updated_at": "2025-12-26T10:46:21Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -2875,8 +2875,8 @@
       "实用"
     ],
     "stars": 10,
-    "version": "v2.8.4",
-    "updated_at": "2025-12-25T02:06:03Z",
+    "version": "v2.8.5",
+    "updated_at": "2025-12-26T11:34:12Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "astrbot_plugin_acm_helper": {
@@ -3130,8 +3130,8 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "stars": 17,
-    "version": "v3.0.0",
-    "updated_at": "2025-12-19T14:43:58Z",
+    "version": "v3.0.1",
+    "updated_at": "2025-12-26T10:45:23Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -6565,9 +6565,9 @@
     "desc": "DZMM聊天插件，适配了DZMM返回的格式，并避免与AstrBot的模型混用，可用特别命令唤起DZMM的模型进行\"有趣生动\"的互动聊天。",
     "repo": "https://github.com/VincenttHo/astrbot_plugin_dzmm",
     "tags": [],
-    "stars": 15,
+    "stars": 16,
     "version": "v1.1.0",
-    "updated_at": "2025-12-22T01:38:47Z"
+    "updated_at": "2025-12-26T10:43:38Z"
   },
   "astrbot_plugin_text2image": {
     "author": "wuyan1003",
@@ -6986,7 +6986,7 @@
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 69,
     "version": "v2.0.1",
-    "updated_at": "2025-12-26T09:38:07Z"
+    "updated_at": "2025-12-26T11:08:15Z"
   },
   "astrbot_plugin_combine-messages": {
     "author": "FreeDivers",
@@ -8157,8 +8157,8 @@
       "安全"
     ],
     "stars": 10,
-    "version": "v2.8.4",
-    "updated_at": "2025-12-25T02:06:03Z",
+    "version": "v2.8.5",
+    "updated_at": "2025-12-26T11:34:12Z",
     "logo": "https://raw.githubusercontent.com/left666/astrbot_plugin_daily_limit/master/logo.png"
   },
   "JmCli": {
