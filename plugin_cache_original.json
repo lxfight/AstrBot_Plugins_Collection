@@ -189,9 +189,9 @@
     "author": "AGI_Friend_And_You",
     "repo": "https://github.com/204343414/astrbot_plugin_yt-dlp",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2025-12-20T13:30:20Z",
+    "updated_at": "2025-12-26T03:18:35Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_web_search": {
@@ -7321,9 +7321,9 @@
       "ai绘图",
       "llm tool"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "v0.0.2",
-    "updated_at": "2025-09-05T03:48:40Z"
+    "updated_at": "2025-12-26T03:35:43Z"
   },
   "astrbot_plugin_mcqq": {
     "author": "kterna",
@@ -8736,9 +8736,9 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 61,
+    "stars": 62,
     "version": "v0.2.14",
-    "updated_at": "2025-12-13T05:46:26Z"
+    "updated_at": "2025-12-26T03:35:37Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
@@ -9048,9 +9048,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 484,
+    "stars": 485,
     "version": "v0.915",
-    "updated_at": "2025-12-25T01:50:59Z"
+    "updated_at": "2025-12-26T03:16:37Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -9828,9 +9828,9 @@
     "author": "喵喵",
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_miaomiao",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.2.4",
-    "updated_at": "2025-11-06T08:36:33Z"
+    "updated_at": "2025-12-26T03:35:49Z"
   },
   "astrbot_plugin_image_video_understanding_Qwen2.5_VL": {
     "desc": "为本地模型提供的视频/图片理解补充，使用Qwen2.5_3B_VL模型",
