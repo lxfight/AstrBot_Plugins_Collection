@@ -90,9 +90,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.1",
-    "updated_at": "2025-12-26T08:09:40Z"
+    "updated_at": "2025-12-26T09:55:51Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -2015,9 +2015,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "v4.1.0",
-    "updated_at": "2025-12-25T01:36:04Z",
+    "updated_at": "2025-12-26T10:13:56Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
