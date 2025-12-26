@@ -76,9 +76,9 @@
       "下载"
     ],
     "social_link": "QQ：1067118179",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.0.1",
-    "updated_at": "2025-12-08T14:29:10Z",
+    "updated_at": "2025-12-26T16:51:21Z",
     "logo": "https://raw.githubusercontent.com/Close245/astrbot_plugin_click2download/master/logo.png"
   },
   "astrbot_plugin_gemini": {
@@ -1446,8 +1446,8 @@
     ],
     "social_link": "https://box.firefly520.top/",
     "stars": 12,
-    "version": "1.3.3",
-    "updated_at": "2025-12-26T07:22:54Z",
+    "version": "1.3.4",
+    "updated_at": "2025-12-26T17:04:52Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
