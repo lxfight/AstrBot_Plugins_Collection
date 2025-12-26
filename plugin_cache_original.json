@@ -297,8 +297,8 @@
     ],
     "social_link": "https://github.com/Dayanshifu/",
     "stars": 1,
-    "version": "v1.0",
-    "updated_at": "2025-12-24T16:14:03Z",
+    "version": "v1.0.1",
+    "updated_at": "2025-12-26T18:00:16Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_bilibili_livemonitor/main/logo.png"
   },
   "astrbot_plugin_hangout": {
@@ -644,7 +644,7 @@
     "social_link": "https://github.com/Hakuin123",
     "stars": 0,
     "version": "v1.1.0",
-    "updated_at": "2025-12-24T12:10:57Z"
+    "updated_at": "2025-12-26T17:31:42Z"
   },
   "astrbot_plugin_yoimg": {
     "display_name": "Gitee 图系模型文生图，图生图",
@@ -2395,9 +2395,9 @@
       "自动续聊"
     ],
     "social_link": "https://github.com/Luna-channel",
-    "stars": 9,
+    "stars": 10,
     "version": "1.4.2",
-    "updated_at": "2025-12-20T06:38:23Z",
+    "updated_at": "2025-12-26T17:26:23Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -2699,7 +2699,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 56,
     "version": "v1.1.0",
-    "updated_at": "2025-12-25T12:46:37Z",
+    "updated_at": "2025-12-26T18:23:54Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -4096,9 +4096,9 @@
       "memory",
       "rag"
     ],
-    "stars": 48,
+    "stars": 49,
     "version": "2.0.2",
-    "updated_at": "2025-12-24T10:10:25Z",
+    "updated_at": "2025-12-26T18:12:32Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
