@@ -994,8 +994,8 @@
     ],
     "social_link": "https://qm.qq.com/q/LSxHQZtEC4",
     "stars": 10,
-    "version": "v1.1.2",
-    "updated_at": "2025-12-26T10:46:21Z",
+    "version": "v1.2.0",
+    "updated_at": "2025-12-26T16:24:52Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_splitter/main/logo.png"
   },
   "astrbot_plugin_e2b_sandbox": {
@@ -3130,8 +3130,8 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "stars": 17,
-    "version": "v3.0.1",
-    "updated_at": "2025-12-26T10:45:23Z",
+    "version": "v3.0.2",
+    "updated_at": "2025-12-26T16:29:21Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_Favour_Ultra/main/logo.png"
   },
   "astrbot_plugin_owcx": {
@@ -4250,9 +4250,9 @@
       "wxauto"
     ],
     "social_link": "blog.isla.ltd",
-    "stars": 16,
+    "stars": 17,
     "version": "1.2.0",
-    "updated_at": "2025-12-18T00:50:13Z"
+    "updated_at": "2025-12-26T15:52:57Z"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
@@ -6986,7 +6986,7 @@
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 70,
     "version": "v2.0.1",
-    "updated_at": "2025-12-26T14:35:10Z",
+    "updated_at": "2025-12-26T16:06:15Z",
     "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_jm_cosmos/v2-refactor/logo.png"
   },
   "astrbot_plugin_combine-messages": {
