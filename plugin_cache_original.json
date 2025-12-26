@@ -90,9 +90,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.1",
-    "updated_at": "2025-12-25T15:27:32Z"
+    "updated_at": "2025-12-26T08:09:40Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -469,8 +469,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 8,
-    "version": "1.0.1",
-    "updated_at": "2025-12-25T12:19:31Z",
+    "version": "1.0.2",
+    "updated_at": "2025-12-26T08:21:51Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -8688,9 +8688,9 @@
       "游戏",
       "猜单词"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v2.2.1",
-    "updated_at": "2025-06-10T03:16:04Z"
+    "updated_at": "2025-12-26T07:37:12Z"
   },
   "astrbot_plugin_wordle_2_cmd": {
     "desc": "Astrbot Wordle 游戏插件（响应指令内容版），优化和加入了许多新功能",
