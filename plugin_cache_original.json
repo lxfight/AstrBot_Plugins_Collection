@@ -92,7 +92,7 @@
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
     "stars": 11,
     "version": "v1.1",
-    "updated_at": "2025-12-26T09:55:51Z"
+    "updated_at": "2025-12-27T01:31:51Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -3173,7 +3173,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.6.2",
-    "updated_at": "2025-12-19T14:01:30Z"
+    "updated_at": "2025-12-27T01:07:19Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
