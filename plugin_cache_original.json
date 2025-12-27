@@ -977,8 +977,8 @@
       "表情"
     ],
     "stars": 6,
-    "version": "1.0.4",
-    "updated_at": "2025-12-27T18:51:56Z",
+    "version": "2.0.0",
+    "updated_at": "2025-12-27T19:35:07Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -4730,9 +4730,9 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 22,
+    "stars": 23,
     "version": "v0.2.6",
-    "updated_at": "2025-12-17T21:16:47Z"
+    "updated_at": "2025-12-27T19:35:28Z"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
