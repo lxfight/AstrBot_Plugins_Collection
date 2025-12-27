@@ -470,7 +470,7 @@
     "social_link": "https://github.com/muyouzhi6",
     "stars": 9,
     "version": "1.0.4",
-    "updated_at": "2025-12-27T13:36:01Z",
+    "updated_at": "2025-12-27T15:11:09Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -575,7 +575,7 @@
     "tags": [],
     "stars": 0,
     "version": "v0.1.0",
-    "updated_at": "2025-12-27T14:01:21Z"
+    "updated_at": "2025-12-27T15:17:55Z"
   },
   "astrbot_plugin_qbittorrent_bridge": {
     "display_name": "qBittorrent 桥接器",
@@ -1585,9 +1585,9 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 43,
+    "stars": 44,
     "version": "v2.2.0",
-    "updated_at": "2025-12-25T16:46:29Z",
+    "updated_at": "2025-12-27T15:05:55Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -2438,9 +2438,9 @@
       "排行榜",
       "发言统计"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "1.7.3",
-    "updated_at": "2025-12-18T15:30:11Z",
+    "updated_at": "2025-12-27T14:40:33Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -4096,9 +4096,9 @@
       "memory",
       "rag"
     ],
-    "stars": 49,
+    "stars": 50,
     "version": "2.0.2",
-    "updated_at": "2025-12-26T18:12:32Z",
+    "updated_at": "2025-12-27T15:13:18Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
@@ -9703,9 +9703,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 156,
+    "stars": 157,
     "version": "v2.0.11",
-    "updated_at": "2025-12-25T11:05:33Z"
+    "updated_at": "2025-12-27T15:13:09Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
