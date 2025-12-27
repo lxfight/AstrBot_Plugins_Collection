@@ -248,7 +248,7 @@
     "social_link": "https://github.com/Clhikari",
     "stars": 0,
     "version": "v1.0.2",
-    "updated_at": "2025-12-27T06:25:07Z"
+    "updated_at": "2025-12-27T10:35:33Z"
   },
   "astrbot_plugin_chat4severals": {
     "display_name": "优化私聊体验，不再说一句回一句",
@@ -575,7 +575,7 @@
     "tags": [],
     "stars": 0,
     "version": "v0.2.1",
-    "updated_at": "2025-12-17T13:15:46Z"
+    "updated_at": "2025-12-27T11:13:04Z"
   },
   "astrbot_plugin_qbittorrent_bridge": {
     "display_name": "qBittorrent 桥接器",
@@ -6986,7 +6986,7 @@
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 70,
     "version": "v2.5.4",
-    "updated_at": "2025-12-27T10:32:52Z",
+    "updated_at": "2025-12-27T10:54:12Z",
     "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_jm_cosmos/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
