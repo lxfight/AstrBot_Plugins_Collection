@@ -24,9 +24,9 @@
       "青云"
     ],
     "social_link": "https://github.com/pmh1314520",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-12-24T17:54:47Z",
+    "updated_at": "2025-12-27T17:45:50Z",
     "logo": "https://raw.githubusercontent.com/pmh1314520/astrbot_plugin_qymusic/master/logo.png"
   },
   "astrbot_plugin_copymanga": {
@@ -150,9 +150,9 @@
     "repo": "https://github.com/NachoCrazy/netease-music-astrbot-plugin",
     "social_link": "https://github.com/NachoCrazy",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.2.0",
-    "updated_at": "2025-12-27T16:17:50Z"
+    "updated_at": "2025-12-27T18:26:48Z"
   },
   "astrbot_plugin_batchrecall": {
     "display_name": "批量撤回",
@@ -575,7 +575,7 @@
     "tags": [],
     "stars": 0,
     "version": "v0.1.0",
-    "updated_at": "2025-12-27T17:16:28Z"
+    "updated_at": "2025-12-27T17:43:12Z"
   },
   "astrbot_plugin_qbittorrent_bridge": {
     "display_name": "qBittorrent 桥接器",
@@ -4716,9 +4716,9 @@
       "唤醒增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 28,
+    "stars": 29,
     "version": "v1.1.8",
-    "updated_at": "2025-12-22T13:31:06Z",
+    "updated_at": "2025-12-27T18:07:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -5887,9 +5887,9 @@
     "desc": "一个简单的插件，让 Bot 闭嘴",
     "social_link": "https://github.com/railgun19457",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.5.0",
-    "updated_at": "2025-12-08T05:09:23Z",
+    "updated_at": "2025-12-27T18:12:17Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_shutup/master/logo.png"
   },
   "astrbot_plugin_check-dst-room": {
@@ -6199,9 +6199,9 @@
       "魔方"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.2",
-    "updated_at": "2025-12-18T12:12:39Z",
+    "updated_at": "2025-12-27T18:07:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_cube/main/logo.png"
   },
   "astrbot_plugin_constellation": {
@@ -6533,9 +6533,9 @@
       "github"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.2",
-    "updated_at": "2025-12-18T12:13:05Z",
+    "updated_at": "2025-12-27T18:00:32Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_deepwiki/main/logo.png"
   },
   "astrbot_plugin_delete_and_block_filter": {
@@ -7885,9 +7885,9 @@
       "复读"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.1.5",
-    "updated_at": "2025-12-20T12:25:42Z",
+    "updated_at": "2025-12-27T17:49:49Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_reread/main/logo.png"
   },
   "astrbot_plugin_csbaoyan": {
