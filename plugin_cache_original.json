@@ -247,8 +247,8 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2025-12-20T06:03:53Z"
+    "version": "v1.0.2",
+    "updated_at": "2025-12-27T06:25:07Z"
   },
   "astrbot_plugin_chat4severals": {
     "display_name": "优化私聊体验，不再说一句回一句",
@@ -668,7 +668,7 @@
     ],
     "stars": 3,
     "version": "1.1.9",
-    "updated_at": "2025-12-27T05:07:58Z"
+    "updated_at": "2025-12-27T05:43:01Z"
   },
   "astrbot_plugin_model_router": {
     "display_name": "智能模型路由器",
@@ -964,8 +964,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 7,
-    "version": "0.1.2",
-    "updated_at": "2025-12-19T14:27:36Z",
+    "version": "0.1.3",
+    "updated_at": "2025-12-27T06:19:36Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -1771,9 +1771,9 @@
     "author": "gabriel0721",
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_whitelistpro",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2025-11-18T13:20:37Z",
+    "updated_at": "2025-12-27T05:51:02Z",
     "logo": "https://raw.githubusercontent.com/TenmaGabriel0721/astrbot_plugin_whitelistpro/main/logo.png"
   },
   "astrbot_plugin_val_shop": {
@@ -6985,9 +6985,9 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 70,
-    "version": "v2.3.0",
-    "updated_at": "2025-12-27T04:18:50Z",
-    "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_jm_cosmos/v2-refactor/logo.png"
+    "version": "v2.4.1",
+    "updated_at": "2025-12-27T05:32:08Z",
+    "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_jm_cosmos/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
     "author": "FreeDivers",
