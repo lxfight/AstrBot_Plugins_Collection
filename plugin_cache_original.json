@@ -368,8 +368,8 @@
     ],
     "social_link": "https://github.com/jengaklll-a11y",
     "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2025-12-22T20:33:02Z",
+    "version": "v1.0.3",
+    "updated_at": "2025-12-27T02:23:34Z",
     "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_gitee_zimg/main/logo.png"
   },
   "astrbot_plugin_rollpig": {
@@ -5244,9 +5244,9 @@
       "用户信息",
       "主动回复"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.2.1",
-    "updated_at": "2025-12-26T06:49:27Z",
+    "updated_at": "2025-12-27T02:28:03Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -6985,8 +6985,8 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 70,
-    "version": "v2.0.1",
-    "updated_at": "2025-12-26T16:06:15Z",
+    "version": "v2.1.0",
+    "updated_at": "2025-12-27T03:26:49Z",
     "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_jm_cosmos/v2-refactor/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -8482,7 +8482,7 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "stars": 74,
     "version": "v3.0.3",
-    "updated_at": "2025-12-23T16:01:24Z",
+    "updated_at": "2025-12-27T03:22:46Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
