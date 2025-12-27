@@ -1113,9 +1113,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.2.1",
-    "updated_at": "2025-12-25T19:12:49Z",
+    "updated_at": "2025-12-27T20:53:15Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -1957,9 +1957,9 @@
       "工具",
       "私聊"
     ],
-    "stars": 14,
+    "stars": 15,
     "version": "2.1.0",
-    "updated_at": "2025-12-24T18:18:30Z"
+    "updated_at": "2025-12-27T20:53:47Z"
   },
   "astrbot_plugin_llm_amnesia": {
     "display_name": "LLM 遗忘插件",
@@ -2672,9 +2672,9 @@
       "消息通知",
       "实用"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "1.2.5",
-    "updated_at": "2025-12-25T09:13:08Z",
+    "updated_at": "2025-12-27T20:32:33Z",
     "logo": "https://raw.githubusercontent.com/1592363624/astrbot_plugin_github_monitor_shell/master/logo.png"
   },
   "astrbot_plugin_ragflow_adapter": {
@@ -2697,9 +2697,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 56,
+    "stars": 57,
     "version": "v1.1.0",
-    "updated_at": "2025-12-26T18:23:54Z",
+    "updated_at": "2025-12-27T20:52:53Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -2923,9 +2923,9 @@
       "pic",
       "nobroswer"
     ],
-    "stars": 15,
+    "stars": 16,
     "version": "v1.4.0",
-    "updated_at": "2025-12-09T12:41:20Z"
+    "updated_at": "2025-12-27T20:42:19Z"
   },
   "astrbot_plugin_fetch_summary": {
     "desc": "根据 URL 获取网站摘要",
@@ -4768,9 +4768,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 11,
+    "stars": 12,
     "version": "v1.1.1",
-    "updated_at": "2025-12-20T06:36:46Z",
+    "updated_at": "2025-12-27T20:53:41Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -4902,9 +4902,9 @@
       "语音转化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.3",
-    "updated_at": "2025-12-24T13:48:14Z",
+    "updated_at": "2025-12-27T20:53:34Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
@@ -8987,9 +8987,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 88,
+    "stars": 89,
     "version": "v2.1.7",
-    "updated_at": "2025-12-25T06:01:12Z"
+    "updated_at": "2025-12-27T20:54:07Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -9049,9 +9049,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 486,
+    "stars": 487,
     "version": "v0.915",
-    "updated_at": "2025-12-27T13:19:51Z"
+    "updated_at": "2025-12-27T20:53:23Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
@@ -9730,9 +9730,9 @@
     "author": "长安某",
     "repo": "https://github.com/zgojin/astrbot_plugin_pock",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v2.0.0",
-    "updated_at": "2025-12-20T06:42:16Z"
+    "updated_at": "2025-12-27T20:53:53Z"
   },
   "astrbot_plugin_astrbot_plugin_repetition": {
     "desc": "用于AstrBot的复读机插件",
