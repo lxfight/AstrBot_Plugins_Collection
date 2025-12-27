@@ -469,8 +469,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 9,
-    "version": "1.0.3",
-    "updated_at": "2025-12-27T07:36:09Z",
+    "version": "1.0.4",
+    "updated_at": "2025-12-27T13:36:01Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -574,8 +574,8 @@
     "repo": "https://github.com/ASanYueA/astrbot_plugin_binance",
     "tags": [],
     "stars": 0,
-    "version": "v0.2.1",
-    "updated_at": "2025-12-27T11:13:04Z"
+    "version": "v0.1.0",
+    "updated_at": "2025-12-27T14:01:21Z"
   },
   "astrbot_plugin_qbittorrent_bridge": {
     "display_name": "qBittorrent 桥接器",
@@ -9049,9 +9049,9 @@
       "功能",
       "搬史"
     ],
-    "stars": 485,
+    "stars": 486,
     "version": "v0.915",
-    "updated_at": "2025-12-26T03:16:37Z"
+    "updated_at": "2025-12-27T13:19:51Z"
   },
   "astrbot_plugin_superpoke": {
     "desc": "超级戳一戳根据，让戳一戳能够调用其他插件指令",
