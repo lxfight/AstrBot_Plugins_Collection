@@ -669,7 +669,7 @@
     ],
     "stars": 3,
     "version": "1.2.0",
-    "updated_at": "2025-12-28T10:37:26Z",
+    "updated_at": "2025-12-28T16:11:39Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -3049,8 +3049,8 @@
       "网络小说"
     ],
     "stars": 2,
-    "version": "v1.4",
-    "updated_at": "2025-12-28T09:45:42Z",
+    "version": "v1.5",
+    "updated_at": "2025-12-28T15:25:45Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_youshusearch/master/logo.png"
   },
   "astrbot_plugin_persona_plus": {
@@ -5248,7 +5248,7 @@
     ],
     "stars": 5,
     "version": "v1.2.1",
-    "updated_at": "2025-12-28T14:03:51Z",
+    "updated_at": "2025-12-28T15:34:01Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
