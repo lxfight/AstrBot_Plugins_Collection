@@ -469,8 +469,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 9,
-    "version": "1.0.5",
-    "updated_at": "2025-12-28T05:52:06Z",
+    "version": "1.0.6",
+    "updated_at": "2025-12-28T10:41:56Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -667,8 +667,9 @@
       "大香蕉"
     ],
     "stars": 3,
-    "version": "1.1.9",
-    "updated_at": "2025-12-28T10:11:10Z"
+    "version": "1.2.0",
+    "updated_at": "2025-12-28T10:37:26Z",
+    "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
     "display_name": "智能模型路由器",
@@ -1030,7 +1031,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 16,
     "version": "v1.2.2",
-    "updated_at": "2025-12-28T07:02:07Z",
+    "updated_at": "2025-12-28T10:58:04Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -2699,7 +2700,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 57,
     "version": "v1.1.0",
-    "updated_at": "2025-12-28T09:20:56Z",
+    "updated_at": "2025-12-28T10:56:21Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -6031,9 +6032,9 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 40,
+    "stars": 39,
     "version": "v3.5.1",
-    "updated_at": "2025-12-28T08:11:11Z",
+    "updated_at": "2025-12-28T10:58:55Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -6439,9 +6440,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 85,
+    "stars": 86,
     "version": "v1.0.3",
-    "updated_at": "2025-12-24T08:00:17Z",
+    "updated_at": "2025-12-28T11:07:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -7753,9 +7754,9 @@
     "tags": [
       "jm"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v2.4",
-    "updated_at": "2025-10-23T15:09:06Z"
+    "updated_at": "2025-12-28T11:23:58Z"
   },
   "astrbot_plugin_gscore_adapter": {
     "author": "KimigaiiWuyi",
