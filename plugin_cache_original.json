@@ -1853,7 +1853,7 @@
     "social_link": "https://github.com/HSOS6",
     "stars": 1,
     "version": "2.0.25.12.WNMCNXM",
-    "updated_at": "2025-12-23T12:16:29Z",
+    "updated_at": "2025-12-28T02:25:30Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
   },
   "astrbot_plugin_minecraft_adapter": {
@@ -3970,7 +3970,7 @@
     ],
     "stars": 3,
     "version": "v1.1",
-    "updated_at": "2025-12-27T16:40:24Z",
+    "updated_at": "2025-12-28T03:32:23Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -4060,9 +4060,9 @@
     "tags": [
       "音乐"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "2.1.1",
-    "updated_at": "2025-11-12T07:07:29Z"
+    "updated_at": "2025-12-28T03:15:55Z"
   },
   "astrbot_plugin_slg": {
     "desc": "用astrbot玩slg",
@@ -4902,9 +4902,9 @@
       "语音转化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.3",
-    "updated_at": "2025-12-27T20:53:34Z",
+    "updated_at": "2025-12-28T02:46:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_record_converter/main/logo.png"
   },
   "astrbot_plugin_spark_tts": {
@@ -6984,9 +6984,9 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 72,
-    "version": "v2.5.4",
-    "updated_at": "2025-12-27T12:01:11Z",
+    "stars": 73,
+    "version": "v2.5.5",
+    "updated_at": "2025-12-28T03:12:54Z",
     "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_jm_cosmos/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
