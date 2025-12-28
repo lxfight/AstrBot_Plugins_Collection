@@ -1519,8 +1519,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 16,
-    "version": "v1.7.6",
-    "updated_at": "2025-12-24T13:29:05Z",
+    "version": "v1.7.7",
+    "updated_at": "2025-12-28T08:52:34Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -2699,7 +2699,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 57,
     "version": "v1.1.0",
-    "updated_at": "2025-12-27T20:52:53Z",
+    "updated_at": "2025-12-28T09:20:56Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -8197,8 +8197,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
     "stars": 39,
-    "version": "v2.0.0",
-    "updated_at": "2025-12-28T07:59:43Z",
+    "version": "v2.0.1",
+    "updated_at": "2025-12-28T09:15:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
