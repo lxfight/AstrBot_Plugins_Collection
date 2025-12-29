@@ -563,8 +563,8 @@
       "通知"
     ],
     "stars": 0,
-    "version": "v1.0",
-    "updated_at": "2025-12-25T18:44:02Z",
+    "version": "v1.0.1",
+    "updated_at": "2025-12-29T06:21:16Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -1521,8 +1521,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 16,
-    "version": "v1.7.7",
-    "updated_at": "2025-12-28T08:52:34Z",
+    "version": "v1.7.8",
+    "updated_at": "2025-12-29T06:24:23Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -3116,9 +3116,9 @@
       "联网搜索"
     ],
     "social_link": "https://gbkgov.cn",
-    "stars": 6,
+    "stars": 7,
     "version": "v1.3.0",
-    "updated_at": "2025-12-03T10:40:17Z"
+    "updated_at": "2025-12-29T05:41:12Z"
   },
   "astrbot_plugin_Favour_Ultra": {
     "desc": "更加完善的好感度判断插件，配合LLM和自定义 Prompt 进行使用，效果显著。该插件使用与现有好感度插件不同的判断、写入方法，以及扩展更多的自定义内容，允许更加自由地定义好感度规则。",
@@ -4584,8 +4584,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 41,
-    "version": "1.1.0",
-    "updated_at": "2025-12-29T04:13:18Z",
+    "version": "1.1.1",
+    "updated_at": "2025-12-29T06:30:11Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -4771,8 +4771,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 13,
-    "version": "v1.1.5",
-    "updated_at": "2025-12-28T18:32:51Z",
+    "version": "v1.1.6",
+    "updated_at": "2025-12-29T05:55:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
