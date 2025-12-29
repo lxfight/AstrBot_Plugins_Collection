@@ -469,8 +469,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 11,
-    "version": "1.0.6",
-    "updated_at": "2025-12-29T05:30:30Z",
+    "version": "1.0.7",
+    "updated_at": "2025-12-29T07:58:41Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -575,7 +575,7 @@
     "tags": [],
     "stars": 0,
     "version": "v0.1.1",
-    "updated_at": "2025-12-28T15:03:02Z",
+    "updated_at": "2025-12-29T08:27:33Z",
     "logo": "https://raw.githubusercontent.com/ASanYueA/astrbot_plugin_binance/main/logo.png"
   },
   "astrbot_plugin_qbittorrent_bridge": {
@@ -8172,9 +8172,9 @@
       "JM",
       "禁漫"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.2",
-    "updated_at": "2025-04-23T02:39:08Z"
+    "updated_at": "2025-12-29T08:16:31Z"
   },
   "astrbot_plugin_quote_collocter": {
     "desc": "可以自己截图并投稿群友语录，机器人被戳戳时随机爆典",
