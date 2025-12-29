@@ -575,7 +575,7 @@
     "tags": [],
     "stars": 0,
     "version": "v0.1.1",
-    "updated_at": "2025-12-29T09:13:55Z",
+    "updated_at": "2025-12-29T09:42:25Z",
     "logo": "https://raw.githubusercontent.com/ASanYueA/astrbot_plugin_binance/main/logo.png"
   },
   "astrbot_plugin_qbittorrent_bridge": {
@@ -7287,9 +7287,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 116,
+    "stars": 117,
     "version": "v2.0.6",
-    "updated_at": "2025-12-25T02:55:50Z",
+    "updated_at": "2025-12-29T09:57:07Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
