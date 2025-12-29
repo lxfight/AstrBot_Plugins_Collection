@@ -150,9 +150,9 @@
     "repo": "https://github.com/NachoCrazy/netease-music-astrbot-plugin",
     "social_link": "https://github.com/NachoCrazy",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "1.2.0",
-    "updated_at": "2025-12-27T18:26:48Z"
+    "updated_at": "2025-12-29T02:59:20Z"
   },
   "astrbot_plugin_batchrecall": {
     "display_name": "批量撤回",
@@ -262,7 +262,7 @@
     "social_link": "https://github.com/KonmaKanSinPack",
     "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2025-12-28T14:58:15Z"
+    "updated_at": "2025-12-29T03:14:45Z"
   },
   "astrbot_plugin_meme_maker": {
     "display_name": "meme_maker",
@@ -456,7 +456,7 @@
     ],
     "stars": 0,
     "version": "v0.2",
-    "updated_at": "2025-12-28T06:15:49Z",
+    "updated_at": "2025-12-29T03:43:04Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_webnovel_info/master/logo.png"
   },
   "astrbot_plugin_desktop_assistant": {
@@ -3050,7 +3050,7 @@
     ],
     "stars": 2,
     "version": "v1.5",
-    "updated_at": "2025-12-28T15:25:45Z",
+    "updated_at": "2025-12-29T02:49:32Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_youshusearch/master/logo.png"
   },
   "astrbot_plugin_persona_plus": {
@@ -6770,9 +6770,9 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 45,
+    "stars": 46,
     "version": "v1.0.6",
-    "updated_at": "2025-12-24T13:37:43Z",
+    "updated_at": "2025-12-29T03:26:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_portrayal/main/logo.png"
   },
   "astrbot_plugin_prefix_filter": {
