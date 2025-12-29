@@ -369,7 +369,7 @@
     "social_link": "https://github.com/jengaklll-a11y",
     "stars": 0,
     "version": "v1.0.3",
-    "updated_at": "2025-12-27T02:23:34Z",
+    "updated_at": "2025-12-29T13:56:08Z",
     "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_gitee_zimg/main/logo.png"
   },
   "astrbot_plugin_rollpig": {
@@ -401,7 +401,7 @@
     "social_link": "https://github.com/jengaklll-a11y",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2025-12-25T07:26:51Z",
+    "updated_at": "2025-12-29T13:57:53Z",
     "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_portrayal_core/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -1012,9 +1012,9 @@
       "LLM 工具"
     ],
     "social_link": "https://github.com/sl251",
-    "stars": 9,
+    "stars": 10,
     "version": "1.0.5",
-    "updated_at": "2025-12-19T11:56:15Z",
+    "updated_at": "2025-12-29T13:54:52Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -3339,8 +3339,8 @@
     ],
     "social_link": "https://catyun.cyou/",
     "stars": 1,
-    "version": "v1.0.6",
-    "updated_at": "2025-11-19T04:44:52Z"
+    "version": "v2.0.0",
+    "updated_at": "2025-12-29T14:22:10Z"
   },
   "astrbot_plugin_search_tracemoe": {
     "desc": "基于 trace.moe API 的动漫场景识别插件，支持通过图片搜索动漫截图场景出处。",
