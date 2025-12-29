@@ -1,4 +1,56 @@
 {
+  "astrbot_plugin_matrix_adapter": {
+    "display_name": "Matrix 协议适配器",
+    "desc": "Matrix 协议适配器，支持端到端加密、消息线程等功能。暂不支持密钥交换，暂不支持 Oauth2 登录。",
+    "author": "stevessr",
+    "repo": "https://github.com/stevessr/astrbot_plugin_matrix_adapter",
+    "tags": [
+      "matrix",
+      "平台适配器"
+    ],
+    "social_link": "https://github.com/stevessr"
+  },
+  "astrbot_plugin_llm_executor": {
+    "display_name": "指令执行器",
+    "desc": "让LLM代理执行Bot指令，配合command_query插件使用，实现自然语言到指令的转换",
+    "author": "gabriel0721",
+    "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_llm_executor"
+  },
+  "astrbot_plugin_command_query": {
+    "display_name": "指令查询工具",
+    "desc": "让 LLM 能够实时查询指令信息，引导用户正确使用 - 支持模糊搜索、详情查询、插件列表",
+    "author": "gabriel0721",
+    "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_command_query"
+  },
+  "astrbot_plugin_maa": {
+    "display_name": "MAA 远程控制",
+    "desc": "通过 AstrBot 远程控制 MAA",
+    "author": "Hakuin123",
+    "repo": "https://github.com/Hakuin123/astrbot_plugin_maa",
+    "tags": [
+      "MAA",
+      "明日方舟"
+    ],
+    "social_link": "https://github.com/Hakuin123"
+  },
+  "astrbot_plugin_extract": {
+    "display_name": "元数据解析",
+    "desc": "对图片、视频、语音、文件等媒体的元数据进行解析",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_extract",
+    "tags": [
+      "元数据",
+      "解析",
+      "媒体"
+    ],
+    "social_link": "https://github.com/Zhalslar"
+  },
+  "astrbot_plugin_realistic_persona": {
+    "display_name": "realistic_persona",
+    "desc": "拟人化角色行为系统：整合情绪感知、生活模拟、QQ空间日记、AI配图等功能，使用系统人设，支持终端日志，支持自然图文并茂回复",
+    "author": "LMG-arch",
+    "repo": "https://github.com/LMG-arch/astrbot-plugin-realistic-persona.git"
+  },
   "astrbot_plugin_admin_notifier": {
     "display_name": "举报通知",
     "desc": "群友可以使用 /举报 指令@所有管理员",
