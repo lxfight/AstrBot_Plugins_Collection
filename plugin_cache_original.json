@@ -1,4 +1,69 @@
 {
+  "astrbot_plugin_matrix_adapter": {
+    "display_name": "Matrix 协议适配器",
+    "desc": "Matrix 协议适配器，支持端到端加密、消息线程等功能。暂不支持密钥交换，暂不支持 Oauth2 登录。",
+    "author": "stevessr",
+    "repo": "https://github.com/stevessr/astrbot_plugin_matrix_adapter",
+    "tags": [
+      "matrix",
+      "平台适配器"
+    ],
+    "social_link": "https://github.com/stevessr",
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2025-12-26T13:11:52Z",
+    "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
+  },
+  "astrbot_plugin_llm_executor": {
+    "display_name": "指令执行器",
+    "desc": "让LLM代理执行Bot指令，配合command_query插件使用，实现自然语言到指令的转换",
+    "author": "gabriel0721",
+    "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_llm_executor",
+    "tags": [],
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2025-12-29T14:45:12Z"
+  },
+  "astrbot_plugin_command_query": {
+    "display_name": "指令查询工具",
+    "desc": "让 LLM 能够实时查询指令信息，引导用户正确使用 - 支持模糊搜索、详情查询、插件列表",
+    "author": "gabriel0721",
+    "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_command_query",
+    "tags": [],
+    "stars": 2,
+    "version": "2.1.0",
+    "updated_at": "2025-12-29T14:45:11Z"
+  },
+  "astrbot_plugin_maa": {
+    "display_name": "MAA 远程控制",
+    "desc": "通过 AstrBot 远程控制 MAA",
+    "author": "Hakuin123",
+    "repo": "https://github.com/Hakuin123/astrbot_plugin_maa",
+    "tags": [
+      "MAA",
+      "明日方舟"
+    ],
+    "social_link": "https://github.com/Hakuin123",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2025-12-28T17:58:57Z"
+  },
+  "astrbot_plugin_extract": {
+    "display_name": "元数据解析",
+    "desc": "对图片、视频、语音、文件等媒体的元数据进行解析",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_extract",
+    "tags": [
+      "元数据",
+      "解析",
+      "媒体"
+    ],
+    "social_link": "https://github.com/Zhalslar",
+    "stars": 3,
+    "version": "v1.0.1",
+    "updated_at": "2025-12-27T12:19:30Z",
+    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_extract/main/logo.png"
+  },
   "astrbot_plugin_admin_notifier": {
     "display_name": "举报通知",
     "desc": "群友可以使用 /举报 指令@所有管理员",
@@ -575,7 +640,7 @@
     "tags": [],
     "stars": 0,
     "version": "v0.1.1",
-    "updated_at": "2025-12-29T15:50:01Z",
+    "updated_at": "2025-12-29T16:34:12Z",
     "logo": "https://raw.githubusercontent.com/ASanYueA/astrbot_plugin_binance/main/logo.png"
   },
   "astrbot_plugin_qbittorrent_bridge": {
@@ -9679,9 +9744,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_memeify",
     "tags": [],
-    "stars": 19,
+    "stars": 20,
     "version": "1.0.0",
-    "updated_at": "2025-12-07T07:50:36Z"
+    "updated_at": "2025-12-29T17:07:28Z"
   },
   "astrbot_plugin_DailyWife": {
     "desc": "每日老婆插件，请配置NapCat！！",
