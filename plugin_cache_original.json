@@ -563,8 +563,8 @@
       "通知"
     ],
     "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2025-12-29T06:21:16Z",
+    "version": "v1.0.2",
+    "updated_at": "2025-12-29T11:15:00Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_reminder/master/logo.png"
   },
   "astrbot_plugin_binance": {
@@ -2613,9 +2613,9 @@
     "tags": [
       "修仙"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.5dev",
-    "updated_at": "2025-12-24T14:13:56Z",
+    "updated_at": "2025-12-29T11:07:41Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -4771,7 +4771,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 13,
-    "version": "v1.1.6",
+    "version": "v1.1.7",
     "updated_at": "2025-12-29T05:55:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
