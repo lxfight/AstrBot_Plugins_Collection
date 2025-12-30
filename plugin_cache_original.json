@@ -89,9 +89,9 @@
       "青云"
     ],
     "social_link": "https://github.com/pmh1314520",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2025-12-29T13:33:24Z",
+    "updated_at": "2025-12-30T07:45:05Z",
     "logo": "https://raw.githubusercontent.com/pmh1314520/astrbot_plugin_qymusic/master/logo.png"
   },
   "astrbot_plugin_copymanga": {
@@ -1920,7 +1920,7 @@
     "social_link": "https://github.com/HSOS6",
     "stars": 1,
     "version": "2.0.25.12.WNMCNXM",
-    "updated_at": "2025-12-28T02:25:30Z",
+    "updated_at": "2025-12-30T08:23:46Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_mcsmanager/main/logo.png"
   },
   "astrbot_plugin_minecraft_adapter": {
@@ -4675,9 +4675,9 @@
       "MiBand"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.3",
-    "updated_at": "2025-12-30T03:02:16Z",
+    "updated_at": "2025-12-30T07:43:19Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
   "astrbot_plugin_immersive_control": {
@@ -6988,8 +6988,8 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 22,
-    "version": "v2.0.1",
-    "updated_at": "2025-12-19T19:02:29Z"
+    "version": "v2.0.2",
+    "updated_at": "2025-12-30T08:01:38Z"
   },
   "astrbot_plugin_liblibapi": {
     "author": "machinad",
