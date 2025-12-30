@@ -432,9 +432,9 @@
       "Gitee"
     ],
     "social_link": "https://github.com/jengaklll-a11y",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.3",
-    "updated_at": "2025-12-29T13:56:08Z",
+    "updated_at": "2025-12-30T12:38:11Z",
     "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_gitee_zimg/main/logo.png"
   },
   "astrbot_plugin_rollpig": {
@@ -732,9 +732,9 @@
       "绘图",
       "大香蕉"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "1.2.0",
-    "updated_at": "2025-12-28T16:11:39Z",
+    "updated_at": "2025-12-30T12:06:24Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -1044,8 +1044,8 @@
       "表情"
     ],
     "stars": 6,
-    "version": "2.0.2",
-    "updated_at": "2025-12-30T09:59:34Z",
+    "version": "2.0.3",
+    "updated_at": "2025-12-30T12:05:14Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -1097,7 +1097,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 16,
     "version": "v1.2.2",
-    "updated_at": "2025-12-28T10:58:04Z",
+    "updated_at": "2025-12-30T12:47:14Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -2084,7 +2084,7 @@
     ],
     "stars": 12,
     "version": "v4.1.0",
-    "updated_at": "2025-12-26T10:13:56Z",
+    "updated_at": "2025-12-30T12:44:39Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -2764,9 +2764,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 58,
+    "stars": 59,
     "version": "v1.1.0",
-    "updated_at": "2025-12-30T03:35:47Z",
+    "updated_at": "2025-12-30T12:41:22Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -4375,9 +4375,9 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 29,
+    "stars": 30,
     "version": "v1.0.4",
-    "updated_at": "2025-12-24T16:58:53Z"
+    "updated_at": "2025-12-30T12:44:08Z"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
