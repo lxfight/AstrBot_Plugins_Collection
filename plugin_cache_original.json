@@ -20,9 +20,9 @@
     "author": "gabriel0721",
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_llm_executor",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2025-12-29T14:45:12Z"
+    "updated_at": "2025-12-30T06:53:13Z"
   },
   "astrbot_plugin_command_query": {
     "display_name": "指令查询工具",
@@ -30,9 +30,9 @@
     "author": "gabriel0721",
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_command_query",
     "tags": [],
-    "stars": 2,
+    "stars": 3,
     "version": "2.1.0",
-    "updated_at": "2025-12-29T14:45:11Z"
+    "updated_at": "2025-12-30T06:52:57Z"
   },
   "astrbot_plugin_maa": {
     "display_name": "MAA 远程控制",
@@ -1120,8 +1120,8 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 1,
-    "version": "1.4.0",
-    "updated_at": "2025-12-19T06:05:56Z"
+    "version": "1.4.1",
+    "updated_at": "2025-12-30T07:23:56Z"
   },
   "astrbot_plugin_qinglong": {
     "display_name": "青龙面板管理",
@@ -1367,9 +1367,9 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_gifcaijian",
     "tags": [],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.4.0",
-    "updated_at": "2025-12-28T12:22:10Z"
+    "updated_at": "2025-12-30T07:07:22Z"
   },
   "astrbot_plugin_AtTool": {
     "display_name": "@工具（艾特工具）",
