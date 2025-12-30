@@ -9,9 +9,9 @@
       "平台适配器"
     ],
     "social_link": "https://github.com/stevessr",
-    "stars": 0,
+    "stars": 2,
     "version": "0.1.0",
-    "updated_at": "2025-12-26T13:11:52Z",
+    "updated_at": "2025-12-30T02:35:21Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_llm_executor": {
@@ -59,9 +59,9 @@
       "媒体"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.1",
-    "updated_at": "2025-12-27T12:19:30Z",
+    "updated_at": "2025-12-30T02:45:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_extract/main/logo.png"
   },
   "astrbot_plugin_admin_notifier": {
@@ -520,8 +520,8 @@
       "刺猬猫"
     ],
     "stars": 0,
-    "version": "v0.2",
-    "updated_at": "2025-12-29T03:43:04Z",
+    "version": "v1.0",
+    "updated_at": "2025-12-30T03:32:20Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_webnovel_info/master/logo.png"
   },
   "astrbot_plugin_desktop_assistant": {
@@ -2764,9 +2764,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 57,
+    "stars": 58,
     "version": "v1.1.0",
-    "updated_at": "2025-12-28T10:56:21Z",
+    "updated_at": "2025-12-30T03:35:47Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -4675,9 +4675,9 @@
       "MiBand"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.3",
-    "updated_at": "2025-11-21T17:12:53Z",
+    "updated_at": "2025-12-30T03:02:16Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
   "astrbot_plugin_immersive_control": {
@@ -4838,7 +4838,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 14,
     "version": "v1.1.7",
-    "updated_at": "2025-12-29T21:00:01Z",
+    "updated_at": "2025-12-30T03:02:03Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -6099,9 +6099,9 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 40,
+    "stars": 41,
     "version": "v3.5.1",
-    "updated_at": "2025-12-29T12:59:58Z",
+    "updated_at": "2025-12-30T03:23:25Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot_plugin_antipromptinjector/master/logo.png"
   },
   "astrbot_plugin_alistfile": {
@@ -8141,9 +8141,9 @@
     "author": "lm379",
     "repo": "https://github.com/lm379/astrbot_plugin_quarksave",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.4",
-    "updated_at": "2025-12-03T17:00:43Z"
+    "updated_at": "2025-12-30T03:37:38Z"
   },
   "astrbot_plugins_ConvetPicture": {
     "desc": "[仅aiocqhttp]把QQ里面不可保存的表情转化为可以保存的图片，包括GIF",
