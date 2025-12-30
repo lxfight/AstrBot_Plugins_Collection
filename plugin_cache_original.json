@@ -204,9 +204,9 @@
     "repo": "https://github.com/NachoCrazy/anti-bot-astrbot-plugin",
     "social_link": "https://github.com/NachoCrazy",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "1.5.0",
-    "updated_at": "2025-12-15T03:39:13Z"
+    "updated_at": "2025-12-30T13:49:28Z"
   },
   "astrbot_plugin_netease_music": {
     "display_name": "豪华版网易云点歌插件",
@@ -1097,7 +1097,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 16,
     "version": "v1.2.2",
-    "updated_at": "2025-12-30T12:47:14Z",
+    "updated_at": "2025-12-30T14:18:36Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -2082,9 +2082,9 @@
       "小红书",
       "推特"
     ],
-    "stars": 12,
+    "stars": 11,
     "version": "v4.1.0",
-    "updated_at": "2025-12-30T13:01:26Z",
+    "updated_at": "2025-12-30T14:25:39Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
