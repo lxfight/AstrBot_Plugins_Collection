@@ -9,9 +9,9 @@
       "平台适配器"
     ],
     "social_link": "https://github.com/stevessr",
-    "stars": 2,
+    "stars": 3,
     "version": "0.1.0",
-    "updated_at": "2025-12-30T02:35:21Z",
+    "updated_at": "2025-12-30T03:43:48Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_llm_executor": {
@@ -1293,7 +1293,7 @@
     ],
     "stars": 5,
     "version": "2.2.0",
-    "updated_at": "2025-12-30T00:08:19Z"
+    "updated_at": "2025-12-30T04:10:03Z"
   },
   "astrbot_plugin_customized_active_reply_prompt": {
     "display_name": "自定义主动回复提示词",
@@ -5314,7 +5314,7 @@
     ],
     "stars": 5,
     "version": "v1.3.0",
-    "updated_at": "2025-12-29T13:43:46Z",
+    "updated_at": "2025-12-30T04:23:05Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
