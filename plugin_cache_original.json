@@ -4273,9 +4273,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 102,
+    "stars": 103,
     "version": "v4.4.0",
-    "updated_at": "2025-12-27T17:02:28Z",
+    "updated_at": "2025-12-30T05:59:04Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -8063,9 +8063,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 77,
+    "stars": 78,
     "version": "v3.2.7",
-    "updated_at": "2025-12-26T06:26:35Z",
+    "updated_at": "2025-12-30T06:26:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
