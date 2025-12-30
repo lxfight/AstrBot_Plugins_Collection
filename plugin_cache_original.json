@@ -2327,9 +2327,9 @@
       "网易云"
     ],
     "social_link": "https://github.com/SatenShiroya",
-    "stars": 6,
+    "stars": 7,
     "version": "V1.3.0",
-    "updated_at": "2025-12-13T02:39:41Z",
+    "updated_at": "2025-12-30T16:25:11Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_neteasecloud_music/master/logo.png"
   },
   "astrbot_plugin_dailyacmfortune": {
@@ -4786,7 +4786,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 29,
     "version": "v2.0.0",
-    "updated_at": "2025-12-30T14:15:47Z",
+    "updated_at": "2025-12-30T16:31:12Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
