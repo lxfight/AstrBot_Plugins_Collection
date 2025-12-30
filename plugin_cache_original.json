@@ -1044,8 +1044,8 @@
       "表情"
     ],
     "stars": 6,
-    "version": "2.0.1",
-    "updated_at": "2025-12-29T19:00:50Z",
+    "version": "2.0.2",
+    "updated_at": "2025-12-30T09:59:34Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -2802,9 +2802,9 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/astrbot_plugin_jimengapi",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v0.3.0",
-    "updated_at": "2025-12-03T12:26:19Z"
+    "updated_at": "2025-12-30T10:07:13Z"
   },
   "astrbot_plugin_LLMPerception": {
     "desc": "增强 LLM 环境感知能力：时间、节假日、平台环境感知",
@@ -5620,9 +5620,9 @@
       "文件处理"
     ],
     "author": null,
-    "stars": 16,
+    "stars": 17,
     "version": "2.3.0",
-    "updated_at": "2025-12-06T04:57:23Z"
+    "updated_at": "2025-12-30T10:15:46Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
