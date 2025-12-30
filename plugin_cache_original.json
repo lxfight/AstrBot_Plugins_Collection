@@ -2990,9 +2990,9 @@
       "pic",
       "nobroswer"
     ],
-    "stars": 16,
+    "stars": 17,
     "version": "v1.4.0",
-    "updated_at": "2025-12-27T20:42:19Z"
+    "updated_at": "2025-12-30T16:59:02Z"
   },
   "astrbot_plugin_fetch_summary": {
     "desc": "根据 URL 获取网站摘要",
@@ -4786,7 +4786,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 29,
     "version": "v2.0.0",
-    "updated_at": "2025-12-30T16:31:12Z",
+    "updated_at": "2025-12-30T16:51:58Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
