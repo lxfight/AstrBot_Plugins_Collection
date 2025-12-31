@@ -9555,9 +9555,9 @@
     "author": "FateTrial",
     "repo": "https://github.com/FateTrial/FateTrial_JMdownloader",
     "tags": [],
-    "stars": 32,
+    "stars": 30,
     "version": "v1.0.2",
-    "updated_at": "2025-12-25T15:29:45Z"
+    "updated_at": "2025-12-31T16:46:19Z"
   },
   "astrbot_plugin_lolicon_image-master": {
     "desc": "涩图插件2.0基于，原作者rikkamiss插件进行修改，使机器人可以发送R18图片",
