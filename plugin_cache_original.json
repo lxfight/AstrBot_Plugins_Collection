@@ -1397,7 +1397,7 @@
     ],
     "stars": 0,
     "version": "v1.2",
-    "updated_at": "2025-12-26T12:54:40Z",
+    "updated_at": "2025-12-31T05:39:26Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_CloudImg/master/logo.png"
   },
   "astrbot_plugin_aicu_analysis": {
@@ -4273,9 +4273,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 104,
+    "stars": 105,
     "version": "v4.4.0",
-    "updated_at": "2025-12-30T15:11:11Z",
+    "updated_at": "2025-12-31T06:29:31Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -8981,9 +8981,9 @@
     "author": "NEST",
     "repo": "https://github.com/4Nest/astrbot_plugin_mp_sub",
     "tags": [],
-    "stars": 16,
+    "stars": 17,
     "version": "v1.1.1",
-    "updated_at": "2025-12-10T02:08:37Z"
+    "updated_at": "2025-12-31T06:30:18Z"
   },
   "astrbot_plugin_nofap": {
     "desc": "一个用于戒 🦌 记录打卡和查看群内戒 🦌 榜的插件",
