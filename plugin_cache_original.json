@@ -20,9 +20,9 @@
     "author": "gabriel0721",
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_llm_executor",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2025-12-31T02:33:58Z"
+    "updated_at": "2025-12-31T12:19:28Z"
   },
   "astrbot_plugin_command_query": {
     "display_name": "指令查询工具",
@@ -1218,8 +1218,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 7,
-    "version": "v0.3.7",
-    "updated_at": "2025-12-30T21:52:26Z",
+    "version": "v0.3.8",
+    "updated_at": "2025-12-31T11:49:15Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -2680,7 +2680,7 @@
     ],
     "stars": 7,
     "version": "v1.0.5dev",
-    "updated_at": "2025-12-31T02:22:42Z",
+    "updated_at": "2025-12-31T12:45:57Z",
     "logo": "https://raw.githubusercontent.com/linjianyan0229/astrbot_plugin_monixiuxian/main/logo.png"
   },
   "astrbot_plugin_invitecount": {
@@ -4417,9 +4417,9 @@
       "群管"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 10,
+    "stars": 11,
     "version": "v1.5",
-    "updated_at": "2025-12-23T08:33:17Z"
+    "updated_at": "2025-12-31T11:49:02Z"
   },
   "command_to_llm": {
     "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
