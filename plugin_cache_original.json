@@ -244,9 +244,9 @@
       "三次元",
       "心理委员"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-12-26T09:05:13Z"
+    "updated_at": "2025-12-31T09:06:12Z"
   },
   "astrbot_plugin_yt-dlp": {
     "display_name": "yt-dlp网页视频下载",
@@ -492,9 +492,9 @@
       "BT",
       "磁力"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.0.0",
-    "updated_at": "2025-12-31T02:59:33Z",
+    "updated_at": "2025-12-31T09:25:56Z",
     "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_BitTorrent/master/logo.png"
   },
   "astrbot_plugin_custom_menu_1": {
@@ -1397,7 +1397,7 @@
     ],
     "stars": 0,
     "version": "v1.2",
-    "updated_at": "2025-12-31T05:39:26Z",
+    "updated_at": "2025-12-31T08:58:39Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_CloudImg/master/logo.png"
   },
   "astrbot_plugin_aicu_analysis": {
@@ -7053,8 +7053,8 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 73,
-    "version": "v2.6.0",
-    "updated_at": "2025-12-31T03:10:47Z",
+    "version": "v2.6.1",
+    "updated_at": "2025-12-31T09:35:16Z",
     "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_jm_cosmos/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
