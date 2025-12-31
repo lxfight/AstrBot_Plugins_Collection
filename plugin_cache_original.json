@@ -3240,7 +3240,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.6.2",
-    "updated_at": "2025-12-28T13:01:01Z"
+    "updated_at": "2025-12-31T07:26:25Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -4274,8 +4274,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 105,
-    "version": "v4.4.0",
-    "updated_at": "2025-12-31T06:29:31Z",
+    "version": "v4.5.1",
+    "updated_at": "2025-12-31T06:50:30Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -6507,9 +6507,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 86,
+    "stars": 85,
     "version": "v1.0.3",
-    "updated_at": "2025-12-28T11:07:40Z",
+    "updated_at": "2025-12-31T07:18:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -8063,9 +8063,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 78,
+    "stars": 77,
     "version": "v3.2.7",
-    "updated_at": "2025-12-30T06:26:27Z",
+    "updated_at": "2025-12-31T07:18:09Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -9093,9 +9093,9 @@
     "tags": [
       "功能"
     ],
-    "stars": 23,
+    "stars": 22,
     "version": "1.1.0",
-    "updated_at": "2025-12-24T15:08:04Z"
+    "updated_at": "2025-12-31T07:18:08Z"
   },
   "astrbot_plugin_moyuren": {
     "desc": "每天定时推送摸鱼人日历",
