@@ -548,9 +548,9 @@
       "学习",
       "人格"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "0.9.99",
-    "updated_at": "2025-12-23T15:26:11Z"
+    "updated_at": "2025-12-31T13:54:43Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -562,9 +562,9 @@
       "主动应答",
       "群聊优化"
     ],
-    "stars": 19,
+    "stars": 20,
     "version": "0.8.6",
-    "updated_at": "2025-12-22T11:59:50Z"
+    "updated_at": "2025-12-31T13:55:43Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -576,9 +576,9 @@
       "记录查询",
       "聊天记录"
     ],
-    "stars": 7,
+    "stars": 8,
     "version": "1.0.3",
-    "updated_at": "2025-11-21T07:11:52Z"
+    "updated_at": "2025-12-31T13:56:03Z"
   },
   "lumingya/astrbot_plugin_regex_filter": {
     "display_name": "通用正则后处理",
@@ -1097,7 +1097,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 16,
     "version": "v1.2.2",
-    "updated_at": "2025-12-30T14:18:36Z",
+    "updated_at": "2025-12-31T14:18:54Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -2507,7 +2507,7 @@
     ],
     "stars": 10,
     "version": "1.7.3",
-    "updated_at": "2025-12-27T14:40:33Z",
+    "updated_at": "2025-12-31T14:15:18Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
@@ -2766,7 +2766,7 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 59,
     "version": "v1.1.0",
-    "updated_at": "2025-12-30T12:41:22Z",
+    "updated_at": "2025-12-31T14:20:20Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -3240,7 +3240,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.6.2",
-    "updated_at": "2025-12-31T10:38:17Z"
+    "updated_at": "2025-12-31T14:20:00Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
