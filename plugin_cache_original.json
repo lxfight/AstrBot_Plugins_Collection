@@ -492,9 +492,9 @@
       "小游戏"
     ],
     "social_link": "https://github.com/MegSopern",
-    "stars": 6,
+    "stars": 7,
     "version": "1.1.0",
-    "updated_at": "2026-01-01T03:36:05Z",
+    "updated_at": "2026-01-01T10:29:53Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_portrayal_core": {
@@ -509,7 +509,7 @@
     "social_link": "https://github.com/jengaklll-a11y",
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-01-01T07:37:45Z",
+    "updated_at": "2026-01-01T10:29:30Z",
     "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_portrayal_core/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -777,7 +777,7 @@
     ],
     "stars": 4,
     "version": "1.2.0",
-    "updated_at": "2026-01-01T10:20:11Z",
+    "updated_at": "2026-01-01T10:54:10Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -971,9 +971,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 33,
+    "stars": 34,
     "version": "v1.1.2",
-    "updated_at": "2025-12-30T18:58:37Z",
+    "updated_at": "2026-01-01T10:27:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -8591,9 +8591,9 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
-    "stars": 74,
+    "stars": 73,
     "version": "v3.0.3",
-    "updated_at": "2025-12-27T03:22:46Z",
+    "updated_at": "2026-01-01T10:50:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_memelite/main/logo.png"
   },
   "astrbot_plugin_saris_economic": {
