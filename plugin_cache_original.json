@@ -3807,9 +3807,9 @@
     "author": "ctrlkk",
     "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v1.3",
-    "updated_at": "2025-12-04T16:59:38Z"
+    "updated_at": "2026-01-01T18:56:20Z"
   },
   "astrbot_plugin_festival_greeter": {
     "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
