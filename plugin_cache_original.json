@@ -1,4 +1,47 @@
 {
+  "astrbot_plugin_steam_status": {
+    "display_name": "Steam 服务状态监控",
+    "desc": "一个用于 AstrBot 的 Steam 服务状态监控插件。支持手动指令查询和后台自动监控推送。",
+    "author": "Gezhe14",
+    "repo": "https://github.com/Gezhe14/astrbot_plugin_steam_status",
+    "tags": [
+      "Steam"
+    ],
+    "social_link": "https://github.com/Gezhe14",
+    "stars": 0,
+    "version": "v1.2.2",
+    "updated_at": "2026-01-01T02:20:27Z"
+  },
+  "astrbot_plugin_office_assistant": {
+    "display_name": "Office 助手",
+    "desc": "赋予 LLM 文件读取分析能力，支持 AI 生成 Office 文档（Word/Excel/PPT）。",
+    "author": "Clhikari",
+    "repo": "https://github.com/Clhikari/astrbot_plugin_office_assistant",
+    "tags": [
+      "文件操作",
+      "office生成"
+    ],
+    "social_link": "https://github.com/Clhikari",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2025-12-30T14:22:34Z",
+    "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
+  },
+  "astrbot_plugin_zhenxunribao": {
+    "display_name": "真寻日报",
+    "desc": "这是一个从 nonebot-plugin-zxreport 移植到 AstrBot 的真寻日报插件。插件会每日为你汇总最新的资讯内容，包含今日新番、B站热点、世界新闻、IT资讯、摸鱼日历和今日一言等内容。",
+    "author": " Huahuatgc",
+    "repo": "https://github.com/Huahuatgc/astrbot_plugin_zhenxunribao",
+    "tags": [
+      "playwright",
+      "日报",
+      "每日推送"
+    ],
+    "social_link": "https://github.com/Huahuatgc",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-01-01T06:52:12Z"
+  },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
     "desc": "Matrix 协议适配器，支持端到端加密、消息线程等功能。暂不支持密钥交换，暂不支持 Oauth2 登录。",
@@ -11,7 +54,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 3,
     "version": "0.1.0",
-    "updated_at": "2025-12-31T02:23:37Z",
+    "updated_at": "2026-01-01T08:10:30Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_llm_executor": {
@@ -389,8 +432,8 @@
     ],
     "social_link": "https://github.com/WhiteCloudOL",
     "stars": 0,
-    "version": "v1.3.0",
-    "updated_at": "2026-01-01T06:51:56Z",
+    "version": "v1.3.1",
+    "updated_at": "2026-01-01T08:27:49Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_joinmanager/master/logo.png"
   },
   "astrbot_plugin_group_signin": {
@@ -465,8 +508,8 @@
     ],
     "social_link": "https://github.com/jengaklll-a11y",
     "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2025-12-29T13:57:53Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-01-01T07:37:45Z",
     "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_portrayal_core/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -6947,7 +6990,7 @@
     "tags": [],
     "stars": 2,
     "version": "v1.3",
-    "updated_at": "2025-12-31T11:21:53Z"
+    "updated_at": "2026-01-01T07:35:09Z"
   },
   "astrbot_plugin_fishing2": {
     "author": "tinker",
@@ -8668,9 +8711,9 @@
     "tags": [
       "实用工具"
     ],
-    "stars": 24,
+    "stars": 25,
     "version": "v2.2.3",
-    "updated_at": "2025-12-27T22:50:34Z",
+    "updated_at": "2026-01-01T08:09:08Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
