@@ -777,7 +777,7 @@
     ],
     "stars": 4,
     "version": "1.2.0",
-    "updated_at": "2025-12-30T12:06:24Z",
+    "updated_at": "2026-01-01T10:20:11Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -1261,8 +1261,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 7,
-    "version": "v0.3.8",
-    "updated_at": "2025-12-31T11:49:15Z",
+    "version": "v0.3.9",
+    "updated_at": "2026-01-01T10:06:19Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
