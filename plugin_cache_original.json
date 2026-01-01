@@ -44,9 +44,9 @@
       "明日方舟"
     ],
     "social_link": "https://github.com/Hakuin123",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-12-30T01:32:35Z"
+    "updated_at": "2026-01-01T06:11:06Z"
   },
   "astrbot_plugin_extract": {
     "display_name": "元数据解析",
@@ -1044,8 +1044,8 @@
       "表情"
     ],
     "stars": 6,
-    "version": "2.0.5",
-    "updated_at": "2025-12-30T13:21:16Z",
+    "version": "2.0.6",
+    "updated_at": "2026-01-01T05:58:18Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -1712,7 +1712,7 @@
     "social_link": "www.zousanzy.cn",
     "stars": 0,
     "version": "v6.1",
-    "updated_at": "2025-12-27T03:42:45Z",
+    "updated_at": "2026-01-01T05:57:30Z",
     "logo": "https://raw.githubusercontent.com/by-029/zxs60s/main/logo.png"
   },
   "astrbot_plugin_slave_market": {
@@ -3239,8 +3239,8 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 3,
-    "version": "1.6.4",
-    "updated_at": "2026-01-01T05:26:19Z"
+    "version": "1.6.5",
+    "updated_at": "2026-01-01T05:45:44Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -7529,7 +7529,7 @@
     "social_link": "https://github.com/vmoranv-reborn",
     "stars": 2,
     "version": "1.4.3",
-    "updated_at": "2026-01-01T05:20:07Z",
+    "updated_at": "2026-01-01T06:14:52Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
