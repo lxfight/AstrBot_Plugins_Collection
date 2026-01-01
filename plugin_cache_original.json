@@ -562,9 +562,9 @@
       "主动应答",
       "群聊优化"
     ],
-    "stars": 21,
+    "stars": 22,
     "version": "0.8.6",
-    "updated_at": "2025-12-31T17:28:13Z"
+    "updated_at": "2026-01-01T05:07:04Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -3240,7 +3240,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.6.4",
-    "updated_at": "2026-01-01T02:49:29Z"
+    "updated_at": "2026-01-01T05:26:19Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -7527,9 +7527,9 @@
       "pixiv"
     ],
     "social_link": "https://github.com/vmoranv-reborn",
-    "stars": 1,
+    "stars": 2,
     "version": "1.4.3",
-    "updated_at": "2025-12-17T05:03:39Z",
+    "updated_at": "2026-01-01T05:20:07Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -9384,8 +9384,8 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
     "stars": 37,
-    "version": "v1.4.18",
-    "updated_at": "2025-12-25T08:04:22Z",
+    "version": "v1.4.19",
+    "updated_at": "2026-01-01T05:24:15Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
