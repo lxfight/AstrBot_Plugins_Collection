@@ -9055,9 +9055,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 89,
+    "stars": 90,
     "version": "v2.1.7",
-    "updated_at": "2025-12-27T20:54:07Z"
+    "updated_at": "2026-01-01T04:47:29Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
