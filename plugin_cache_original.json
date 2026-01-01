@@ -1138,9 +1138,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 16,
+    "stars": 17,
     "version": "v1.2.3",
-    "updated_at": "2026-01-01T00:49:01Z",
+    "updated_at": "2026-01-01T08:55:24Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -7182,8 +7182,8 @@
     ],
     "repo": "https://github.com/zhewang448/astrbot_plugin_mrfz",
     "stars": 5,
-    "version": "v3.4.0",
-    "updated_at": "2025-12-19T20:15:48Z",
+    "version": "v3.4.1",
+    "updated_at": "2026-01-01T09:14:58Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_mrfz/main/logo.png"
   },
   "astrbot_plugin_napdog_cleaner": {
@@ -9201,9 +9201,9 @@
       "webui",
       "图床"
     ],
-    "stars": 113,
+    "stars": 114,
     "version": "v3.19",
-    "updated_at": "2025-12-31T16:47:31Z"
+    "updated_at": "2026-01-01T08:54:46Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
