@@ -2126,8 +2126,8 @@
       "推特"
     ],
     "stars": 11,
-    "version": "v4.1.0",
-    "updated_at": "2025-12-30T14:25:39Z",
+    "version": "v4.2.0",
+    "updated_at": "2026-01-02T16:02:40Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
@@ -4081,7 +4081,7 @@
     ],
     "stars": 3,
     "version": "v1.1",
-    "updated_at": "2025-12-28T03:32:23Z",
+    "updated_at": "2026-01-02T16:02:30Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_anti_revoke/master/logo.png"
   },
   "input_state_by_napcat": {
@@ -4828,8 +4828,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 29,
-    "version": "v2.0.2",
-    "updated_at": "2026-01-02T12:49:13Z",
+    "version": "v2.0.3",
+    "updated_at": "2026-01-02T16:33:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -9201,9 +9201,9 @@
       "webui",
       "图床"
     ],
-    "stars": 114,
+    "stars": 113,
     "version": "v3.19",
-    "updated_at": "2026-01-01T08:54:46Z"
+    "updated_at": "2026-01-02T15:46:56Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
