@@ -375,9 +375,9 @@
     "author": "梦千秋",
     "repo": "https://github.com/WangYi82909/astrbot_plugin_yotts",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2025-12-19T21:05:41Z",
+    "updated_at": "2026-01-02T17:24:32Z",
     "logo": "https://raw.githubusercontent.com/WangYi82909/astrbot_plugin_yotts/main/logo.png"
   },
   "astrbot_plugin_better_reminder": {
@@ -2157,9 +2157,9 @@
     "author": "miao",
     "repo": "https://github.com/libin99527/astrbot_plugin_werewolf",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v3.0.1",
-    "updated_at": "2025-12-15T13:28:53Z",
+    "updated_at": "2026-01-02T17:38:59Z",
     "logo": "https://raw.githubusercontent.com/libin99527/astrbot_plugin_werewolf/main/logo.png"
   },
   "astrbot_plugin_media_parser": {
@@ -2281,9 +2281,9 @@
       "视频生成"
     ],
     "social_link": "https://www.functen.cn/",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2025-12-09T12:46:05Z"
+    "updated_at": "2026-01-02T17:39:58Z"
   },
   "astrbot_plugin_http_adapter": {
     "display_name": "HTTP 消息设配器",
@@ -4369,8 +4369,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 106,
-    "version": "v4.5.2",
-    "updated_at": "2026-01-02T17:24:55Z",
+    "version": "v4.5.3",
+    "updated_at": "2026-01-02T17:34:13Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -8158,9 +8158,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 78,
+    "stars": 79,
     "version": "v3.2.7",
-    "updated_at": "2026-01-02T08:57:15Z",
+    "updated_at": "2026-01-02T18:17:47Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -9151,8 +9151,8 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "stars": 90,
-    "version": "v2.1.7",
-    "updated_at": "2026-01-01T04:47:29Z"
+    "version": "v2.1.8",
+    "updated_at": "2026-01-02T18:32:20Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -9894,8 +9894,8 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_pock",
     "tags": [],
     "stars": 6,
-    "version": "v2.0.0",
-    "updated_at": "2025-12-27T20:53:53Z"
+    "version": "v2.1.0",
+    "updated_at": "2026-01-02T18:46:26Z"
   },
   "astrbot_plugin_astrbot_plugin_repetition": {
     "desc": "用于AstrBot的复读机插件",
