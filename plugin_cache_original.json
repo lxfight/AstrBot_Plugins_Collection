@@ -38,9 +38,9 @@
       "每日推送"
     ],
     "social_link": "https://github.com/Huahuatgc",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-01-02T01:35:59Z"
+    "updated_at": "2026-01-02T06:28:31Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
@@ -212,9 +212,9 @@
       "青龙"
     ],
     "social_link": "https://space.bilibili.com/1057790493",
-    "stars": 1,
+    "stars": 2,
     "version": "v0.1.14514",
-    "updated_at": "2025-12-16T00:59:10Z"
+    "updated_at": "2026-01-02T06:03:07Z"
   },
   "astrbot_plugin_van": {
     "display_name": "Van幻鸢词库",
@@ -405,8 +405,8 @@
     ],
     "social_link": "https://github.com/Dayanshifu/",
     "stars": 1,
-    "version": "v1.1.0",
-    "updated_at": "2026-01-02T04:54:54Z",
+    "version": "v1.1.1",
+    "updated_at": "2026-01-02T06:31:31Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_bilibili_livemonitor/main/logo.png"
   },
   "astrbot_plugin_hangout": {
@@ -494,7 +494,7 @@
     "social_link": "https://github.com/MegSopern",
     "stars": 7,
     "version": "1.2.0",
-    "updated_at": "2026-01-01T11:43:50Z",
+    "updated_at": "2026-01-02T06:07:51Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_portrayal_core": {
@@ -973,7 +973,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 34,
     "version": "v1.1.2",
-    "updated_at": "2026-01-01T10:27:48Z",
+    "updated_at": "2026-01-02T05:55:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -4266,8 +4266,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 5,
-    "version": "v1.0.3",
-    "updated_at": "2025-12-26T05:15:33Z",
+    "version": "v1.0.4",
+    "updated_at": "2026-01-02T06:07:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_multimsg/main/logo.png"
   },
   "astrbot_plugin_keywordsreply": {
@@ -8711,9 +8711,9 @@
     "tags": [
       "实用工具"
     ],
-    "stars": 25,
+    "stars": 26,
     "version": "v2.2.3",
-    "updated_at": "2026-01-01T08:09:08Z",
+    "updated_at": "2026-01-02T06:10:21Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_relationship/main/logo.png"
   },
   "astrbot_plugin_pokecheck": {
