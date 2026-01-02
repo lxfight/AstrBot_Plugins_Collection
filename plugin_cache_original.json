@@ -406,7 +406,7 @@
     "social_link": "https://github.com/Dayanshifu/",
     "stars": 1,
     "version": "v1.1.0",
-    "updated_at": "2026-01-02T04:17:34Z",
+    "updated_at": "2026-01-02T04:54:54Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_bilibili_livemonitor/main/logo.png"
   },
   "astrbot_plugin_hangout": {
@@ -605,9 +605,9 @@
       "主动应答",
       "群聊优化"
     ],
-    "stars": 22,
+    "stars": 23,
     "version": "0.8.6",
-    "updated_at": "2026-01-01T05:07:04Z"
+    "updated_at": "2026-01-02T04:54:11Z"
   },
   "astrbot_plugin_angel_eye": {
     "display_name": "天使之眼",
@@ -1481,7 +1481,7 @@
     ],
     "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2025-12-17T03:52:44Z",
+    "updated_at": "2026-01-02T05:17:48Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_video_analysis/master/logo.png"
   },
   "astrbot_plugin_image_generation": {
@@ -2807,9 +2807,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 59,
+    "stars": 60,
     "version": "v1.1.0",
-    "updated_at": "2025-12-31T14:20:20Z",
+    "updated_at": "2026-01-02T05:02:59Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -4750,9 +4750,9 @@
       "表情包"
     ],
     "social_link": "https://github.com/SodaSizzle",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.0.0",
-    "updated_at": "2025-12-20T06:46:09Z"
+    "updated_at": "2026-01-02T05:01:27Z"
   },
   "astrbot_plugin_self_learning": {
     "desc": "智能自学习对话插件 - 通过实时消息捕获、多维度数据分析、渐进式学习机制和动态人格更新以及社交关系网络，使聊天机器人能够模仿特定用户的对话，实现更自然、个性化的交互",
