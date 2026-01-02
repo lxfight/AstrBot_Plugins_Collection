@@ -1,4 +1,30 @@
 {
+  "astrbot_plugin_help_typst": {
+    "display_name": "插件菜单(typst 实现)",
+    "desc": "基于 typst 实现的 AstrBot 插件菜单渲染，把插件菜单、事件钩子、函数工具、过滤器列表渲染成友好界面，支持指令组、搜索高亮等",
+    "author": "bylkuse",
+    "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
+    "tags": [],
+    "stars": 1,
+    "version": "v0.0.1",
+    "updated_at": "2026-01-02T14:30:20Z",
+    "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
+  },
+  "astrbot_plugin_lb_provider": {
+    "display_name": "LLM 模型Provider 负载均衡插件",
+    "desc": "动态负载均衡Provider插件，支持多种负载均衡策略和动态配置",
+    "author": "fluidcat",
+    "repo": "https://github.com/fluidcat/astrbot_plugin_lb_provider",
+    "tags": [
+      "LLM模型",
+      "负载均衡",
+      "故障转移"
+    ],
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2025-12-26T15:26:12Z",
+    "logo": "https://raw.githubusercontent.com/fluidcat/astrbot_plugin_lb_provider/master/logo.png"
+  },
   "astrbot_plugin_steam_status": {
     "display_name": "Steam 服务状态监控",
     "desc": "一个用于 AstrBot 的 Steam 服务状态监控插件。支持手动指令查询和后台自动监控推送。",
@@ -90,6 +116,32 @@
     "stars": 2,
     "version": "v1.0.0",
     "updated_at": "2026-01-01T06:11:06Z"
+  },
+  "astrbot_plugin_queue_system": {
+    "display_name": "排队系统",
+    "desc": "一个功能完整的排队系统插件，支持加入队列、退出队列等功能",
+    "author": "mogudunxy",
+    "repo": "https://github.com/mogudunxy/astrbot_plugin_queue_system",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.2.0",
+    "updated_at": "2025-12-28T12:57:57Z",
+    "logo": "https://raw.githubusercontent.com/mogudunxy/astrbot_plugin_queue_system/main/logo.png"
+  },
+  "astrbot_plugin_shell_exec": {
+    "display_name": "Shell 执行插件",
+    "desc": "一个用于执行 shell 命令的 AstrBot 插件。",
+    "author": "Harmoon",
+    "repo": "https://github.com/h4rm00n/astrbot_plugin_shell_exec",
+    "tags": [
+      "shell",
+      "tool",
+      "danger"
+    ],
+    "social_link": "https://github.com/h4rm00n",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2025-12-23T08:39:43Z"
   },
   "astrbot_plugin_extract": {
     "display_name": "元数据解析",
@@ -477,7 +529,7 @@
     "social_link": "https://github.com/jengaklll-a11y",
     "stars": 1,
     "version": "v1.0.5",
-    "updated_at": "2026-01-02T15:12:15Z",
+    "updated_at": "2026-01-02T16:33:06Z",
     "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_gitee_zimg/main/logo.png"
   },
   "astrbot_plugin_rollpig": {
@@ -522,8 +574,8 @@
       "vertex_ai"
     ],
     "stars": 8,
-    "version": "v0.1.5",
-    "updated_at": "2026-01-02T15:21:44Z",
+    "version": "v0.1.6",
+    "updated_at": "2026-01-02T16:59:37Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -4317,8 +4369,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 106,
-    "version": "v4.5.1",
-    "updated_at": "2026-01-02T07:16:23Z",
+    "version": "v4.5.2",
+    "updated_at": "2026-01-02T17:24:55Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -4572,9 +4624,9 @@
     "tags": [
       "股市"
     ],
-    "stars": 9,
+    "stars": 10,
     "version": "v1.0.3",
-    "updated_at": "2025-11-07T11:57:42Z"
+    "updated_at": "2026-01-02T16:52:52Z"
   },
   "astrbot_plugin_figurine_workshop": {
     "desc": "基于gemini生图的手办化,不再需要本地部署。",
@@ -6551,8 +6603,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 85,
-    "version": "v1.0.3",
-    "updated_at": "2025-12-31T07:18:09Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-01-02T16:42:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -6828,9 +6880,9 @@
     "tags": [
       "股市"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "v1.2.2",
-    "updated_at": "2025-10-06T05:13:42Z"
+    "updated_at": "2026-01-02T16:54:13Z"
   },
   "astrbot_plugin_kfc_thursday": {
     "author": "和泉智宏",
