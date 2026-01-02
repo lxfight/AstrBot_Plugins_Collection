@@ -492,9 +492,9 @@
       "小游戏"
     ],
     "social_link": "https://github.com/MegSopern",
-    "stars": 7,
+    "stars": 8,
     "version": "1.2.0",
-    "updated_at": "2026-01-02T06:07:51Z",
+    "updated_at": "2026-01-02T07:40:25Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_portrayal_core": {
@@ -1061,7 +1061,7 @@
     "social_link": "https://github.com/Xbodwf",
     "stars": 2,
     "version": "1.5.0",
-    "updated_at": "2025-12-15T16:20:08Z",
+    "updated_at": "2026-01-02T07:51:28Z",
     "logo": "https://raw.githubusercontent.com/Xbodwf/astrbot_plugin_code_renderer/master/logo.png"
   },
   "astrbot_plugin_life_scheduler": {
@@ -1261,8 +1261,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 7,
-    "version": "v0.3.9",
-    "updated_at": "2026-01-01T10:06:19Z",
+    "version": "v0.4.0",
+    "updated_at": "2026-01-02T08:11:29Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -1976,9 +1976,9 @@
       "Minecraft"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 2,
+    "stars": 3,
     "version": "1.2.0",
-    "updated_at": "2025-12-20T06:40:28Z",
+    "updated_at": "2026-01-02T08:12:28Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_minecraft_monitor": {
@@ -4718,9 +4718,9 @@
       "MiBand"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 6,
+    "stars": 5,
     "version": "v1.0.3",
-    "updated_at": "2025-12-30T07:43:19Z",
+    "updated_at": "2026-01-02T08:16:40Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_Xiaomi_BandProMax/main/logo.png"
   },
   "astrbot_plugin_immersive_control": {
@@ -4729,9 +4729,9 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_immersive_control",
     "social_link": "https://github.com/muyouzhi6",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
-    "updated_at": "2025-11-30T09:27:11Z"
+    "updated_at": "2026-01-02T08:32:30Z"
   },
   "astrbot_plugin_provider_ark_ResponsesAPI": {
     "desc": "将火山方舟(Volcengine Ark)的上下文缓存API(Responses API)注册为 AstrBot 的对话服务提供商(Provider)(支持/provider、缓存命中统计、Function Calling)",
@@ -6645,8 +6645,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 7,
-    "version": "v1.0.2",
-    "updated_at": "2025-12-27T18:00:32Z",
+    "version": "v1.0.3",
+    "updated_at": "2026-01-02T07:43:24Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_deepwiki/main/logo.png"
   },
   "astrbot_plugin_delete_and_block_filter": {
