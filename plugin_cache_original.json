@@ -4303,9 +4303,9 @@
       "OneBot"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.2.0",
-    "updated_at": "2025-12-29T16:01:04Z",
+    "updated_at": "2026-01-02T20:10:49Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_recall_cancel/main/logo.png"
   },
   "astrbot_plugin_multimsg": {
@@ -4635,8 +4635,8 @@
     "tags": "娱乐",
     "social_link": "astrbot.uk",
     "stars": 14,
-    "version": "v1.4.1",
-    "updated_at": "2025-12-21T17:55:18Z"
+    "version": "v1.5.1",
+    "updated_at": "2026-01-02T19:30:20Z"
   },
   "should_I_respond": {
     "desc": "“我要回复这条消息吗？”当打开主动回复时，LLM 可能傻傻的就部分上下文一直回复。这个插件没准能解决这个问题。（在 aiocqhttp 平台测试，需要搭配主动回复功能使用）",
