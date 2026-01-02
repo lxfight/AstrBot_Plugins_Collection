@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_help_typst": {
+    "display_name": "插件菜单(typst 实现)",
+    "desc": "基于 typst 实现的 AstrBot 插件菜单渲染，把插件菜单、事件钩子、函数工具、过滤器列表渲染成友好界面，支持指令组、搜索高亮等",
+    "author": "bylkuse",
+    "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst"
+  },
+  "astrbot_plugin_lb_provider": {
+    "display_name": "LLM 模型Provider 负载均衡插件",
+    "desc": "动态负载均衡Provider插件，支持多种负载均衡策略和动态配置",
+    "author": "fluidcat",
+    "repo": "https://github.com/fluidcat/astrbot_plugin_lb_provider",
+    "tags": [
+      "LLM模型",
+      "负载均衡",
+      "故障转移"
+    ]
+  },
   "astrbot_plugin_steam_status": {
     "display_name": "Steam 服务状态监控",
     "desc": "一个用于 AstrBot 的 Steam 服务状态监控插件。支持手动指令查询和后台自动监控推送。",
@@ -65,6 +82,20 @@
       "明日方舟"
     ],
     "social_link": "https://github.com/Hakuin123"
+  },
+  "astrbot_plugin_queue_system": {
+    "display_name": "排队系统",
+    "desc": "一个功能完整的排队系统插件，支持加入队列、退出队列等功能",
+    "author": "mogudunxy",
+    "repo": "https://github.com/mogudunxy/astrbot_plugin_queue_system"
+  },
+  "astrbot_plugin_shell_exec": {
+    "display_name": "Shell 执行插件",
+    "desc": "一个用于执行 shell 命令的 AstrBot 插件。",
+    "author": "Harmoon",
+    "repo": "https://github.com/h4rm00n/astrbot_plugin_shell_exec",
+    "tags": ["shell", "tool", "danger"],
+    "social_link": "https://github.com/h4rm00n"
   },
   "astrbot_plugin_extract": {
     "display_name": "元数据解析",
