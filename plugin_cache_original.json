@@ -53,8 +53,8 @@
     ],
     "social_link": "https://github.com/stevessr",
     "stars": 3,
-    "version": "0.1.0",
-    "updated_at": "2026-01-01T08:10:30Z",
+    "version": "0.2.0",
+    "updated_at": "2026-01-02T09:00:14Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_llm_executor": {
@@ -8106,9 +8106,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 77,
+    "stars": 78,
     "version": "v3.2.7",
-    "updated_at": "2025-12-31T07:18:09Z",
+    "updated_at": "2026-01-02T08:57:15Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
