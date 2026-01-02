@@ -38,9 +38,9 @@
       "每日推送"
     ],
     "social_link": "https://github.com/Huahuatgc",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-01-01T06:52:12Z"
+    "updated_at": "2026-01-02T01:35:59Z"
   },
   "astrbot_plugin_matrix_adapter": {
     "display_name": "Matrix 协议适配器",
