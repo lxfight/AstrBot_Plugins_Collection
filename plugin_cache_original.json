@@ -2549,8 +2549,8 @@
       "发言统计"
     ],
     "stars": 10,
-    "version": "1.7.4",
-    "updated_at": "2026-01-02T12:21:32Z",
+    "version": "1.7.5",
+    "updated_at": "2026-01-02T13:36:31Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_message_stats/main/logo.png"
   },
   "astrbot_plugin_prompt": {
