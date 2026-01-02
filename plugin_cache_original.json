@@ -405,8 +405,8 @@
     ],
     "social_link": "https://github.com/Dayanshifu/",
     "stars": 1,
-    "version": "v1.0.1",
-    "updated_at": "2025-12-29T16:19:13Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-01-02T04:17:34Z",
     "logo": "https://raw.githubusercontent.com/Dayanshifu/astrbot_plugin_bilibili_livemonitor/main/logo.png"
   },
   "astrbot_plugin_hangout": {
@@ -9814,9 +9814,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 157,
+    "stars": 158,
     "version": "v2.0.11",
-    "updated_at": "2025-12-31T19:23:05Z"
+    "updated_at": "2026-01-02T05:01:56Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
