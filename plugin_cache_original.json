@@ -2844,9 +2844,9 @@
     "author": "RC-CHN",
     "repo": "https://github.com/RC-CHN/astrbot_plugin_ragflow_adapter",
     "tags": [],
-    "stars": 8,
+    "stars": 9,
     "version": "v0.3",
-    "updated_at": "2025-11-27T04:31:13Z"
+    "updated_at": "2026-01-03T06:23:40Z"
   },
   "astrbot_plugin_proactive_chat": {
     "display_name": "主动消息 (Proactive Chat)",
@@ -4368,9 +4368,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 107,
+    "stars": 108,
     "version": "v4.5.3",
-    "updated_at": "2026-01-02T23:11:10Z",
+    "updated_at": "2026-01-03T06:28:13Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -6869,9 +6869,9 @@
       "embedding"
     ],
     "social_link": "https://github.com/TheAnyan",
-    "stars": 12,
+    "stars": 11,
     "version": "v1.1.0",
-    "updated_at": "2025-11-30T12:21:59Z"
+    "updated_at": "2026-01-03T05:32:21Z"
   },
   "astrbot_plugin_stock": {
     "author": "anchor",
