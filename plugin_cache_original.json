@@ -79,8 +79,8 @@
     ],
     "social_link": "https://github.com/stevessr",
     "stars": 3,
-    "version": "0.2.2",
-    "updated_at": "2026-01-03T12:14:59Z",
+    "version": "0.2.3",
+    "updated_at": "2026-01-03T13:34:31Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_llm_executor": {
