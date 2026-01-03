@@ -79,8 +79,8 @@
     ],
     "social_link": "https://github.com/stevessr",
     "stars": 3,
-    "version": "0.2.1",
-    "updated_at": "2026-01-03T07:59:07Z",
+    "version": "0.2.2",
+    "updated_at": "2026-01-03T12:14:59Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_llm_executor": {
@@ -351,7 +351,7 @@
     "tags": [],
     "stars": 2,
     "version": "1.0.1",
-    "updated_at": "2026-01-03T10:28:08Z",
+    "updated_at": "2026-01-03T11:39:56Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_web_search": {
@@ -529,7 +529,7 @@
     "social_link": "https://github.com/jengaklll-a11y",
     "stars": 1,
     "version": "v1.0.5",
-    "updated_at": "2026-01-02T16:33:06Z",
+    "updated_at": "2026-01-03T12:20:24Z",
     "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_gitee_zimg/main/logo.png"
   },
   "astrbot_plugin_rollpig": {
@@ -561,7 +561,7 @@
     "social_link": "https://github.com/jengaklll-a11y",
     "stars": 1,
     "version": "v1.1.1",
-    "updated_at": "2026-01-02T15:23:23Z",
+    "updated_at": "2026-01-03T12:22:26Z",
     "logo": "https://raw.githubusercontent.com/jengaklll-a11y/astrbot_plugin_portrayal_core/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -965,9 +965,9 @@
     "tags": [
       "memory"
     ],
-    "stars": 12,
+    "stars": 13,
     "version": "v1.6.0",
-    "updated_at": "2026-01-03T01:41:42Z"
+    "updated_at": "2026-01-03T11:39:55Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
@@ -7201,9 +7201,9 @@
       "我的世界"
     ],
     "social_link": "https://github.com/QiChenSn",
-    "stars": 8,
+    "stars": 9,
     "version": "v1.5.1",
-    "updated_at": "2025-12-15T12:49:18Z"
+    "updated_at": "2026-01-03T11:43:06Z"
   },
   "astrbot_plugin_yinlish": {
     "author": "vmoranv",
@@ -7293,9 +7293,9 @@
     "desc": "[仅 aiocqhttp] 基于 zgojin 的群二次元老婆插件修改版。",
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.6.4",
-    "updated_at": "2025-12-29T01:46:47Z",
+    "updated_at": "2026-01-03T12:37:16Z",
     "logo": "https://raw.githubusercontent.com/monbed/astrbot_plugin_animewifex/master/logo.png"
   },
   "astrbot_plugin_emojimix": {
