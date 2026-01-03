@@ -3335,7 +3335,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.6.5",
-    "updated_at": "2026-01-01T05:45:44Z"
+    "updated_at": "2026-01-03T03:19:49Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -5526,8 +5526,8 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "stars": 14,
-    "version": "v1.1.4",
-    "updated_at": "2025-11-23T09:22:27Z",
+    "version": "v1.1.5",
+    "updated_at": "2026-01-03T02:43:37Z",
     "logo": "https://raw.githubusercontent.com/zhewang448/astrbot_plugin_SteamSaleTracker/main/logo.png"
   },
   "astrbot_plugin_Heartflow": {
