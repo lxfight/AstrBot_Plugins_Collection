@@ -3334,8 +3334,8 @@
     "repo": "https://github.com/BGYdook/AstrBot-plugin-tmp-bot",
     "tags": [],
     "stars": 3,
-    "version": "1.6.5",
-    "updated_at": "2026-01-03T03:40:52Z"
+    "version": "1.6.6",
+    "updated_at": "2026-01-03T05:24:07Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -9866,9 +9866,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 158,
+    "stars": 157,
     "version": "v2.0.11",
-    "updated_at": "2026-01-02T05:01:56Z"
+    "updated_at": "2026-01-03T05:32:22Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
