@@ -49,8 +49,8 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2025-12-30T14:22:34Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-01-03T11:13:53Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -250,9 +250,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 13,
+    "stars": 14,
     "version": "v1.1",
-    "updated_at": "2025-12-29T03:58:53Z"
+    "updated_at": "2026-01-03T11:03:24Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -351,7 +351,7 @@
     "tags": [],
     "stars": 2,
     "version": "1.0.1",
-    "updated_at": "2026-01-03T10:11:45Z",
+    "updated_at": "2026-01-03T10:28:08Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_web_search": {
@@ -2859,9 +2859,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 61,
+    "stars": 62,
     "version": "v1.1.0",
-    "updated_at": "2026-01-03T08:13:29Z",
+    "updated_at": "2026-01-03T11:14:27Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -9479,8 +9479,8 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
     "stars": 37,
-    "version": "v1.4.19",
-    "updated_at": "2026-01-01T05:24:15Z",
+    "version": "v1.5.0",
+    "updated_at": "2026-01-03T10:45:44Z",
     "logo": "https://raw.githubusercontent.com/Soulter/astrbot_plugin_bilibili/master/logo.png"
   },
   "astrbot_plugin_leetcode": {
