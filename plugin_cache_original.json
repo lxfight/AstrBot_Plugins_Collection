@@ -250,9 +250,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 15,
+    "stars": 16,
     "version": "v1.1",
-    "updated_at": "2026-01-03T14:43:43Z"
+    "updated_at": "2026-01-03T16:42:29Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -643,9 +643,9 @@
       "学习",
       "人格"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "0.9.99",
-    "updated_at": "2025-12-31T17:30:25Z"
+    "updated_at": "2026-01-03T17:01:49Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -6603,8 +6603,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 86,
-    "version": "v2.0.0",
-    "updated_at": "2026-01-03T15:12:19Z",
+    "version": "v2.0.1",
+    "updated_at": "2026-01-03T17:12:25Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
