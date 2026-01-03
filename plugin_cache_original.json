@@ -965,9 +965,9 @@
     "tags": [
       "memory"
     ],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.6.0",
-    "updated_at": "2025-12-22T17:01:13Z"
+    "updated_at": "2026-01-03T01:41:42Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
@@ -6602,9 +6602,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 85,
+    "stars": 86,
     "version": "v1.1.0",
-    "updated_at": "2026-01-02T16:42:15Z",
+    "updated_at": "2026-01-03T01:08:53Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
