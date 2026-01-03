@@ -351,7 +351,7 @@
     "tags": [],
     "stars": 2,
     "version": "1.0.1",
-    "updated_at": "2026-01-03T08:54:16Z",
+    "updated_at": "2026-01-03T10:11:45Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_web_search": {
@@ -4368,9 +4368,9 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 108,
+    "stars": 109,
     "version": "v4.5.3",
-    "updated_at": "2026-01-03T06:28:13Z",
+    "updated_at": "2026-01-03T10:25:18Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot-qq-group-daily-analysis/main/logo.png"
   },
   "astrbot_plugin_boss_notifier": {
@@ -7934,7 +7934,7 @@
     "social_link": "https://docs.sayu-bot.com/",
     "stars": 25,
     "version": "v0.4.3",
-    "updated_at": "2025-12-20T12:11:35Z"
+    "updated_at": "2026-01-03T09:43:38Z"
   },
   "astrbot_plugin_xyzw": {
     "author": "四郎",
@@ -9696,8 +9696,8 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_anti_porn",
     "tags": [],
     "stars": 7,
-    "version": "v1.0.5",
-    "updated_at": "2025-12-04T00:57:06Z"
+    "version": "v1.0.6",
+    "updated_at": "2026-01-03T09:52:10Z"
   },
   "FateTrial_zhipu_video": {
     "desc": "智谱AI视频生成插件",
