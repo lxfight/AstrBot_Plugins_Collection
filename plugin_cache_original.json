@@ -350,8 +350,8 @@
     "repo": "https://github.com/204343414/astrbot_plugin_yt-dlp",
     "tags": [],
     "stars": 2,
-    "version": "1.0.0",
-    "updated_at": "2026-01-03T07:03:25Z",
+    "version": "1.0.1",
+    "updated_at": "2026-01-03T08:54:16Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_web_search": {
@@ -573,9 +573,9 @@
       "nano_banana",
       "vertex_ai"
     ],
-    "stars": 8,
+    "stars": 9,
     "version": "v0.1.6",
-    "updated_at": "2026-01-02T16:59:37Z",
+    "updated_at": "2026-01-03T09:18:26Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -1681,8 +1681,8 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 16,
-    "version": "v1.7.9",
-    "updated_at": "2025-12-30T09:22:51Z",
+    "version": "v1.8.0",
+    "updated_at": "2026-01-03T09:00:43Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_gemini_image_generation/master/logo.png"
   },
   "astrbot_plugin_genshinimpact": {
@@ -2179,7 +2179,7 @@
     ],
     "stars": 11,
     "version": "v4.2.0",
-    "updated_at": "2026-01-02T16:02:40Z",
+    "updated_at": "2026-01-03T08:44:22Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_media_parser/main/logo.png"
   },
   "astrbot_plugin_decision": {
