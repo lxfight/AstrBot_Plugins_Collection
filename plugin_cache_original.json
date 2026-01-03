@@ -90,8 +90,8 @@
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_llm_executor",
     "tags": [],
     "stars": 4,
-    "version": "1.0.0",
-    "updated_at": "2025-12-31T12:19:28Z"
+    "version": "1.1.0",
+    "updated_at": "2026-01-03T15:37:16Z"
   },
   "astrbot_plugin_command_query": {
     "display_name": "指令查询工具",
@@ -8713,9 +8713,9 @@
     "author": "Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_custom_menu",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v2.0.1",
-    "updated_at": "2025-10-24T08:53:16Z"
+    "updated_at": "2026-01-03T16:43:40Z"
   },
   "astrbot_plugin_Lolicon": {
     "author": "hello七七",
@@ -9866,9 +9866,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 157,
+    "stars": 158,
     "version": "v2.0.11",
-    "updated_at": "2026-01-03T05:32:22Z"
+    "updated_at": "2026-01-03T16:37:47Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
