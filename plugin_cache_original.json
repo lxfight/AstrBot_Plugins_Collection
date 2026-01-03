@@ -351,7 +351,7 @@
     "tags": [],
     "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2025-12-27T12:00:50Z",
+    "updated_at": "2026-01-03T07:03:25Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_web_search": {
@@ -406,9 +406,9 @@
       "千问"
     ],
     "social_link": "https://github.com/Clhikari",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.2",
-    "updated_at": "2025-12-27T10:35:33Z"
+    "updated_at": "2026-01-03T06:51:46Z"
   },
   "astrbot_plugin_chat4severals": {
     "display_name": "优化私聊体验，不再说一句回一句",
@@ -2887,9 +2887,9 @@
       "TTS",
       "日语"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.1",
-    "updated_at": "2025-11-04T14:41:59Z"
+    "updated_at": "2026-01-03T07:11:20Z"
   },
   "astrbot_plugin_jimengapi": {
     "display_name": "即梦 API",
