@@ -3335,7 +3335,7 @@
     "tags": [],
     "stars": 3,
     "version": "1.6.5",
-    "updated_at": "2026-01-03T03:19:49Z"
+    "updated_at": "2026-01-03T03:40:52Z"
   },
   "astrbot_plugin_33recognition": {
     "desc": "调用大模型检测图片中关键词",
@@ -7916,9 +7916,9 @@
     "tags": [
       "jm"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "v2.4",
-    "updated_at": "2025-12-28T11:23:58Z"
+    "updated_at": "2026-01-03T03:46:28Z"
   },
   "astrbot_plugin_gscore_adapter": {
     "author": "KimigaiiWuyi",
@@ -8023,9 +8023,9 @@
     "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.0.9",
-    "updated_at": "2025-12-17T13:47:29Z",
+    "updated_at": "2026-01-03T03:49:20Z",
     "logo": "https://raw.githubusercontent.com/Futureppo/astrbot_plugin_zanwo/master/logo.png"
   },
   "astrbot_plugin_ehentai_bot": {
@@ -9562,7 +9562,7 @@
     "tags": [],
     "stars": 5,
     "version": "v1.1.0",
-    "updated_at": "2025-05-18T07:42:33Z"
+    "updated_at": "2026-01-03T03:46:25Z"
   },
   "astrbot_plugin_buckshot_roulette": {
     "desc": "一个好玩的简单恶魔轮盘",
