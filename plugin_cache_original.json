@@ -80,7 +80,7 @@
     "social_link": "https://github.com/stevessr",
     "stars": 3,
     "version": "0.2.1",
-    "updated_at": "2026-01-02T10:48:07Z",
+    "updated_at": "2026-01-03T07:59:07Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_llm_executor": {
@@ -2028,9 +2028,9 @@
       "Minecraft"
     ],
     "social_link": "https://www.misakanet.site",
-    "stars": 3,
+    "stars": 4,
     "version": "1.2.0",
-    "updated_at": "2026-01-02T08:12:28Z",
+    "updated_at": "2026-01-03T07:55:01Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_minecraft_monitor": {
@@ -2859,9 +2859,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 60,
+    "stars": 61,
     "version": "v1.1.0",
-    "updated_at": "2026-01-02T05:02:59Z",
+    "updated_at": "2026-01-03T08:13:29Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
