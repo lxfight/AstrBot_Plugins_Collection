@@ -5,9 +5,9 @@
     "author": "bylkuse",
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.0.1",
-    "updated_at": "2026-01-02T14:30:20Z",
+    "updated_at": "2026-01-04T10:47:08Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -7148,8 +7148,8 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 74,
-    "version": "v2.6.1",
-    "updated_at": "2025-12-31T21:53:52Z",
+    "version": "v2.6.2",
+    "updated_at": "2026-01-04T11:18:58Z",
     "logo": "https://raw.githubusercontent.com/GEMILUXVII/astrbot_plugin_jm_cosmos/main/logo.png"
   },
   "astrbot_plugin_combine-messages": {
@@ -8236,9 +8236,9 @@
     "author": "lm379",
     "repo": "https://github.com/lm379/astrbot_plugin_quarksave",
     "tags": [],
-    "stars": 11,
+    "stars": 12,
     "version": "v1.0.4",
-    "updated_at": "2025-12-30T03:37:38Z"
+    "updated_at": "2026-01-04T11:17:15Z"
   },
   "astrbot_plugins_ConvetPicture": {
     "desc": "[仅aiocqhttp]把QQ里面不可保存的表情转化为可以保存的图片，包括GIF",
