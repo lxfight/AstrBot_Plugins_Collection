@@ -644,8 +644,8 @@
       "人格"
     ],
     "stars": 14,
-    "version": "0.9.99",
-    "updated_at": "2026-01-03T17:01:49Z"
+    "version": "0.99.99",
+    "updated_at": "2026-01-04T08:39:49Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -1314,7 +1314,7 @@
     "tags": [],
     "stars": 8,
     "version": "v0.4.0",
-    "updated_at": "2026-01-02T22:58:31Z",
+    "updated_at": "2026-01-04T08:32:54Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -2694,8 +2694,8 @@
     "repo": "https://github.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools",
     "tags": [],
     "stars": 11,
-    "version": "V1.1.3",
-    "updated_at": "2026-01-04T05:55:47Z",
+    "version": "V1.2.0",
+    "updated_at": "2026-01-04T09:18:21Z",
     "logo": "https://raw.githubusercontent.com/SatenShiroya/astrbot_plugin_llm_qqgroupTools/master/logo.png"
   },
   "astrbot_plugin_cs_skins": {
@@ -6016,8 +6016,8 @@
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
     "stars": 33,
-    "version": "v2.7.7",
-    "updated_at": "2025-12-25T11:20:16Z",
+    "version": "v2.7.8",
+    "updated_at": "2026-01-04T09:03:29Z",
     "logo": "https://raw.githubusercontent.com/sa1guu/astrbot_plugin_touchi/master/logo.png"
   },
   "astrbot_plugin_Astrsupermarket": {
@@ -8419,8 +8419,8 @@
       "游戏"
     ],
     "stars": 4,
-    "version": "v1.3.2",
-    "updated_at": "2026-01-04T06:58:15Z"
+    "version": "v1.3.3",
+    "updated_at": "2026-01-04T09:30:11Z"
   },
   "astrbot_plugin_weather_wttr_in": {
     "desc": "使用 wttr.in 查询天气（llm工具）",
