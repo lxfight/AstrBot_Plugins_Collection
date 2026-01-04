@@ -49,8 +49,8 @@
     ],
     "social_link": "https://github.com/Clhikari",
     "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-01-04T06:23:39Z",
+    "version": "v1.1.0",
+    "updated_at": "2026-01-04T07:13:27Z",
     "logo": "https://raw.githubusercontent.com/Clhikari/astrbot_plugin_office_assistant/master/logo.png"
   },
   "astrbot_plugin_zhenxunribao": {
@@ -827,9 +827,9 @@
       "绘图",
       "大香蕉"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "1.2.0",
-    "updated_at": "2026-01-01T10:54:10Z",
+    "updated_at": "2026-01-04T06:58:50Z",
     "logo": "https://raw.githubusercontent.com/wangyingxuan383-ai/astrbot_plugin_ronghedraw/main/logo.png"
   },
   "astrbot_plugin_model_router": {
@@ -1651,7 +1651,7 @@
     ],
     "stars": 1,
     "version": "v1.1.3",
-    "updated_at": "2026-01-04T04:01:34Z",
+    "updated_at": "2026-01-04T07:12:44Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_openlistfile/master/logo.png"
   },
   "astrbot_plugin_gemini_image": {
@@ -6604,7 +6604,7 @@
     "social_link": "https://github.com/Zhalslar",
     "stars": 86,
     "version": "v2.0.4",
-    "updated_at": "2026-01-04T06:44:08Z",
+    "updated_at": "2026-01-04T07:21:40Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -8419,8 +8419,8 @@
       "游戏"
     ],
     "stars": 4,
-    "version": "v1.3.1",
-    "updated_at": "2025-12-11T02:25:36Z"
+    "version": "v1.3.2",
+    "updated_at": "2026-01-04T06:58:15Z"
   },
   "astrbot_plugin_weather_wttr_in": {
     "desc": "使用 wttr.in 查询天气（llm工具）",
